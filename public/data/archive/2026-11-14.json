@@ -1,10 +1,10 @@
 {
  "date": "2026-11-14",
- "generatedAt": "2026-11-14T21:45:03+08:00",
+ "generatedAt": "2026-11-14T19:02:17+00:00",
  "stats": {
   "total": 60,
   "sources": 16,
-  "sourcesOk": 16,
+  "sourcesOk": 14,
   "categories": {
    "china": 15,
    "world": 15,
@@ -17,287 +17,525 @@
   {
    "id": "t1",
    "rank": 1,
-   "title": "第三届中国呼吸健康大会开幕 钟南山发布年度十大进展",
-   "url": "https://www.chinanews.com.cn/jk/2026/11-14/10732182.shtml",
-   "summary": "中新网广州11月14日电 (记者 蔡敏婕)第三届中国呼吸健康大会14日在广州启幕。中国工程院院士钟南山发布“2025#8209;2026年度全国呼吸健康年度十大进展”。",
-   "category": "china",
-   "lang": "zh",
-   "publishedAt": "2026-11-14T13:00:16.000Z",
-   "heat": 60,
+   "title": "Elon Musk's SpaceX aborts booster recovery due to technical issues",
+   "url": "https://www.france24.com/en/elon-musk-s-spacex-aborts-booster-recovery-due-to-technical-issues",
+   "summary": "Elon Musk's SpaceX is in the midst of a 15th test-flight of its Starship rocket. The company was hoping to pull off the first-ever \"double catch\" - with both the booster and the sh…",
+   "category": "world",
+   "lang": "en",
+   "publishedAt": "2026-11-14T17:33:37.000Z",
+   "heat": 52,
    "factors": {
-    "recency": 92,
-    "authority": 80,
+    "recency": 87,
+    "authority": 85,
     "coverage": 0,
-    "signal": 36
+    "signal": 0
    },
    "sources": [
     {
-     "id": "chinanews",
-     "name": "中国新闻网",
-     "url": "https://www.chinanews.com.cn/jk/2026/11-14/10732182.shtml"
+     "id": "france24",
+     "name": "France 24",
+     "url": "https://www.france24.com/en/elon-musk-s-spacex-aborts-booster-recovery-due-to-technical-issues"
     }
    ],
    "keywords": [
-    "第三",
-    "三届",
-    "届中",
-    "中国",
-    "国呼",
-    "呼吸",
-    "吸健",
-    "健康"
+    "elon",
+    "musk's",
+    "spacex",
+    "aborts",
+    "booster",
+    "recovery",
+    "due",
+    "technical"
    ]
   },
   {
    "id": "t2",
    "rank": 2,
-   "title": "“一张票”化身“一条消费链” 交通流量转化为文旅消费与区域经济增量‌",
-   "url": "https://www.chinanews.com.cn/cj/2026/11-14/10732195.shtml",
-   "summary": "央视网消息：记者11月14日从国铁集团获悉，2026年1至10月，全国铁路累计发送旅客41.3亿人次，同比增长4.7%。日均安排开行旅客列车11670列，同比增长5.0%，其中，10月1日发送旅客2520.4万人次、开行旅客列车14885列。前10个月，全国铁路累计旅客发送量、单日旅客发送量、单日客运能力投放等指标均创历史新高。",
-   "category": "china",
+   "title": "OPPO 展示 Reno17 系列手机洛天依联动定制主题，11 月 16 日发布",
+   "url": "https://www.ithome.com/1/027/243.htm",
+   "summary": "IT之家 11 月 14 日消息，OPPO 官方微博发文，展示了 OPPO Reno17 系列手机提供的洛天依定制主题，相应主题仅限 Reno17 系列机型使用，包含 4 款专属锁屏 + 壁纸，提供洛天依三色全新造型及 Q 版形象锁屏。 除此之外，相应主题包括时间、待办、步数等多种趣味组件及跟手粒子、下雪动效、充电动画等专属交互动效。 IT之家注意到，先前相…",
+   "category": "tech",
    "lang": "zh",
-   "publishedAt": "2026-11-14T13:36:34.000Z",
-   "heat": 58,
+   "publishedAt": "2026-11-14T14:43:21.000Z",
+   "heat": 52,
    "factors": {
-    "recency": 98,
-    "authority": 80,
+    "recency": 72,
+    "authority": 75,
     "coverage": 0,
-    "signal": 18
+    "signal": 38
    },
    "sources": [
     {
-     "id": "chinanews",
-     "name": "中国新闻网",
-     "url": "https://www.chinanews.com.cn/cj/2026/11-14/10732195.shtml"
+     "id": "ithome",
+     "name": "IT之家",
+     "url": "https://www.ithome.com/1/027/243.htm"
     }
    ],
    "keywords": [
-    "一张",
-    "张票",
-    "化身",
-    "一条",
-    "条消",
-    "消费",
-    "费链",
-    "交通"
+    "oppo",
+    "reno17",
+    "展示",
+    "系列",
+    "列手",
+    "手机",
+    "机洛",
+    "洛天"
    ]
   },
   {
    "id": "t3",
    "rank": 3,
-   "title": "数说APEC丨中国生态治理经验 如何为亚太增“绿”",
-   "url": "https://www.chinanews.com.cn/cj/2026/11-14/10732194.shtml",
-   "summary": "最新数据显示，中国近十年一直是全球森林面积年均净增长最多的国家。来自中国的生态治理经验，如今也在为亚太地区增“绿”。",
-   "category": "china",
-   "lang": "zh",
-   "publishedAt": "2026-11-14T13:34:18.000Z",
-   "heat": 58,
+   "title": "Youth Olympic Games organisers hail Senegal's capability to host major events",
+   "url": "https://www.france24.com/en/youth-olympic-games-organisers-hail-senegal-s-capability-to-host-major-events",
+   "summary": "Dakar 2026 is over. Two weeks of competition, thousands of young athletes and a historic first for Africa. The Youth Olympic Games brought the world to Senegal for the first Olympi…",
+   "category": "world",
+   "lang": "en",
+   "publishedAt": "2026-11-14T17:25:51.000Z",
+   "heat": 51,
    "factors": {
-    "recency": 98,
-    "authority": 80,
+    "recency": 86,
+    "authority": 85,
     "coverage": 0,
-    "signal": 18
+    "signal": 0
    },
    "sources": [
     {
-     "id": "chinanews",
-     "name": "中国新闻网",
-     "url": "https://www.chinanews.com.cn/cj/2026/11-14/10732194.shtml"
+     "id": "france24",
+     "name": "France 24",
+     "url": "https://www.france24.com/en/youth-olympic-games-organisers-hail-senegal-s-capability-to-host-major-events"
     }
    ],
    "keywords": [
-    "apec",
-    "数说",
-    "丨中",
-    "中国",
-    "国生",
-    "生态",
-    "态治",
-    "治理"
+    "youth",
+    "olympic",
+    "games",
+    "organisers",
+    "hail",
+    "senegal's",
+    "capability",
+    "host"
    ]
   },
   {
    "id": "t4",
    "rank": 4,
-   "title": "深圳通江达海的物流网如何昼夜运转？",
-   "url": "https://www.chinanews.com.cn/cj/2026/11-14/10732193.shtml",
-   "summary": "进入11月，深圳迎来一年当中最繁忙的季节。一大批工厂开足马力赶制海外订单。产品下线之后，如何快速分发到亚太乃至全球各地？一起走进深圳这张通江达海、链接全球的物流网络。",
-   "category": "china",
-   "lang": "zh",
-   "publishedAt": "2026-11-14T13:32:32.000Z",
-   "heat": 58,
+   "title": "France and Cambodia share their love for pétanque in Phnom Penh",
+   "url": "https://www.france24.com/en/video/20261114-france-and-cambodia-share-their-love-for-p%C3%A9tanque-in-phnom-penh",
+   "summary": "Phnom Penh is hosting the 20th Francophonie Summit this Sunday and Monday. French President Emmanuel Macron is attending as part of a 3-day state visit to Cambodia. France and Camb…",
+   "category": "world",
+   "lang": "en",
+   "publishedAt": "2026-11-14T17:23:02.000Z",
+   "heat": 51,
    "factors": {
-    "recency": 98,
-    "authority": 80,
+    "recency": 86,
+    "authority": 85,
     "coverage": 0,
-    "signal": 14
+    "signal": 0
    },
    "sources": [
     {
-     "id": "chinanews",
-     "name": "中国新闻网",
-     "url": "https://www.chinanews.com.cn/cj/2026/11-14/10732193.shtml"
+     "id": "france24",
+     "name": "France 24",
+     "url": "https://www.france24.com/en/video/20261114-france-and-cambodia-share-their-love-for-p%C3%A9tanque-in-phnom-penh"
     }
    ],
    "keywords": [
-    "深圳",
-    "圳通",
-    "通江",
-    "江达",
-    "达海",
-    "海的",
-    "的物",
-    "物流"
+    "france",
+    "and",
+    "cambodia",
+    "share",
+    "their",
+    "love",
+    "for",
+    "tanque"
    ]
   },
   {
    "id": "t5",
    "rank": 5,
-   "title": "逾300部（卷）藏传佛教宁玛派古籍文献整理出版",
-   "url": "https://www.chinanews.com.cn/zj/2026/11-14/10732189.shtml",
-   "summary": "中新社北京11月14日电 (记者 张杨彬 刘超)由清华大学汉藏佛教研究中心主办的“古卷新辉：新版宁玛古籍文库发布会”14日在北京举行，发布了《北伏藏传承师文集》等218部重要的宁玛派佛教文献，以及色登寺藏文典籍《古译文献荟萃》84卷。",
-   "category": "china",
-   "lang": "zh",
-   "publishedAt": "2026-11-14T13:17:39.000Z",
-   "heat": 58,
+   "title": "Washington divided over how to deal with fallout from the Nvidia case",
+   "url": "https://www.france24.com/en/washington-divided-over-how-to-deal-with-fallout-from-the-nvidia-case",
+   "summary": "After the fall, the fallout. US government agencies are squabbling after AI leader Jensen Huang stepped down from chips giant Nvidia in disgrace. The Treasury says it wanted to bla…",
+   "category": "world",
+   "lang": "en",
+   "publishedAt": "2026-11-14T17:21:26.000Z",
+   "heat": 51,
    "factors": {
-    "recency": 95,
-    "authority": 80,
+    "recency": 85,
+    "authority": 85,
     "coverage": 0,
-    "signal": 22
+    "signal": 0
    },
    "sources": [
     {
-     "id": "chinanews",
-     "name": "中国新闻网",
-     "url": "https://www.chinanews.com.cn/zj/2026/11-14/10732189.shtml"
+     "id": "france24",
+     "name": "France 24",
+     "url": "https://www.france24.com/en/washington-divided-over-how-to-deal-with-fallout-from-the-nvidia-case"
     }
    ],
    "keywords": [
-    "300",
-    "藏传",
-    "传佛",
-    "佛教",
-    "教宁",
-    "宁玛",
-    "玛派",
-    "派古"
+    "washington",
+    "divided",
+    "over",
+    "how",
+    "deal",
+    "with",
+    "fallout",
+    "from"
    ]
   },
   {
    "id": "t6",
    "rank": 6,
-   "title": "文物“一张图”非遗“一本账” 云南“十五五”将加强文化遗产保护传承",
-   "url": "https://www.chinanews.com.cn/gn/2026/11-14/10732179.shtml",
-   "summary": "中新网昆明11月14日电 (罗婕)近日，云南省人民政府印发《云南省文化和旅游发展“十五五”规划》(以下简称《规划》)，该省将加强保护传承，构建不可移动文物资源“一张图”，建立非遗资源总目录。",
-   "category": "china",
+   "title": "规则是流动的，核周报 11.14",
+   "url": "https://www.gcores.com/radios/222022",
+   "summary": "本期时间轴制作：老斧子 本期要闻：《GTA6》开发正式完成，Take-Two 财报确认预购「远超预期」，索尼、微软双双官宣《GTA6》 是各自商店史上预购最高的游戏，全主机平台目标 30FPS，无性能模式；MW4 登顶Steam全球周榜，《影之刃零》国区三连庄、好评率升至 91%；Switch 23.5.0 固件推送；《塞尔达传说：时光之笛》重制版销量突破5…",
+   "category": "game",
    "lang": "zh",
-   "publishedAt": "2026-11-14T13:19:25.000Z",
-   "heat": 57,
+   "publishedAt": "2026-11-14T15:00:00.000Z",
+   "heat": 51,
    "factors": {
-    "recency": 95,
-    "authority": 80,
-    "coverage": 0,
-    "signal": 18
-   },
-   "sources": [
-    {
-     "id": "chinanews",
-     "name": "中国新闻网",
-     "url": "https://www.chinanews.com.cn/gn/2026/11-14/10732179.shtml"
-    }
-   ],
-   "keywords": [
-    "文物",
-    "一张",
-    "张图",
-    "非遗",
-    "一本",
-    "本账",
-    "云南",
-    "十五"
-   ]
-  },
-  {
-   "id": "t7",
-   "rank": 7,
-   "title": "荷兰学者奥雷·伯曼：万里归来，“东游”未止",
-   "url": "https://www.chinanews.com.cn/sh/2026/11-14/10732168.shtml",
-   "summary": "中新网上海11月14日电 题：荷兰学者奥雷·伯曼：万里归来，“东游”未止",
-   "category": "china",
-   "lang": "zh",
-   "publishedAt": "2026-11-14T13:06:29.000Z",
-   "heat": 57,
-   "factors": {
-    "recency": 93,
-    "authority": 80,
-    "coverage": 0,
-    "signal": 18
-   },
-   "sources": [
-    {
-     "id": "chinanews",
-     "name": "中国新闻网",
-     "url": "https://www.chinanews.com.cn/sh/2026/11-14/10732168.shtml"
-    }
-   ],
-   "keywords": [
-    "荷兰",
-    "兰学",
-    "学者",
-    "者奥",
-    "奥雷",
-    "伯曼",
-    "万里",
-    "里归"
-   ]
-  },
-  {
-   "id": "t8",
-   "rank": 8,
-   "title": "山西公安公布一批涉嫌新型黑恶违法犯罪典型案例 22人落网",
-   "url": "https://www.chinanews.com.cn/sh/2026/11-14/10732161.shtml",
-   "summary": "中新网太原11月14日电 (记者 李庭耀)山西省公安厅14日集中公布6起涉嫌新型黑恶违法犯罪典型案例，共抓获犯罪嫌疑人22名。",
-   "category": "china",
-   "lang": "zh",
-   "publishedAt": "2026-11-14T13:01:30.000Z",
-   "heat": 57,
-   "factors": {
-    "recency": 92,
+    "recency": 76,
     "authority": 80,
     "coverage": 0,
     "signal": 22
    },
    "sources": [
     {
-     "id": "chinanews",
-     "name": "中国新闻网",
-     "url": "https://www.chinanews.com.cn/sh/2026/11-14/10732161.shtml"
+     "id": "gcores",
+     "name": "机核 GCORES",
+     "url": "https://www.gcores.com/radios/222022"
     }
    ],
    "keywords": [
-    "山西",
-    "西公",
-    "公安",
-    "安公",
-    "公布",
-    "布一",
-    "一批",
-    "批涉"
+    "11.14",
+    "规则",
+    "则是",
+    "是流",
+    "流动",
+    "动的",
+    "核周",
+    "周报"
+   ]
+  },
+  {
+   "id": "t7",
+   "rank": 7,
+   "title": "US: What exactly caused the longest nationwide ground stop in 25 years?",
+   "url": "https://www.france24.com/en/us-what-exactly-caused-the-longest-nationwide-ground-stop-in-25-years",
+   "summary": "After a nearly five-hour ground stoppage, flights in the US have resumed. However, officials are warning that it will take days to recover from the ongoing delays related to the in…",
+   "category": "world",
+   "lang": "en",
+   "publishedAt": "2026-11-14T16:35:52.000Z",
+   "heat": 50,
+   "factors": {
+    "recency": 80,
+    "authority": 85,
+    "coverage": 0,
+    "signal": 4
+   },
+   "sources": [
+    {
+     "id": "france24",
+     "name": "France 24",
+     "url": "https://www.france24.com/en/us-what-exactly-caused-the-longest-nationwide-ground-stop-in-25-years"
+    }
+   ],
+   "keywords": [
+    "what",
+    "exactly",
+    "caused",
+    "the",
+    "longest",
+    "nationwide",
+    "ground",
+    "stop"
+   ]
+  },
+  {
+   "id": "t8",
+   "rank": 8,
+   "title": "导致全美航班停飞的“罪魁祸首”找到了？FAA 调查指向 20 年历史路由器",
+   "url": "https://www.ithome.com/1/027/246.htm",
+   "summary": "IT之家 11 月 14 日消息，美国 CBS 电视台交通记者克里斯 · 范 · 克利夫在 X 平台发文称，收到一位美国政府高级官员的消息：导致全美航班地面停飞的故障设备已被查明并隔离。 克利夫援引官员的话说，美国联邦航空管理局（FAA）认为，故障仅涉及一种“特定型号”的 20 年历史老路由器。“（系统）基本上是被负载压垮了，不过具体原因尚不清楚。” 初步信…",
+   "category": "tech",
+   "lang": "zh",
+   "publishedAt": "2026-11-14T15:06:32.000Z",
+   "heat": 50,
+   "factors": {
+    "recency": 74,
+    "authority": 75,
+    "coverage": 0,
+    "signal": 24
+   },
+   "sources": [
+    {
+     "id": "ithome",
+     "name": "IT之家",
+     "url": "https://www.ithome.com/1/027/246.htm"
+    }
+   ],
+   "keywords": [
+    "faa",
+    "导致",
+    "致全",
+    "全美",
+    "美航",
+    "航班",
+    "班停",
+    "停飞"
    ]
   },
   {
    "id": "t9",
    "rank": 9,
+   "title": "智能体帮你联络商家或保险公司，Meta 旗下 Muse 上线代打电话功能",
+   "url": "https://www.ithome.com/1/027/238.htm",
+   "summary": "IT之家 11 月 14 日消息，Meta 旗下 AI 智能体 Muse 推出代打电话功能，开通高级付费订阅后，用户就能让 Muse 代自己联系美国商家。Meta 称，Muse 可以帮助用户处理各种烦琐事务，完成待办事项。 13 日凌晨，Meta 首席 AI 官汪滔在 X 上发文宣布：“Muse 能帮你打完所有不想亲自打的电话。” 据悉，用户可以借助 Mus…",
+   "category": "tech",
+   "lang": "zh",
+   "publishedAt": "2026-11-14T13:46:56.000Z",
+   "heat": 50,
+   "factors": {
+    "recency": 67,
+    "authority": 75,
+    "coverage": 0,
+    "signal": 36
+   },
+   "sources": [
+    {
+     "id": "ithome",
+     "name": "IT之家",
+     "url": "https://www.ithome.com/1/027/238.htm"
+    }
+   ],
+   "keywords": [
+    "meta",
+    "muse",
+    "智能",
+    "能体",
+    "体帮",
+    "帮你",
+    "你联",
+    "联络"
+   ]
+  },
+  {
+   "id": "t10",
+   "rank": 10,
+   "title": "US Transport Secretary asks Congress for $30 bn to upgrade aviation infrastructure",
+   "url": "https://www.france24.com/en/us-transport-secretary-asks-congress-for-30-bn-to-upgrade-aviation-infrastructure",
+   "summary": "A failure in aging telecommunications equipment Friday forced a nationwide halt to departures from US airports. Homeland Security Secretary Markwayne Mullin says officials have fou…",
+   "category": "world",
+   "lang": "en",
+   "publishedAt": "2026-11-14T16:32:52.000Z",
+   "heat": 49,
+   "factors": {
+    "recency": 79,
+    "authority": 85,
+    "coverage": 0,
+    "signal": 0
+   },
+   "sources": [
+    {
+     "id": "france24",
+     "name": "France 24",
+     "url": "https://www.france24.com/en/us-transport-secretary-asks-congress-for-30-bn-to-upgrade-aviation-infrastructure"
+    }
+   ],
+   "keywords": [
+    "transport",
+    "secretary",
+    "asks",
+    "congress",
+    "for",
+    "upgrade",
+    "aviation",
+    "infrastructure"
+   ]
+  },
+  {
+   "id": "t11",
+   "rank": 11,
+   "title": "Wales claim historic victory against All Blacks for first time since 1953",
+   "url": "https://www.france24.com/en/sport/20261114-wales-claim-historic-victory-against-all-blacks-for-first-time-since-1953",
+   "summary": "Wales claimed a historic 35-28 victory over New Zealand in Cardiff on Saturday, securing their first win over the All Blacks since 1953.",
+   "category": "world",
+   "lang": "en",
+   "publishedAt": "2026-11-14T16:27:21.000Z",
+   "heat": 49,
+   "factors": {
+    "recency": 79,
+    "authority": 85,
+    "coverage": 0,
+    "signal": 0
+   },
+   "sources": [
+    {
+     "id": "france24",
+     "name": "France 24",
+     "url": "https://www.france24.com/en/sport/20261114-wales-claim-historic-victory-against-all-blacks-for-first-time-since-1953"
+    }
+   ],
+   "keywords": [
+    "wales",
+    "claim",
+    "historic",
+    "victory",
+    "against",
+    "all",
+    "blacks",
+    "for"
+   ]
+  },
+  {
+   "id": "t12",
+   "rank": 12,
+   "title": "在柬埔寨金边“法语国家文化村”感受多元文化魅力",
+   "url": "https://www.chinanews.com.cn/gj/2026/11-14/10732210.shtml",
+   "summary": "中新社金边11月14日电 题：在柬埔寨金边“法语国家文化村”感受多元文化魅力",
+   "category": "china",
+   "lang": "zh",
+   "publishedAt": "2026-11-14T15:43:11.000Z",
+   "heat": 48,
+   "factors": {
+    "recency": 68,
+    "authority": 80,
+    "coverage": 0,
+    "signal": 18
+   },
+   "sources": [
+    {
+     "id": "chinanews",
+     "name": "中国新闻网",
+     "url": "https://www.chinanews.com.cn/gj/2026/11-14/10732210.shtml"
+    }
+   ],
+   "keywords": [
+    "在柬",
+    "柬埔",
+    "埔寨",
+    "寨金",
+    "金边",
+    "法语",
+    "语国",
+    "国家"
+   ]
+  },
+  {
+   "id": "t13",
+   "rank": 13,
+   "title": "马斯克再度力挺黄仁勋：没有他，英伟达将失去部分关键合作",
+   "url": "https://www.ithome.com/1/027/247.htm",
+   "summary": "IT之家 11 月 14 日消息，今天（14 日）晚间，马斯克在 X 平台发文称，随着黄仁勋离任 CEO，英伟达将失去一些至关重要的商业合作。 马斯克称赞黄仁勋在供应链管理方面表现出色，指出英伟达许多交易都是靠黄仁勋与合作方握手达成的，并没有签署书面合同。 紧接着，马斯克又补充说：“如果黄仁勋答应向我交付算力，或者我要求加快零部件供应，他每次都能说到做到。当…",
+   "category": "tech",
+   "lang": "zh",
+   "publishedAt": "2026-11-14T15:28:14.000Z",
+   "heat": 48,
+   "factors": {
+    "recency": 76,
+    "authority": 75,
+    "coverage": 0,
+    "signal": 10
+   },
+   "sources": [
+    {
+     "id": "ithome",
+     "name": "IT之家",
+     "url": "https://www.ithome.com/1/027/247.htm"
+    }
+   ],
+   "keywords": [
+    "马斯",
+    "斯克",
+    "克再",
+    "再度",
+    "度力",
+    "力挺",
+    "挺黄",
+    "黄仁"
+   ]
+  },
+  {
+   "id": "t14",
+   "rank": 14,
+   "title": "“黑苹果”有望卷土重来，新项目探索将 macOS 搬上骁龙和 x86 架构电脑",
+   "url": "https://www.ithome.com/1/027/244.htm",
+   "summary": "IT之家 11 月 14 日消息，过去几十年里，不想花钱买 Mac、却又希望使用 macOS 的用户，可以通过组装“黑苹果”电脑实现。不过，自从苹果改用自研 Arm 芯片后，黑苹果的安装难度大幅提高。 据外媒 TechSpot 今天（14 日）晚间报道，近期出现的至少两个新项目，则试图让 macOS 登陆骁龙和 x86 平台。 其中一个项目开发了 Arm 转…",
+   "category": "tech",
+   "lang": "zh",
+   "publishedAt": "2026-11-14T14:49:44.000Z",
+   "heat": 48,
+   "factors": {
+    "recency": 72,
+    "authority": 75,
+    "coverage": 0,
+    "signal": 20
+   },
+   "sources": [
+    {
+     "id": "ithome",
+     "name": "IT之家",
+     "url": "https://www.ithome.com/1/027/244.htm"
+    }
+   ],
+   "keywords": [
+    "macos",
+    "x86",
+    "黑苹",
+    "苹果",
+    "有望",
+    "望卷",
+    "卷土",
+    "土重"
+   ]
+  },
+  {
+   "id": "t15",
+   "rank": 15,
+   "title": "华硕 ROG 带来龙鳞 2 Ace Mini 鼠标，\"Demon1\" 联名款同步亮相",
+   "url": "https://www.ithome.com/1/027/242.htm",
+   "summary": "IT之家 11 月 14 日消息，华硕 (ASUS) 今日公布了鼠标新品 ROG 龙鳞 (Harpe) 2 Ace Mini。这一型号由华硕与《无畏契约》世界冠军选手 Max \"Demon1\" Mazanov 共同打造，结合最新硬件和面向抓握与指握用户的紧凑型半对称模具。 龙鳞 2 Ace Mini 三维 118.2 × 61.3 × 40.2 (mm)，质…",
+   "category": "tech",
+   "lang": "zh",
+   "publishedAt": "2026-11-14T14:40:04.000Z",
+   "heat": 48,
+   "factors": {
+    "recency": 71,
+    "authority": 75,
+    "coverage": 0,
+    "signal": 20
+   },
+   "sources": [
+    {
+     "id": "ithome",
+     "name": "IT之家",
+     "url": "https://www.ithome.com/1/027/242.htm"
+    }
+   ],
+   "keywords": [
+    "rog",
+    "ace",
+    "mini",
+    "demon1",
+    "华硕",
+    "带来",
+    "来龙",
+    "龙鳞"
+   ]
+  },
+  {
+   "id": "t16",
+   "rank": 16,
    "title": "《GTA 6》发售将为英国网络带来大考，宽带运营商表态“严阵以待”",
    "url": "https://www.ithome.com/1/027/187.htm",
    "summary": "IT之家 11 月 14 日消息，当地时间 13 日，据外媒 Eurogamer 报道，《GTA 6》下周发售后，有望刷新各种各样的销售纪录。玩家们还有一个担忧：这款游戏会不会把互联网都挤爆？《GTA 6》发售前后的网络流量势必暴涨，各地的宽带网络能否顶住压力？ 在英国，Ofcom（英国通信管理局）甚至会提前与游戏公司协调，尽量避免大型游戏发售撞上重要体育赛…",
    "category": "tech",
    "lang": "zh",
    "publishedAt": "2026-11-14T09:40:14.000Z",
-   "heat": 57,
+   "heat": 48,
    "factors": {
-    "recency": 73,
+    "recency": 49,
     "authority": 75,
     "coverage": 0,
     "signal": 56
@@ -321,153 +559,323 @@
    ]
   },
   {
-   "id": "t10",
-   "rank": 10,
-   "title": "两岸网友共创视频｜我们的城市有条中山路",
-   "url": "https://www.chinanews.com.cn/gn/2026/11-14/10732186.shtml",
-   "summary": "值孙中山先生诞辰160周年之际",
+   "id": "t17",
+   "rank": 17,
+   "title": "英特尔官网确认酷睿 Ultra 7 处理器 260K 规格，最大睿频频率 5.4GHz",
+   "url": "https://www.ithome.com/1/027/245.htm",
+   "summary": "IT之家 11 月 14 日消息，根据 Intel（英特尔）官网页面，此前悄然上市的酷睿 Ultra 7 处理器 260K 实际上早在 2026 年第 3 季度就已发行。而从规格上来看，其大致相当于 Ultra 7 265K 的降频版。 英特尔酷睿 Ultra 7 处理器 260K 的最大睿频频率为 5.4GHz、性能核最大睿频频率为 5.3GHz、能效核最…",
+   "category": "tech",
+   "lang": "zh",
+   "publishedAt": "2026-11-14T14:51:22.000Z",
+   "heat": 47,
+   "factors": {
+    "recency": 72,
+    "authority": 75,
+    "coverage": 0,
+    "signal": 12
+   },
+   "sources": [
+    {
+     "id": "ithome",
+     "name": "IT之家",
+     "url": "https://www.ithome.com/1/027/245.htm"
+    }
+   ],
+   "keywords": [
+    "ultra",
+    "260k",
+    "5.4ghz",
+    "英特",
+    "特尔",
+    "尔官",
+    "官网",
+    "网确"
+   ]
+  },
+  {
+   "id": "t18",
+   "rank": 18,
+   "title": "英国格拉斯哥公寓楼发生蓄意纵火案 15人送医",
+   "url": "https://www.chinanews.com.cn/gj/2026/11-14/10732206.shtml",
+   "summary": "中新社伦敦11月14日电 (记者 欧阳开宇)英国苏格兰格拉斯哥一栋公寓楼13日发生人为纵火引发的火灾，共计15名居民送医接受治疗。当地警方已将此次火情定性为蓄意案件并启动专项调查。",
    "category": "china",
    "lang": "zh",
-   "publishedAt": "2026-11-14T13:29:10.000Z",
-   "heat": 56,
+   "publishedAt": "2026-11-14T14:56:39.000Z",
+   "heat": 46,
    "factors": {
-    "recency": 97,
+    "recency": 62,
     "authority": 80,
     "coverage": 0,
-    "signal": 10
+    "signal": 22
    },
    "sources": [
     {
      "id": "chinanews",
      "name": "中国新闻网",
-     "url": "https://www.chinanews.com.cn/gn/2026/11-14/10732186.shtml"
+     "url": "https://www.chinanews.com.cn/gj/2026/11-14/10732206.shtml"
     }
    ],
    "keywords": [
-    "两岸",
-    "岸网",
-    "网友",
-    "友共",
-    "共创",
-    "创视",
-    "视频",
-    "我们"
+    "英国",
+    "国格",
+    "格拉",
+    "拉斯",
+    "斯哥",
+    "哥公",
+    "公寓",
+    "寓楼"
    ]
   },
   {
-   "id": "t11",
-   "rank": 11,
-   "title": "习近平主席引领亚太大家庭扬帆前行",
-   "url": "https://www.chinanews.com.cn/gn/2026/11-14/10732184.shtml",
-   "summary": "“亚太是我们共同发展的空间，我们都是亚太这片大海中前行的风帆。”",
+   "id": "t19",
+   "rank": 19,
+   "title": "速度滑冰世界杯北京站第二日 中国队收获2金2铜",
+   "url": "https://www.chinanews.com.cn/ty/2026/11-14/10732205.shtml",
+   "summary": "中新社北京11月14日电 (刘梦青)2026-2027赛季国际滑联速度滑冰世界杯北京站比赛14日在北京国家速滑馆“冰丝带”迎来第二个比赛日。当日中国队共收获2金2铜：廉子文、宁忠岩分别夺得男子500米和男子1500米金牌，高亭宇获男子500米铜牌，韩梅摘得女子1500米铜牌。",
    "category": "china",
    "lang": "zh",
-   "publishedAt": "2026-11-14T13:26:24.000Z",
-   "heat": 56,
+   "publishedAt": "2026-11-14T14:55:15.000Z",
+   "heat": 46,
    "factors": {
-    "recency": 96,
+    "recency": 62,
     "authority": 80,
     "coverage": 0,
-    "signal": 10
+    "signal": 22
    },
    "sources": [
     {
      "id": "chinanews",
      "name": "中国新闻网",
-     "url": "https://www.chinanews.com.cn/gn/2026/11-14/10732184.shtml"
+     "url": "https://www.chinanews.com.cn/ty/2026/11-14/10732205.shtml"
     }
    ],
    "keywords": [
-    "习近",
-    "近平",
-    "平主",
-    "主席",
-    "席引",
-    "引领",
-    "领亚",
-    "亚太"
+    "速度",
+    "度滑",
+    "滑冰",
+    "冰世",
+    "世界",
+    "界杯",
+    "杯北",
+    "北京"
    ]
   },
   {
-   "id": "t12",
-   "rank": 12,
-   "title": "专家学者厦门共话中国—东盟旅游安全治理",
-   "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-14/10732187.shtml",
-   "summary": "中新社厦门11月14日电 (吴冠标)“中国—东盟旅游安全学术研讨会(2026)”14日在华侨大学厦门校区举办。海内外专家学者、旅游业界人士围绕“深化跨境合作，共筑安全防线”主题展开交流，共同探讨区域旅游安全治理新路径。",
+   "id": "t20",
+   "rank": 20,
+   "title": "受空管系统故障影响，11 月 14 日美国仍有超 3300 架次航班被取消",
+   "url": "https://www.ithome.com/1/027/241.htm",
+   "summary": "IT之家 11 月 14 日消息，据央视新闻报道，当地时间 11 月 14 日，航班追踪网站 FlightAware 的数据显示，在 13 日空管系统出现通信故障、导致全美所有飞机停飞后，14 日，美国境内及往返美国的航班已有超过 3300 架次被取消。 截至美国东部时间 14 日 6 时 15 分（IT之家注：北京时间 14 日 19 时 15 分），达美…",
+   "category": "tech",
+   "lang": "zh",
+   "publishedAt": "2026-11-14T14:25:29.000Z",
+   "heat": 46,
+   "factors": {
+    "recency": 70,
+    "authority": 75,
+    "coverage": 0,
+    "signal": 12
+   },
+   "sources": [
+    {
+     "id": "ithome",
+     "name": "IT之家",
+     "url": "https://www.ithome.com/1/027/241.htm"
+    }
+   ],
+   "keywords": [
+    "3300",
+    "受空",
+    "空管",
+    "管系",
+    "系统",
+    "统故",
+    "故障",
+    "障影"
+   ]
+  },
+  {
+   "id": "t21",
+   "rank": 21,
+   "title": "'Poisoned chalice': French presidential hopeful Riner rebuffs Macron's backing",
+   "url": "https://www.france24.com/en/france/20261114-judo-star-and-presidential-hopeful-riner-calls-macron",
+   "summary": "French judo champion Teddy Riner on Saturday publicly distanced himself from President Emmanuel Macron, calling his endorsement a \"poisoned chalice\". The presidential hopeful seeks…",
+   "category": "world",
+   "lang": "en",
+   "publishedAt": "2026-11-14T14:57:22.000Z",
+   "heat": 45,
+   "factors": {
+    "recency": 68,
+    "authority": 85,
+    "coverage": 0,
+    "signal": 0
+   },
+   "sources": [
+    {
+     "id": "france24",
+     "name": "France 24",
+     "url": "https://www.france24.com/en/france/20261114-judo-star-and-presidential-hopeful-riner-calls-macron"
+    }
+   ],
+   "keywords": [
+    "poisoned",
+    "chalice'",
+    "french",
+    "presidential",
+    "hopeful",
+    "riner",
+    "rebuffs",
+    "macron's"
+   ]
+  },
+  {
+   "id": "t22",
+   "rank": 22,
+   "title": "DR Congo, Rwanda clash over Francophonie leadership as Macron seeks compromise",
+   "url": "https://www.france24.com/en/africa/20261114-dr-congo-rwanda-clash-over-francophonie-leadership-as-macron-seeks-compromise",
+   "summary": "DR Congo and Rwanda clashed Saturday over the leadership of the Francophonie, as tensions between the neighbouring countries spilled into the race to head the 53-member organisatio…",
+   "category": "world",
+   "lang": "en",
+   "publishedAt": "2026-11-14T14:54:43.000Z",
+   "heat": 45,
+   "factors": {
+    "recency": 68,
+    "authority": 85,
+    "coverage": 0,
+    "signal": 0
+   },
+   "sources": [
+    {
+     "id": "france24",
+     "name": "France 24",
+     "url": "https://www.france24.com/en/africa/20261114-dr-congo-rwanda-clash-over-francophonie-leadership-as-macron-seeks-compromise"
+    }
+   ],
+   "keywords": [
+    "congo",
+    "rwanda",
+    "clash",
+    "over",
+    "francophonie",
+    "leadership",
+    "macron",
+    "seeks"
+   ]
+  },
+  {
+   "id": "t23",
+   "rank": 23,
+   "title": "期待！总台《非遗里的中国》特展即将亮相深圳",
+   "url": "https://www.chinanews.com.cn/cul/2026/11-14/10732202.shtml",
+   "summary": "由中央广播电视总台、广东省人民政府联合主办的《非遗里的中国》特展已完成布展，11月15日起将在深圳平安金融中心开展。特展将展出中国画、书法、雕塑、瓷器、锦绣、青铜器等两百余件精品力作。",
    "category": "china",
    "lang": "zh",
-   "publishedAt": "2026-11-14T13:18:41.000Z",
-   "heat": 56,
+   "publishedAt": "2026-11-14T14:23:45.000Z",
+   "heat": 45,
    "factors": {
-    "recency": 95,
+    "recency": 59,
     "authority": 80,
     "coverage": 0,
-    "signal": 10
+    "signal": 22
    },
    "sources": [
     {
      "id": "chinanews",
      "name": "中国新闻网",
-     "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-14/10732187.shtml"
+     "url": "https://www.chinanews.com.cn/cul/2026/11-14/10732202.shtml"
     }
    ],
    "keywords": [
-    "专家",
-    "家学",
-    "学者",
-    "者厦",
-    "厦门",
-    "门共",
-    "共话",
-    "话中"
+    "期待",
+    "总台",
+    "非遗",
+    "遗里",
+    "里的",
+    "的中",
+    "中国",
+    "特展"
    ]
   },
   {
-   "id": "t13",
-   "rank": 13,
-   "title": "中越边境互联互通“国门大动脉”将于本月通车",
-   "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-14/10732185.shtml",
-   "summary": "中新网昆明11月14日电 (记者 缪超)记者14日从云南省文山州政府新闻办公室获悉，G5615天保至猴桥高速公路重要组成路段天保至麻栗坡高速公路，各项建设任务全面收官，正式迈入通车倒计时。",
-   "category": "china",
+   "id": "t24",
+   "rank": 24,
+   "title": "曝小米与“AMG 之父”创办的 HWA 秘密合作，希望打造“载入史册”新车",
+   "url": "https://www.ithome.com/1/027/240.htm",
+   "summary": "IT之家 11 月 14 日消息，当地时间 11 月 5 日，意媒 Quattroruote 援引不具名知情人士消息称，小米与 HWA 或在秘密合作开发一款超高性能汽车，部分知名零部件供应商也有望参与其中。 IT之家注：HWA 由 AMG 创始人汉斯 · 维尔纳 · 奥夫雷希特创办，脱胎于 AMG，长期负责奔驰的赛车项目，这其中就包括德国房车大师赛（DTM）…",
+   "category": "tech",
    "lang": "zh",
-   "publishedAt": "2026-11-14T13:04:53.000Z",
-   "heat": 56,
+   "publishedAt": "2026-11-14T14:20:53.000Z",
+   "heat": 45,
    "factors": {
-    "recency": 92,
-    "authority": 80,
+    "recency": 70,
+    "authority": 75,
     "coverage": 0,
-    "signal": 18
+    "signal": 8
    },
    "sources": [
     {
-     "id": "chinanews",
-     "name": "中国新闻网",
-     "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-14/10732185.shtml"
+     "id": "ithome",
+     "name": "IT之家",
+     "url": "https://www.ithome.com/1/027/240.htm"
     }
    ],
    "keywords": [
-    "中越",
-    "越边",
-    "边境",
-    "境互",
-    "互联",
-    "联互",
-    "互通",
-    "国门"
+    "amg",
+    "hwa",
+    "曝小",
+    "小米",
+    "米与",
+    "之父",
+    "创办",
+    "办的"
    ]
   },
   {
-   "id": "t14",
-   "rank": 14,
+   "id": "t25",
+   "rank": 25,
+   "title": "“像一大群蜜蜂”：亚马逊 Prime Air 送货无人机噪音过大，遭当地居民投诉",
+   "url": "https://www.ithome.com/1/027/239.htm",
+   "summary": "IT之家 11 月 14 日消息，据休斯顿纪事报报道，亚马逊旗下的超快无人机配送服务 Prime Air 曾承诺，无论是午间零食、日用百货还是紧急医疗用品，只要重量在 5 磅（IT之家注：约 2.3 千克）以内，最快都能在 30 分钟内通过空中直送消费者家门口，然而当地居民对该服务并不买账。 在亚马逊开展该项服务的得克萨斯州各社区中，噪音污染已成为居民频繁投…",
+   "category": "tech",
+   "lang": "zh",
+   "publishedAt": "2026-11-14T14:09:32.000Z",
+   "heat": 45,
+   "factors": {
+    "recency": 69,
+    "authority": 75,
+    "coverage": 0,
+    "signal": 8
+   },
+   "sources": [
+    {
+     "id": "ithome",
+     "name": "IT之家",
+     "url": "https://www.ithome.com/1/027/239.htm"
+    }
+   ],
+   "keywords": [
+    "prime",
+    "air",
+    "像一",
+    "一大",
+    "大群",
+    "群蜜",
+    "蜜蜂",
+    "亚马"
+   ]
+  },
+  {
+   "id": "t26",
+   "rank": 26,
    "title": "白宫“超级智能工作组”呼吁放宽问责政策，鼓励 AI 企业报告网络安全事件",
    "url": "https://www.ithome.com/1/027/229.htm",
    "summary": "IT之家 11 月 14 日消息，据彭博社报道，当地时间 13 日，美国政府新设的“超级智能工作组”在白宫开会，建议联邦机构放宽网络安全事件的问责政策，鼓励 AI 企业主动报告重大安全事件。 一名不愿具名的政府官员透露，工作组认为，过去处理网络安全事件时采用的监管处罚标准可能不再适用，甚至会让企业不敢分享重要的安全信息。 工作组因此敦促各机构，未来 12 个…",
    "category": "tech",
    "lang": "zh",
    "publishedAt": "2026-11-14T13:03:22.000Z",
-   "heat": 56,
+   "heat": 45,
    "factors": {
-    "recency": 95,
+    "recency": 63,
     "authority": 75,
     "coverage": 0,
     "signal": 18
@@ -491,119 +899,51 @@
    ]
   },
   {
-   "id": "t15",
-   "rank": 15,
-   "title": "河北故城贡面大赛：匠人同台“拉”出细密银丝",
-   "url": "https://www.chinanews.com.cn/tp/2026/11-14/10732174.shtml",
-   "summary": "图为11月14日，“匠心传非遗·贡面兴乡村”故城县龙凤贡面技艺大赛现场，参赛选手正在抻面。陈康 摄 图为11月14日，“匠心传非遗·贡面兴乡村”故城县龙凤贡面技艺大赛现场，参赛选手正在抻面。陈康 摄 图为11月14日，“匠心传非遗·贡面兴乡村”故城县龙凤贡面技艺大赛现场，参赛选手正在抻面。陈康 摄 图为11月14日，“匠心传非遗·贡面兴乡村”故城县龙凤贡面技…",
+   "id": "t27",
+   "rank": 27,
+   "title": "第三届中国呼吸健康大会开幕 钟南山发布年度十大进展",
+   "url": "https://www.chinanews.com.cn/jk/2026/11-14/10732182.shtml",
+   "summary": "中新网广州11月14日电 (记者 蔡敏婕)第三届中国呼吸健康大会14日在广州启幕。中国工程院院士钟南山发布“2025#8209;2026年度全国呼吸健康年度十大进展”。",
    "category": "china",
    "lang": "zh",
-   "publishedAt": "2026-11-14T12:59:46.000Z",
-   "heat": 56,
+   "publishedAt": "2026-11-14T13:00:16.000Z",
+   "heat": 45,
    "factors": {
-    "recency": 92,
+    "recency": 50,
     "authority": 80,
     "coverage": 0,
-    "signal": 18
+    "signal": 36
    },
    "sources": [
     {
      "id": "chinanews",
      "name": "中国新闻网",
-     "url": "https://www.chinanews.com.cn/tp/2026/11-14/10732174.shtml"
+     "url": "https://www.chinanews.com.cn/jk/2026/11-14/10732182.shtml"
     }
    ],
    "keywords": [
-    "河北",
-    "北故",
-    "故城",
-    "城贡",
-    "贡面",
-    "面大",
-    "大赛",
-    "匠人"
+    "第三",
+    "三届",
+    "届中",
+    "中国",
+    "国呼",
+    "呼吸",
+    "吸健",
+    "健康"
    ]
   },
   {
-   "id": "t16",
-   "rank": 16,
-   "title": "侨博会点燃文旅热 侨乡浙江青田如何“接招”",
-   "url": "https://www.chinanews.com.cn/hr/2026/11-14/10732176.shtml",
-   "summary": "中新网丽水11月14日电(胡丰盛)夜幕降临，浙江青田侨博广场上，一束灯光打向高空。刘伯温与田鱼姑娘“穿越”相遇，鱼灯流转，乐队开唱，咖啡香与红酒气交织在欧陆风情的建筑群间。11月13日至14日，第八届华侨进口商品博览会暨青田进口葡萄酒交易会(简称，侨博会)“侨博之夜”在此上演，主舞台被市民游客围得里三层外三层。",
-   "category": "china",
-   "lang": "zh",
-   "publishedAt": "2026-11-14T12:58:02.000Z",
-   "heat": 56,
-   "factors": {
-    "recency": 91,
-    "authority": 80,
-    "coverage": 0,
-    "signal": 18
-   },
-   "sources": [
-    {
-     "id": "chinanews",
-     "name": "中国新闻网",
-     "url": "https://www.chinanews.com.cn/hr/2026/11-14/10732176.shtml"
-    }
-   ],
-   "keywords": [
-    "侨博",
-    "博会",
-    "会点",
-    "点燃",
-    "燃文",
-    "文旅",
-    "旅热",
-    "侨乡"
-   ]
-  },
-  {
-   "id": "t17",
-   "rank": 17,
-   "title": "青年医者捐献“生命种子”：以热血为舟，传递爱与希望",
-   "url": "https://www.chinanews.com.cn/jk/2026/11-14/10732173.shtml",
-   "summary": "中新网杭州11月14日电(张煜欢 胡莘菻)爱心采集室里，血细胞分离机低低嗡鸣，管路中的血液缓缓流转、分离、回输，每一次循环都牵系着一份生命的期盼。近日，浙江省血液中心体检医生高臣顺利完成造血干细胞采集，成为浙江省第1500例造血干细胞捐献者。从采供血一线的“血液人”到无偿献血者，再到造血干细胞捐献者，他以亲身践行诠释医者担当，成为播撒“生命种子”的大爱使者。",
-   "category": "china",
-   "lang": "zh",
-   "publishedAt": "2026-11-14T12:55:10.000Z",
-   "heat": 56,
-   "factors": {
-    "recency": 91,
-    "authority": 80,
-    "coverage": 0,
-    "signal": 18
-   },
-   "sources": [
-    {
-     "id": "chinanews",
-     "name": "中国新闻网",
-     "url": "https://www.chinanews.com.cn/jk/2026/11-14/10732173.shtml"
-    }
-   ],
-   "keywords": [
-    "青年",
-    "年医",
-    "医者",
-    "者捐",
-    "捐献",
-    "生命",
-    "命种",
-    "种子"
-   ]
-  },
-  {
-   "id": "t18",
-   "rank": 18,
+   "id": "t28",
+   "rank": 28,
    "title": "微软大规模宕机后，开源办公套件 LibreOffice 单日收到超 1000 笔捐款创历史新高",
    "url": "https://www.ithome.com/1/027/225.htm",
    "summary": "IT之家 11 月 14 日消息，当地时间 11 月 14 日，开源办公套件 LibreOffice 背后的非营利组织文档基金会（The Document Foundation）发文宣布，昨天（13 日）文档基金会单日收到超过 1,000 笔捐款，创造历史纪录。 官方表示，虽然并不对其他组织所面临的运营问题感到幸灾乐祸，但这一时间节点表明，许多人正在重新审视…",
    "category": "tech",
    "lang": "zh",
    "publishedAt": "2026-11-14T12:24:17.000Z",
-   "heat": 56,
+   "heat": 45,
    "factors": {
-    "recency": 90,
+    "recency": 60,
     "authority": 75,
     "coverage": 0,
     "signal": 26
@@ -627,51 +967,153 @@
    ]
   },
   {
-   "id": "t19",
-   "rank": 19,
-   "title": "主播说联播丨95岁美国老人的“中国乡愁”，为何引发全网关注？",
-   "url": "https://www.chinanews.com.cn/gj/2026/11-14/10732143.shtml",
-   "summary": "近日，95岁美国老人柏大卫的“中国乡愁”，引发全网关注。他说：“一个人一生只能有一个故乡，湟源是我唯一的、永远的故乡。”中国青海湟源县，为何成为一位美国人永远的故乡？",
-   "category": "world",
+   "id": "t29",
+   "rank": 29,
+   "title": "未经同意读取用户手机相册，Meta在意大利被罚超8亿欧元",
+   "url": "https://www.jiemian.com/article/15333741.html",
+   "summary": "当地时间11月14日，意大利个人数据保护局宣布，对美国元宇宙平台公司（Meta）旗下的Meta爱尔兰公司处以8.05亿欧元（约合人民币59亿元）罚款，原因是该公司通过安卓设备上的脸书（Facebook）应用程序，在未取得专项同意、未充分告知用户的情况下，访问意大利用户手机中存储的照片、视频及相关元数据。（央视新闻）",
+   "category": "china",
    "lang": "zh",
-   "publishedAt": "2026-11-14T11:56:23.000Z",
-   "heat": 56,
+   "publishedAt": "2026-11-14T14:55:42.000Z",
+   "heat": 44,
    "factors": {
-    "recency": 84,
-    "authority": 75,
+    "recency": 62,
+    "authority": 70,
     "coverage": 0,
-    "signal": 34
+    "signal": 22
    },
    "sources": [
     {
-     "id": "chinanews-world",
-     "name": "中新网·国际",
-     "url": "https://www.chinanews.com.cn/gj/2026/11-14/10732143.shtml"
+     "id": "jiemian",
+     "name": "界面新闻",
+     "url": "https://www.jiemian.com/article/15333741.html"
     }
    ],
    "keywords": [
-    "主播",
-    "播说",
-    "说联",
-    "联播",
-    "播丨",
-    "岁美",
-    "美国",
-    "国老"
+    "meta",
+    "未经",
+    "经同",
+    "同意",
+    "意读",
+    "读取",
+    "取用",
+    "用户"
    ]
   },
   {
-   "id": "t20",
-   "rank": 20,
+   "id": "t30",
+   "rank": 30,
+   "title": "跨越山海照亮万家！一度电，如何点亮亚太合作之光？",
+   "url": "https://www.chinanews.com.cn/cj/2026/11-14/10732204.shtml",
+   "summary": "11月18日至19日，亚太经合组织(APEC)第三十三次领导人非正式会议将在深圳举行。APEC“中国年”这一年，从人工智能、产业发展到绿色转型，人们关注的不同议题都连着同一个关键词——能源。",
+   "category": "china",
+   "lang": "zh",
+   "publishedAt": "2026-11-14T14:38:36.000Z",
+   "heat": 44,
+   "factors": {
+    "recency": 60,
+    "authority": 80,
+    "coverage": 0,
+    "signal": 14
+   },
+   "sources": [
+    {
+     "id": "chinanews",
+     "name": "中国新闻网",
+     "url": "https://www.chinanews.com.cn/cj/2026/11-14/10732204.shtml"
+    }
+   ],
+   "keywords": [
+    "跨越",
+    "越山",
+    "山海",
+    "海照",
+    "照亮",
+    "亮万",
+    "万家",
+    "一度"
+   ]
+  },
+  {
+   "id": "t31",
+   "rank": 31,
+   "title": "解锁多样化主题乐园IP密码 把“看热闹”一次性消费拉长为复合消费",
+   "url": "https://www.chinanews.com.cn/cj/2026/11-14/10732201.shtml",
+   "summary": "央视网消息：正值学生们陆续放秋假的窗口期，主题乐园成为很多家庭的选择。如何充分开发IP价值，创新消费场景，是拉动主题公园、带动区域消费的重要抓手。2025年7月5日开园的上海乐高乐园，是目前全球开园规模最大的乐高乐园。园区如何开发积木这一代表性的IP符号？",
+   "category": "china",
+   "lang": "zh",
+   "publishedAt": "2026-11-14T14:20:51.000Z",
+   "heat": 44,
+   "factors": {
+    "recency": 58,
+    "authority": 80,
+    "coverage": 0,
+    "signal": 18
+   },
+   "sources": [
+    {
+     "id": "chinanews",
+     "name": "中国新闻网",
+     "url": "https://www.chinanews.com.cn/cj/2026/11-14/10732201.shtml"
+    }
+   ],
+   "keywords": [
+    "解锁",
+    "锁多",
+    "多样",
+    "样化",
+    "化主",
+    "主题",
+    "题乐",
+    "乐园"
+   ]
+  },
+  {
+   "id": "t32",
+   "rank": 32,
+   "title": "从承诺到行动：COP31上的中国答卷",
+   "url": "https://www.chinanews.com.cn/gn/2026/11-14/10732197.shtml",
+   "summary": "中新网安塔利亚11月14日电(记者 魏园 陈溯)当地时间11月13日，联合国秘书长安东尼奥·古特雷斯在COP31新闻发布会上接受中国新闻社记者提问时，特别肯定中国在可再生能源领域付出的巨大努力及取得的进展，并呼吁各国落实气候承诺。",
+   "category": "china",
+   "lang": "zh",
+   "publishedAt": "2026-11-14T13:44:41.000Z",
+   "heat": 44,
+   "factors": {
+    "recency": 55,
+    "authority": 80,
+    "coverage": 0,
+    "signal": 22
+   },
+   "sources": [
+    {
+     "id": "chinanews",
+     "name": "中国新闻网",
+     "url": "https://www.chinanews.com.cn/gn/2026/11-14/10732197.shtml"
+    }
+   ],
+   "keywords": [
+    "cop31",
+    "从承",
+    "承诺",
+    "诺到",
+    "到行",
+    "行动",
+    "上的",
+    "的中"
+   ]
+  },
+  {
+   "id": "t33",
+   "rank": 33,
    "title": "荷兰皇家航空前 CEO 被曝机上违规使用充电宝引发火情，公司提请指控",
    "url": "https://www.ithome.com/1/027/231.htm",
    "summary": "IT之家 11 月 14 日消息，据央视新闻今天（14 日）晚间报道，荷兰皇家航空公司前首席执行官（CEO）卡米尔 · 厄尔林斯 9 月在该公司一架客机上违规使用充电宝引发火情，荷航日前已就此事向检方提请指控厄尔林斯。 荷航 13 日在一份声明中说：“如果乘客严重违反安全规定，危及航班、乘客或机组人员安全，公司方面会提出指控，这是标准做法。” 荷航没有公布当…",
    "category": "tech",
    "lang": "zh",
    "publishedAt": "2026-11-14T13:28:26.000Z",
-   "heat": 55,
+   "heat": 44,
    "factors": {
-    "recency": 98,
+    "recency": 65,
     "authority": 75,
     "coverage": 0,
     "signal": 10
@@ -695,187 +1137,51 @@
    ]
   },
   {
-   "id": "t21",
-   "rank": 21,
-   "title": "'I never imagined my father was a Nazi': Born in a German-run 'baby factory'",
-   "url": "https://www.france24.com/en/france/20261114-i-never-imagined-my-father-was-a-nazi-born-in-a-german-run-baby-factory",
-   "summary": "Two trainloads of children, some of them born in Nazi-run \"Lebensborn\" maternity homes, were brought from Germany to Commercy in eastern France in 1946. One of them was Édith Pagot…",
-   "category": "world",
-   "lang": "en",
-   "publishedAt": "2026-11-14T13:25:35.000Z",
-   "heat": 55,
-   "factors": {
-    "recency": 97,
-    "authority": 85,
-    "coverage": 0,
-    "signal": 0
-   },
-   "sources": [
-    {
-     "id": "france24",
-     "name": "France 24",
-     "url": "https://www.france24.com/en/france/20261114-i-never-imagined-my-father-was-a-nazi-born-in-a-german-run-baby-factory"
-    }
-   ],
-   "keywords": [
-    "never",
-    "imagined",
-    "father",
-    "was",
-    "nazi'",
-    "born",
-    "german-run",
-    "baby"
-   ]
-  },
-  {
-   "id": "t22",
-   "rank": 22,
-   "title": "USA: All passengers survive after tanker hits docked river cruise ship in New Orleans",
-   "url": "https://www.france24.com/en/usa-all-passengers-survive-after-tanker-hits-docked-river-cruise-ship-in-new-orleans",
-   "summary": "A portion of the Mississippi River remains closed after a collision between an oil tanker and a riverboat forced a chaotic river rescue in Louisiana. Story by Caitlin Brown.",
-   "category": "world",
-   "lang": "en",
-   "publishedAt": "2026-11-14T13:15:42.000Z",
-   "heat": 55,
-   "factors": {
-    "recency": 96,
-    "authority": 85,
-    "coverage": 0,
-    "signal": 0
-   },
-   "sources": [
-    {
-     "id": "france24",
-     "name": "France 24",
-     "url": "https://www.france24.com/en/usa-all-passengers-survive-after-tanker-hits-docked-river-cruise-ship-in-new-orleans"
-    }
-   ],
-   "keywords": [
-    "usa",
-    "all",
-    "passengers",
-    "survive",
-    "after",
-    "tanker",
-    "hits",
-    "docked"
-   ]
-  },
-  {
-   "id": "t23",
-   "rank": 23,
-   "title": "2026釜山国际艺术节在韩国举行",
-   "url": "https://www.chinanews.com.cn/gj/2026/11-14/10732160.shtml",
-   "summary": "中新网韩国釜山11月14日电 (记者 金旭)当地时间11月13日至14日，2026釜山国际艺术节在韩国举办。",
+   "id": "t34",
+   "rank": 34,
+   "title": "主播说联播丨95岁美国老人的“中国乡愁”，为何引发全网关注？",
+   "url": "https://www.chinanews.com.cn/gj/2026/11-14/10732143.shtml",
+   "summary": "近日，95岁美国老人柏大卫的“中国乡愁”，引发全网关注。他说：“一个人一生只能有一个故乡，湟源是我唯一的、永远的故乡。”中国青海湟源县，为何成为一位美国人永远的故乡？",
    "category": "world",
    "lang": "zh",
-   "publishedAt": "2026-11-14T12:32:47.000Z",
-   "heat": 55,
+   "publishedAt": "2026-11-14T11:56:23.000Z",
+   "heat": 44,
    "factors": {
-    "recency": 89,
+    "recency": 52,
     "authority": 75,
     "coverage": 0,
-    "signal": 22
+    "signal": 34
    },
    "sources": [
     {
      "id": "chinanews-world",
      "name": "中新网·国际",
-     "url": "https://www.chinanews.com.cn/gj/2026/11-14/10732160.shtml"
+     "url": "https://www.chinanews.com.cn/gj/2026/11-14/10732143.shtml"
     }
    ],
    "keywords": [
-    "2026",
-    "釜山",
-    "山国",
-    "国际",
-    "际艺",
-    "艺术",
-    "术节",
-    "节在"
+    "主播",
+    "播说",
+    "说联",
+    "联播",
+    "播丨",
+    "岁美",
+    "美国",
+    "国老"
    ]
   },
   {
-   "id": "t24",
-   "rank": 24,
-   "title": "华大九天联合大湾区基金完成国产数字前端 EDA 专业化整合，新公司“新禹思”成立",
-   "url": "https://www.ithome.com/1/027/230.htm",
-   "summary": "IT之家 11 月 14 日消息，在第二十三届中国国际半导体博览会（IC China）期间，北京华大九天科技股份有限公司与粤港澳大湾区科技创新产业投资基金，在北京 · 国家会议中心联合举行“国产数字前端 EDA 新平台发布会”，宣布亚科鸿禹与思尔芯合并重组，新平台公司“新禹思”（HyperS2C）正式成立。 官方表示，此次思尔芯与亚科鸿禹的整合并非简单的企业…",
-   "category": "tech",
-   "lang": "zh",
-   "publishedAt": "2026-11-14T13:07:04.000Z",
-   "heat": 54,
-   "factors": {
-    "recency": 95,
-    "authority": 75,
-    "coverage": 0,
-    "signal": 8
-   },
-   "sources": [
-    {
-     "id": "ithome",
-     "name": "IT之家",
-     "url": "https://www.ithome.com/1/027/230.htm"
-    }
-   ],
-   "keywords": [
-    "eda",
-    "华大",
-    "大九",
-    "九天",
-    "天联",
-    "联合",
-    "合大",
-    "大湾"
-   ]
-  },
-  {
-   "id": "t25",
-   "rank": 25,
-   "title": "Facebook 擅自读取意大利用户相册，Meta 被处以 8.05 亿欧元重罚",
-   "url": "https://www.ithome.com/1/027/227.htm",
-   "summary": "IT之家 11 月 14 日消息，因在未经意大利用户单独授权、也未充分告知用户的情况下，通过 Android 版 Facebook 应用读取手机中保存的照片、视频及附带的元数据，意大利数据保护局今天（14 日）对 Meta 开出 8.05 亿欧元（IT之家注：现汇率约合 59.36 亿元人民币）罚单。 意大利数据保护局声明指出，此次处罚针对的是 Facebo…",
-   "category": "tech",
-   "lang": "zh",
-   "publishedAt": "2026-11-14T12:42:51.000Z",
-   "heat": 54,
-   "factors": {
-    "recency": 92,
-    "authority": 75,
-    "coverage": 0,
-    "signal": 12
-   },
-   "sources": [
-    {
-     "id": "ithome",
-     "name": "IT之家",
-     "url": "https://www.ithome.com/1/027/227.htm"
-    }
-   ],
-   "keywords": [
-    "facebook",
-    "meta",
-    "8.05",
-    "擅自",
-    "自读",
-    "读取",
-    "取意",
-    "意大"
-   ]
-  },
-  {
-   "id": "t26",
-   "rank": 26,
+   "id": "t35",
+   "rank": 35,
    "title": "京东京造推出 130W 自带线车载充电器：2C + 1A 设计，99 元",
    "url": "https://www.ithome.com/1/027/222.htm",
    "summary": "IT之家 11 月 14 日消息，京东京造宣布推出一款型号为 LX06 的自带线车载充电器，该产品采用 2C+1A 设计，支持最高 100W 单路输出，双路总输出最高可达 130W，定价为 99 元。 京东京东京造 LX06 自带线车载充电器 99 元直达链接 该充电器采用灰黑双色搭配，机身侧面配备变色导光灯。自带伸缩线未充电时，灯光常亮蓝色；充电时变为橙色…",
    "category": "tech",
    "lang": "zh",
    "publishedAt": "2026-11-14T11:54:29.000Z",
-   "heat": 54,
+   "heat": 44,
    "factors": {
-    "recency": 87,
+    "recency": 58,
     "authority": 75,
     "coverage": 0,
     "signal": 22
@@ -899,479 +1205,173 @@
    ]
   },
   {
-   "id": "t27",
-   "rank": 27,
-   "title": "黄仁勋辞任 CEO 后，英伟达诞生地丹尼餐厅移除纪念铭牌、又宣布将重新挂回",
-   "url": "https://www.ithome.com/1/027/233.htm",
-   "summary": "IT之家 11 月 14 日消息，据 NBC News 报道，在一家丹尼餐厅（Denny’s）路边店内，硅谷历史的一角仿佛凭空消失了。 30 多年前，黄仁勋与两位好友正是在这里构想出了英伟达，而如今纪念这一确切位置的牌匾已不翼而飞。牌匾上的铭文曾写道：“开启一家万亿美元公司的卡座”，如今只剩下一片空荡荡的砖墙和剥落的墙漆。两名店员证实，牌匾已被撤下。 ▲ 2…",
-   "category": "tech",
-   "lang": "zh",
-   "publishedAt": "2026-11-14T13:31:05.000Z",
-   "heat": 53,
-   "factors": {
-    "recency": 98,
-    "authority": 75,
-    "coverage": 0,
-    "signal": 0
-   },
-   "sources": [
-    {
-     "id": "ithome",
-     "name": "IT之家",
-     "url": "https://www.ithome.com/1/027/233.htm"
-    }
-   ],
-   "keywords": [
-    "ceo",
-    "黄仁",
-    "仁勋",
-    "勋辞",
-    "辞任",
-    "英伟",
-    "伟达",
-    "达诞"
-   ]
-  },
-  {
-   "id": "t28",
-   "rank": 28,
-   "title": "借助 Claude 和 Arduino 开发板，达人让 1994 款切诺基通过加州排放检测",
-   "url": "https://www.ithome.com/1/027/226.htm",
-   "summary": "IT之家 11 月 14 日消息，当地时间 13 日，据外媒 Tom's Hardware 报道，美国的一名 AI 爱好者穆罕默德 · 祖拉利靠着 AI 和简单的电子接线操作，成功让一辆有 32 年车龄的 1994 款 Jeep 切诺基通过了美国加州的尾气检测。 这辆老车的发动机电脑功能十分有限，但祖拉利借助 Arduino Nano 开发板将其连接到笔记本…",
-   "category": "tech",
-   "lang": "zh",
-   "publishedAt": "2026-11-14T12:36:29.000Z",
-   "heat": 53,
-   "factors": {
-    "recency": 91,
-    "authority": 75,
-    "coverage": 0,
-    "signal": 12
-   },
-   "sources": [
-    {
-     "id": "ithome",
-     "name": "IT之家",
-     "url": "https://www.ithome.com/1/027/226.htm"
-    }
-   ],
-   "keywords": [
-    "claude",
-    "arduino",
-    "1994",
-    "借助",
-    "开发",
-    "发板",
-    "达人",
-    "人让"
-   ]
-  },
-  {
-   "id": "t29",
-   "rank": 29,
-   "title": "京东京造推出“铝膜复合水刺棉材质”全罩汽车车衣：可疏水防暴晒，189 元起",
-   "url": "https://www.ithome.com/1/027/220.htm",
-   "summary": "IT之家 11 月 14 日消息，京东京造现已推出一款全罩汽车车衣，相应产品采用 110g 铝膜复合水刺棉打造，提供轿车与 SUV 款式，可选 XL 至 3XL 尺码，适配 4.8m 至 5.3m 车长，定价为 189 元起。 京东京东京造铝膜复合水刺棉车衣 189 元起直达链接 该车衣的车头与侧边配有橙银橙反光标识以提升夜间环境下的可视性。主驾位置设有侧开…",
-   "category": "tech",
-   "lang": "zh",
-   "publishedAt": "2026-11-14T11:30:34.000Z",
-   "heat": 53,
-   "factors": {
-    "recency": 84,
-    "authority": 75,
-    "coverage": 0,
-    "signal": 20
-   },
-   "sources": [
-    {
-     "id": "ithome",
-     "name": "IT之家",
-     "url": "https://www.ithome.com/1/027/220.htm"
-    }
-   ],
-   "keywords": [
-    "189",
-    "京东",
-    "东京",
-    "京造",
-    "造推",
-    "推出",
-    "铝膜",
-    "膜复"
-   ]
-  },
-  {
-   "id": "t30",
-   "rank": 30,
-   "title": "联合国警告：也门塔伊兹省面临人道主义危机",
-   "url": "https://www.chinanews.com.cn/gj/2026/11-14/10732148.shtml",
-   "summary": "中新网北京11月14日电 综合消息：联合国人道主义事务协调厅、世界粮食计划署等14日警告称，长时间被围困的也门塔伊兹省面临食物短缺、疾病传播等人道主义危机。",
-   "category": "world",
-   "lang": "zh",
-   "publishedAt": "2026-11-14T12:32:37.000Z",
-   "heat": 52,
-   "factors": {
-    "recency": 89,
-    "authority": 75,
-    "coverage": 0,
-    "signal": 10
-   },
-   "sources": [
-    {
-     "id": "chinanews-world",
-     "name": "中新网·国际",
-     "url": "https://www.chinanews.com.cn/gj/2026/11-14/10732148.shtml"
-    }
-   ],
-   "keywords": [
-    "联合",
-    "合国",
-    "国警",
-    "警告",
-    "也门",
-    "门塔",
-    "塔伊",
-    "伊兹"
-   ]
-  },
-  {
-   "id": "t31",
-   "rank": 31,
-   "title": "Inside Ethiopia's war: Rare access to a hospital treating victims of renewed fighting",
-   "url": "https://www.france24.com/en/inside-ethiopia-s-war-rare-access-to-a-hospital-treating-victims-of-renewed-fighting",
-   "summary": "Ethiopia's renewed conflict is taking an increasing toll on civilians, with humanitarian organisations reporting a rise in casualties. In the Amhara region, FRANCE 24’s corresponde…",
-   "category": "world",
-   "lang": "en",
-   "publishedAt": "2026-11-14T12:23:32.000Z",
-   "heat": 52,
-   "factors": {
-    "recency": 88,
-    "authority": 85,
-    "coverage": 0,
-    "signal": 0
-   },
-   "sources": [
-    {
-     "id": "france24",
-     "name": "France 24",
-     "url": "https://www.france24.com/en/inside-ethiopia-s-war-rare-access-to-a-hospital-treating-victims-of-renewed-fighting"
-    }
-   ],
-   "keywords": [
-    "inside",
-    "ethiopia's",
-    "war",
-    "rare",
-    "access",
-    "hospital",
-    "treating",
-    "victims"
-   ]
-  },
-  {
-   "id": "t32",
-   "rank": 32,
-   "title": "Who are the 'street medics' showing up at protests around the world?",
-   "url": "https://www.france24.com/en/who-are-the-street-medics-showing-up-at-protests-around-the-world",
-   "summary": "From treating tear gas exposure to tending to injuries, street medics have become an increasingly common sight at protests all over the world. But who exactly are they and when did…",
-   "category": "world",
-   "lang": "en",
-   "publishedAt": "2026-11-14T12:19:19.000Z",
-   "heat": 52,
-   "factors": {
-    "recency": 87,
-    "authority": 85,
-    "coverage": 0,
-    "signal": 0
-   },
-   "sources": [
-    {
-     "id": "france24",
-     "name": "France 24",
-     "url": "https://www.france24.com/en/who-are-the-street-medics-showing-up-at-protests-around-the-world"
-    }
-   ],
-   "keywords": [
-    "who",
-    "are",
-    "the",
-    "street",
-    "medics'",
-    "showing",
-    "protests",
-    "around"
-   ]
-  },
-  {
-   "id": "t33",
-   "rank": 33,
-   "title": "U2 releases first new studio album in a decade, 'Caranaval de Luz'",
-   "url": "https://www.france24.com/en/u2-releases-first-new-studio-album-in-a-decade-caranaval-de-luz",
-   "summary": "U2 just released a new album after nine years of no new content. And fans are already rocking out to the new songs. Details on the Irish rock band’s comeback by Ophelie Jacobson.",
-   "category": "world",
-   "lang": "en",
-   "publishedAt": "2026-11-14T12:17:19.000Z",
-   "heat": 52,
-   "factors": {
-    "recency": 87,
-    "authority": 85,
-    "coverage": 0,
-    "signal": 0
-   },
-   "sources": [
-    {
-     "id": "france24",
-     "name": "France 24",
-     "url": "https://www.france24.com/en/u2-releases-first-new-studio-album-in-a-decade-caranaval-de-luz"
-    }
-   ],
-   "keywords": [
-    "releases",
-    "first",
-    "new",
-    "studio",
-    "album",
-    "decade",
-    "caranaval",
-    "luz'"
-   ]
-  },
-  {
-   "id": "t34",
-   "rank": 34,
-   "title": "苹果重申对 visionOS 平台的长期投入，仍看好空间计算发展前景",
-   "url": "https://www.ithome.com/1/027/223.htm",
-   "summary": "IT之家 11 月 14 日消息，据外媒 Road to VR 报道，苹果本周举办了一场特别的「Meet with Apple」开发者活动，重点围绕旗下空间计算平台 visionOS 展开。在外界数月来持续质疑苹果是否仍将投入 XR 领域的背景下，苹果公司再次强调“仍然看好空间计算平台的发展前景”。 苹果空间计算部门产品经理 Yuri Imoto 在活动中表…",
-   "category": "tech",
-   "lang": "zh",
-   "publishedAt": "2026-11-14T12:15:10.000Z",
-   "heat": 52,
-   "factors": {
-    "recency": 89,
-    "authority": 75,
-    "coverage": 0,
-    "signal": 10
-   },
-   "sources": [
-    {
-     "id": "ithome",
-     "name": "IT之家",
-     "url": "https://www.ithome.com/1/027/223.htm"
-    }
-   ],
-   "keywords": [
-    "visionos",
-    "苹果",
-    "果重",
-    "重申",
-    "申对",
-    "平台",
-    "台的",
-    "的长"
-   ]
-  },
-  {
-   "id": "t35",
-   "rank": 35,
-   "title": "预测市场平台 Kalshi 招募《GTA 6》研究员，需全程直播游玩过程并分析游戏内外经济",
-   "url": "https://www.ithome.com/1/027/216.htm",
-   "summary": "IT之家 11 月 14 日消息，《GTA6》即将于 11 月 19 日发售，目前预测市场平台 Kalshi 宣布推出一项名为“《GTA 6》研究员”的特殊职位，要求应聘者在游戏发售时全程直播游玩过程，并对游戏内外经济进行研究。 根据职位描述，这份工作的核心任务包括研究《GTA 6》的游戏内经济系统，每周针对虚拟世界中的商业运作发布分析报告。此外，研究员还需…",
-   "category": "tech",
-   "lang": "zh",
-   "publishedAt": "2026-11-14T11:03:05.000Z",
-   "heat": 52,
-   "factors": {
-    "recency": 81,
-    "authority": 75,
-    "coverage": 0,
-    "signal": 20
-   },
-   "sources": [
-    {
-     "id": "ithome",
-     "name": "IT之家",
-     "url": "https://www.ithome.com/1/027/216.htm"
-    }
-   ],
-   "keywords": [
-    "kalshi",
-    "gta",
-    "预测",
-    "测市",
-    "市场",
-    "场平",
-    "平台",
-    "招募"
-   ]
-  },
-  {
    "id": "t36",
    "rank": 36,
-   "title": "伊朗通报4艘油轮触雷起火 联合国通报134起商船袭击事件",
-   "url": "https://www.chinanews.com.cn/gj/2026/11-14/10732056.shtml",
-   "summary": "中新社北京11月14日电 综合消息：伊朗伊斯兰革命卫队14日通报称，几小时内，至少有4艘油轮在霍尔木兹海峡触雷起火。联合国方面13日通报称，霍尔木兹海峡及更广泛的中东海域已发生134起商船袭击事件，造成25名海员死亡。",
-   "category": "world",
+   "title": "APEC朋友圈丨中国无人机如何改变智利农田",
+   "url": "https://www.chinanews.com.cn/cj/2026/11-14/10732203.shtml",
+   "summary": "依托APEC合作平台，中国智慧农业技术远渡重洋来到智利。作为全球地形最狭长的国家，智利南北绵延4352公里，复杂地貌给农耕带来不少挑战。来自中国的无人机能够深入山区作业，不受泥泞地块限制，一定程度上破解了当地农业生产成本高、劳动力短缺的难题。一架架农用无人机，不仅重塑当地传统农耕模式，还催生“农业飞手”这一新职业，让科技发展的红利直达普通农户，为亚太共同发展…",
+   "category": "china",
    "lang": "zh",
-   "publishedAt": "2026-11-14T09:13:42.000Z",
-   "heat": 52,
+   "publishedAt": "2026-11-14T14:35:00.000Z",
+   "heat": 43,
    "factors": {
-    "recency": 66,
-    "authority": 75,
+    "recency": 60,
+    "authority": 80,
     "coverage": 0,
-    "signal": 48
+    "signal": 10
    },
    "sources": [
     {
-     "id": "chinanews-world",
-     "name": "中新网·国际",
-     "url": "https://www.chinanews.com.cn/gj/2026/11-14/10732056.shtml"
+     "id": "chinanews",
+     "name": "中国新闻网",
+     "url": "https://www.chinanews.com.cn/cj/2026/11-14/10732203.shtml"
     }
    ],
    "keywords": [
-    "134",
-    "伊朗",
-    "朗通",
-    "通报",
-    "艘油",
-    "油轮",
-    "轮触",
-    "触雷"
+    "apec",
+    "朋友",
+    "友圈",
+    "圈丨",
+    "丨中",
+    "中国",
+    "国无",
+    "无人"
    ]
   },
   {
    "id": "t37",
    "rank": 37,
-   "title": "英伟达副总裁卡坦扎罗否认签署要求前 CEO 黄仁勋复职的公开信，表态支持董事会和临时 CEO 克雷斯",
-   "url": "https://www.ithome.com/1/027/228.htm",
-   "summary": "IT之家 11 月 14 日消息，英伟达应用深度学习研究副总裁布莱恩 · 卡坦扎罗（Bryan Catanzaro）在社交平台 X 上公开发文辟谣，否认自己参与签署网传要求前 CEO 黄仁勋复职的公开信，称该信件系伪造，并明确表态支持英伟达董事会及临时 CEO 科莱特 · 克雷斯（Colette Kress）。 布莱恩 · 卡坦扎罗声称，即便（公开信）是真的…",
-   "category": "tech",
+   "title": "比亚迪辅助驾驶车型保有量超419万辆",
+   "url": "https://www.jiemian.com/article/15333719.html",
+   "summary": "",
+   "category": "china",
    "lang": "zh",
-   "publishedAt": "2026-11-14T12:45:55.000Z",
-   "heat": 51,
+   "publishedAt": "2026-11-14T14:28:27.000Z",
+   "heat": 43,
    "factors": {
-    "recency": 93,
-    "authority": 75,
+    "recency": 59,
+    "authority": 70,
     "coverage": 0,
-    "signal": 0
+    "signal": 22
    },
    "sources": [
     {
-     "id": "ithome",
-     "name": "IT之家",
-     "url": "https://www.ithome.com/1/027/228.htm"
+     "id": "jiemian",
+     "name": "界面新闻",
+     "url": "https://www.jiemian.com/article/15333719.html"
     }
    ],
    "keywords": [
-    "ceo",
-    "英伟",
-    "伟达",
-    "达副",
-    "副总",
-    "总裁",
-    "裁卡",
-    "卡坦"
+    "419",
+    "比亚",
+    "亚迪",
+    "迪辅",
+    "辅助",
+    "助驾",
+    "驾驶",
+    "驶车"
    ]
   },
   {
    "id": "t38",
    "rank": 38,
-   "title": "山灵音响 SM 3.3 数播解码一体机发售：双「昆仑 Pro」R2R 解码阵列，23980 元",
-   "url": "https://www.ithome.com/1/027/183.htm",
-   "summary": "IT之家 11 月 14 日消息，山灵音响宣布旗下 SM 3.3 数播解码一体机现已在京东发售，该产品集本地播放、网络串流及解码输出于一体，定价为 23980 元。 京东山灵 SM3.3 R2R 电子管流媒体数播一体机播放器 23980 元直达链接 该设备尺寸为 430×320×106 mm，重量约为 9.5 kg。机身正面配备了一块 5.98 英寸 256…",
-   "category": "tech",
+   "title": "受空管系统故障影响，14日美国仍有超3300架次航班被取消",
+   "url": "https://www.jiemian.com/article/15333715.html",
+   "summary": "",
+   "category": "china",
    "lang": "zh",
-   "publishedAt": "2026-11-14T09:11:37.000Z",
-   "heat": 51,
+   "publishedAt": "2026-11-14T14:27:51.000Z",
+   "heat": 43,
    "factors": {
-    "recency": 70,
-    "authority": 75,
+    "recency": 59,
+    "authority": 70,
     "coverage": 0,
-    "signal": 34
+    "signal": 22
    },
    "sources": [
     {
-     "id": "ithome",
-     "name": "IT之家",
-     "url": "https://www.ithome.com/1/027/183.htm"
+     "id": "jiemian",
+     "name": "界面新闻",
+     "url": "https://www.jiemian.com/article/15333715.html"
     }
    ],
    "keywords": [
-    "3.3",
-    "pro",
-    "r2r",
-    "23980",
-    "山灵",
-    "灵音",
-    "音响",
-    "数播"
+    "3300",
+    "受空",
+    "空管",
+    "管系",
+    "系统",
+    "统故",
+    "故障",
+    "障影"
    ]
   },
   {
    "id": "t39",
    "rank": 39,
-   "title": "TCL 华星光电推出“全球最高刷新率”360Hz 笔记本 OLED 面板，使用喷墨打印技术",
-   "url": "https://www.ithome.com/1/027/163.htm",
-   "summary": "IT之家 11 月 14 日消息，TCL 华星光电联合联想，在 DTC 2026 活动展示了一款拯救者游戏本原型机，该机搭载 360Hz OLED 面板，是目前业界刷新率最高的笔记本 OLED 面板。 与传统 OLED 面板不同，这款屏幕采用喷墨打印 OLED 技术，通过精密喷嘴将液态有机材料直接喷射到预先划分好的子像素沟槽中。该工艺不仅有望降低面板生产成本…",
-   "category": "tech",
+   "title": "“开板”是拥抱冬天的独特方式 八方雪友乐享火热冰雪赛事",
+   "url": "https://www.chinanews.com.cn/cj/2026/11-14/10732196.shtml",
+   "summary": "央视网消息：冰雪赛事火热进行，而对于广大的滑雪爱好者来说，“开板”是拥抱冬天的独特方式。随着气温下降，新雪季开启，多地雪场迎来八方雪友。",
+   "category": "china",
    "lang": "zh",
-   "publishedAt": "2026-11-14T08:03:22.000Z",
-   "heat": 51,
+   "publishedAt": "2026-11-14T13:39:30.000Z",
+   "heat": 43,
    "factors": {
-    "recency": 64,
-    "authority": 75,
+    "recency": 54,
+    "authority": 80,
     "coverage": 0,
-    "signal": 46
+    "signal": 18
    },
    "sources": [
     {
-     "id": "ithome",
-     "name": "IT之家",
-     "url": "https://www.ithome.com/1/027/163.htm"
+     "id": "chinanews",
+     "name": "中国新闻网",
+     "url": "https://www.chinanews.com.cn/cj/2026/11-14/10732196.shtml"
     }
    ],
    "keywords": [
-    "tcl",
-    "360hz",
-    "oled",
-    "华星",
-    "星光",
-    "光电",
-    "电推",
-    "推出"
+    "开板",
+    "是拥",
+    "拥抱",
+    "抱冬",
+    "冬天",
+    "天的",
+    "的独",
+    "独特"
    ]
   },
   {
    "id": "t40",
    "rank": 40,
-   "title": "US loses measles-free status after continued spread of the disease, WSJ reports",
-   "url": "https://www.koreatimes.co.kr/world/20261114/us-loses-measles-free-status-after-continued-spread-of-the-disease-wsj-reports?utm_source=rss",
-   "summary": "The Pan American Health Organization has revoked the United States' measles-elimination status, ending a 26-year run after determining the country failed to halt continuous transmi…",
-   "category": "world",
-   "lang": "en",
-   "publishedAt": "2026-11-14T13:42:03.000Z",
-   "heat": 50,
+   "title": "“一张票”化身“一条消费链” 交通流量转化为文旅消费与区域经济增量‌",
+   "url": "https://www.chinanews.com.cn/cj/2026/11-14/10732195.shtml",
+   "summary": "央视网消息：记者11月14日从国铁集团获悉，2026年1至10月，全国铁路累计发送旅客41.3亿人次，同比增长4.7%。日均安排开行旅客列车11670列，同比增长5.0%，其中，10月1日发送旅客2520.4万人次、开行旅客列车14885列。前10个月，全国铁路累计旅客发送量、单日旅客发送量、单日客运能力投放等指标均创历史新高。",
+   "category": "china",
+   "lang": "zh",
+   "publishedAt": "2026-11-14T13:36:34.000Z",
+   "heat": 43,
    "factors": {
-    "recency": 100,
-    "authority": 60,
+    "recency": 54,
+    "authority": 80,
     "coverage": 0,
-    "signal": 0
+    "signal": 18
    },
    "sources": [
     {
-     "id": "koreatimes",
-     "name": "Korea Times",
-     "url": "https://www.koreatimes.co.kr/world/20261114/us-loses-measles-free-status-after-continued-spread-of-the-disease-wsj-reports?utm_source=rss"
+     "id": "chinanews",
+     "name": "中国新闻网",
+     "url": "https://www.chinanews.com.cn/cj/2026/11-14/10732195.shtml"
     }
    ],
    "keywords": [
-    "loses",
-    "measles-free",
-    "status",
-    "after",
-    "continued",
-    "spread",
-    "the",
-    "disease"
+    "一张",
+    "张票",
+    "化身",
+    "一条",
+    "条消",
+    "消费",
+    "费链",
+    "交通"
    ]
   }
  ]
