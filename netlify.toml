@@ -1,0 +1,15 @@
+# Netlify：构建时重新抓取一轮数据，保证部署即最新
+[build]
+  command = "node scripts/fetch.mjs || true"
+  publish = "public"
+
+[[headers]]
+  for = "/data/*.json"
+  [headers.values]
+    Cache-Control = "public, max-age=0, must-revalidate"
+    Access-Control-Allow-Origin = "*"
+
+[[headers]]
+  for = "/assets/*"
+  [headers.values]
+    Cache-Control = "public, max-age=86400, stale-while-revalidate=604800"

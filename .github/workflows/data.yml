@@ -1,0 +1,40 @@
+# 数据自动刷新：每 2 小时抓取一轮并提交最新 JSON（归档按日写入）
+name: data-refresh
+
+on:
+  schedule:
+    - cron: "10 */2 * * *" # UTC，约合北京时间每 2 小时
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: data-refresh
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: 抓取并生成榜单数据
+        run: node scripts/fetch.mjs --archive
+
+      - name: 提交数据更新
+        run: |
+          if [[ -n "$(git status --porcelain public/data)" ]]; then
+            git config user.name "news-bot"
+            git config user.email "actions@users.noreply.github.com"
+            git add public/data
+            git commit -m "chore(data): refresh news data $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push
+          else
+            echo "数据无变化，跳过提交"
+          fi

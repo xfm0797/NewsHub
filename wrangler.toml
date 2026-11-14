@@ -1,0 +1,6 @@
+name = "news-hub"
+compatibility_date = "2026-01-01"
+pages_build_output_dir = "public"
+
+# Cloudflare Pages：构建命令填 `node scripts/fetch.mjs || true`，输出目录 public
+# 也可用 wrangler pages deploy public --project-name news-hub 直接部署
