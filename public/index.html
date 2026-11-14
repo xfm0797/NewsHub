@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="zh-CN" data-theme="light">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>热点聚合 · 中外要闻与游戏前线</title>
+    <meta
+      name="description"
+      content="每小时自动聚合中外主流媒体与游戏媒体的热点新闻，按热度排序，支持分类筛选、关键词检索与历史快照。"
+    />
+    <meta name="theme-color" content="#f6f7f9" media="(prefers-color-scheme: light)" />
+    <meta name="theme-color" content="#0e1116" media="(prefers-color-scheme: dark)" />
+    <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%23d93a2b'/%3E%3Cpath d='M18 44V20h6v9h16v-9h6v24h-6V35H24v9z' fill='%23fff'/%3E%3C/svg%3E" />
+    <link rel="preconnect" href="https://www.chinanews.com.cn" />
+    <link rel="stylesheet" href="./assets/css/main.css" />
+  </head>
+  <body>
+    <a class="skip-link" href="#board">跳到榜单</a>
+
+    <header class="topbar" id="topbar">
+      <div class="wrap topbar__inner">
+        <a class="brand" href="./">
+          <span class="brand__mark" aria-hidden="true">热</span>
+          <span class="brand__text">
+            <strong>热点聚合</strong>
+            <small id="brandTagline">中外要闻 · 游戏前线</small>
+          </span>
+        </a>
+
+        <div class="topbar__status" id="topbarStatus" aria-live="polite">
+          <span class="pulse" aria-hidden="true"></span>
+          <span id="statusText">正在连接数据源…</span>
+        </div>
+
+        <div class="topbar__actions">
+          <div class="search" id="searchBox">
+            <svg viewBox="0 0 24 24" aria-hidden="true" class="search__icon">
+              <circle cx="11" cy="11" r="7" fill="none" stroke="currentColor" stroke-width="1.8" />
+              <path d="m16.5 16.5 4 4" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" />
+            </svg>
+            <input
+              id="searchInput"
+              type="search"
+              placeholder="搜索标题、来源…"
+              aria-label="搜索新闻标题或来源"
+              autocomplete="off"
+            />
+            <kbd class="search__kbd" aria-hidden="true">/</kbd>
+          </div>
+          <button class="icon-btn" id="refreshBtn" type="button" title="立即刷新数据" aria-label="立即刷新数据">
+            <svg viewBox="0 0 24 24" aria-hidden="true">
+              <path d="M20 12a8 8 0 1 1-2.34-5.66M20 4v4h-4" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" />
+            </svg>
+          </button>
+          <button class="icon-btn" id="themeBtn" type="button" title="切换深浅色" aria-label="切换深浅色">
+            <svg viewBox="0 0 24 24" aria-hidden="true" class="ico-sun">
+              <circle cx="12" cy="12" r="4.2" fill="none" stroke="currentColor" stroke-width="1.8" />
+              <path d="M12 2.5v2.2M12 19.3v2.2M2.5 12h2.2M19.3 12h2.2M5.2 5.2l1.6 1.6M17.2 17.2l1.6 1.6M18.8 5.2l-1.6 1.6M6.8 17.2l-1.6 1.6" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" />
+            </svg>
+            <svg viewBox="0 0 24 24" aria-hidden="true" class="ico-moon">
+              <path d="M20 14.2A8.2 8.2 0 0 1 9.8 4 8.4 8.4 0 1 0 20 14.2Z" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round" />
+            </svg>
+          </button>
+        </div>
+      </div>
+    </header>
+
+    <main class="wrap">
+      <section class="hero" aria-labelledby="heroTitle">
+        <div class="hero__main">
+          <p class="hero__date" id="heroDate">—</p>
+          <h1 class="hero__title" id="heroTitle">今日热点榜</h1>
+          <p class="hero__desc" id="heroDesc">
+            聚合中外主流媒体与游戏垂类媒体的公开 RSS，跨源去重后按<strong>时效、信源权重、交叉印证、标题信号</strong>四因子打分排序。
+          </p>
+          <div class="hero__stats" id="heroStats"></div>
+        </div>
+        <div class="hero__preview" id="heroPreview" aria-hidden="true"></div>
+      </section>
+
+      <div class="layout">
+        <section class="board" id="board" aria-labelledby="boardTitle">
+          <h2 class="sr-only" id="boardTitle">热点榜单</h2>
+
+          <div class="board__bar">
+            <div class="tabs" id="tabs" role="tablist" aria-label="分类筛选"></div>
+            <div class="board__tools">
+              <div class="segmented" id="sortToggle" role="group" aria-label="排序方式">
+                <button type="button" data-sort="heat" class="is-active">热度</button>
+                <button type="button" data-sort="time">最新</button>
+              </div>
+            </div>
+          </div>
+
+          <div class="snapshot-banner" id="snapshotBanner" hidden>
+            <span id="snapshotText"></span>
+            <button type="button" id="snapshotBack">回到今日榜单</button>
+          </div>
+
+          <ol class="list" id="list" aria-live="polite"></ol>
+
+          <div class="list__empty" id="emptyState" hidden>
+            <p class="list__empty-title">没有匹配的条目</p>
+            <p class="list__empty-hint">试试更换分类、清空关键词，或稍后再刷新。</p>
+          </div>
+
+          <div class="list__more" id="moreWrap" hidden>
+            <button type="button" class="more-btn" id="moreBtn">加载更多</button>
+          </div>
+
+          <footer class="board__foot">
+            <p>
+              榜单仅聚合公开 RSS 的标题与摘要，点击标题跳转原始媒体阅读全文；版权归原媒体所有。
+            </p>
+            <p id="generatedLine">—</p>
+          </footer>
+        </section>
+
+        <aside class="side" aria-label="辅助信息">
+          <section class="card" aria-labelledby="radarTitle">
+            <div class="card__head">
+              <h3 id="radarTitle">分类热度</h3>
+              <span class="card__hint">条数 / 均热</span>
+            </div>
+            <div class="radar" id="radar"></div>
+          </section>
+
+          <section class="card" aria-labelledby="flashTitle">
+            <div class="card__head">
+              <h3 id="flashTitle">最新快讯</h3>
+              <span class="card__hint" id="flashHint"></span>
+            </div>
+            <ol class="flashes" id="flashes"></ol>
+          </section>
+
+          <section class="card" aria-labelledby="srcTitle">
+            <div class="card__head">
+              <h3 id="srcTitle">信源状态</h3>
+              <span class="card__hint" id="srcHint"></span>
+            </div>
+            <ul class="sources" id="sources"></ul>
+          </section>
+
+          <section class="card" aria-labelledby="archiveTitle">
+            <div class="card__head">
+              <h3 id="archiveTitle">历史快照</h3>
+              <span class="card__hint">每日归档</span>
+            </div>
+            <div class="archive" id="archive"></div>
+          </section>
+        </aside>
+      </div>
+    </main>
+
+    <footer class="page-foot wrap">
+      <p>
+        <strong>热点聚合</strong> · 纯静态站点，数据由 Node 抓取脚本生成
+        <span class="dot">·</span>
+        <a href="./data/latest.json" target="_blank" rel="noopener">查看数据接口</a>
+      </p>
+      <p class="page-foot__meta">构建时间 <span id="buildTime">—</span></p>
+    </footer>
+
+    <div class="toast" id="toast" role="status" aria-live="polite"></div>
+
+    <noscript>
+      <div class="noscript">本站需要 JavaScript 才能渲染榜单，请在浏览器中启用后重试。</div>
+    </noscript>
+
+    <script type="module" src="./assets/js/app.js"></script>
+  </body>
+</html>

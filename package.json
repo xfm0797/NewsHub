@@ -1,0 +1,24 @@
+{
+  "name": "news-hub",
+  "version": "1.0.0",
+  "private": true,
+  "description": "中外热点与游戏资讯聚合站点：RSS 抓取 -> 去重打分 -> 静态 JSON -> 纯静态前端",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "fetch": "node scripts/fetch.mjs",
+    "fetch:daily": "node scripts/fetch.mjs --archive",
+    "dev": "node scripts/serve.mjs",
+    "build": "node scripts/fetch.mjs --archive",
+    "clean": "node -e \"import('node:fs').then(fs=>fs.rmSync('public/data/archive',{recursive:true,force:true}))\""
+  },
+  "keywords": [
+    "news",
+    "aggregator",
+    "rss",
+    "static-site"
+  ],
+  "license": "MIT"
+}

@@ -1,0 +1,234 @@
+{
+  "site": {
+    "name": "热点聚合",
+    "tagline": "中外要闻 · 游戏前线",
+    "timezone": "Asia/Shanghai",
+    "maxTopics": 60,
+    "windowHours": 48,
+    "archiveKeepDays": 30
+  },
+  "categories": [
+    {
+      "id": "china",
+      "label": "国内",
+      "halfLifeHours": 8
+    },
+    {
+      "id": "world",
+      "label": "国际",
+      "halfLifeHours": 10
+    },
+    {
+      "id": "tech",
+      "label": "科技",
+      "halfLifeHours": 12
+    },
+    {
+      "id": "game",
+      "label": "游戏",
+      "halfLifeHours": 14
+    }
+  ],
+  "sources": [
+    {
+      "id": "chinanews",
+      "name": "中国新闻网",
+      "url": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+      "homepage": "https://www.chinanews.com.cn/",
+      "category": "china",
+      "lang": "zh",
+      "weight": 3.2,
+      "enabled": true
+    },
+    {
+      "id": "chinanews-china",
+      "name": "中新网·国内",
+      "url": "https://www.chinanews.com.cn/rss/china.xml",
+      "homepage": "https://www.chinanews.com.cn/china/",
+      "category": "china",
+      "lang": "zh",
+      "weight": 3,
+      "enabled": true
+    },
+    {
+      "id": "jiemian",
+      "name": "界面新闻",
+      "url": "https://a.jiemian.com/index.php?m=article&a=rss",
+      "homepage": "https://www.jiemian.com/",
+      "category": "china",
+      "lang": "zh",
+      "weight": 2.8,
+      "enabled": true
+    },
+    {
+      "id": "chinanews-world",
+      "name": "中新网·国际",
+      "url": "https://www.chinanews.com.cn/rss/world.xml",
+      "homepage": "https://www.chinanews.com.cn/world/",
+      "category": "world",
+      "lang": "zh",
+      "weight": 3,
+      "enabled": true
+    },
+    {
+      "id": "france24",
+      "name": "France 24",
+      "url": "https://www.france24.com/en/rss",
+      "homepage": "https://www.france24.com/en/",
+      "category": "world",
+      "lang": "en",
+      "weight": 3.4,
+      "enabled": true
+    },
+    {
+      "id": "indianexpress",
+      "name": "Indian Express",
+      "url": "https://indianexpress.com/section/world/feed/",
+      "homepage": "https://indianexpress.com/section/world/",
+      "category": "world",
+      "lang": "en",
+      "weight": 2.6,
+      "enabled": true
+    },
+    {
+      "id": "koreatimes",
+      "name": "Korea Times",
+      "url": "https://www.koreatimes.co.kr/www/rss/world.xml",
+      "homepage": "https://www.koreatimes.co.kr/",
+      "category": "world",
+      "lang": "en",
+      "weight": 2.4,
+      "enabled": true
+    },
+    {
+      "id": "ithome",
+      "name": "IT之家",
+      "url": "https://www.ithome.com/rss/",
+      "homepage": "https://www.ithome.com/",
+      "category": "tech",
+      "lang": "zh",
+      "weight": 3,
+      "enabled": true
+    },
+    {
+      "id": "sspai",
+      "name": "少数派",
+      "url": "https://sspai.com/feed",
+      "homepage": "https://sspai.com/",
+      "category": "tech",
+      "lang": "zh",
+      "weight": 2.2,
+      "enabled": true
+    },
+    {
+      "id": "geekpark",
+      "name": "极客公园",
+      "url": "http://www.geekpark.net/rss",
+      "homepage": "https://www.geekpark.net/",
+      "category": "tech",
+      "lang": "zh",
+      "weight": 2.4,
+      "enabled": true
+    },
+    {
+      "id": "tmtpost",
+      "name": "钛媒体",
+      "url": "https://www.tmtpost.com/rss.xml",
+      "homepage": "https://www.tmtpost.com/",
+      "category": "tech",
+      "lang": "zh",
+      "weight": 2.4,
+      "enabled": true
+    },
+    {
+      "id": "arstechnica",
+      "name": "Ars Technica",
+      "url": "https://feeds.arstechnica.com/arstechnica/index",
+      "homepage": "https://arstechnica.com/",
+      "category": "tech",
+      "lang": "en",
+      "weight": 3,
+      "enabled": true
+    },
+    {
+      "id": "gcores",
+      "name": "机核 GCORES",
+      "url": "https://www.gcores.com/rss",
+      "homepage": "https://www.gcores.com/",
+      "category": "game",
+      "lang": "zh",
+      "weight": 3.2,
+      "enabled": true
+    },
+    {
+      "id": "ign-cn",
+      "name": "IGN 中国",
+      "url": "https://www.ign.com.cn/rss",
+      "homepage": "https://www.ign.com.cn/",
+      "category": "game",
+      "lang": "zh",
+      "weight": 3,
+      "enabled": true
+    },
+    {
+      "id": "gamespot",
+      "name": "GameSpot",
+      "url": "https://www.gamespot.com/feeds/news/",
+      "homepage": "https://www.gamespot.com/",
+      "category": "game",
+      "lang": "en",
+      "weight": 3,
+      "enabled": true
+    },
+    {
+      "id": "gematsu",
+      "name": "Gematsu",
+      "url": "https://www.gematsu.com/feed",
+      "homepage": "https://www.gematsu.com/",
+      "category": "game",
+      "lang": "en",
+      "weight": 2.4,
+      "enabled": true
+    }
+  ],
+  "signals": {
+    "hot": [
+      "突发",
+      "重磅",
+      "官宣",
+      "首发",
+      "独家",
+      "紧急",
+      "首次",
+      "历史新高",
+      "刷新",
+      "发布",
+      "回应",
+      "通报",
+      "事故",
+      "峰会",
+      "制裁",
+      "停火",
+      "谈判",
+      "选举",
+      "降息",
+      "发布会",
+      "发售",
+      "上线",
+      "公测",
+      "延期",
+      "泄露",
+      "实测",
+      "评测",
+      "销量",
+      "停服",
+      "裁员"
+    ],
+    "noise": [
+      "直播回放",
+      "图文直播",
+      "招聘",
+      "广告"
+    ]
+  }
+}
