@@ -43,6 +43,8 @@ npm run fetch:daily  # 抓取 + 写入当日归档快照
 │       └── archive/           # 按日归档快照 + index.json
 ├── .github/workflows/         # data.yml 定时抓取 · pages.yml 自动部署
 ├── Dockerfile + deploy/nginx.conf   # 自托管方案
+├── edgeone.json               # EdgeOne Makers 构建与响应头配置
+├── .nvmrc                     # 构建环境 Node 版本（22.11.0）
 └── vercel.json / netlify.toml / wrangler.toml   # 各平台部署配置
 ```
 
@@ -77,6 +79,7 @@ heat = 0.36 × 时效 + 0.24 × 权重 + 0.18 × 交叉 + 0.22 × 信号
 
 | 平台 | 方式 | 说明 |
 |---|---|---|
+| **EdgeOne Makers** | 导入 Git 仓库，已含 `edgeone.json` | 构建 `node scripts/fetch.mjs`、输出 `public`、Node 22.11.0；或 `npm run deploy:edgeone` |
 | **GitHub Pages** | 推送即可，`.github/workflows/pages.yml` 已内置 | 自动构建 + Pages 部署，仓库 Settings → Pages 选 GitHub Actions |
 | **Vercel** | 导入仓库，已含 `vercel.json` | 构建命令 `node scripts/fetch.mjs`，输出 `public` |
 | **Netlify** | 导入仓库，已含 `netlify.toml` | 同上 |
@@ -84,6 +87,25 @@ heat = 0.36 × 时效 + 0.24 × 权重 + 0.18 × 交叉 + 0.22 × 信号
 | **自托管** | `docker build -t news-hub . && docker run -p 80:80 news-hub` | 构建期抓取、运行期 nginx 纯静态 |
 
 更新机制：GitHub Actions 定时提交最新 JSON → Pages/托管平台跟随自动重新发布；前端另有 5 分钟轮询兜底。
+
+### EdgeOne Makers 部署
+
+根目录 `edgeone.json` 已声明全部构建参数，控制台导入后无需再手填：
+
+| 配置项 | 值 | 作用 |
+|---|---|---|
+| `buildCommand` | `node scripts/fetch.mjs \|\| true` | 构建期抓取最新榜单；抓取失败保留已提交数据、不阻塞发布 |
+| `installCommand` | `npm install --no-audit --no-fund` | 项目零依赖，仅做标准初始化 |
+| `outputDirectory` | `./public` | 静态产物目录 |
+| `nodeVersion` | `22.11.0` | 平台预装版本，避免自定义版本导致构建失败 |
+| `headers` | `/data/*` 不缓存 · `/assets/*` 长缓存 · 全局安全头 | 榜单实时、资源复用、基础防护 |
+
+两种接入方式：
+
+1. **Git 集成（推荐）**：Makers 控制台 → 创建项目 → 导入 Git 仓库 → 生产分支选 `main`，之后每次 push 自动构建部署；
+2. **CLI**：`npm i -g edgeone && edgeone login && npm run deploy:edgeone`（项目名 `newshub`，与 `edgeone.json` 的 `name` 一致）。
+
+**关于数据新鲜度**：Makers 在部署时执行构建，因此依赖 Git 自动部署链路——仓库内 `data-refresh` 工作流每 2 小时提交最新 JSON，推送后 Makers 自动重新构建；前端另有 5 分钟轮询兜底。若仓库不在 GitHub，可在 Makers 控制台或自有 CI 中定时触发一次部署。
 
 ## 自定义
 

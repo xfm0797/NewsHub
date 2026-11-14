@@ -12,6 +12,7 @@
     "fetch:daily": "node scripts/fetch.mjs --archive",
     "dev": "node scripts/serve.mjs",
     "build": "node scripts/fetch.mjs --archive",
+    "deploy:edgeone": "edgeone makers deploy -n newshub",
     "clean": "node -e \"import('node:fs').then(fs=>fs.rmSync('public/data/archive',{recursive:true,force:true}))\""
   },
   "keywords": [

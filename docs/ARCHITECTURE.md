@@ -52,6 +52,7 @@
 | `scripts/fetch.mjs` | 编排器 | 容错策略（单源失败降级、全失败保留旧数据退出非 0）；产物：latest.json + 当日归档 + 归档索引 |
 | `public/assets/js/app.js` | 前端渲染 | 状态驱动的单页渲染；骨架屏、静默轮询、快照回看、快捷键 |
 | `public/assets/css/main.css` | 样式 | CSS 变量双主题；三档断点（1080/820/640）；`content-visibility` 惰性渲染 |
+| `edgeone.json` 等部署配置 | 交付 | 各平台声明同一套构建契约：构建期抓取 → 输出 `public`；EdgeOne Makers 额外声明 `nodeVersion` 与分级缓存响应头 |
 
 ## 3. 更新逻辑（三层保鲜）
 
