@@ -1,0 +1,1381 @@
+{
+ "date": "2026-11-15",
+ "generatedAt": "2026-11-15T06:12:43+00:00",
+ "stats": {
+  "total": 60,
+  "sources": 16,
+  "sourcesOk": 15,
+  "categories": {
+   "china": 15,
+   "world": 15,
+   "tech": 15,
+   "game": 15
+  },
+  "windowHours": 48
+ },
+ "topics": [
+  {
+   "id": "t1",
+   "rank": 1,
+   "title": "一周新车盘点｜领克03首次搭载磁流变悬架 极狐两款车接入宁德时代换电",
+   "url": "https://www.jiemian.com/article/15333755.html",
+   "summary": "岚图知音升级896线激光雷达；北汽星钽5X上市价较预售下调1万元。",
+   "category": "china",
+   "lang": "zh",
+   "publishedAt": "2026-11-15T06:00:00.000Z",
+   "heat": 63,
+   "factors": {
+    "recency": 98,
+    "authority": 70,
+    "coverage": 0,
+    "signal": 48
+   },
+   "sources": [
+    {
+     "id": "jiemian",
+     "name": "界面新闻",
+     "url": "https://www.jiemian.com/article/15333755.html"
+    }
+   ],
+   "keywords": [
+    "一周",
+    "周新",
+    "新车",
+    "车盘",
+    "盘点",
+    "领克",
+    "首次",
+    "次搭"
+   ]
+  },
+  {
+   "id": "t2",
+   "rank": 2,
+   "title": "超百家世界500强企业代表将参加APEC工商领导人峰会",
+   "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732253.shtml",
+   "summary": "新华社深圳11月15日电(记者潘洁、杨深深)在15日举行的2026年APEC工商界活动专题新闻发布会上，中国贸促会副会长李庆霜介绍，115家世界500强企业代表将参加APEC工商领导人峰会。美国参会企业数量居外方经济体之首，占比近20%。此外，多位国际组织负责人及美国、俄罗斯、日本等经济体商协会负责人也将到场，共襄盛举。",
+   "category": "china",
+   "lang": "zh",
+   "publishedAt": "2026-11-15T02:09:06.000Z",
+   "heat": 62,
+   "factors": {
+    "recency": 63,
+    "authority": 75,
+    "coverage": 57,
+    "signal": 48
+   },
+   "sources": [
+    {
+     "id": "chinanews-china",
+     "name": "中新网·国内",
+     "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732253.shtml"
+    },
+    {
+     "id": "jiemian",
+     "name": "界面新闻",
+     "url": "https://www.jiemian.com/article/15333930.html"
+    }
+   ],
+   "keywords": [
+    "500",
+    "apec",
+    "超百",
+    "百家",
+    "家世",
+    "世界",
+    "强企",
+    "企业"
+   ]
+  },
+  {
+   "id": "t3",
+   "rank": 3,
+   "title": "华为鸿蒙 HarmonyOS 7 游戏秒级启动开关上线，支持提前加载本机热度最高两款游戏",
+   "url": "https://www.ithome.com/1/027/310.htm",
+   "summary": "IT之家 11 月 15 日消息，华为在 10 月底面向 Mate 80 / 70 / 60、Pura 80 / 70 等系列机型推送了最新的鸿蒙 HarmonyOS 7.0.0.111 版本升级，带来了与 iPhone 双机互联，实况窗分享等功能。 IT之家注意到，华为还为升级 HarmonyOS 7 系统的用户带来了“游戏秒级启动”功能的开关（入口较深…",
+   "category": "tech",
+   "lang": "zh",
+   "publishedAt": "2026-11-15T05:34:02.000Z",
+   "heat": 61,
+   "factors": {
+    "recency": 95,
+    "authority": 75,
+    "coverage": 0,
+    "signal": 38
+   },
+   "sources": [
+    {
+     "id": "ithome",
+     "name": "IT之家",
+     "url": "https://www.ithome.com/1/027/310.htm"
+    }
+   ],
+   "keywords": [
+    "harmonyos",
+    "华为",
+    "为鸿",
+    "鸿蒙",
+    "游戏",
+    "戏秒",
+    "秒级",
+    "级启"
+   ]
+  },
+  {
+   "id": "t4",
+   "rank": 4,
+   "title": "12位APEC经济体领导人将出席APEC工商领导人峰会",
+   "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732254.shtml",
+   "summary": "新华社深圳11月15日电(记者潘洁、王丰)在15日举行的2026年APEC工商界活动专题新闻发布会上，中国贸促会副会长李庆霜介绍，作为APEC领导人会议周的重要组成部分，2026年APEC工商领导人峰会将于11月17日至18日在深圳前海国际会议中心举办，习近平主席和澳大利亚、加拿大、智利、中国香港、印度尼西亚、韩国、马来西亚、墨西哥、俄罗斯、泰国、越南APE…",
+   "category": "china",
+   "lang": "zh",
+   "publishedAt": "2026-11-15T02:07:01.000Z",
+   "heat": 61,
+   "factors": {
+    "recency": 62,
+    "authority": 75,
+    "coverage": 57,
+    "signal": 48
+   },
+   "sources": [
+    {
+     "id": "chinanews-china",
+     "name": "中新网·国内",
+     "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732254.shtml"
+    },
+    {
+     "id": "jiemian",
+     "name": "界面新闻",
+     "url": "https://www.jiemian.com/article/15333925.html"
+    }
+   ],
+   "keywords": [
+    "apec",
+    "经济",
+    "济体",
+    "体领",
+    "领导",
+    "导人",
+    "人将",
+    "将出"
+   ]
+  },
+  {
+   "id": "t5",
+   "rank": 5,
+   "title": "美国迈阿密国际机场发生客机与货机相撞事故",
+   "url": "https://www.jiemian.com/article/15334051.html",
+   "summary": "据美国哥伦比亚广播公司11月14日报道，一架货运飞机与一架喷气式客运飞机14日晚在迈阿密国际机场相撞。目前无人员伤亡报告。两架飞机被引导至其他滑行道，对机场运营没有影响。事故原因目前尚不清楚。（新华社）",
+   "category": "china",
+   "lang": "zh",
+   "publishedAt": "2026-11-15T05:47:54.000Z",
+   "heat": 59,
+   "factors": {
+    "recency": 95,
+    "authority": 70,
+    "coverage": 0,
+    "signal": 36
+   },
+   "sources": [
+    {
+     "id": "jiemian",
+     "name": "界面新闻",
+     "url": "https://www.jiemian.com/article/15334051.html"
+    }
+   ],
+   "keywords": [
+    "美国",
+    "国迈",
+    "迈阿",
+    "阿密",
+    "密国",
+    "国际",
+    "际机",
+    "机场"
+   ]
+  },
+  {
+   "id": "t6",
+   "rank": 6,
+   "title": "东航 C919 新开“上海虹桥 — 郑州”航线，机队规模国内最大",
+   "url": "https://www.ithome.com/1/027/309.htm",
+   "summary": "IT之家 11 月 15 日消息，据央视新闻报道，11 月 15 日，东航新开国产大飞机 C919“上海虹桥 — 郑州”航线。今天上午 10:02，首航航班平稳落地郑州新郑国际机场。 据悉，东航 C919“上海虹桥 — 郑州”航线的计划班次为每日 1 班，往返航班号 MU5395/MU5396，单程飞行时长约 1 小时 40 分钟。去程航班 08:05 从上…",
+   "category": "tech",
+   "lang": "zh",
+   "publishedAt": "2026-11-15T05:29:28.000Z",
+   "heat": 59,
+   "factors": {
+    "recency": 95,
+    "authority": 75,
+    "coverage": 0,
+    "signal": 30
+   },
+   "sources": [
+    {
+     "id": "ithome",
+     "name": "IT之家",
+     "url": "https://www.ithome.com/1/027/309.htm"
+    }
+   ],
+   "keywords": [
+    "c919",
+    "东航",
+    "新开",
+    "上海",
+    "海虹",
+    "虹桥",
+    "郑州",
+    "航线"
+   ]
+  },
+  {
+   "id": "t7",
+   "rank": 7,
+   "title": "实况平台 Twitch 联动《GTA 6》推出限定活动，将赠送超 1 万组游戏激活码",
+   "url": "https://www.ithome.com/1/027/313.htm",
+   "summary": "IT之家 11 月 15 日消息，Twitch 宣布将配合 Rockstar Games 旗下新作《GTA 6》发售推出一系列限定活动，从游戏正式发售的 11 月 19 日起至月底，平台将每天向观众赠送游戏激活码，总量将“超过 1 万组”。 此外，Twitch 还将于 11 月 18 日开启《GTA 6》主题 Twitch Drops 活动，玩家可以通过观看…",
+   "category": "tech",
+   "lang": "zh",
+   "publishedAt": "2026-11-15T05:59:38.000Z",
+   "heat": 58,
+   "factors": {
+    "recency": 98,
+    "authority": 75,
+    "coverage": 0,
+    "signal": 20
+   },
+   "sources": [
+    {
+     "id": "ithome",
+     "name": "IT之家",
+     "url": "https://www.ithome.com/1/027/313.htm"
+    }
+   ],
+   "keywords": [
+    "twitch",
+    "gta",
+    "实况",
+    "况平",
+    "平台",
+    "联动",
+    "推出",
+    "出限"
+   ]
+  },
+  {
+   "id": "t8",
+   "rank": 8,
+   "title": "宝马新世代 iX3 试驾车全国陆续到店，11 月 25 日上市",
+   "url": "https://www.ithome.com/1/027/311.htm",
+   "summary": "IT之家 11 月 15 日消息，据“宝马客”公众号消息，新世代 iX3 试驾车全国现已陆续到店，门店现阶段仅开放试驾预约登记，11 月 25 日新车正式上市之后开放试驾。 IT之家注意到，宝马集团此前宣布，新世代 BMW iX3 将于 11 月 25 日正式上市，试驾及客户交付同步启动，采用全国统一价模式，已预订客户可直接转大订。 新世代宝马 iX3 长轴…",
+   "category": "tech",
+   "lang": "zh",
+   "publishedAt": "2026-11-15T05:47:18.000Z",
+   "heat": 58,
+   "factors": {
+    "recency": 97,
+    "authority": 75,
+    "coverage": 0,
+    "signal": 22
+   },
+   "sources": [
+    {
+     "id": "ithome",
+     "name": "IT之家",
+     "url": "https://www.ithome.com/1/027/311.htm"
+    }
+   ],
+   "keywords": [
+    "ix3",
+    "宝马",
+    "马新",
+    "新世",
+    "世代",
+    "试驾",
+    "驾车",
+    "车全"
+   ]
+  },
+  {
+   "id": "t9",
+   "rank": 9,
+   "title": "郑州日产 27 款锋坦 Frontier Pro PHEV 新能源皮卡首发，2.0T 插混发动机",
+   "url": "https://www.ithome.com/1/027/308.htm",
+   "summary": "IT之家 11 月 15 日消息，11 月 13 日，日产汽车 NISSAN DAY 活动在珠海国际会展中心举行，郑州日产新车 27 款锋坦 Frontier Pro PHEV 迎来全球首秀。 据介绍，27 款锋坦 Frontier Pro PHEV 搭载 2.0T 插混专用发动机 + 采埃孚第四代 8HP 混动变速箱，系统综合功率 300kW，峰值扭矩 8…",
+   "category": "tech",
+   "lang": "zh",
+   "publishedAt": "2026-11-15T05:24:17.000Z",
+   "heat": 58,
+   "factors": {
+    "recency": 94,
+    "authority": 75,
+    "coverage": 0,
+    "signal": 26
+   },
+   "sources": [
+    {
+     "id": "ithome",
+     "name": "IT之家",
+     "url": "https://www.ithome.com/1/027/308.htm"
+    }
+   ],
+   "keywords": [
+    "frontier",
+    "pro",
+    "phev",
+    "2.0t",
+    "郑州",
+    "州日",
+    "日产",
+    "款锋"
+   ]
+  },
+  {
+   "id": "t10",
+   "rank": 10,
+   "title": "首次落地海南的“博博会”：一场展会与自贸港的“双向奔赴”",
+   "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732306.shtml",
+   "summary": "中新网海口11月15日电(记者 王子谦)第十一届中国博物馆及相关产品与技术博览会(简称“博博会”)正在海口举办。在海南农垦博物馆展台，不同省份的业内人士汇聚，畅谈文博数字化建设、展陈升级与馆际协同发展新思路。",
+   "category": "china",
+   "lang": "zh",
+   "publishedAt": "2026-11-15T04:16:37.000Z",
+   "heat": 58,
+   "factors": {
+    "recency": 80,
+    "authority": 80,
+    "coverage": 0,
+    "signal": 44
+   },
+   "sources": [
+    {
+     "id": "chinanews",
+     "name": "中国新闻网",
+     "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732306.shtml"
+    }
+   ],
+   "keywords": [
+    "首次",
+    "次落",
+    "落地",
+    "地海",
+    "海南",
+    "南的",
+    "博博",
+    "博会"
+   ]
+  },
+  {
+   "id": "t11",
+   "rank": 11,
+   "title": "我国新能源重卡单月渗透率超 50%，10 月新车销量中已占多数",
+   "url": "https://www.ithome.com/1/027/290.htm",
+   "summary": "IT之家 11 月 15 日消息，据中央广播电视总台中国之声报道，近日，中国汽车工业协会发布数据显示，10 月我国新能源重卡单月渗透率超过 50%，新能源车型在当月重卡新车销量中已占多数。 今年印发的《推动新能源重卡规模化应用实施方案》明确，到 2030 年，围绕国家高速公路网“5 射 4 纵 5 横”重点路段建设零碳公路运输通道 3 万公里，加大新能源重卡…",
+   "category": "tech",
+   "lang": "zh",
+   "publishedAt": "2026-11-15T03:12:30.000Z",
+   "heat": 57,
+   "factors": {
+    "recency": 79,
+    "authority": 75,
+    "coverage": 0,
+    "signal": 48
+   },
+   "sources": [
+    {
+     "id": "ithome",
+     "name": "IT之家",
+     "url": "https://www.ithome.com/1/027/290.htm"
+    }
+   ],
+   "keywords": [
+    "我国",
+    "国新",
+    "新能",
+    "能源",
+    "源重",
+    "重卡",
+    "卡单",
+    "单月"
+   ]
+  },
+  {
+   "id": "t12",
+   "rank": 12,
+   "title": "《英雄联盟：曙光》预告片发布：将上线全新客户端，更多详情明年 1 月揭晓",
+   "url": "https://www.ithome.com/1/027/250.htm",
+   "summary": "IT之家 11 月 15 日消息，《英雄联盟》2026 全球总决赛（S16）冠亚军决赛正在举行，官方发布《英雄联盟：曙光》预告片。 IT之家注意到，官方曾提到《英雄联盟》将迎来一次大规模更新，改动将覆盖客户端、召唤师峡谷、游戏玩法和新玩家体验，还承诺在今年的季中冠军赛和全球总决赛之间提供更多信息。 最新预告显示，《英雄联盟：曙光》明年将上线全新的客户端，召唤…",
+   "category": "tech",
+   "lang": "zh",
+   "publishedAt": "2026-11-14T23:09:14.000Z",
+   "heat": 57,
+   "factors": {
+    "recency": 58,
+    "authority": 75,
+    "coverage": 0,
+    "signal": 82
+   },
+   "sources": [
+    {
+     "id": "ithome",
+     "name": "IT之家",
+     "url": "https://www.ithome.com/1/027/250.htm"
+    }
+   ],
+   "keywords": [
+    "英雄",
+    "雄联",
+    "联盟",
+    "曙光",
+    "预告",
+    "告片",
+    "片发",
+    "发布"
+   ]
+  },
+  {
+   "id": "t13",
+   "rank": 13,
+   "title": "东航C919新开“上海虹桥—郑州”航线",
+   "url": "https://www.jiemian.com/article/15334039.html",
+   "summary": "11月15日，东航新开国产大飞机C919“上海虹桥—郑州”航线。今天上午10:02，首航航班平稳落地郑州新郑国际机场。据悉，东航C919“上海虹桥—郑州”航线的计划班次为每日1班，往返航班号MU5395/MU5396，单程飞行时长约1小时40分钟。去程航班08:05从上海虹桥国际机场起飞，09:55抵达郑州新郑国际机场；返程航班10:55从郑州起飞，12:4…",
+   "category": "china",
+   "lang": "zh",
+   "publishedAt": "2026-11-15T05:25:06.000Z",
+   "heat": 56,
+   "factors": {
+    "recency": 91,
+    "authority": 70,
+    "coverage": 0,
+    "signal": 30
+   },
+   "sources": [
+    {
+     "id": "jiemian",
+     "name": "界面新闻",
+     "url": "https://www.jiemian.com/article/15334039.html"
+    }
+   ],
+   "keywords": [
+    "c919",
+    "东航",
+    "新开",
+    "上海",
+    "海虹",
+    "虹桥",
+    "郑州",
+    "航线"
+   ]
+  },
+  {
+   "id": "t14",
+   "rank": 14,
+   "title": "B站“BLG 夺冠时刻”赠送 7 天大会员活动被挤爆，多名用户反馈仍抢不到",
+   "url": "https://www.ithome.com/1/027/306.htm",
+   "summary": "IT之家 11 月 15 日消息，在 2026 英雄联盟全球总决赛（S16）中，哔哩哔哩旗下战队 BLG（Bilibili Gaming）以 3:1 击败了韩国 LCK 赛区的 Gen.G 战队，夺得 S16 冠军宝座。 BLG 战队由B站于 2017 年 12 月组建，夺冠当日，B站宣布为所有人送大会员，今日中午 12 点起登录B站，搜索“大会员”即可免费…",
+   "category": "tech",
+   "lang": "zh",
+   "publishedAt": "2026-11-15T05:06:59.000Z",
+   "heat": 56,
+   "factors": {
+    "recency": 92,
+    "authority": 75,
+    "coverage": 0,
+    "signal": 20
+   },
+   "sources": [
+    {
+     "id": "ithome",
+     "name": "IT之家",
+     "url": "https://www.ithome.com/1/027/306.htm"
+    }
+   ],
+   "keywords": [
+    "blg",
+    "夺冠",
+    "冠时",
+    "时刻",
+    "赠送",
+    "天大",
+    "大会",
+    "会员"
+   ]
+  },
+  {
+   "id": "t15",
+   "rank": 15,
+   "title": "系列游戏首次：R 星称《GTA6》鼓励玩家共情",
+   "url": "https://www.ithome.com/1/027/273.htm",
+   "summary": "IT之家 11 月 15 日消息，据《卫报》近日报道，Rockstar North 工作室联合负责人罗布 · 尼尔森表示，《GTA6》将成为《GTA》系列游戏中，首款主动鼓励玩家产生共情的作品。 尼尔森透露，Rockstar 在《GTA6》中首次加入能够鼓励玩家产生共情的机制，使玩家的心境与杰森、露西亚联系起来。这名员工将两名主角描述成一对走投无路的情侣，他…",
+   "category": "tech",
+   "lang": "zh",
+   "publishedAt": "2026-11-15T01:42:49.000Z",
+   "heat": 56,
+   "factors": {
+    "recency": 71,
+    "authority": 75,
+    "coverage": 0,
+    "signal": 56
+   },
+   "sources": [
+    {
+     "id": "ithome",
+     "name": "IT之家",
+     "url": "https://www.ithome.com/1/027/273.htm"
+    }
+   ],
+   "keywords": [
+    "gta6",
+    "系列",
+    "列游",
+    "游戏",
+    "戏首",
+    "首次",
+    "星称",
+    "鼓励"
+   ]
+  },
+  {
+   "id": "t16",
+   "rank": 16,
+   "title": "LPL时隔五年重夺S赛冠军，撤资的赞助商真要拍大腿了",
+   "url": "https://www.jiemian.com/article/15333830.html",
+   "summary": "LPL太需要一个冠军了。",
+   "category": "china",
+   "lang": "zh",
+   "publishedAt": "2026-11-15T06:06:48.000Z",
+   "heat": 55,
+   "factors": {
+    "recency": 99,
+    "authority": 70,
+    "coverage": 0,
+    "signal": 10
+   },
+   "sources": [
+    {
+     "id": "jiemian",
+     "name": "界面新闻",
+     "url": "https://www.jiemian.com/article/15333830.html"
+    }
+   ],
+   "keywords": [
+    "lpl",
+    "时隔",
+    "隔五",
+    "五年",
+    "年重",
+    "重夺",
+    "赛冠",
+    "冠军"
+   ]
+  },
+  {
+   "id": "t17",
+   "rank": 17,
+   "title": "华为更多机型鸿蒙 HarmonyOS 7 系统“转正”，含 nova 12 / 13 系列、畅享 70X 等",
+   "url": "https://www.ithome.com/1/027/312.htm",
+   "summary": "IT之家 11 月 15 日消息，华为官网最新信息显示，鸿蒙 HarmonyOS 7 系统更多机型从公测转为正式版，覆盖 nova 12 / 13 系列、畅享 70X 等手机。 ▲ IT之家开箱：华为 nova 12 Ultra「12 号色」图赏IT之家附华为鸿蒙 HarmonyOS 7 最新适配机型清单如下： 正式版 HUAWEI Mate 80 系列 H…",
+   "category": "tech",
+   "lang": "zh",
+   "publishedAt": "2026-11-15T05:59:34.000Z",
+   "heat": 55,
+   "factors": {
+    "recency": 98,
+    "authority": 75,
+    "coverage": 0,
+    "signal": 8
+   },
+   "sources": [
+    {
+     "id": "ithome",
+     "name": "IT之家",
+     "url": "https://www.ithome.com/1/027/312.htm"
+    }
+   ],
+   "keywords": [
+    "harmonyos",
+    "nova",
+    "70x",
+    "华为",
+    "为更",
+    "更多",
+    "多机",
+    "机型"
+   ]
+  },
+  {
+   "id": "t18",
+   "rank": 18,
+   "title": "国产AI漫剧，抢占全球",
+   "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732321.shtml",
+   "summary": "中国新闻周刊记者：孟倩",
+   "category": "china",
+   "lang": "zh",
+   "publishedAt": "2026-11-15T05:55:30.000Z",
+   "heat": 54,
+   "factors": {
+    "recency": 97,
+    "authority": 80,
+    "coverage": 0,
+    "signal": 0
+   },
+   "sources": [
+    {
+     "id": "chinanews",
+     "name": "中国新闻网",
+     "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732321.shtml"
+    }
+   ],
+   "keywords": [
+    "国产",
+    "漫剧",
+    "抢占",
+    "占全",
+    "全球"
+   ]
+  },
+  {
+   "id": "t19",
+   "rank": 19,
+   "title": "科技巨头押注AI制药",
+   "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732320.shtml",
+   "summary": "中国新闻周刊记者：牛荷",
+   "category": "china",
+   "lang": "zh",
+   "publishedAt": "2026-11-15T05:52:20.000Z",
+   "heat": 54,
+   "factors": {
+    "recency": 96,
+    "authority": 80,
+    "coverage": 0,
+    "signal": 0
+   },
+   "sources": [
+    {
+     "id": "chinanews",
+     "name": "中国新闻网",
+     "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732320.shtml"
+    }
+   ],
+   "keywords": [
+    "科技",
+    "技巨",
+    "巨头",
+    "头押",
+    "押注",
+    "制药"
+   ]
+  },
+  {
+   "id": "t20",
+   "rank": 20,
+   "title": "千亿松发股份拟摘陶瓷招牌，“恒力系”如何把船厂装进A股？",
+   "url": "https://www.jiemian.com/article/15333692.html",
+   "summary": "“江苏首富”夫妇又给A股平台换了一块招牌。",
+   "category": "china",
+   "lang": "zh",
+   "publishedAt": "2026-11-15T05:16:25.000Z",
+   "heat": 54,
+   "factors": {
+    "recency": 90,
+    "authority": 70,
+    "coverage": 0,
+    "signal": 22
+   },
+   "sources": [
+    {
+     "id": "jiemian",
+     "name": "界面新闻",
+     "url": "https://www.jiemian.com/article/15333692.html"
+    }
+   ],
+   "keywords": [
+    "千亿",
+    "亿松",
+    "松发",
+    "发股",
+    "股份",
+    "份拟",
+    "拟摘",
+    "摘陶"
+   ]
+  },
+  {
+   "id": "t21",
+   "rank": 21,
+   "title": "专场活动之“科创大连”举行",
+   "url": "https://www.chinanews.com.cn/txy/2026/11-15/10732312.shtml",
+   "summary": "作为主题月继“寻美大连”“新善大连”之后的又一场专场活动，本场活动聚焦“科创大连”品牌。科创大连专场以校地科创协同、数字赋能创新、产业资源联动为牵引，进一步释放新阶层人才荟萃、智力密集、创新活跃的独特优势，展示全市新的社会阶层人士立足岗位建功、聚力科创赋能、助力城市振兴的“建设力”。",
+   "category": "china",
+   "lang": "zh",
+   "publishedAt": "2026-11-15T04:54:59.000Z",
+   "heat": 54,
+   "factors": {
+    "recency": 86,
+    "authority": 80,
+    "coverage": 0,
+    "signal": 18
+   },
+   "sources": [
+    {
+     "id": "chinanews",
+     "name": "中国新闻网",
+     "url": "https://www.chinanews.com.cn/txy/2026/11-15/10732312.shtml"
+    }
+   ],
+   "keywords": [
+    "专场",
+    "场活",
+    "活动",
+    "动之",
+    "科创",
+    "创大",
+    "大连",
+    "举行"
+   ]
+  },
+  {
+   "id": "t22",
+   "rank": 22,
+   "title": "“侨史大家说”走近孙中山与爱国华侨→",
+   "url": "https://www.chinanews.com.cn/txy/2026/11-15/10732307.shtml",
+   "summary": "为纪念孙中山先生诞辰160周年，进一步弘扬侨界爱国精神，凝聚侨心侨力，近日，“侨史大家说”第三讲在孙中山行馆举办。",
+   "category": "china",
+   "lang": "zh",
+   "publishedAt": "2026-11-15T04:48:30.000Z",
+   "heat": 54,
+   "factors": {
+    "recency": 85,
+    "authority": 80,
+    "coverage": 0,
+    "signal": 18
+   },
+   "sources": [
+    {
+     "id": "chinanews",
+     "name": "中国新闻网",
+     "url": "https://www.chinanews.com.cn/txy/2026/11-15/10732307.shtml"
+    }
+   ],
+   "keywords": [
+    "侨史",
+    "史大",
+    "大家",
+    "家说",
+    "走近",
+    "近孙",
+    "孙中",
+    "中山"
+   ]
+  },
+  {
+   "id": "t23",
+   "rank": 23,
+   "title": "华为何刚：鸿蒙生态用户数已达 9980 万，预计再过几天就能突破 1 亿",
+   "url": "https://www.ithome.com/1/027/302.htm",
+   "summary": "IT之家 11 月 15 日消息，据爱范儿报道，华为终端 BG CEO 何刚在南京大学透露，截至当天，鸿蒙生态用户数已经达到 9980 万，距离 1 亿大关仅差 20 万。他预计，再过几天就能突破 1 亿。 报道提到，何刚当天出席了 2026 中国高校计算机大赛人工智能创意赛全国总决赛，这也是华为首次赞助该赛事。 华为官网披露，截至 2026 年 6 月，全…",
+   "category": "tech",
+   "lang": "zh",
+   "publishedAt": "2026-11-15T04:25:40.000Z",
+   "heat": 54,
+   "factors": {
+    "recency": 87,
+    "authority": 75,
+    "coverage": 0,
+    "signal": 22
+   },
+   "sources": [
+    {
+     "id": "ithome",
+     "name": "IT之家",
+     "url": "https://www.ithome.com/1/027/302.htm"
+    }
+   ],
+   "keywords": [
+    "9980",
+    "华为",
+    "为何",
+    "何刚",
+    "鸿蒙",
+    "蒙生",
+    "生态",
+    "态用"
+   ]
+  },
+  {
+   "id": "t24",
+   "rank": 24,
+   "title": "国际永久编号361707号小行星被命名为“中国药科大学星”",
+   "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732297.shtml",
+   "summary": "中新网南京11月15日电(泱波 吴旻玥)14日，中国药科大学星命名仪式在中国药科大学江宁校区举行，国际永久编号361707号的小行星获名“中国药科大学星”(Pharmauni)。活动现场，中国科学院紫金山天文台副台长吴雪峰现场宣读了该星的国际命名公报并向学校颁发命名证书。",
+   "category": "china",
+   "lang": "zh",
+   "publishedAt": "2026-11-15T04:04:38.000Z",
+   "heat": 54,
+   "factors": {
+    "recency": 78,
+    "authority": 80,
+    "coverage": 0,
+    "signal": 30
+   },
+   "sources": [
+    {
+     "id": "chinanews",
+     "name": "中国新闻网",
+     "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732297.shtml"
+    }
+   ],
+   "keywords": [
+    "361707",
+    "国际",
+    "际永",
+    "永久",
+    "久编",
+    "编号",
+    "号小",
+    "小行"
+   ]
+  },
+  {
+   "id": "t25",
+   "rank": 25,
+   "title": "起亚成为韩国首家电动化汽车年销量突破 30 万辆的车企，同比增长 41.9%",
+   "url": "https://www.ithome.com/1/027/284.htm",
+   "summary": "IT之家 11 月 15 日消息，起亚（KIA）今日公布数据显示，截至 2026 年 11 月 9 日，该公司在韩国本土的电动化汽车累计销量达到 30.48 万辆，同比增长 41.9%，是首家在韩国市场实现电动化汽车突破 30 万辆的整车品牌。 IT之家注意到，起亚的电动化汽车在韩国市场的年销量于 2021 年达到 10 万 9741 辆，首次突破 10 万…",
+   "category": "tech",
+   "lang": "zh",
+   "publishedAt": "2026-11-15T02:53:38.000Z",
+   "heat": 54,
+   "factors": {
+    "recency": 77,
+    "authority": 75,
+    "coverage": 0,
+    "signal": 38
+   },
+   "sources": [
+    {
+     "id": "ithome",
+     "name": "IT之家",
+     "url": "https://www.ithome.com/1/027/284.htm"
+    }
+   ],
+   "keywords": [
+    "41.9",
+    "起亚",
+    "亚成",
+    "成为",
+    "为韩",
+    "韩国",
+    "国首",
+    "首家"
+   ]
+  },
+  {
+   "id": "t26",
+   "rank": 26,
+   "title": "IT早报 1115：SpaceX 首次完成“筷子夹星舰飞船”；百万级 CAR-T 抗癌药首次进医保；古尔曼重申苹果 iPhone 18 明年春发布；比亚迪辟谣收购某数字能源...",
+   "url": "https://www.ithome.com/1/027/257.htm",
+   "summary": "“IT早报”时间，大家好，现在是 2026 年 11 月 15 日星期日，今天的重要科技资讯有： 1. 创造历史：美国 SpaceX 首次实现筷子夹星舰飞船 SpaceX 在星舰第 15 次试飞中首次用发射塔“筷子”机械臂捕获轨道返回的星舰上面级，虽未完全回收整枚火箭，但仍是星舰项目重要里程碑，目前正调查助推器中止着陆的原因。>> 查看详情 2. 配 A20…",
+   "category": "tech",
+   "lang": "zh",
+   "publishedAt": "2026-11-14T23:55:12.000Z",
+   "heat": 54,
+   "factors": {
+    "recency": 62,
+    "authority": 75,
+    "coverage": 0,
+    "signal": 60
+   },
+   "sources": [
+    {
+     "id": "ithome",
+     "name": "IT之家",
+     "url": "https://www.ithome.com/1/027/257.htm"
+    }
+   ],
+   "keywords": [
+    "1115",
+    "spacex",
+    "car-t",
+    "iphone",
+    "早报",
+    "首次",
+    "次完",
+    "完成"
+   ]
+  },
+  {
+   "id": "t27",
+   "rank": 27,
+   "title": "中科曙光万伟：高速互连可破解算力集群规模瓶颈",
+   "url": "https://www.jiemian.com/article/15334018.html",
+   "summary": "11月15日，在第八届中国超级算力大会（ChinaSC 2026）暨中国智能计算产业联盟理事会年会上，中科曙光高速网络互联产品部总工程师万伟提出高速互连是算力基础设施实现规模扩展的关键，需要通过系统级创新，让更大规模的计算资源高效协作。 万伟表示，中科曙光自研的scaleFabric高速网络将组网架构与通信优化相结合，减少计算资源之间的通信等待，并通过故障快…",
+   "category": "china",
+   "lang": "zh",
+   "publishedAt": "2026-11-15T05:48:37.000Z",
+   "heat": 53,
+   "factors": {
+    "recency": 95,
+    "authority": 70,
+    "coverage": 0,
+    "signal": 10
+   },
+   "sources": [
+    {
+     "id": "jiemian",
+     "name": "界面新闻",
+     "url": "https://www.jiemian.com/article/15334018.html"
+    }
+   ],
+   "keywords": [
+    "中科",
+    "科曙",
+    "曙光",
+    "光万",
+    "万伟",
+    "高速",
+    "速互",
+    "互连"
+   ]
+  },
+  {
+   "id": "t28",
+   "rank": 28,
+   "title": "王牌飞行员王延周的传奇人生",
+   "url": "https://www.chinanews.com.cn/txy/2026/11-15/10732318.shtml",
+   "summary": "11月11日",
+   "category": "china",
+   "lang": "zh",
+   "publishedAt": "2026-11-15T05:04:55.000Z",
+   "heat": 53,
+   "factors": {
+    "recency": 88,
+    "authority": 80,
+    "coverage": 0,
+    "signal": 10
+   },
+   "sources": [
+    {
+     "id": "chinanews",
+     "name": "中国新闻网",
+     "url": "https://www.chinanews.com.cn/txy/2026/11-15/10732318.shtml"
+    }
+   ],
+   "keywords": [
+    "王牌",
+    "牌飞",
+    "飞行",
+    "行员",
+    "员王",
+    "王延",
+    "延周",
+    "周的"
+   ]
+  },
+  {
+   "id": "t29",
+   "rank": 29,
+   "title": "华为 Mate X8 大折叠手机今日亮相，消息称典藏版本支持睿影 Z10 模块相机",
+   "url": "https://www.ithome.com/1/027/304.htm",
+   "summary": "IT之家 11 月 15 日消息，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东今日发布视频，回顾了华为 Mate X 系列折叠屏手机走过的岁月，并宣布 Mate X8 新机“就要来了”。 余承东还在视频的结尾公开了 Mate X8 折叠屏手机外观，他表示，新机在屏幕、拍照、性能等方面又有新的突破。 据博主 @RuryRen 透露，华为 Ma…",
+   "category": "tech",
+   "lang": "zh",
+   "publishedAt": "2026-11-15T04:52:14.000Z",
+   "heat": 53,
+   "factors": {
+    "recency": 90,
+    "authority": 75,
+    "coverage": 0,
+    "signal": 12
+   },
+   "sources": [
+    {
+     "id": "ithome",
+     "name": "IT之家",
+     "url": "https://www.ithome.com/1/027/304.htm"
+    }
+   ],
+   "keywords": [
+    "mate",
+    "z10",
+    "华为",
+    "大折",
+    "折叠",
+    "叠手",
+    "手机",
+    "机今"
+   ]
+  },
+  {
+   "id": "t30",
+   "rank": 30,
+   "title": "苹果智能家庭中枢 HomeView 首批评测出炉：Siri AI 问题频出，隐私问题引担忧",
+   "url": "https://www.ithome.com/1/027/294.htm",
+   "summary": "IT之家 11 月 15 日消息，苹果首款智能家庭中枢 HomeView 已经于 11 月 13 日在海外上市，配备 7 英寸 Liquid Retina 显示屏、A18 芯片、人脸识别功能，但外界期待已久的 Siri AI 仍处于测试阶段，如今出炉的首批媒体评测、用户体验说明，苹果还有大量工作没有完成。 NBC 首席科技分析师 Joanna Stern 表…",
+   "category": "tech",
+   "lang": "zh",
+   "publishedAt": "2026-11-15T03:31:34.000Z",
+   "heat": 53,
+   "factors": {
+    "recency": 81,
+    "authority": 75,
+    "coverage": 0,
+    "signal": 26
+   },
+   "sources": [
+    {
+     "id": "ithome",
+     "name": "IT之家",
+     "url": "https://www.ithome.com/1/027/294.htm"
+    }
+   ],
+   "keywords": [
+    "homeview",
+    "siri",
+    "苹果",
+    "果智",
+    "智能",
+    "能家",
+    "家庭",
+    "庭中"
+   ]
+  },
+  {
+   "id": "t31",
+   "rank": 31,
+   "title": "泽连斯基再指责SpaceX 称乌克兰使用“星盾”遭限速",
+   "url": "https://www.chinanews.com.cn/gj/2026/11-15/10732299.shtml",
+   "summary": "中新网11月15日电 据路透社报道，乌克兰总统泽连斯基14日再次指责美国太空探索技术公司(SpaceX)，称该公司对其军用级“星盾”卫星终端实施的速度限制，削弱了乌克兰关键的防空能力。",
+   "category": "world",
+   "lang": "zh",
+   "publishedAt": "2026-11-15T03:50:31.000Z",
+   "heat": 51,
+   "factors": {
+    "recency": 80,
+    "authority": 75,
+    "coverage": 0,
+    "signal": 18
+   },
+   "sources": [
+    {
+     "id": "chinanews-world",
+     "name": "中新网·国际",
+     "url": "https://www.chinanews.com.cn/gj/2026/11-15/10732299.shtml"
+    }
+   ],
+   "keywords": [
+    "spacex",
+    "泽连",
+    "连斯",
+    "斯基",
+    "基再",
+    "再指",
+    "指责",
+    "称乌"
+   ]
+  },
+  {
+   "id": "t32",
+   "rank": 32,
+   "title": "原作者执导，原版演员回归！游戏版《东北往事》登陆主机平台",
+   "url": "https://www.gcores.com/articles/222316",
+   "summary": "由 NiuGamer 发行、二狗科技开发的真人互动影视作品《东北往事》（DONGDA Gangster）现已正式登陆 Xbox 与 PlayStation 5 平台，Nintendo Switch 版将于11月26日正式发售。游戏将玩家带回上世纪80、90年代暗流汹涌的中国东北街头，在这个新旧秩序交替的时代，你将扮演主角赵红兵，在兄弟义气、地盘争夺与红颜羁绊…",
+   "category": "game",
+   "lang": "zh",
+   "publishedAt": "2026-11-15T02:00:00.000Z",
+   "heat": 51,
+   "factors": {
+    "recency": 76,
+    "authority": 80,
+    "coverage": 0,
+    "signal": 22
+   },
+   "sources": [
+    {
+     "id": "gcores",
+     "name": "机核 GCORES",
+     "url": "https://www.gcores.com/articles/222316"
+    }
+   ],
+   "keywords": [
+    "原作",
+    "作者",
+    "者执",
+    "执导",
+    "原版",
+    "版演",
+    "演员",
+    "员回"
+   ]
+  },
+  {
+   "id": "t33",
+   "rank": 33,
+   "title": "US aviation shutdown blamed on L3 Harris installed router",
+   "url": "https://www.koreatimes.co.kr/world/20261115/us-aviation-shutdown-blamed-on-l3-harris-installed-router?utm_source=rss",
+   "summary": "WASHINGTON — A massive, nearly five-hour shutdown of the US aviation system that has disrupted more than 20,000 flights since Friday may have been the fault of a single router inst…",
+   "category": "world",
+   "lang": "en",
+   "publishedAt": "2026-11-15T06:07:03.000Z",
+   "heat": 50,
+   "factors": {
+    "recency": 99,
+    "authority": 60,
+    "coverage": 0,
+    "signal": 0
+   },
+   "sources": [
+    {
+     "id": "koreatimes",
+     "name": "Korea Times",
+     "url": "https://www.koreatimes.co.kr/world/20261115/us-aviation-shutdown-blamed-on-l3-harris-installed-router?utm_source=rss"
+    }
+   ],
+   "keywords": [
+    "aviation",
+    "shutdown",
+    "blamed",
+    "harris",
+    "installed",
+    "router"
+   ]
+  },
+  {
+   "id": "t34",
+   "rank": 34,
+   "title": "After midterm sweep, Democrats split over Trump, cost-cutting agenda",
+   "url": "https://www.koreatimes.co.kr/world/20261115/after-midterm-sweep-democrats-split-over-trump-cost-cutting-agenda?utm_source=rss",
+   "summary": "DENVER — Fresh from a midterm election landslide, Democrats met in Denver this week united in wanting to deliver voters relief from high costs, but split over how to achieve that…",
+   "category": "world",
+   "lang": "en",
+   "publishedAt": "2026-11-15T06:07:03.000Z",
+   "heat": 50,
+   "factors": {
+    "recency": 99,
+    "authority": 60,
+    "coverage": 0,
+    "signal": 0
+   },
+   "sources": [
+    {
+     "id": "koreatimes",
+     "name": "Korea Times",
+     "url": "https://www.koreatimes.co.kr/world/20261115/after-midterm-sweep-democrats-split-over-trump-cost-cutting-agenda?utm_source=rss"
+    }
+   ],
+   "keywords": [
+    "after",
+    "midterm",
+    "sweep",
+    "democrats",
+    "split",
+    "over",
+    "trump",
+    "cost-cutting"
+   ]
+  },
+  {
+   "id": "t35",
+   "rank": 35,
+   "title": "Riots in France: How anti-government protests spiraled out of control",
+   "url": "https://www.koreatimes.co.kr/world/20261115/riots-in-france-how-anti-government-protests-spiraled-out-of-control?utm_source=rss",
+   "summary": "PARIS — Smashed windows and ransacked shops. Bloodied teenage protesters. A city hall on fire. Such scenes shocked France as rioting erupted last month during nationwide protests o…",
+   "category": "world",
+   "lang": "en",
+   "publishedAt": "2026-11-15T06:07:03.000Z",
+   "heat": 50,
+   "factors": {
+    "recency": 99,
+    "authority": 60,
+    "coverage": 0,
+    "signal": 0
+   },
+   "sources": [
+    {
+     "id": "koreatimes",
+     "name": "Korea Times",
+     "url": "https://www.koreatimes.co.kr/world/20261115/riots-in-france-how-anti-government-protests-spiraled-out-of-control?utm_source=rss"
+    }
+   ],
+   "keywords": [
+    "riots",
+    "france",
+    "how",
+    "anti-government",
+    "protests",
+    "spiraled",
+    "out",
+    "control"
+   ]
+  },
+  {
+   "id": "t36",
+   "rank": 36,
+   "title": "Musk says Nvidia will lose 'critical' deals without Jensen Huang",
+   "url": "https://www.koreatimes.co.kr/world/20261115/musk-says-nvidia-will-lose-critical-deals-without-jensen-huang?utm_source=rss",
+   "summary": "Elon Musk said chipmaker Nvidia would lose \"critical\" deals without its now ousted CEO Jensen Huang, in a post on X on Saturday. Musk said that while Huang drove supply chain \"bril…",
+   "category": "world",
+   "lang": "en",
+   "publishedAt": "2026-11-15T06:07:03.000Z",
+   "heat": 50,
+   "factors": {
+    "recency": 99,
+    "authority": 60,
+    "coverage": 0,
+    "signal": 0
+   },
+   "sources": [
+    {
+     "id": "koreatimes",
+     "name": "Korea Times",
+     "url": "https://www.koreatimes.co.kr/world/20261115/musk-says-nvidia-will-lose-critical-deals-without-jensen-huang?utm_source=rss"
+    }
+   ],
+   "keywords": [
+    "musk",
+    "says",
+    "nvidia",
+    "will",
+    "lose",
+    "critical'",
+    "deals",
+    "without"
+   ]
+  },
+  {
+   "id": "t37",
+   "rank": 37,
+   "title": "Air travel issues to persist well into Sunday, officials say, with thousands of flights affected",
+   "url": "https://www.koreatimes.co.kr/world/20261115/air-travel-issues-to-persist-well-into-sunday-officials-say-with-thousands-of-flights-affected?utm_source=rss",
+   "summary": "WASHINGTON — The head of the FAA predicted that US air travel would not return to normal schedules until late Sunday as the aviation system gradually recovers from a nationwide fli…",
+   "category": "world",
+   "lang": "en",
+   "publishedAt": "2026-11-15T06:07:03.000Z",
+   "heat": 50,
+   "factors": {
+    "recency": 99,
+    "authority": 60,
+    "coverage": 0,
+    "signal": 0
+   },
+   "sources": [
+    {
+     "id": "koreatimes",
+     "name": "Korea Times",
+     "url": "https://www.koreatimes.co.kr/world/20261115/air-travel-issues-to-persist-well-into-sunday-officials-say-with-thousands-of-flights-affected?utm_source=rss"
+    }
+   ],
+   "keywords": [
+    "air",
+    "travel",
+    "issues",
+    "persist",
+    "well",
+    "into",
+    "sunday",
+    "officials"
+   ]
+  },
+  {
+   "id": "t38",
+   "rank": 38,
+   "title": "BLG斩获《英雄联盟》S16全球总决赛冠军",
+   "url": "https://www.gcores.com/articles/222372",
+   "summary": "哔哩哔哩电竞 BLG 于今日在纽约布鲁克林巴克莱中心以3比1击败韩国 LCK 赛区的 Gen.G， 首次夺得《英雄联盟》全球总决赛冠军。同时，FMVP 给到了 Knight 选手。 在此前的半决赛中，BLG 以3:1击败卫冕冠军T1，这也是 T1 首次在全球总决赛五局三胜淘汰赛中输给 LPL 队伍，T1 连续三年夺冠的纪录随之终结。加上决赛，BLG 在本届赛…",
+   "category": "game",
+   "lang": "zh",
+   "publishedAt": "2026-11-15T00:02:03.000Z",
+   "heat": 50,
+   "factors": {
+    "recency": 66,
+    "authority": 80,
+    "coverage": 0,
+    "signal": 30
+   },
+   "sources": [
+    {
+     "id": "gcores",
+     "name": "机核 GCORES",
+     "url": "https://www.gcores.com/articles/222372"
+    }
+   ],
+   "keywords": [
+    "blg",
+    "s16",
+    "斩获",
+    "英雄",
+    "雄联",
+    "联盟",
+    "全球",
+    "球总"
+   ]
+  },
+  {
+   "id": "t39",
+   "rank": 39,
+   "title": "以军宣布：打死哈马斯一高级军事指挥官",
+   "url": "https://www.chinanews.com.cn/gj/2026/11-15/10732298.shtml",
+   "summary": "中新网11月15日电 综合外媒报道，以色列国防军与以色列国家安全总局(辛贝特)15日在联合声明中称，以军打死了巴勒斯坦伊斯兰抵抗运动(哈马斯)一名高级军事指挥官。",
+   "category": "world",
+   "lang": "zh",
+   "publishedAt": "2026-11-15T03:49:37.000Z",
+   "heat": 49,
+   "factors": {
+    "recency": 80,
+    "authority": 75,
+    "coverage": 0,
+    "signal": 10
+   },
+   "sources": [
+    {
+     "id": "chinanews-world",
+     "name": "中新网·国际",
+     "url": "https://www.chinanews.com.cn/gj/2026/11-15/10732298.shtml"
+    }
+   ],
+   "keywords": [
+    "以军",
+    "军宣",
+    "宣布",
+    "打死",
+    "死哈",
+    "哈马",
+    "马斯",
+    "斯一"
+   ]
+  },
+  {
+   "id": "t40",
+   "rank": 40,
+   "title": "GTA 6 Is Like The Olympics – “A Rare Cultural Moment” With Massive Ripple Effects",
+   "url": "https://www.gamespot.com/articles/gta-6-is-like-the-olympics-a-rare-cultural-moment-with-massive-ripple-effects/",
+   "summary": "After years of development, multiple delays, and what can only be assumed to be one of the biggest production budgets ever, Rockstar's Grand Theft Auto 6 launches on November 19. T…",
+   "category": "game",
+   "lang": "en",
+   "publishedAt": "2026-11-15T03:00:00.000Z",
+   "heat": 49,
+   "factors": {
+    "recency": 81,
+    "authority": 75,
+    "coverage": 0,
+    "signal": 8
+   },
+   "sources": [
+    {
+     "id": "gamespot",
+     "name": "GameSpot",
+     "url": "https://www.gamespot.com/articles/gta-6-is-like-the-olympics-a-rare-cultural-moment-with-massive-ripple-effects/"
+    }
+   ],
+   "keywords": [
+    "gta",
+    "like",
+    "the",
+    "olympics",
+    "rare",
+    "cultural",
+    "moment",
+    "with"
+   ]
+  }
+ ]
+}
