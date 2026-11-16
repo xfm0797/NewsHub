@@ -1,0 +1,1388 @@
+{
+ "date": "2026-11-16",
+ "generatedAt": "2026-11-16T01:51:50+00:00",
+ "stats": {
+  "total": 60,
+  "sources": 16,
+  "sourcesOk": 15,
+  "categories": {
+   "china": 15,
+   "world": 15,
+   "tech": 15,
+   "game": 15
+  },
+  "windowHours": 48
+ },
+ "topics": [
+  {
+   "id": "t1",
+   "rank": 1,
+   "title": "国家统计局：10月份各线城市商品住宅销售价格同比降幅继续收窄",
+   "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732592.shtml",
+   "summary": "中新网11月16日电 据国家统计局网站消息，国家统计局城市司高级统计师杨彩芳解读2026年10月份商品住宅销售价格变动情况统计数据。2026年10月份，70个大中城市中，一线城市商品住宅销售价格环比总体上涨，二三线城市环比下降，一二三线城市同比降幅继续收窄。",
+   "category": "china",
+   "lang": "zh",
+   "publishedAt": "2026-11-16T01:30:41.000Z",
+   "heat": 69,
+   "factors": {
+    "recency": 96,
+    "authority": 80,
+    "coverage": 57,
+    "signal": 22
+   },
+   "sources": [
+    {
+     "id": "chinanews",
+     "name": "中国新闻网",
+     "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732592.shtml"
+    },
+    {
+     "id": "jiemian",
+     "name": "界面新闻",
+     "url": "https://www.jiemian.com/article/15335098.html"
+    }
+   ],
+   "keywords": [
+    "国家",
+    "家统",
+    "统计",
+    "计局",
+    "月份",
+    "份各",
+    "各线",
+    "线城"
+   ]
+  },
+  {
+   "id": "t2",
+   "rank": 2,
+   "title": "11月16日央行开展4600亿元隔夜逆回购操作",
+   "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732586.shtml",
+   "summary": "中新网11月16日电 据中国人民银行网站消息，2026年11月16日中国人民银行以固定利率、数量招标方式开展了4600亿元隔夜逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+   "category": "china",
+   "lang": "zh",
+   "publishedAt": "2026-11-16T01:22:16.000Z",
+   "heat": 68,
+   "factors": {
+    "recency": 94,
+    "authority": 80,
+    "coverage": 57,
+    "signal": 22
+   },
+   "sources": [
+    {
+     "id": "chinanews",
+     "name": "中国新闻网",
+     "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732586.shtml"
+    },
+    {
+     "id": "jiemian",
+     "name": "界面新闻",
+     "url": "https://www.jiemian.com/article/15335006.html"
+    }
+   ],
+   "keywords": [
+    "4600",
+    "日央",
+    "央行",
+    "行开",
+    "开展",
+    "亿元",
+    "元隔",
+    "隔夜"
+   ]
+  },
+  {
+   "id": "t3",
+   "rank": 3,
+   "title": "华为 Mate X8 及全场景新品发布会定档 11 月 24 日，大折叠旗舰全方位焕新",
+   "url": "https://www.ithome.com/1/027/493.htm",
+   "summary": "IT之家 11 月 16 日消息，华为今日官宣，Mate X8 及全场景新品发布会定档 11 月 24 日 14:30。 华为董事、终端 BG CEO 何刚表示，作为华为大折叠旗舰，Mate X 系列 8 年 8 代一路走来，已经成为 2,000 万用户手里的主力大屏。Mate X8 在外观、屏幕、性能、影像… 会给大家带来全方位的焕新感。 华为常务董事、产…",
+   "category": "tech",
+   "lang": "zh",
+   "publishedAt": "2026-11-16T01:03:53.000Z",
+   "heat": 66,
+   "factors": {
+    "recency": 94,
+    "authority": 75,
+    "coverage": 0,
+    "signal": 64
+   },
+   "sources": [
+    {
+     "id": "ithome",
+     "name": "IT之家",
+     "url": "https://www.ithome.com/1/027/493.htm"
+    }
+   ],
+   "keywords": [
+    "mate",
+    "华为",
+    "及全",
+    "全场",
+    "场景",
+    "景新",
+    "新品",
+    "品发"
+   ]
+  },
+  {
+   "id": "t4",
+   "rank": 4,
+   "title": "尚界 Z7T 星野套装展车陆续到店，11 月 20 日华为星芒品牌发布会上市",
+   "url": "https://www.ithome.com/1/027/481.htm",
+   "summary": "IT之家 11 月 16 日消息，尚界汽车今日宣布，尚界 Z7T 星野套装全国首批展车已陆续到店（文末附门店信息），将于 11 月 20 日 14:30 鸿蒙智行享界 V8 及星芒品牌发布会正式上市。 参考IT之家此前报道，尚界 Z7T 是一款猎装车型，于今年 4 月上市，售价 22.98 万元起。尚界 Z7 全系标配华为乾崑智驾 ADS 4.1、华为巨鲸…",
+   "category": "tech",
+   "lang": "zh",
+   "publishedAt": "2026-11-16T00:10:34.000Z",
+   "heat": 64,
+   "factors": {
+    "recency": 88,
+    "authority": 75,
+    "coverage": 0,
+    "signal": 64
+   },
+   "sources": [
+    {
+     "id": "ithome",
+     "name": "IT之家",
+     "url": "https://www.ithome.com/1/027/481.htm"
+    }
+   ],
+   "keywords": [
+    "z7t",
+    "尚界",
+    "星野",
+    "野套",
+    "套装",
+    "装展",
+    "展车",
+    "车陆"
+   ]
+  },
+  {
+   "id": "t5",
+   "rank": 5,
+   "title": "PC Mag 调查：约 1250 万美国人计划在《GTA6》发售日请假或缺课",
+   "url": "https://www.ithome.com/1/027/486.htm",
+   "summary": "IT之家 11 月 16 日消息，科技媒体 PC Mag 近日发布调查报告，显示上千万美国人计划在《GTA6》11 月 19 日发售当日请假或调整上班、上学时间，只为第一时间体验这款开放世界大作。 据报道，8% 美国成年玩家计划在 11 月 19 日当天请带薪假，或者调整工作、上学时间，以便第一时间玩上《GTA6》。经过计算，这意味着大约有 1250 万美国…",
+   "category": "tech",
+   "lang": "zh",
+   "publishedAt": "2026-11-16T00:44:22.000Z",
+   "heat": 61,
+   "factors": {
+    "recency": 92,
+    "authority": 75,
+    "coverage": 0,
+    "signal": 46
+   },
+   "sources": [
+    {
+     "id": "ithome",
+     "name": "IT之家",
+     "url": "https://www.ithome.com/1/027/486.htm"
+    }
+   ],
+   "keywords": [
+    "mag",
+    "1250",
+    "gta6",
+    "调查",
+    "万美",
+    "美国",
+    "国人",
+    "人计"
+   ]
+  },
+  {
+   "id": "t6",
+   "rank": 6,
+   "title": "第49届东盟峰会在菲律宾马尼拉开幕",
+   "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-16/1210887.shtml",
+   "summary": "",
+   "category": "china",
+   "lang": "zh",
+   "publishedAt": "2026-11-16T00:39:56.000Z",
+   "heat": 61,
+   "factors": {
+    "recency": 87,
+    "authority": 80,
+    "coverage": 0,
+    "signal": 48
+   },
+   "sources": [
+    {
+     "id": "chinanews",
+     "name": "中国新闻网",
+     "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-16/1210887.shtml"
+    }
+   ],
+   "keywords": [
+    "届东",
+    "东盟",
+    "盟峰",
+    "峰会",
+    "会在",
+    "在菲",
+    "菲律",
+    "律宾"
+   ]
+  },
+  {
+   "id": "t7",
+   "rank": 7,
+   "title": "2026重庆武隆芙蓉湖铁人三项公开赛鸣枪开赛 中外“铁人”展开角逐",
+   "url": "https://www.chinanews.com.cn/tp/2026/11-16/10732576.shtml",
+   "summary": "图为选手进行游泳赛段较量。(无人机照片)中新社记者 肖江川 摄 图为选手进行游泳赛段较量。(无人机照片)中新社记者 肖江川 摄 图为选手进行游泳赛段较量。(无人机照片)中新社记者 肖江川 摄 图为选手进行自行车赛段较量。(无人机照片)中新社记者 肖江川 摄 图为选手进行跑步赛段较量。(无人机照片)中新社记者 肖江川 摄",
+   "category": "china",
+   "lang": "zh",
+   "publishedAt": "2026-11-16T01:29:04.000Z",
+   "heat": 60,
+   "factors": {
+    "recency": 96,
+    "authority": 80,
+    "coverage": 0,
+    "signal": 30
+   },
+   "sources": [
+    {
+     "id": "chinanews",
+     "name": "中国新闻网",
+     "url": "https://www.chinanews.com.cn/tp/2026/11-16/10732576.shtml"
+    }
+   ],
+   "keywords": [
+    "2026",
+    "重庆",
+    "庆武",
+    "武隆",
+    "隆芙",
+    "芙蓉",
+    "蓉湖",
+    "湖铁"
+   ]
+  },
+  {
+   "id": "t8",
+   "rank": 8,
+   "title": "“绑沙袋跑步瘦得更快”，是真的吗？医生提醒",
+   "url": "https://www.chinanews.com.cn/life/2026/11-16/10732593.shtml",
+   "summary": "“绑沙袋跑步瘦得更快”，是真的吗",
+   "category": "china",
+   "lang": "zh",
+   "publishedAt": "2026-11-16T01:35:45.000Z",
+   "heat": 59,
+   "factors": {
+    "recency": 97,
+    "authority": 80,
+    "coverage": 0,
+    "signal": 22
+   },
+   "sources": [
+    {
+     "id": "chinanews",
+     "name": "中国新闻网",
+     "url": "https://www.chinanews.com.cn/life/2026/11-16/10732593.shtml"
+    }
+   ],
+   "keywords": [
+    "绑沙",
+    "沙袋",
+    "袋跑",
+    "跑步",
+    "步瘦",
+    "瘦得",
+    "得更",
+    "更快"
+   ]
+  },
+  {
+   "id": "t9",
+   "rank": 9,
+   "title": "11月16日人民币对美元中间价报6.7141 上调11个基点",
+   "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732583.shtml",
+   "summary": "中新网11月16日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年11月16日银行间外汇市场人民币汇率中间价为：1美元对人民币6.7141元，上调11个基点。",
+   "category": "china",
+   "lang": "zh",
+   "publishedAt": "2026-11-16T01:35:05.000Z",
+   "heat": 59,
+   "factors": {
+    "recency": 97,
+    "authority": 80,
+    "coverage": 0,
+    "signal": 22
+   },
+   "sources": [
+    {
+     "id": "chinanews",
+     "name": "中国新闻网",
+     "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732583.shtml"
+    }
+   ],
+   "keywords": [
+    "6.7141",
+    "日人",
+    "人民",
+    "民币",
+    "币对",
+    "对美",
+    "美元",
+    "元中"
+   ]
+  },
+  {
+   "id": "t10",
+   "rank": 10,
+   "title": "詹姆斯·古恩驳斥Skydance干预《超人2：明日之子》的传闻",
+   "url": "https://www.ign.com.cn/man-of-tomorrow/64041/zhan-mu-si-gu-en-bo-chi-skydancegan-yu-chao-ren-2ming-ri-zhi-zi-de-chuan-wen",
+   "summary": "「围绕这种说法的任何报道都是假的」 詹姆斯·古恩令人震惊地离开DC Studios后，有传闻称DC的新管理方Skydance干预了他的《超人2：明日之子》剪辑版，古恩驳斥了这一传闻。 本周早些时候，古恩和彼得·萨夫兰卸任这一漫画娱乐部门的联席主席后，网上充斥着各种传言。随着传闻铺天盖地而来，一些较为令人担忧的说法暗示，Skydance已经接管了这位《超人》导…",
+   "category": "game",
+   "lang": "zh",
+   "publishedAt": "2026-11-16T01:19:47.000Z",
+   "heat": 59,
+   "factors": {
+    "recency": 96,
+    "authority": 75,
+    "coverage": 0,
+    "signal": 30
+   },
+   "sources": [
+    {
+     "id": "ign-cn",
+     "name": "IGN 中国",
+     "url": "https://www.ign.com.cn/man-of-tomorrow/64041/zhan-mu-si-gu-en-bo-chi-skydancegan-yu-chao-ren-2ming-ri-zhi-zi-de-chuan-wen"
+    }
+   ],
+   "keywords": [
+    "skydance",
+    "詹姆",
+    "姆斯",
+    "古恩",
+    "恩驳",
+    "驳斥",
+    "干预",
+    "超人"
+   ]
+  },
+  {
+   "id": "t11",
+   "rank": 11,
+   "title": "2026世界中文大会闭幕 中文水平考试如何见证全球“来华热”不断升温？",
+   "url": "https://www.chinanews.com.cn/cul/2026/11-16/10732560.shtml",
+   "summary": "2026世界中文大会于近日闭幕，来自160多个国家和地区的约5000名代表参会。记者从大会了解到，今年中文水平考试，也就是HSK，考生人数首次突破100万人次。而随着中文学习需求不断增长，中文的应用场景也在不断拓展。",
+   "category": "china",
+   "lang": "zh",
+   "publishedAt": "2026-11-16T00:49:22.000Z",
+   "heat": 59,
+   "factors": {
+    "recency": 89,
+    "authority": 80,
+    "coverage": 0,
+    "signal": 34
+   },
+   "sources": [
+    {
+     "id": "chinanews",
+     "name": "中国新闻网",
+     "url": "https://www.chinanews.com.cn/cul/2026/11-16/10732560.shtml"
+    }
+   ],
+   "keywords": [
+    "2026",
+    "世界",
+    "界中",
+    "中文",
+    "文大",
+    "大会",
+    "会闭",
+    "闭幕"
+   ]
+  },
+  {
+   "id": "t12",
+   "rank": 12,
+   "title": "闲鱼通报“钓鱼竿涉色情交易”等四起谣言：已报警，将起诉",
+   "url": "https://www.ithome.com/1/027/476.htm",
+   "summary": "IT之家 11 月 16 日消息，据“闲鱼黑板报”公众号今日发布，2026 年 8 月以来，网络空间流传“拐卖儿童暗语”“偷窃 A4 纸出售”“农产品涉色情交易”“钓鱼竿涉色情交易”等不实信息。污名化闲鱼为“暗网”。 闲鱼称，相关信息经调查均为谣言，平台已向造谣人所在地报警。公众号表示，上述谣言严重干扰平台正常交易秩序，污蔑用户和平台声誉，闲鱼将对相关造谣者…",
+   "category": "tech",
+   "lang": "zh",
+   "publishedAt": "2026-11-15T23:52:43.000Z",
+   "heat": 59,
+   "factors": {
+    "recency": 86,
+    "authority": 75,
+    "coverage": 0,
+    "signal": 44
+   },
+   "sources": [
+    {
+     "id": "ithome",
+     "name": "IT之家",
+     "url": "https://www.ithome.com/1/027/476.htm"
+    }
+   ],
+   "keywords": [
+    "闲鱼",
+    "鱼通",
+    "通报",
+    "钓鱼",
+    "鱼竿",
+    "竿涉",
+    "涉色",
+    "色情"
+   ]
+  },
+  {
+   "id": "t13",
+   "rank": 13,
+   "title": "沈阳市教育局辟谣“中考英语改革”",
+   "url": "https://www.chinanews.com.cn/sh/2026/11-16/10732581.shtml",
+   "summary": "中新网11月16日电 据“沈阳教育发布”微信公众号消息，11月15日晚，沈阳市教育局发布辟谣公告称，近日，网传“2027年沈阳中考英语听力及口语考试改革”的消息为不实信息，请广大师生、家长不信谣、不传谣。",
+   "category": "china",
+   "lang": "zh",
+   "publishedAt": "2026-11-16T01:34:49.000Z",
+   "heat": 58,
+   "factors": {
+    "recency": 97,
+    "authority": 80,
+    "coverage": 0,
+    "signal": 18
+   },
+   "sources": [
+    {
+     "id": "chinanews",
+     "name": "中国新闻网",
+     "url": "https://www.chinanews.com.cn/sh/2026/11-16/10732581.shtml"
+    }
+   ],
+   "keywords": [
+    "沈阳",
+    "阳市",
+    "市教",
+    "教育",
+    "育局",
+    "局辟",
+    "辟谣",
+    "中考"
+   ]
+  },
+  {
+   "id": "t14",
+   "rank": 14,
+   "title": "全面重制：《超级肉肉男孩Again+》正式公布",
+   "url": "https://www.gcores.com/articles/222387",
+   "summary": "开发商 Team Meat 于今日公布了《超级肉肉男孩Again+》。作为2010年发售的 《超级肉肉男孩》 的全面升级版本，《超级肉肉男孩Again+》延续了高难度的平台跳跃玩法，包含300多个关卡以及电锯机关。与此同时，原版作曲家 Danny B 也回归负责配乐。 为了让熟悉原作的老玩家获得新鲜的挑战，Team Meat 在《超级肉肉男孩Again+》中…",
+   "category": "game",
+   "lang": "zh",
+   "publishedAt": "2026-11-16T01:25:00.000Z",
+   "heat": 58,
+   "factors": {
+    "recency": 97,
+    "authority": 80,
+    "coverage": 0,
+    "signal": 18
+   },
+   "sources": [
+    {
+     "id": "gcores",
+     "name": "机核 GCORES",
+     "url": "https://www.gcores.com/articles/222387"
+    }
+   ],
+   "keywords": [
+    "again",
+    "全面",
+    "面重",
+    "重制",
+    "超级",
+    "级肉",
+    "肉肉",
+    "肉男"
+   ]
+  },
+  {
+   "id": "t15",
+   "rank": 15,
+   "title": "《闪客快打》创作者打造：《灾异档案》正式公布",
+   "url": "https://www.gcores.com/articles/222386",
+   "summary": "由《闪客快打》创作者打造的 2D 科幻惊悚动作冒险游戏 《灾异档案》正式公布，即将在 Steam 开启抢先体验。本作中，玩家作为 OMEGA 灾异体应对管理局的执裁官，将会进入异常事件封锁区，在战斗、探索与环境互动中搜集现场线索、恢复终端档案，并逐步拼出灾异事件的真相。 《灾异档案》采用剧集式关卡结构。不同剧集可以拥有独立的主角、区域、任务、敌人与玩法，并围…",
+   "category": "game",
+   "lang": "zh",
+   "publishedAt": "2026-11-16T01:15:00.000Z",
+   "heat": 58,
+   "factors": {
+    "recency": 96,
+    "authority": 80,
+    "coverage": 0,
+    "signal": 18
+   },
+   "sources": [
+    {
+     "id": "gcores",
+     "name": "机核 GCORES",
+     "url": "https://www.gcores.com/articles/222386"
+    }
+   ],
+   "keywords": [
+    "闪客",
+    "客快",
+    "快打",
+    "创作",
+    "作者",
+    "者打",
+    "打造",
+    "灾异"
+   ]
+  },
+  {
+   "id": "t16",
+   "rank": 16,
+   "title": "影院成 BLG《英雄联盟》S16 夺冠隐藏赢家，凌晨三点难挡玩家热情",
+   "url": "https://www.ithome.com/1/027/491.htm",
+   "summary": "IT之家 11 月 16 日消息，在昨日早间结束的《英雄联盟》2026 全球总决赛（S16）冠亚军决赛中，来自中国 LPL 赛区的 BLG 战队以 3:1 的比分力克韩国 LCK 赛区的 GEN 战队，连斩四支韩国战队，勇夺《英雄联盟》S16 冠军。这也是中国战队时隔五年再度夺得英雄联盟全球总决赛冠军。 据澎湃新闻今日报道，如果说B站和赞助商分享的是线上流量…",
+   "category": "tech",
+   "lang": "zh",
+   "publishedAt": "2026-11-16T01:01:18.000Z",
+   "heat": 58,
+   "factors": {
+    "recency": 94,
+    "authority": 75,
+    "coverage": 0,
+    "signal": 30
+   },
+   "sources": [
+    {
+     "id": "ithome",
+     "name": "IT之家",
+     "url": "https://www.ithome.com/1/027/491.htm"
+    }
+   ],
+   "keywords": [
+    "blg",
+    "s16",
+    "影院",
+    "院成",
+    "英雄",
+    "雄联",
+    "联盟",
+    "夺冠"
+   ]
+  },
+  {
+   "id": "t17",
+   "rank": 17,
+   "title": "创业板指跌逾2%，全市场下跌个股超5000只",
+   "url": "https://www.jiemian.com/article/15335138.html",
+   "summary": "",
+   "category": "china",
+   "lang": "zh",
+   "publishedAt": "2026-11-16T01:36:46.000Z",
+   "heat": 57,
+   "factors": {
+    "recency": 97,
+    "authority": 70,
+    "coverage": 0,
+    "signal": 22
+   },
+   "sources": [
+    {
+     "id": "jiemian",
+     "name": "界面新闻",
+     "url": "https://www.jiemian.com/article/15335138.html"
+    }
+   ],
+   "keywords": [
+    "5000",
+    "创业",
+    "业板",
+    "板指",
+    "指跌",
+    "跌逾",
+    "全市",
+    "市场"
+   ]
+  },
+  {
+   "id": "t18",
+   "rank": 18,
+   "title": "习言道｜APEC上习近平的“地瓜”妙喻",
+   "url": "http://www.chinanews.com.cn/gn/shipin/2026/11-16/news1074986.shtml",
+   "summary": "“地瓜的藤蔓向四面八方延伸，但它的块茎始终长在根基位置。”习近平主席曾以“地瓜”为喻，道出中国和亚太的关系，强调“不管发展到什么程度，中国都将扎根亚太、建设亚太、造福亚太”。11月18日至19日，亚太经合组织(APEC)第三十三次领导人非正式会议将在中国深圳举行，共同期待。",
+   "category": "china",
+   "lang": "zh",
+   "publishedAt": "2026-11-16T01:13:56.000Z",
+   "heat": 57,
+   "factors": {
+    "recency": 93,
+    "authority": 80,
+    "coverage": 0,
+    "signal": 18
+   },
+   "sources": [
+    {
+     "id": "chinanews",
+     "name": "中国新闻网",
+     "url": "http://www.chinanews.com.cn/gn/shipin/2026/11-16/news1074986.shtml"
+    }
+   ],
+   "keywords": [
+    "apec",
+    "习言",
+    "言道",
+    "上习",
+    "习近",
+    "近平",
+    "平的",
+    "地瓜"
+   ]
+  },
+  {
+   "id": "t19",
+   "rank": 19,
+   "title": "速度滑冰世界杯北京站收官 中国队再获1金2银",
+   "url": "https://www.chinanews.com.cn/ty/2026/11-16/10732535.shtml",
+   "summary": "中新社北京11月15日电 (刘梦青)2026-2027赛季国际滑联速度滑冰世界杯北京站比赛15日迎来最后一个比赛日。中国队在男子500米项目和女子团体追逐项目中收获一枚金牌和两枚银牌。",
+   "category": "china",
+   "lang": "zh",
+   "publishedAt": "2026-11-16T01:05:23.000Z",
+   "heat": 57,
+   "factors": {
+    "recency": 91,
+    "authority": 80,
+    "coverage": 0,
+    "signal": 22
+   },
+   "sources": [
+    {
+     "id": "chinanews",
+     "name": "中国新闻网",
+     "url": "https://www.chinanews.com.cn/ty/2026/11-16/10732535.shtml"
+    }
+   ],
+   "keywords": [
+    "速度",
+    "度滑",
+    "滑冰",
+    "冰世",
+    "世界",
+    "界杯",
+    "杯北",
+    "北京"
+   ]
+  },
+  {
+   "id": "t20",
+   "rank": 20,
+   "title": "《毁灭战士：黑暗时代|启示录》“屠戮模式”今日实装",
+   "url": "https://www.gcores.com/articles/222385",
+   "summary": "《毁灭战士：黑暗时代|启示录》“屠戮模式”今日实装。本模式是全新的无尽战斗挑战，玩家将一路杀穿越来越难而又变幻莫测的恶魔狂潮，打出自己的最高分，在屠戮的过程中收集的骷髅，用来解锁奖励。每次到达检查点时，你都必须问自己：是想要见好就收，结算骷髅，还是为了可能得到更多奖励而冒险尝试？ 在屠戮模式中，不会存在完全相同的战局。你要在不同的竞技场中迎战越来越难的随机遭…",
+   "category": "game",
+   "lang": "zh",
+   "publishedAt": "2026-11-16T01:05:00.000Z",
+   "heat": 57,
+   "factors": {
+    "recency": 95,
+    "authority": 80,
+    "coverage": 0,
+    "signal": 18
+   },
+   "sources": [
+    {
+     "id": "gcores",
+     "name": "机核 GCORES",
+     "url": "https://www.gcores.com/articles/222385"
+    }
+   ],
+   "keywords": [
+    "毁灭",
+    "灭战",
+    "战士",
+    "黑暗",
+    "暗时",
+    "时代",
+    "启示",
+    "示录"
+   ]
+  },
+  {
+   "id": "t21",
+   "rank": 21,
+   "title": "刚果（金）埃博拉疫情持续六个月 已致5400余人死亡",
+   "url": "https://www.chinanews.com.cn/gj/2026/11-16/10732536.shtml",
+   "summary": "中新社约翰内斯堡11月15日电 非洲疾控中心15日发布公告称，刚果(金)的本迪布焦型埃博拉疫情已持续六个月，累计报告病例超过1.1万例，死亡病例超过5400例。目前疫情仍在持续蔓延，每周新增病例400至500例。",
+   "category": "china",
+   "lang": "zh",
+   "publishedAt": "2026-11-16T01:04:21.000Z",
+   "heat": 57,
+   "factors": {
+    "recency": 91,
+    "authority": 80,
+    "coverage": 0,
+    "signal": 22
+   },
+   "sources": [
+    {
+     "id": "chinanews",
+     "name": "中国新闻网",
+     "url": "https://www.chinanews.com.cn/gj/2026/11-16/10732536.shtml"
+    }
+   ],
+   "keywords": [
+    "5400",
+    "刚果",
+    "埃博",
+    "博拉",
+    "拉疫",
+    "疫情",
+    "情持",
+    "持续"
+   ]
+  },
+  {
+   "id": "t22",
+   "rank": 22,
+   "title": "腾讯 WorkBuddy 国际版上线 Gemini 4 Carbon 大模型：支持百万 Token 上下文，暂仅限 Pro 用户使用",
+   "url": "https://www.ithome.com/1/027/487.htm",
+   "summary": "IT之家 11 月 16 日消息，腾讯 WorkBuddy 国际版昨日宣布，已正式上线谷歌 Gemini 4 Carbon 模型，主要面向需要更深入推理和处理更长任务的使用场景。 官方将其定位为适合处理复杂问题的模型，目前仅面向 Pro 计划用户开放。 IT之家此前报道，谷歌称 Gemini 4 Carbon 模型主要面向长周期智能体工作流，适用于复杂知识工…",
+   "category": "tech",
+   "lang": "zh",
+   "publishedAt": "2026-11-16T00:44:37.000Z",
+   "heat": 57,
+   "factors": {
+    "recency": 92,
+    "authority": 75,
+    "coverage": 0,
+    "signal": 26
+   },
+   "sources": [
+    {
+     "id": "ithome",
+     "name": "IT之家",
+     "url": "https://www.ithome.com/1/027/487.htm"
+    }
+   ],
+   "keywords": [
+    "workbuddy",
+    "gemini",
+    "carbon",
+    "token",
+    "pro",
+    "腾讯",
+    "国际",
+    "际版"
+   ]
+  },
+  {
+   "id": "t23",
+   "rank": 23,
+   "title": "伊朗外交部：伊朗“不会等待任何人”，将继续回应任何军事侵略",
+   "url": "https://www.chinanews.com.cn/gj/2026/11-16/10732541.shtml",
+   "summary": "中新网11月16日电 据英国《卫报》当地时间15日报道，伊朗外交部发言人巴加埃在新闻发布会上表示，伊朗未来将继续对美国或其他国家的任何军事侵略予以回应。",
+   "category": "world",
+   "lang": "zh",
+   "publishedAt": "2026-11-15T23:41:55.000Z",
+   "heat": 57,
+   "factors": {
+    "recency": 82,
+    "authority": 75,
+    "coverage": 0,
+    "signal": 44
+   },
+   "sources": [
+    {
+     "id": "chinanews-world",
+     "name": "中新网·国际",
+     "url": "https://www.chinanews.com.cn/gj/2026/11-16/10732541.shtml"
+    }
+   ],
+   "keywords": [
+    "伊朗",
+    "朗外",
+    "外交",
+    "交部",
+    "不会",
+    "会等",
+    "等待",
+    "待任"
+   ]
+  },
+  {
+   "id": "t24",
+   "rank": 24,
+   "title": "APEC工商峰会将首发“深圳倡议”，超百家世界500强参会；特斯拉Cybercab个人购车设使用限制，且暂禁商业用途；再创新高，51个一类创新药进入新版国家医保药品目录",
+   "url": "https://www.tmtpost.com/8205965.html",
+   "summary": "美星舰飞船首次被捕获回收；再创新高，51个一类创新药进入新版国家医保药品目录；金融机构外汇存款准备金率15日起提高至6%；“大空头”Burry加码做空纳指及半导体股，警告AI热潮或陷入“牛市陷阱”；北交所开市五周年，总市值约8000亿元",
+   "category": "tech",
+   "lang": "zh",
+   "publishedAt": "2026-11-15T23:20:00.000Z",
+   "heat": 57,
+   "factors": {
+    "recency": 82,
+    "authority": 60,
+    "coverage": 0,
+    "signal": 60
+   },
+   "sources": [
+    {
+     "id": "tmtpost",
+     "name": "钛媒体",
+     "url": "https://www.tmtpost.com/8205965.html"
+    }
+   ],
+   "keywords": [
+    "apec",
+    "500",
+    "cybercab",
+    "工商",
+    "商峰",
+    "峰会",
+    "会将",
+    "将首"
+   ]
+  },
+  {
+   "id": "t25",
+   "rank": 25,
+   "title": "江苏如东：洋口港LNG接收站吹响冬供号角",
+   "url": "https://www.chinanews.com.cn/tp/2026/11-16/10732589.shtml",
+   "summary": "11月15日，江苏南通，坐落于如东洋口港阳光岛上的中石油江苏LNG接收站吹响冬季保供号角。徐书影 摄 11月15日，江苏南通，坐落于如东洋口港阳光岛上的中石油江苏LNG接收站吹响冬季保供号角。徐书影 摄 11月15日，江苏南通，坐落于如东洋口港阳光岛上的中石油江苏LNG接收站吹响冬季保供号角。徐书影 摄",
+   "category": "china",
+   "lang": "zh",
+   "publishedAt": "2026-11-16T01:35:37.000Z",
+   "heat": 56,
+   "factors": {
+    "recency": 97,
+    "authority": 80,
+    "coverage": 0,
+    "signal": 10
+   },
+   "sources": [
+    {
+     "id": "chinanews",
+     "name": "中国新闻网",
+     "url": "https://www.chinanews.com.cn/tp/2026/11-16/10732589.shtml"
+    }
+   ],
+   "keywords": [
+    "lng",
+    "江苏",
+    "苏如",
+    "如东",
+    "洋口",
+    "口港",
+    "接收",
+    "收站"
+   ]
+  },
+  {
+   "id": "t26",
+   "rank": 26,
+   "title": "花2000万冠名湘超却沦为“最大冤种”，湘窖要补的不只是传播课",
+   "url": "https://www.tmtpost.com/8206060.html",
+   "summary": "花了钱却在传播中“隐身”，不是一次签约的疏忽那么简单。",
+   "category": "tech",
+   "lang": "zh",
+   "publishedAt": "2026-11-16T01:35:00.000Z",
+   "heat": 56,
+   "factors": {
+    "recency": 98,
+    "authority": 60,
+    "coverage": 0,
+    "signal": 30
+   },
+   "sources": [
+    {
+     "id": "tmtpost",
+     "name": "钛媒体",
+     "url": "https://www.tmtpost.com/8206060.html"
+    }
+   ],
+   "keywords": [
+    "2000",
+    "万冠",
+    "冠名",
+    "名湘",
+    "湘超",
+    "超却",
+    "却沦",
+    "沦为"
+   ]
+  },
+  {
+   "id": "t27",
+   "rank": 27,
+   "title": "国家医保局：各地医保持续调整优化医疗服务价格",
+   "url": "https://www.chinanews.com.cn/sh/2026/11-16/10732574.shtml",
+   "summary": "中新网11月16日电 据国家医保局微信公众号消息，医疗服务价格是人民群众最关心最直接最现实的利益问题。国家医保局深入推进医疗服务价格改革和治理，指导各地全面建立医疗服务价格动态调整机制，结合经济社会发展、医院运行状态、群众负担水平、医保基金收支等因素，持续调整优化医疗服务价格，协同推进基金安全运行、医院良性运转、群众负担合理。",
+   "category": "china",
+   "lang": "zh",
+   "publishedAt": "2026-11-16T01:34:07.000Z",
+   "heat": 56,
+   "factors": {
+    "recency": 97,
+    "authority": 80,
+    "coverage": 0,
+    "signal": 10
+   },
+   "sources": [
+    {
+     "id": "chinanews",
+     "name": "中国新闻网",
+     "url": "https://www.chinanews.com.cn/sh/2026/11-16/10732574.shtml"
+    }
+   ],
+   "keywords": [
+    "国家",
+    "家医",
+    "医保",
+    "保局",
+    "各地",
+    "地医",
+    "保持",
+    "持续"
+   ]
+  },
+  {
+   "id": "t28",
+   "rank": 28,
+   "title": "新疆医科大学党委原书记高发水接受审查调查",
+   "url": "https://www.chinanews.com.cn/gn/2026/11-16/10732573.shtml",
+   "summary": "中新网11月16日电 据新疆维吾尔自治区纪委监委消息：新疆医科大学党委原书记高发水涉嫌严重违纪违法，目前正接受新疆维吾尔自治区纪委监委纪律审查和监察调查。",
+   "category": "china",
+   "lang": "zh",
+   "publishedAt": "2026-11-16T01:33:39.000Z",
+   "heat": 56,
+   "factors": {
+    "recency": 97,
+    "authority": 80,
+    "coverage": 0,
+    "signal": 10
+   },
+   "sources": [
+    {
+     "id": "chinanews",
+     "name": "中国新闻网",
+     "url": "https://www.chinanews.com.cn/gn/2026/11-16/10732573.shtml"
+    }
+   ],
+   "keywords": [
+    "新疆",
+    "疆医",
+    "医科",
+    "科大",
+    "大学",
+    "学党",
+    "党委",
+    "委原"
+   ]
+  },
+  {
+   "id": "t29",
+   "rank": 29,
+   "title": "古尔曼曝光苹果智能眼镜原型机：主打 Siri 语音交互，预计 WWDC2027 发布",
+   "url": "https://www.ithome.com/1/027/466.htm",
+   "summary": "IT之家 11 月 16 日消息，据彭博社记者马克 · 古尔曼昨日透露，苹果计划在 2027 年 6 月的 WWDC 发布公司首款智能眼镜，并在当年年底开始出货。 IT之家从原报道获悉，这款智能眼镜原型机的内部代号为“N50”，其镜框据称略小于 Meta 第二代 Ray-Ban。部分测试机采用椭圆形摄像头开孔，直接集成在镜框中，没有向外凸起。眼镜正面设有一颗…",
+   "category": "tech",
+   "lang": "zh",
+   "publishedAt": "2026-11-15T23:04:30.000Z",
+   "heat": 56,
+   "factors": {
+    "recency": 81,
+    "authority": 75,
+    "coverage": 0,
+    "signal": 38
+   },
+   "sources": [
+    {
+     "id": "ithome",
+     "name": "IT之家",
+     "url": "https://www.ithome.com/1/027/466.htm"
+    }
+   ],
+   "keywords": [
+    "siri",
+    "wwdc2027",
+    "古尔",
+    "尔曼",
+    "曼曝",
+    "曝光",
+    "光苹",
+    "苹果"
+   ]
+  },
+  {
+   "id": "t30",
+   "rank": 30,
+   "title": "古尔曼：苹果工程师正积极为 iPhone Duo 2 外屏开发面容 ID",
+   "url": "https://www.ithome.com/1/027/482.htm",
+   "summary": "IT之家 11 月 16 日消息，彭博社记者马克 · 古尔曼昨日于新一期《Power On》通讯透露，苹果计划于明年秋季推出 iPhone Duo 2 折叠屏手机。苹果工程师正尝试将面容 ID 集成到这款设备中，但最终可能存在变数。 古尔曼透露，苹果为 iPhone Duo 2 制定了两项优先开发目标：面容 ID 和操作按钮。后者最终可能只是软件更新，为相机…",
+   "category": "tech",
+   "lang": "zh",
+   "publishedAt": "2026-11-16T00:12:50.000Z",
+   "heat": 55,
+   "factors": {
+    "recency": 88,
+    "authority": 75,
+    "coverage": 0,
+    "signal": 22
+   },
+   "sources": [
+    {
+     "id": "ithome",
+     "name": "IT之家",
+     "url": "https://www.ithome.com/1/027/482.htm"
+    }
+   ],
+   "keywords": [
+    "iphone",
+    "duo",
+    "古尔",
+    "尔曼",
+    "苹果",
+    "果工",
+    "工程",
+    "程师"
+   ]
+  },
+  {
+   "id": "t31",
+   "rank": 31,
+   "title": "消息称某厂明年的阔直板手机已开屏，预计为小米旗下",
+   "url": "https://www.ithome.com/1/027/495.htm",
+   "summary": "IT之家 11 月 16 日消息，博主 @数码闲聊站 今日爆料，某厂明年的阔直板手机已开屏，目前早期方案是 6.3-6.4 英寸 ±，屏幕比例 16:9，采用 1mm± 极窄四等边设计，支持 BT.2020 色域并配备高规格阔屏。 结合该博主此前的爆料习惯，预计这款新机为小米旗下。 IT之家注意到，该博主上月曾爆料，某厂子系阔直板确定评估中，2027 年见。…",
+   "category": "tech",
+   "lang": "zh",
+   "publishedAt": "2026-11-16T01:08:46.000Z",
+   "heat": 54,
+   "factors": {
+    "recency": 95,
+    "authority": 75,
+    "coverage": 0,
+    "signal": 10
+   },
+   "sources": [
+    {
+     "id": "ithome",
+     "name": "IT之家",
+     "url": "https://www.ithome.com/1/027/495.htm"
+    }
+   ],
+   "keywords": [
+    "消息",
+    "息称",
+    "称某",
+    "某厂",
+    "厂明",
+    "明年",
+    "年的",
+    "的阔"
+   ]
+  },
+  {
+   "id": "t32",
+   "rank": 32,
+   "title": "KTC 预告 6K Mini LED 显示器 M32P2，CES 2027 展出样品",
+   "url": "https://www.ithome.com/1/027/492.htm",
+   "summary": "IT之家 11 月 16 日消息，据外媒 TechRadar 数小时前报道，KTC 计划在 CES 2027 上展示多款显示新品，其中 M32P2 是一款基于 31.5\" 6016×3384 IPS 面板的 2304 分区 Mini LED 背光显示器。 ▲ 图源：KTC该型号刷新率 60Hz；拥有 1000nit 的 HDR 峰值亮度，静态对比度 1000…",
+   "category": "tech",
+   "lang": "zh",
+   "publishedAt": "2026-11-16T01:03:23.000Z",
+   "heat": 54,
+   "factors": {
+    "recency": 94,
+    "authority": 75,
+    "coverage": 0,
+    "signal": 12
+   },
+   "sources": [
+    {
+     "id": "ithome",
+     "name": "IT之家",
+     "url": "https://www.ithome.com/1/027/492.htm"
+    }
+   ],
+   "keywords": [
+    "ktc",
+    "mini",
+    "led",
+    "m32p2",
+    "ces",
+    "2027",
+    "预告",
+    "显示"
+   ]
+  },
+  {
+   "id": "t33",
+   "rank": 33,
+   "title": "苹果新款 Apple TV 4K 提供 8GB 内存，但应用程序和游戏最多只能使用 2GB",
+   "url": "https://www.ithome.com/1/027/489.htm",
+   "summary": "IT之家 11 月 16 日消息，据科技媒体 9To5Mac 昨天报道，苹果新款 Apple TV 4K 搭载 A19 芯片，配备 128GB 存储空间和 8GB 内存。其中内存相比上一代产品翻倍，但应用程序和游戏却无法使用更多内存。 IT之家从原报道获悉，Apple TV 上的应用受到 tvOS 操作系统限制，单个应用最多只能使用 2GB 内存，新品并没有…",
+   "category": "tech",
+   "lang": "zh",
+   "publishedAt": "2026-11-16T01:00:43.000Z",
+   "heat": 54,
+   "factors": {
+    "recency": 94,
+    "authority": 75,
+    "coverage": 0,
+    "signal": 12
+   },
+   "sources": [
+    {
+     "id": "ithome",
+     "name": "IT之家",
+     "url": "https://www.ithome.com/1/027/489.htm"
+    }
+   ],
+   "keywords": [
+    "apple",
+    "8gb",
+    "2gb",
+    "苹果",
+    "果新",
+    "新款",
+    "提供",
+    "内存"
+   ]
+  },
+  {
+   "id": "t34",
+   "rank": 34,
+   "title": "董明珠：格力对文凭的考虑已逐步取消，本事才是硬通行证",
+   "url": "https://www.ithome.com/1/027/488.htm",
+   "summary": "IT之家 11 月 16 日消息，据央视财经 11 月 14 日报道，董明珠和格力技校学生面对面，她在《对话》现场表示，三年后想留下的学生，基本都能留在格力。她鼓励孩子们在这所学校学真技术、培养工匠精神；格力对文凭的考虑也已经逐步取消，本事才是硬通行证。 董明珠还说，想让技校学生和普通高中生 PK 一下，说这话时信心十足。 IT之家注意到，从董事长到技校校长…",
+   "category": "tech",
+   "lang": "zh",
+   "publishedAt": "2026-11-16T00:52:33.000Z",
+   "heat": 54,
+   "factors": {
+    "recency": 93,
+    "authority": 75,
+    "coverage": 0,
+    "signal": 10
+   },
+   "sources": [
+    {
+     "id": "ithome",
+     "name": "IT之家",
+     "url": "https://www.ithome.com/1/027/488.htm"
+    }
+   ],
+   "keywords": [
+    "董明",
+    "明珠",
+    "格力",
+    "力对",
+    "对文",
+    "文凭",
+    "凭的",
+    "的考"
+   ]
+  },
+  {
+   "id": "t35",
+   "rank": 35,
+   "title": "原著小说迟迟未更新，Apple TV+ 热门剧《流人》第八季或成最终季",
+   "url": "https://www.ithome.com/1/027/483.htm",
+   "summary": "IT之家 11 月 16 日消息，苹果流媒体平台 Apple TV+ 超热门剧集《流人》（Slow Horses）可能将在第八季结束。 本片主演奥利维娅 · 库克（Olivia Cooke）今日接受《泰晤士报》采访时透露“她目前正在拍摄该剧的最后一季”，不过她随后又补充称“未来的事不能说死”。 奥利维娅 · 库克在剧中饰演西德妮 · 贝克（Sid Baker…",
+   "category": "tech",
+   "lang": "zh",
+   "publishedAt": "2026-11-16T00:31:01.000Z",
+   "heat": 54,
+   "factors": {
+    "recency": 90,
+    "authority": 75,
+    "coverage": 0,
+    "signal": 18
+   },
+   "sources": [
+    {
+     "id": "ithome",
+     "name": "IT之家",
+     "url": "https://www.ithome.com/1/027/483.htm"
+    }
+   ],
+   "keywords": [
+    "apple",
+    "原著",
+    "著小",
+    "小说",
+    "说迟",
+    "迟迟",
+    "迟未",
+    "未更"
+   ]
+  },
+  {
+   "id": "t36",
+   "rank": 36,
+   "title": "停飞影响持续 美航空运输预计16日全面恢复 空管老旧问题再受关注",
+   "url": "https://www.chinanews.com.cn/gj/2026/11-16/10732550.shtml",
+   "summary": "当地时间15日，美国交通部长达菲表示，美国航空运输预计当天逐步恢复正常，受飞机和机组人员不在预定执勤位置影响，可能到16日才能全面恢复。",
+   "category": "world",
+   "lang": "zh",
+   "publishedAt": "2026-11-16T00:04:58.000Z",
+   "heat": 53,
+   "factors": {
+    "recency": 85,
+    "authority": 75,
+    "coverage": 0,
+    "signal": 22
+   },
+   "sources": [
+    {
+     "id": "chinanews-world",
+     "name": "中新网·国际",
+     "url": "https://www.chinanews.com.cn/gj/2026/11-16/10732550.shtml"
+    }
+   ],
+   "keywords": [
+    "停飞",
+    "飞影",
+    "影响",
+    "响持",
+    "持续",
+    "美航",
+    "航空",
+    "空运"
+   ]
+  },
+  {
+   "id": "t37",
+   "rank": 37,
+   "title": "胡塞武装宣布：沙特联军24小时内75次袭击也门多地",
+   "url": "https://www.chinanews.com.cn/gj/2026/11-16/10732534.shtml",
+   "summary": "中新网11月16日电 据也门通讯社报道，也门胡塞武装当地时间15日发表声明称，过去24小时内，沙特主导的联军对也门萨达省、塔伊兹省、拉赫季省、焦夫省和马里卜省发动了75次空袭和导弹袭击。",
+   "category": "world",
+   "lang": "zh",
+   "publishedAt": "2026-11-15T23:03:46.000Z",
+   "heat": 51,
+   "factors": {
+    "recency": 77,
+    "authority": 75,
+    "coverage": 0,
+    "signal": 22
+   },
+   "sources": [
+    {
+     "id": "chinanews-world",
+     "name": "中新网·国际",
+     "url": "https://www.chinanews.com.cn/gj/2026/11-16/10732534.shtml"
+    }
+   ],
+   "keywords": [
+    "胡塞",
+    "塞武",
+    "武装",
+    "装宣",
+    "宣布",
+    "沙特",
+    "特联",
+    "联军"
+   ]
+  },
+  {
+   "id": "t38",
+   "rank": 38,
+   "title": "Jensen Huang discusses comeback as Nvidia CEO with allies, FT reports",
+   "url": "https://www.koreatimes.co.kr/world/20261116/jensen-huang-discusses-comeback-as-nvidia-ceo-with-allies-ft-reports?utm_source=rss",
+   "summary": "Jensen Huang is considering a comeback as Nvidia's chief executive, and has discussed with confidants the possibility of returning, the Financial Times reported on Sunday, citing p…",
+   "category": "world",
+   "lang": "en",
+   "publishedAt": "2026-11-16T01:47:02.000Z",
+   "heat": 50,
+   "factors": {
+    "recency": 99,
+    "authority": 60,
+    "coverage": 0,
+    "signal": 0
+   },
+   "sources": [
+    {
+     "id": "koreatimes",
+     "name": "Korea Times",
+     "url": "https://www.koreatimes.co.kr/world/20261116/jensen-huang-discusses-comeback-as-nvidia-ceo-with-allies-ft-reports?utm_source=rss"
+    }
+   ],
+   "keywords": [
+    "jensen",
+    "huang",
+    "discusses",
+    "comeback",
+    "nvidia",
+    "ceo",
+    "with",
+    "allies"
+   ]
+  },
+  {
+   "id": "t39",
+   "rank": 39,
+   "title": "Thousands of flights canceled as airlines work to dig out from nationwide ground stop",
+   "url": "https://www.koreatimes.co.kr/world/20261116/thousands-of-flights-canceled-as-airlines-work-to-dig-out-from-nationwide-ground-stop?utm_source=rss",
+   "summary": "WASHINGTON — Airlines across the U.S. worked to recover from the longest nationwide ground stop in 25 years that canceled more than 2,500 flights Saturday, spread ripple effects ar…",
+   "category": "world",
+   "lang": "en",
+   "publishedAt": "2026-11-16T01:47:02.000Z",
+   "heat": 50,
+   "factors": {
+    "recency": 99,
+    "authority": 60,
+    "coverage": 0,
+    "signal": 0
+   },
+   "sources": [
+    {
+     "id": "koreatimes",
+     "name": "Korea Times",
+     "url": "https://www.koreatimes.co.kr/world/20261116/thousands-of-flights-canceled-as-airlines-work-to-dig-out-from-nationwide-ground-stop?utm_source=rss"
+    }
+   ],
+   "keywords": [
+    "thousands",
+    "flights",
+    "canceled",
+    "airlines",
+    "work",
+    "dig",
+    "out",
+    "from"
+   ]
+  },
+  {
+   "id": "t40",
+   "rank": 40,
+   "title": "Ukraine launches nearly 1,200 drones at Russia as US-led talks to consider wider European security",
+   "url": "https://www.koreatimes.co.kr/world/20261116/ukraine-launches-nearly-1200-drones-at-russia-as-us-led-talks-to-consider-wider-european-security?utm_source=rss",
+   "summary": "KYIV, Ukraine — Ukraine fired almost 1,200 drones at Russian targets overnight in one of its biggest aerial attacks since Moscow’s full-scale invasion nearly five years ago. Meanwh…",
+   "category": "world",
+   "lang": "en",
+   "publishedAt": "2026-11-16T01:47:02.000Z",
+   "heat": 50,
+   "factors": {
+    "recency": 99,
+    "authority": 60,
+    "coverage": 0,
+    "signal": 0
+   },
+   "sources": [
+    {
+     "id": "koreatimes",
+     "name": "Korea Times",
+     "url": "https://www.koreatimes.co.kr/world/20261116/ukraine-launches-nearly-1200-drones-at-russia-as-us-led-talks-to-consider-wider-european-security?utm_source=rss"
+    }
+   ],
+   "keywords": [
+    "ukraine",
+    "launches",
+    "nearly",
+    "200",
+    "drones",
+    "russia",
+    "us-led",
+    "talks"
+   ]
+  }
+ ]
+}

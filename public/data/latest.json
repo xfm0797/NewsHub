@@ -4,9 +4,9 @@
   "name": "热点聚合",
   "tagline": "中外要闻 · 游戏前线"
  },
- "generatedAt": "2026-11-15T20:58:53+00:00",
- "generatedAtMs": 1794776333901,
- "date": "2026-11-15",
+ "generatedAt": "2026-11-16T01:51:50+00:00",
+ "generatedAtMs": 1794793910374,
+ "date": "2026-11-16",
  "stats": {
   "total": 60,
   "sources": 16,
@@ -41,117 +41,1690 @@
   {
    "id": "t1",
    "rank": 1,
-   "title": "Yemen's Houthis advance on Aden as government forces retreat to defend their capital",
-   "url": "https://www.france24.com/en/middle-east/20261115-yemen-houthis-advance-to-within-60-kilometres-of-aden-military-sources-say",
-   "summary": "Houthi forces in Yemen have advanced to within 60 kilometres of Aden, the seat of the country's internationally recognised government, military and government sources said Sunday.…",
-   "category": "world",
-   "lang": "en",
-   "publishedAt": "2026-11-15T19:28:54.000Z",
-   "heat": 52,
+   "title": "国家统计局：10月份各线城市商品住宅销售价格同比降幅继续收窄",
+   "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732592.shtml",
+   "summary": "中新网11月16日电 据国家统计局网站消息，国家统计局城市司高级统计师杨彩芳解读2026年10月份商品住宅销售价格变动情况统计数据。2026年10月份，70个大中城市中，一线城市商品住宅销售价格环比总体上涨，二三线城市环比下降，一二三线城市同比降幅继续收窄。",
+   "category": "china",
+   "lang": "zh",
+   "publishedAt": "2026-11-16T01:30:41.000Z",
+   "heat": 69,
    "factors": {
-    "recency": 87,
-    "authority": 85,
-    "coverage": 0,
-    "signal": 0
+    "recency": 96,
+    "authority": 80,
+    "coverage": 57,
+    "signal": 22
    },
    "sources": [
     {
-     "id": "france24",
-     "name": "France 24",
-     "url": "https://www.france24.com/en/middle-east/20261115-yemen-houthis-advance-to-within-60-kilometres-of-aden-military-sources-say"
+     "id": "chinanews",
+     "name": "中国新闻网",
+     "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732592.shtml"
+    },
+    {
+     "id": "jiemian",
+     "name": "界面新闻",
+     "url": "https://www.jiemian.com/article/15335098.html"
     }
    ],
    "keywords": [
-    "yemen's",
-    "houthis",
-    "advance",
-    "aden",
-    "government",
-    "forces",
-    "retreat",
-    "defend"
+    "国家",
+    "家统",
+    "统计",
+    "计局",
+    "月份",
+    "份各",
+    "各线",
+    "线城"
    ]
   },
   {
    "id": "t2",
    "rank": 2,
-   "title": "Pragues's fight for public TV - Why Renowned Presenter Will Leave Czech TV Over Reforms",
-   "url": "https://www.france24.com/en/tv-shows/spotlight/20261115-pragues-s-fight-for-public-tv-why-renowned-presenter-will-leave-czech-tv-over-reforms",
-   "summary": "Daniel Stach, one of the Czech Republic’s best-known television presenters, tells Gavin Lee on France 24 why he is prepared to walk away from his career rather than work under chan…",
-   "category": "world",
-   "lang": "en",
-   "publishedAt": "2026-11-15T19:13:35.000Z",
-   "heat": 51,
+   "title": "11月16日央行开展4600亿元隔夜逆回购操作",
+   "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732586.shtml",
+   "summary": "中新网11月16日电 据中国人民银行网站消息，2026年11月16日中国人民银行以固定利率、数量招标方式开展了4600亿元隔夜逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+   "category": "china",
+   "lang": "zh",
+   "publishedAt": "2026-11-16T01:22:16.000Z",
+   "heat": 68,
    "factors": {
-    "recency": 85,
-    "authority": 85,
-    "coverage": 0,
-    "signal": 0
+    "recency": 94,
+    "authority": 80,
+    "coverage": 57,
+    "signal": 22
    },
    "sources": [
     {
-     "id": "france24",
-     "name": "France 24",
-     "url": "https://www.france24.com/en/tv-shows/spotlight/20261115-pragues-s-fight-for-public-tv-why-renowned-presenter-will-leave-czech-tv-over-reforms"
+     "id": "chinanews",
+     "name": "中国新闻网",
+     "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732586.shtml"
+    },
+    {
+     "id": "jiemian",
+     "name": "界面新闻",
+     "url": "https://www.jiemian.com/article/15335006.html"
     }
    ],
    "keywords": [
-    "pragues's",
-    "fight",
-    "for",
-    "public",
-    "why",
-    "renowned",
-    "presenter",
-    "will"
+    "4600",
+    "日央",
+    "央行",
+    "行开",
+    "开展",
+    "亿元",
+    "元隔",
+    "隔夜"
    ]
   },
   {
    "id": "t3",
    "rank": 3,
-   "title": "BLG一穿四夺冠：从说晚安，到说早安",
-   "url": "https://www.gcores.com/articles/222388",
-   "summary": "作者：柏亚舟 “这一瞬间，他们拥有了全世界。” 今晨结束的英雄联盟 S16 全球总决赛冠亚军之战，LPL（英雄联盟中国大陆赛区）战队 BLG（Bilibili Gaming）最终 3‑1 战胜韩国 LCK 赛区的 Gen.G，捧起冠军奖杯。这是 BLG 队史上第一座 S 赛奖杯，也是 LPL 暌违五年的 S 赛冠军；而这支队伍一穿四 LCK 的夺冠之路，注定…",
+   "title": "华为 Mate X8 及全场景新品发布会定档 11 月 24 日，大折叠旗舰全方位焕新",
+   "url": "https://www.ithome.com/1/027/493.htm",
+   "summary": "IT之家 11 月 16 日消息，华为今日官宣，Mate X8 及全场景新品发布会定档 11 月 24 日 14:30。 华为董事、终端 BG CEO 何刚表示，作为华为大折叠旗舰，Mate X 系列 8 年 8 代一路走来，已经成为 2,000 万用户手里的主力大屏。Mate X8 在外观、屏幕、性能、影像… 会给大家带来全方位的焕新感。 华为常务董事、产…",
+   "category": "tech",
+   "lang": "zh",
+   "publishedAt": "2026-11-16T01:03:53.000Z",
+   "heat": 66,
+   "factors": {
+    "recency": 94,
+    "authority": 75,
+    "coverage": 0,
+    "signal": 64
+   },
+   "sources": [
+    {
+     "id": "ithome",
+     "name": "IT之家",
+     "url": "https://www.ithome.com/1/027/493.htm"
+    }
+   ],
+   "keywords": [
+    "mate",
+    "华为",
+    "及全",
+    "全场",
+    "场景",
+    "景新",
+    "新品",
+    "品发"
+   ]
+  },
+  {
+   "id": "t4",
+   "rank": 4,
+   "title": "尚界 Z7T 星野套装展车陆续到店，11 月 20 日华为星芒品牌发布会上市",
+   "url": "https://www.ithome.com/1/027/481.htm",
+   "summary": "IT之家 11 月 16 日消息，尚界汽车今日宣布，尚界 Z7T 星野套装全国首批展车已陆续到店（文末附门店信息），将于 11 月 20 日 14:30 鸿蒙智行享界 V8 及星芒品牌发布会正式上市。 参考IT之家此前报道，尚界 Z7T 是一款猎装车型，于今年 4 月上市，售价 22.98 万元起。尚界 Z7 全系标配华为乾崑智驾 ADS 4.1、华为巨鲸…",
+   "category": "tech",
+   "lang": "zh",
+   "publishedAt": "2026-11-16T00:10:34.000Z",
+   "heat": 64,
+   "factors": {
+    "recency": 88,
+    "authority": 75,
+    "coverage": 0,
+    "signal": 64
+   },
+   "sources": [
+    {
+     "id": "ithome",
+     "name": "IT之家",
+     "url": "https://www.ithome.com/1/027/481.htm"
+    }
+   ],
+   "keywords": [
+    "z7t",
+    "尚界",
+    "星野",
+    "野套",
+    "套装",
+    "装展",
+    "展车",
+    "车陆"
+   ]
+  },
+  {
+   "id": "t5",
+   "rank": 5,
+   "title": "PC Mag 调查：约 1250 万美国人计划在《GTA6》发售日请假或缺课",
+   "url": "https://www.ithome.com/1/027/486.htm",
+   "summary": "IT之家 11 月 16 日消息，科技媒体 PC Mag 近日发布调查报告，显示上千万美国人计划在《GTA6》11 月 19 日发售当日请假或调整上班、上学时间，只为第一时间体验这款开放世界大作。 据报道，8% 美国成年玩家计划在 11 月 19 日当天请带薪假，或者调整工作、上学时间，以便第一时间玩上《GTA6》。经过计算，这意味着大约有 1250 万美国…",
+   "category": "tech",
+   "lang": "zh",
+   "publishedAt": "2026-11-16T00:44:22.000Z",
+   "heat": 61,
+   "factors": {
+    "recency": 92,
+    "authority": 75,
+    "coverage": 0,
+    "signal": 46
+   },
+   "sources": [
+    {
+     "id": "ithome",
+     "name": "IT之家",
+     "url": "https://www.ithome.com/1/027/486.htm"
+    }
+   ],
+   "keywords": [
+    "mag",
+    "1250",
+    "gta6",
+    "调查",
+    "万美",
+    "美国",
+    "国人",
+    "人计"
+   ]
+  },
+  {
+   "id": "t6",
+   "rank": 6,
+   "title": "第49届东盟峰会在菲律宾马尼拉开幕",
+   "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-16/1210887.shtml",
+   "summary": "",
+   "category": "china",
+   "lang": "zh",
+   "publishedAt": "2026-11-16T00:39:56.000Z",
+   "heat": 61,
+   "factors": {
+    "recency": 87,
+    "authority": 80,
+    "coverage": 0,
+    "signal": 48
+   },
+   "sources": [
+    {
+     "id": "chinanews",
+     "name": "中国新闻网",
+     "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-16/1210887.shtml"
+    }
+   ],
+   "keywords": [
+    "届东",
+    "东盟",
+    "盟峰",
+    "峰会",
+    "会在",
+    "在菲",
+    "菲律",
+    "律宾"
+   ]
+  },
+  {
+   "id": "t7",
+   "rank": 7,
+   "title": "2026重庆武隆芙蓉湖铁人三项公开赛鸣枪开赛 中外“铁人”展开角逐",
+   "url": "https://www.chinanews.com.cn/tp/2026/11-16/10732576.shtml",
+   "summary": "图为选手进行游泳赛段较量。(无人机照片)中新社记者 肖江川 摄 图为选手进行游泳赛段较量。(无人机照片)中新社记者 肖江川 摄 图为选手进行游泳赛段较量。(无人机照片)中新社记者 肖江川 摄 图为选手进行自行车赛段较量。(无人机照片)中新社记者 肖江川 摄 图为选手进行跑步赛段较量。(无人机照片)中新社记者 肖江川 摄",
+   "category": "china",
+   "lang": "zh",
+   "publishedAt": "2026-11-16T01:29:04.000Z",
+   "heat": 60,
+   "factors": {
+    "recency": 96,
+    "authority": 80,
+    "coverage": 0,
+    "signal": 30
+   },
+   "sources": [
+    {
+     "id": "chinanews",
+     "name": "中国新闻网",
+     "url": "https://www.chinanews.com.cn/tp/2026/11-16/10732576.shtml"
+    }
+   ],
+   "keywords": [
+    "2026",
+    "重庆",
+    "庆武",
+    "武隆",
+    "隆芙",
+    "芙蓉",
+    "蓉湖",
+    "湖铁"
+   ]
+  },
+  {
+   "id": "t8",
+   "rank": 8,
+   "title": "“绑沙袋跑步瘦得更快”，是真的吗？医生提醒",
+   "url": "https://www.chinanews.com.cn/life/2026/11-16/10732593.shtml",
+   "summary": "“绑沙袋跑步瘦得更快”，是真的吗",
+   "category": "china",
+   "lang": "zh",
+   "publishedAt": "2026-11-16T01:35:45.000Z",
+   "heat": 59,
+   "factors": {
+    "recency": 97,
+    "authority": 80,
+    "coverage": 0,
+    "signal": 22
+   },
+   "sources": [
+    {
+     "id": "chinanews",
+     "name": "中国新闻网",
+     "url": "https://www.chinanews.com.cn/life/2026/11-16/10732593.shtml"
+    }
+   ],
+   "keywords": [
+    "绑沙",
+    "沙袋",
+    "袋跑",
+    "跑步",
+    "步瘦",
+    "瘦得",
+    "得更",
+    "更快"
+   ]
+  },
+  {
+   "id": "t9",
+   "rank": 9,
+   "title": "11月16日人民币对美元中间价报6.7141 上调11个基点",
+   "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732583.shtml",
+   "summary": "中新网11月16日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年11月16日银行间外汇市场人民币汇率中间价为：1美元对人民币6.7141元，上调11个基点。",
+   "category": "china",
+   "lang": "zh",
+   "publishedAt": "2026-11-16T01:35:05.000Z",
+   "heat": 59,
+   "factors": {
+    "recency": 97,
+    "authority": 80,
+    "coverage": 0,
+    "signal": 22
+   },
+   "sources": [
+    {
+     "id": "chinanews",
+     "name": "中国新闻网",
+     "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732583.shtml"
+    }
+   ],
+   "keywords": [
+    "6.7141",
+    "日人",
+    "人民",
+    "民币",
+    "币对",
+    "对美",
+    "美元",
+    "元中"
+   ]
+  },
+  {
+   "id": "t10",
+   "rank": 10,
+   "title": "詹姆斯·古恩驳斥Skydance干预《超人2：明日之子》的传闻",
+   "url": "https://www.ign.com.cn/man-of-tomorrow/64041/zhan-mu-si-gu-en-bo-chi-skydancegan-yu-chao-ren-2ming-ri-zhi-zi-de-chuan-wen",
+   "summary": "「围绕这种说法的任何报道都是假的」 詹姆斯·古恩令人震惊地离开DC Studios后，有传闻称DC的新管理方Skydance干预了他的《超人2：明日之子》剪辑版，古恩驳斥了这一传闻。 本周早些时候，古恩和彼得·萨夫兰卸任这一漫画娱乐部门的联席主席后，网上充斥着各种传言。随着传闻铺天盖地而来，一些较为令人担忧的说法暗示，Skydance已经接管了这位《超人》导…",
    "category": "game",
    "lang": "zh",
-   "publishedAt": "2026-11-15T16:13:40.000Z",
-   "heat": 48,
+   "publishedAt": "2026-11-16T01:19:47.000Z",
+   "heat": 59,
    "factors": {
-    "recency": 73,
+    "recency": 96,
+    "authority": 75,
+    "coverage": 0,
+    "signal": 30
+   },
+   "sources": [
+    {
+     "id": "ign-cn",
+     "name": "IGN 中国",
+     "url": "https://www.ign.com.cn/man-of-tomorrow/64041/zhan-mu-si-gu-en-bo-chi-skydancegan-yu-chao-ren-2ming-ri-zhi-zi-de-chuan-wen"
+    }
+   ],
+   "keywords": [
+    "skydance",
+    "詹姆",
+    "姆斯",
+    "古恩",
+    "恩驳",
+    "驳斥",
+    "干预",
+    "超人"
+   ]
+  },
+  {
+   "id": "t11",
+   "rank": 11,
+   "title": "2026世界中文大会闭幕 中文水平考试如何见证全球“来华热”不断升温？",
+   "url": "https://www.chinanews.com.cn/cul/2026/11-16/10732560.shtml",
+   "summary": "2026世界中文大会于近日闭幕，来自160多个国家和地区的约5000名代表参会。记者从大会了解到，今年中文水平考试，也就是HSK，考生人数首次突破100万人次。而随着中文学习需求不断增长，中文的应用场景也在不断拓展。",
+   "category": "china",
+   "lang": "zh",
+   "publishedAt": "2026-11-16T00:49:22.000Z",
+   "heat": 59,
+   "factors": {
+    "recency": 89,
+    "authority": 80,
+    "coverage": 0,
+    "signal": 34
+   },
+   "sources": [
+    {
+     "id": "chinanews",
+     "name": "中国新闻网",
+     "url": "https://www.chinanews.com.cn/cul/2026/11-16/10732560.shtml"
+    }
+   ],
+   "keywords": [
+    "2026",
+    "世界",
+    "界中",
+    "中文",
+    "文大",
+    "大会",
+    "会闭",
+    "闭幕"
+   ]
+  },
+  {
+   "id": "t12",
+   "rank": 12,
+   "title": "闲鱼通报“钓鱼竿涉色情交易”等四起谣言：已报警，将起诉",
+   "url": "https://www.ithome.com/1/027/476.htm",
+   "summary": "IT之家 11 月 16 日消息，据“闲鱼黑板报”公众号今日发布，2026 年 8 月以来，网络空间流传“拐卖儿童暗语”“偷窃 A4 纸出售”“农产品涉色情交易”“钓鱼竿涉色情交易”等不实信息。污名化闲鱼为“暗网”。 闲鱼称，相关信息经调查均为谣言，平台已向造谣人所在地报警。公众号表示，上述谣言严重干扰平台正常交易秩序，污蔑用户和平台声誉，闲鱼将对相关造谣者…",
+   "category": "tech",
+   "lang": "zh",
+   "publishedAt": "2026-11-15T23:52:43.000Z",
+   "heat": 59,
+   "factors": {
+    "recency": 86,
+    "authority": 75,
+    "coverage": 0,
+    "signal": 44
+   },
+   "sources": [
+    {
+     "id": "ithome",
+     "name": "IT之家",
+     "url": "https://www.ithome.com/1/027/476.htm"
+    }
+   ],
+   "keywords": [
+    "闲鱼",
+    "鱼通",
+    "通报",
+    "钓鱼",
+    "鱼竿",
+    "竿涉",
+    "涉色",
+    "色情"
+   ]
+  },
+  {
+   "id": "t13",
+   "rank": 13,
+   "title": "沈阳市教育局辟谣“中考英语改革”",
+   "url": "https://www.chinanews.com.cn/sh/2026/11-16/10732581.shtml",
+   "summary": "中新网11月16日电 据“沈阳教育发布”微信公众号消息，11月15日晚，沈阳市教育局发布辟谣公告称，近日，网传“2027年沈阳中考英语听力及口语考试改革”的消息为不实信息，请广大师生、家长不信谣、不传谣。",
+   "category": "china",
+   "lang": "zh",
+   "publishedAt": "2026-11-16T01:34:49.000Z",
+   "heat": 58,
+   "factors": {
+    "recency": 97,
+    "authority": 80,
+    "coverage": 0,
+    "signal": 18
+   },
+   "sources": [
+    {
+     "id": "chinanews",
+     "name": "中国新闻网",
+     "url": "https://www.chinanews.com.cn/sh/2026/11-16/10732581.shtml"
+    }
+   ],
+   "keywords": [
+    "沈阳",
+    "阳市",
+    "市教",
+    "教育",
+    "育局",
+    "局辟",
+    "辟谣",
+    "中考"
+   ]
+  },
+  {
+   "id": "t14",
+   "rank": 14,
+   "title": "全面重制：《超级肉肉男孩Again+》正式公布",
+   "url": "https://www.gcores.com/articles/222387",
+   "summary": "开发商 Team Meat 于今日公布了《超级肉肉男孩Again+》。作为2010年发售的 《超级肉肉男孩》 的全面升级版本，《超级肉肉男孩Again+》延续了高难度的平台跳跃玩法，包含300多个关卡以及电锯机关。与此同时，原版作曲家 Danny B 也回归负责配乐。 为了让熟悉原作的老玩家获得新鲜的挑战，Team Meat 在《超级肉肉男孩Again+》中…",
+   "category": "game",
+   "lang": "zh",
+   "publishedAt": "2026-11-16T01:25:00.000Z",
+   "heat": 58,
+   "factors": {
+    "recency": 97,
+    "authority": 80,
+    "coverage": 0,
+    "signal": 18
+   },
+   "sources": [
+    {
+     "id": "gcores",
+     "name": "机核 GCORES",
+     "url": "https://www.gcores.com/articles/222387"
+    }
+   ],
+   "keywords": [
+    "again",
+    "全面",
+    "面重",
+    "重制",
+    "超级",
+    "级肉",
+    "肉肉",
+    "肉男"
+   ]
+  },
+  {
+   "id": "t15",
+   "rank": 15,
+   "title": "《闪客快打》创作者打造：《灾异档案》正式公布",
+   "url": "https://www.gcores.com/articles/222386",
+   "summary": "由《闪客快打》创作者打造的 2D 科幻惊悚动作冒险游戏 《灾异档案》正式公布，即将在 Steam 开启抢先体验。本作中，玩家作为 OMEGA 灾异体应对管理局的执裁官，将会进入异常事件封锁区，在战斗、探索与环境互动中搜集现场线索、恢复终端档案，并逐步拼出灾异事件的真相。 《灾异档案》采用剧集式关卡结构。不同剧集可以拥有独立的主角、区域、任务、敌人与玩法，并围…",
+   "category": "game",
+   "lang": "zh",
+   "publishedAt": "2026-11-16T01:15:00.000Z",
+   "heat": 58,
+   "factors": {
+    "recency": 96,
+    "authority": 80,
+    "coverage": 0,
+    "signal": 18
+   },
+   "sources": [
+    {
+     "id": "gcores",
+     "name": "机核 GCORES",
+     "url": "https://www.gcores.com/articles/222386"
+    }
+   ],
+   "keywords": [
+    "闪客",
+    "客快",
+    "快打",
+    "创作",
+    "作者",
+    "者打",
+    "打造",
+    "灾异"
+   ]
+  },
+  {
+   "id": "t16",
+   "rank": 16,
+   "title": "影院成 BLG《英雄联盟》S16 夺冠隐藏赢家，凌晨三点难挡玩家热情",
+   "url": "https://www.ithome.com/1/027/491.htm",
+   "summary": "IT之家 11 月 16 日消息，在昨日早间结束的《英雄联盟》2026 全球总决赛（S16）冠亚军决赛中，来自中国 LPL 赛区的 BLG 战队以 3:1 的比分力克韩国 LCK 赛区的 GEN 战队，连斩四支韩国战队，勇夺《英雄联盟》S16 冠军。这也是中国战队时隔五年再度夺得英雄联盟全球总决赛冠军。 据澎湃新闻今日报道，如果说B站和赞助商分享的是线上流量…",
+   "category": "tech",
+   "lang": "zh",
+   "publishedAt": "2026-11-16T01:01:18.000Z",
+   "heat": 58,
+   "factors": {
+    "recency": 94,
+    "authority": 75,
+    "coverage": 0,
+    "signal": 30
+   },
+   "sources": [
+    {
+     "id": "ithome",
+     "name": "IT之家",
+     "url": "https://www.ithome.com/1/027/491.htm"
+    }
+   ],
+   "keywords": [
+    "blg",
+    "s16",
+    "影院",
+    "院成",
+    "英雄",
+    "雄联",
+    "联盟",
+    "夺冠"
+   ]
+  },
+  {
+   "id": "t17",
+   "rank": 17,
+   "title": "创业板指跌逾2%，全市场下跌个股超5000只",
+   "url": "https://www.jiemian.com/article/15335138.html",
+   "summary": "",
+   "category": "china",
+   "lang": "zh",
+   "publishedAt": "2026-11-16T01:36:46.000Z",
+   "heat": 57,
+   "factors": {
+    "recency": 97,
+    "authority": 70,
+    "coverage": 0,
+    "signal": 22
+   },
+   "sources": [
+    {
+     "id": "jiemian",
+     "name": "界面新闻",
+     "url": "https://www.jiemian.com/article/15335138.html"
+    }
+   ],
+   "keywords": [
+    "5000",
+    "创业",
+    "业板",
+    "板指",
+    "指跌",
+    "跌逾",
+    "全市",
+    "市场"
+   ]
+  },
+  {
+   "id": "t18",
+   "rank": 18,
+   "title": "习言道｜APEC上习近平的“地瓜”妙喻",
+   "url": "http://www.chinanews.com.cn/gn/shipin/2026/11-16/news1074986.shtml",
+   "summary": "“地瓜的藤蔓向四面八方延伸，但它的块茎始终长在根基位置。”习近平主席曾以“地瓜”为喻，道出中国和亚太的关系，强调“不管发展到什么程度，中国都将扎根亚太、建设亚太、造福亚太”。11月18日至19日，亚太经合组织(APEC)第三十三次领导人非正式会议将在中国深圳举行，共同期待。",
+   "category": "china",
+   "lang": "zh",
+   "publishedAt": "2026-11-16T01:13:56.000Z",
+   "heat": 57,
+   "factors": {
+    "recency": 93,
+    "authority": 80,
+    "coverage": 0,
+    "signal": 18
+   },
+   "sources": [
+    {
+     "id": "chinanews",
+     "name": "中国新闻网",
+     "url": "http://www.chinanews.com.cn/gn/shipin/2026/11-16/news1074986.shtml"
+    }
+   ],
+   "keywords": [
+    "apec",
+    "习言",
+    "言道",
+    "上习",
+    "习近",
+    "近平",
+    "平的",
+    "地瓜"
+   ]
+  },
+  {
+   "id": "t19",
+   "rank": 19,
+   "title": "速度滑冰世界杯北京站收官 中国队再获1金2银",
+   "url": "https://www.chinanews.com.cn/ty/2026/11-16/10732535.shtml",
+   "summary": "中新社北京11月15日电 (刘梦青)2026-2027赛季国际滑联速度滑冰世界杯北京站比赛15日迎来最后一个比赛日。中国队在男子500米项目和女子团体追逐项目中收获一枚金牌和两枚银牌。",
+   "category": "china",
+   "lang": "zh",
+   "publishedAt": "2026-11-16T01:05:23.000Z",
+   "heat": 57,
+   "factors": {
+    "recency": 91,
+    "authority": 80,
+    "coverage": 0,
+    "signal": 22
+   },
+   "sources": [
+    {
+     "id": "chinanews",
+     "name": "中国新闻网",
+     "url": "https://www.chinanews.com.cn/ty/2026/11-16/10732535.shtml"
+    }
+   ],
+   "keywords": [
+    "速度",
+    "度滑",
+    "滑冰",
+    "冰世",
+    "世界",
+    "界杯",
+    "杯北",
+    "北京"
+   ]
+  },
+  {
+   "id": "t20",
+   "rank": 20,
+   "title": "《毁灭战士：黑暗时代|启示录》“屠戮模式”今日实装",
+   "url": "https://www.gcores.com/articles/222385",
+   "summary": "《毁灭战士：黑暗时代|启示录》“屠戮模式”今日实装。本模式是全新的无尽战斗挑战，玩家将一路杀穿越来越难而又变幻莫测的恶魔狂潮，打出自己的最高分，在屠戮的过程中收集的骷髅，用来解锁奖励。每次到达检查点时，你都必须问自己：是想要见好就收，结算骷髅，还是为了可能得到更多奖励而冒险尝试？ 在屠戮模式中，不会存在完全相同的战局。你要在不同的竞技场中迎战越来越难的随机遭…",
+   "category": "game",
+   "lang": "zh",
+   "publishedAt": "2026-11-16T01:05:00.000Z",
+   "heat": 57,
+   "factors": {
+    "recency": 95,
+    "authority": 80,
+    "coverage": 0,
+    "signal": 18
+   },
+   "sources": [
+    {
+     "id": "gcores",
+     "name": "机核 GCORES",
+     "url": "https://www.gcores.com/articles/222385"
+    }
+   ],
+   "keywords": [
+    "毁灭",
+    "灭战",
+    "战士",
+    "黑暗",
+    "暗时",
+    "时代",
+    "启示",
+    "示录"
+   ]
+  },
+  {
+   "id": "t21",
+   "rank": 21,
+   "title": "刚果（金）埃博拉疫情持续六个月 已致5400余人死亡",
+   "url": "https://www.chinanews.com.cn/gj/2026/11-16/10732536.shtml",
+   "summary": "中新社约翰内斯堡11月15日电 非洲疾控中心15日发布公告称，刚果(金)的本迪布焦型埃博拉疫情已持续六个月，累计报告病例超过1.1万例，死亡病例超过5400例。目前疫情仍在持续蔓延，每周新增病例400至500例。",
+   "category": "china",
+   "lang": "zh",
+   "publishedAt": "2026-11-16T01:04:21.000Z",
+   "heat": 57,
+   "factors": {
+    "recency": 91,
+    "authority": 80,
+    "coverage": 0,
+    "signal": 22
+   },
+   "sources": [
+    {
+     "id": "chinanews",
+     "name": "中国新闻网",
+     "url": "https://www.chinanews.com.cn/gj/2026/11-16/10732536.shtml"
+    }
+   ],
+   "keywords": [
+    "5400",
+    "刚果",
+    "埃博",
+    "博拉",
+    "拉疫",
+    "疫情",
+    "情持",
+    "持续"
+   ]
+  },
+  {
+   "id": "t22",
+   "rank": 22,
+   "title": "腾讯 WorkBuddy 国际版上线 Gemini 4 Carbon 大模型：支持百万 Token 上下文，暂仅限 Pro 用户使用",
+   "url": "https://www.ithome.com/1/027/487.htm",
+   "summary": "IT之家 11 月 16 日消息，腾讯 WorkBuddy 国际版昨日宣布，已正式上线谷歌 Gemini 4 Carbon 模型，主要面向需要更深入推理和处理更长任务的使用场景。 官方将其定位为适合处理复杂问题的模型，目前仅面向 Pro 计划用户开放。 IT之家此前报道，谷歌称 Gemini 4 Carbon 模型主要面向长周期智能体工作流，适用于复杂知识工…",
+   "category": "tech",
+   "lang": "zh",
+   "publishedAt": "2026-11-16T00:44:37.000Z",
+   "heat": 57,
+   "factors": {
+    "recency": 92,
+    "authority": 75,
+    "coverage": 0,
+    "signal": 26
+   },
+   "sources": [
+    {
+     "id": "ithome",
+     "name": "IT之家",
+     "url": "https://www.ithome.com/1/027/487.htm"
+    }
+   ],
+   "keywords": [
+    "workbuddy",
+    "gemini",
+    "carbon",
+    "token",
+    "pro",
+    "腾讯",
+    "国际",
+    "际版"
+   ]
+  },
+  {
+   "id": "t23",
+   "rank": 23,
+   "title": "伊朗外交部：伊朗“不会等待任何人”，将继续回应任何军事侵略",
+   "url": "https://www.chinanews.com.cn/gj/2026/11-16/10732541.shtml",
+   "summary": "中新网11月16日电 据英国《卫报》当地时间15日报道，伊朗外交部发言人巴加埃在新闻发布会上表示，伊朗未来将继续对美国或其他国家的任何军事侵略予以回应。",
+   "category": "world",
+   "lang": "zh",
+   "publishedAt": "2026-11-15T23:41:55.000Z",
+   "heat": 57,
+   "factors": {
+    "recency": 82,
+    "authority": 75,
+    "coverage": 0,
+    "signal": 44
+   },
+   "sources": [
+    {
+     "id": "chinanews-world",
+     "name": "中新网·国际",
+     "url": "https://www.chinanews.com.cn/gj/2026/11-16/10732541.shtml"
+    }
+   ],
+   "keywords": [
+    "伊朗",
+    "朗外",
+    "外交",
+    "交部",
+    "不会",
+    "会等",
+    "等待",
+    "待任"
+   ]
+  },
+  {
+   "id": "t24",
+   "rank": 24,
+   "title": "APEC工商峰会将首发“深圳倡议”，超百家世界500强参会；特斯拉Cybercab个人购车设使用限制，且暂禁商业用途；再创新高，51个一类创新药进入新版国家医保药品目录",
+   "url": "https://www.tmtpost.com/8205965.html",
+   "summary": "美星舰飞船首次被捕获回收；再创新高，51个一类创新药进入新版国家医保药品目录；金融机构外汇存款准备金率15日起提高至6%；“大空头”Burry加码做空纳指及半导体股，警告AI热潮或陷入“牛市陷阱”；北交所开市五周年，总市值约8000亿元",
+   "category": "tech",
+   "lang": "zh",
+   "publishedAt": "2026-11-15T23:20:00.000Z",
+   "heat": 57,
+   "factors": {
+    "recency": 82,
+    "authority": 60,
+    "coverage": 0,
+    "signal": 60
+   },
+   "sources": [
+    {
+     "id": "tmtpost",
+     "name": "钛媒体",
+     "url": "https://www.tmtpost.com/8205965.html"
+    }
+   ],
+   "keywords": [
+    "apec",
+    "500",
+    "cybercab",
+    "工商",
+    "商峰",
+    "峰会",
+    "会将",
+    "将首"
+   ]
+  },
+  {
+   "id": "t25",
+   "rank": 25,
+   "title": "江苏如东：洋口港LNG接收站吹响冬供号角",
+   "url": "https://www.chinanews.com.cn/tp/2026/11-16/10732589.shtml",
+   "summary": "11月15日，江苏南通，坐落于如东洋口港阳光岛上的中石油江苏LNG接收站吹响冬季保供号角。徐书影 摄 11月15日，江苏南通，坐落于如东洋口港阳光岛上的中石油江苏LNG接收站吹响冬季保供号角。徐书影 摄 11月15日，江苏南通，坐落于如东洋口港阳光岛上的中石油江苏LNG接收站吹响冬季保供号角。徐书影 摄",
+   "category": "china",
+   "lang": "zh",
+   "publishedAt": "2026-11-16T01:35:37.000Z",
+   "heat": 56,
+   "factors": {
+    "recency": 97,
     "authority": 80,
     "coverage": 0,
     "signal": 10
    },
    "sources": [
     {
-     "id": "gcores",
-     "name": "机核 GCORES",
-     "url": "https://www.gcores.com/articles/222388"
+     "id": "chinanews",
+     "name": "中国新闻网",
+     "url": "https://www.chinanews.com.cn/tp/2026/11-16/10732589.shtml"
     }
    ],
    "keywords": [
-    "blg",
-    "一穿",
-    "穿四",
-    "四夺",
-    "夺冠",
-    "从说",
-    "说晚",
-    "晚安"
+    "lng",
+    "江苏",
+    "苏如",
+    "如东",
+    "洋口",
+    "口港",
+    "接收",
+    "收站"
    ]
   },
   {
-   "id": "t4",
-   "rank": 4,
+   "id": "t26",
+   "rank": 26,
+   "title": "花2000万冠名湘超却沦为“最大冤种”，湘窖要补的不只是传播课",
+   "url": "https://www.tmtpost.com/8206060.html",
+   "summary": "花了钱却在传播中“隐身”，不是一次签约的疏忽那么简单。",
+   "category": "tech",
+   "lang": "zh",
+   "publishedAt": "2026-11-16T01:35:00.000Z",
+   "heat": 56,
+   "factors": {
+    "recency": 98,
+    "authority": 60,
+    "coverage": 0,
+    "signal": 30
+   },
+   "sources": [
+    {
+     "id": "tmtpost",
+     "name": "钛媒体",
+     "url": "https://www.tmtpost.com/8206060.html"
+    }
+   ],
+   "keywords": [
+    "2000",
+    "万冠",
+    "冠名",
+    "名湘",
+    "湘超",
+    "超却",
+    "却沦",
+    "沦为"
+   ]
+  },
+  {
+   "id": "t27",
+   "rank": 27,
+   "title": "国家医保局：各地医保持续调整优化医疗服务价格",
+   "url": "https://www.chinanews.com.cn/sh/2026/11-16/10732574.shtml",
+   "summary": "中新网11月16日电 据国家医保局微信公众号消息，医疗服务价格是人民群众最关心最直接最现实的利益问题。国家医保局深入推进医疗服务价格改革和治理，指导各地全面建立医疗服务价格动态调整机制，结合经济社会发展、医院运行状态、群众负担水平、医保基金收支等因素，持续调整优化医疗服务价格，协同推进基金安全运行、医院良性运转、群众负担合理。",
+   "category": "china",
+   "lang": "zh",
+   "publishedAt": "2026-11-16T01:34:07.000Z",
+   "heat": 56,
+   "factors": {
+    "recency": 97,
+    "authority": 80,
+    "coverage": 0,
+    "signal": 10
+   },
+   "sources": [
+    {
+     "id": "chinanews",
+     "name": "中国新闻网",
+     "url": "https://www.chinanews.com.cn/sh/2026/11-16/10732574.shtml"
+    }
+   ],
+   "keywords": [
+    "国家",
+    "家医",
+    "医保",
+    "保局",
+    "各地",
+    "地医",
+    "保持",
+    "持续"
+   ]
+  },
+  {
+   "id": "t28",
+   "rank": 28,
+   "title": "新疆医科大学党委原书记高发水接受审查调查",
+   "url": "https://www.chinanews.com.cn/gn/2026/11-16/10732573.shtml",
+   "summary": "中新网11月16日电 据新疆维吾尔自治区纪委监委消息：新疆医科大学党委原书记高发水涉嫌严重违纪违法，目前正接受新疆维吾尔自治区纪委监委纪律审查和监察调查。",
+   "category": "china",
+   "lang": "zh",
+   "publishedAt": "2026-11-16T01:33:39.000Z",
+   "heat": 56,
+   "factors": {
+    "recency": 97,
+    "authority": 80,
+    "coverage": 0,
+    "signal": 10
+   },
+   "sources": [
+    {
+     "id": "chinanews",
+     "name": "中国新闻网",
+     "url": "https://www.chinanews.com.cn/gn/2026/11-16/10732573.shtml"
+    }
+   ],
+   "keywords": [
+    "新疆",
+    "疆医",
+    "医科",
+    "科大",
+    "大学",
+    "学党",
+    "党委",
+    "委原"
+   ]
+  },
+  {
+   "id": "t29",
+   "rank": 29,
+   "title": "古尔曼曝光苹果智能眼镜原型机：主打 Siri 语音交互，预计 WWDC2027 发布",
+   "url": "https://www.ithome.com/1/027/466.htm",
+   "summary": "IT之家 11 月 16 日消息，据彭博社记者马克 · 古尔曼昨日透露，苹果计划在 2027 年 6 月的 WWDC 发布公司首款智能眼镜，并在当年年底开始出货。 IT之家从原报道获悉，这款智能眼镜原型机的内部代号为“N50”，其镜框据称略小于 Meta 第二代 Ray-Ban。部分测试机采用椭圆形摄像头开孔，直接集成在镜框中，没有向外凸起。眼镜正面设有一颗…",
+   "category": "tech",
+   "lang": "zh",
+   "publishedAt": "2026-11-15T23:04:30.000Z",
+   "heat": 56,
+   "factors": {
+    "recency": 81,
+    "authority": 75,
+    "coverage": 0,
+    "signal": 38
+   },
+   "sources": [
+    {
+     "id": "ithome",
+     "name": "IT之家",
+     "url": "https://www.ithome.com/1/027/466.htm"
+    }
+   ],
+   "keywords": [
+    "siri",
+    "wwdc2027",
+    "古尔",
+    "尔曼",
+    "曼曝",
+    "曝光",
+    "光苹",
+    "苹果"
+   ]
+  },
+  {
+   "id": "t30",
+   "rank": 30,
+   "title": "古尔曼：苹果工程师正积极为 iPhone Duo 2 外屏开发面容 ID",
+   "url": "https://www.ithome.com/1/027/482.htm",
+   "summary": "IT之家 11 月 16 日消息，彭博社记者马克 · 古尔曼昨日于新一期《Power On》通讯透露，苹果计划于明年秋季推出 iPhone Duo 2 折叠屏手机。苹果工程师正尝试将面容 ID 集成到这款设备中，但最终可能存在变数。 古尔曼透露，苹果为 iPhone Duo 2 制定了两项优先开发目标：面容 ID 和操作按钮。后者最终可能只是软件更新，为相机…",
+   "category": "tech",
+   "lang": "zh",
+   "publishedAt": "2026-11-16T00:12:50.000Z",
+   "heat": 55,
+   "factors": {
+    "recency": 88,
+    "authority": 75,
+    "coverage": 0,
+    "signal": 22
+   },
+   "sources": [
+    {
+     "id": "ithome",
+     "name": "IT之家",
+     "url": "https://www.ithome.com/1/027/482.htm"
+    }
+   ],
+   "keywords": [
+    "iphone",
+    "duo",
+    "古尔",
+    "尔曼",
+    "苹果",
+    "果工",
+    "工程",
+    "程师"
+   ]
+  },
+  {
+   "id": "t31",
+   "rank": 31,
+   "title": "消息称某厂明年的阔直板手机已开屏，预计为小米旗下",
+   "url": "https://www.ithome.com/1/027/495.htm",
+   "summary": "IT之家 11 月 16 日消息，博主 @数码闲聊站 今日爆料，某厂明年的阔直板手机已开屏，目前早期方案是 6.3-6.4 英寸 ±，屏幕比例 16:9，采用 1mm± 极窄四等边设计，支持 BT.2020 色域并配备高规格阔屏。 结合该博主此前的爆料习惯，预计这款新机为小米旗下。 IT之家注意到，该博主上月曾爆料，某厂子系阔直板确定评估中，2027 年见。…",
+   "category": "tech",
+   "lang": "zh",
+   "publishedAt": "2026-11-16T01:08:46.000Z",
+   "heat": 54,
+   "factors": {
+    "recency": 95,
+    "authority": 75,
+    "coverage": 0,
+    "signal": 10
+   },
+   "sources": [
+    {
+     "id": "ithome",
+     "name": "IT之家",
+     "url": "https://www.ithome.com/1/027/495.htm"
+    }
+   ],
+   "keywords": [
+    "消息",
+    "息称",
+    "称某",
+    "某厂",
+    "厂明",
+    "明年",
+    "年的",
+    "的阔"
+   ]
+  },
+  {
+   "id": "t32",
+   "rank": 32,
+   "title": "KTC 预告 6K Mini LED 显示器 M32P2，CES 2027 展出样品",
+   "url": "https://www.ithome.com/1/027/492.htm",
+   "summary": "IT之家 11 月 16 日消息，据外媒 TechRadar 数小时前报道，KTC 计划在 CES 2027 上展示多款显示新品，其中 M32P2 是一款基于 31.5\" 6016×3384 IPS 面板的 2304 分区 Mini LED 背光显示器。 ▲ 图源：KTC该型号刷新率 60Hz；拥有 1000nit 的 HDR 峰值亮度，静态对比度 1000…",
+   "category": "tech",
+   "lang": "zh",
+   "publishedAt": "2026-11-16T01:03:23.000Z",
+   "heat": 54,
+   "factors": {
+    "recency": 94,
+    "authority": 75,
+    "coverage": 0,
+    "signal": 12
+   },
+   "sources": [
+    {
+     "id": "ithome",
+     "name": "IT之家",
+     "url": "https://www.ithome.com/1/027/492.htm"
+    }
+   ],
+   "keywords": [
+    "ktc",
+    "mini",
+    "led",
+    "m32p2",
+    "ces",
+    "2027",
+    "预告",
+    "显示"
+   ]
+  },
+  {
+   "id": "t33",
+   "rank": 33,
+   "title": "苹果新款 Apple TV 4K 提供 8GB 内存，但应用程序和游戏最多只能使用 2GB",
+   "url": "https://www.ithome.com/1/027/489.htm",
+   "summary": "IT之家 11 月 16 日消息，据科技媒体 9To5Mac 昨天报道，苹果新款 Apple TV 4K 搭载 A19 芯片，配备 128GB 存储空间和 8GB 内存。其中内存相比上一代产品翻倍，但应用程序和游戏却无法使用更多内存。 IT之家从原报道获悉，Apple TV 上的应用受到 tvOS 操作系统限制，单个应用最多只能使用 2GB 内存，新品并没有…",
+   "category": "tech",
+   "lang": "zh",
+   "publishedAt": "2026-11-16T01:00:43.000Z",
+   "heat": 54,
+   "factors": {
+    "recency": 94,
+    "authority": 75,
+    "coverage": 0,
+    "signal": 12
+   },
+   "sources": [
+    {
+     "id": "ithome",
+     "name": "IT之家",
+     "url": "https://www.ithome.com/1/027/489.htm"
+    }
+   ],
+   "keywords": [
+    "apple",
+    "8gb",
+    "2gb",
+    "苹果",
+    "果新",
+    "新款",
+    "提供",
+    "内存"
+   ]
+  },
+  {
+   "id": "t34",
+   "rank": 34,
+   "title": "董明珠：格力对文凭的考虑已逐步取消，本事才是硬通行证",
+   "url": "https://www.ithome.com/1/027/488.htm",
+   "summary": "IT之家 11 月 16 日消息，据央视财经 11 月 14 日报道，董明珠和格力技校学生面对面，她在《对话》现场表示，三年后想留下的学生，基本都能留在格力。她鼓励孩子们在这所学校学真技术、培养工匠精神；格力对文凭的考虑也已经逐步取消，本事才是硬通行证。 董明珠还说，想让技校学生和普通高中生 PK 一下，说这话时信心十足。 IT之家注意到，从董事长到技校校长…",
+   "category": "tech",
+   "lang": "zh",
+   "publishedAt": "2026-11-16T00:52:33.000Z",
+   "heat": 54,
+   "factors": {
+    "recency": 93,
+    "authority": 75,
+    "coverage": 0,
+    "signal": 10
+   },
+   "sources": [
+    {
+     "id": "ithome",
+     "name": "IT之家",
+     "url": "https://www.ithome.com/1/027/488.htm"
+    }
+   ],
+   "keywords": [
+    "董明",
+    "明珠",
+    "格力",
+    "力对",
+    "对文",
+    "文凭",
+    "凭的",
+    "的考"
+   ]
+  },
+  {
+   "id": "t35",
+   "rank": 35,
+   "title": "原著小说迟迟未更新，Apple TV+ 热门剧《流人》第八季或成最终季",
+   "url": "https://www.ithome.com/1/027/483.htm",
+   "summary": "IT之家 11 月 16 日消息，苹果流媒体平台 Apple TV+ 超热门剧集《流人》（Slow Horses）可能将在第八季结束。 本片主演奥利维娅 · 库克（Olivia Cooke）今日接受《泰晤士报》采访时透露“她目前正在拍摄该剧的最后一季”，不过她随后又补充称“未来的事不能说死”。 奥利维娅 · 库克在剧中饰演西德妮 · 贝克（Sid Baker…",
+   "category": "tech",
+   "lang": "zh",
+   "publishedAt": "2026-11-16T00:31:01.000Z",
+   "heat": 54,
+   "factors": {
+    "recency": 90,
+    "authority": 75,
+    "coverage": 0,
+    "signal": 18
+   },
+   "sources": [
+    {
+     "id": "ithome",
+     "name": "IT之家",
+     "url": "https://www.ithome.com/1/027/483.htm"
+    }
+   ],
+   "keywords": [
+    "apple",
+    "原著",
+    "著小",
+    "小说",
+    "说迟",
+    "迟迟",
+    "迟未",
+    "未更"
+   ]
+  },
+  {
+   "id": "t36",
+   "rank": 36,
+   "title": "停飞影响持续 美航空运输预计16日全面恢复 空管老旧问题再受关注",
+   "url": "https://www.chinanews.com.cn/gj/2026/11-16/10732550.shtml",
+   "summary": "当地时间15日，美国交通部长达菲表示，美国航空运输预计当天逐步恢复正常，受飞机和机组人员不在预定执勤位置影响，可能到16日才能全面恢复。",
+   "category": "world",
+   "lang": "zh",
+   "publishedAt": "2026-11-16T00:04:58.000Z",
+   "heat": 53,
+   "factors": {
+    "recency": 85,
+    "authority": 75,
+    "coverage": 0,
+    "signal": 22
+   },
+   "sources": [
+    {
+     "id": "chinanews-world",
+     "name": "中新网·国际",
+     "url": "https://www.chinanews.com.cn/gj/2026/11-16/10732550.shtml"
+    }
+   ],
+   "keywords": [
+    "停飞",
+    "飞影",
+    "影响",
+    "响持",
+    "持续",
+    "美航",
+    "航空",
+    "空运"
+   ]
+  },
+  {
+   "id": "t37",
+   "rank": 37,
+   "title": "胡塞武装宣布：沙特联军24小时内75次袭击也门多地",
+   "url": "https://www.chinanews.com.cn/gj/2026/11-16/10732534.shtml",
+   "summary": "中新网11月16日电 据也门通讯社报道，也门胡塞武装当地时间15日发表声明称，过去24小时内，沙特主导的联军对也门萨达省、塔伊兹省、拉赫季省、焦夫省和马里卜省发动了75次空袭和导弹袭击。",
+   "category": "world",
+   "lang": "zh",
+   "publishedAt": "2026-11-15T23:03:46.000Z",
+   "heat": 51,
+   "factors": {
+    "recency": 77,
+    "authority": 75,
+    "coverage": 0,
+    "signal": 22
+   },
+   "sources": [
+    {
+     "id": "chinanews-world",
+     "name": "中新网·国际",
+     "url": "https://www.chinanews.com.cn/gj/2026/11-16/10732534.shtml"
+    }
+   ],
+   "keywords": [
+    "胡塞",
+    "塞武",
+    "武装",
+    "装宣",
+    "宣布",
+    "沙特",
+    "特联",
+    "联军"
+   ]
+  },
+  {
+   "id": "t38",
+   "rank": 38,
+   "title": "Jensen Huang discusses comeback as Nvidia CEO with allies, FT reports",
+   "url": "https://www.koreatimes.co.kr/world/20261116/jensen-huang-discusses-comeback-as-nvidia-ceo-with-allies-ft-reports?utm_source=rss",
+   "summary": "Jensen Huang is considering a comeback as Nvidia's chief executive, and has discussed with confidants the possibility of returning, the Financial Times reported on Sunday, citing p…",
+   "category": "world",
+   "lang": "en",
+   "publishedAt": "2026-11-16T01:47:02.000Z",
+   "heat": 50,
+   "factors": {
+    "recency": 99,
+    "authority": 60,
+    "coverage": 0,
+    "signal": 0
+   },
+   "sources": [
+    {
+     "id": "koreatimes",
+     "name": "Korea Times",
+     "url": "https://www.koreatimes.co.kr/world/20261116/jensen-huang-discusses-comeback-as-nvidia-ceo-with-allies-ft-reports?utm_source=rss"
+    }
+   ],
+   "keywords": [
+    "jensen",
+    "huang",
+    "discusses",
+    "comeback",
+    "nvidia",
+    "ceo",
+    "with",
+    "allies"
+   ]
+  },
+  {
+   "id": "t39",
+   "rank": 39,
+   "title": "Thousands of flights canceled as airlines work to dig out from nationwide ground stop",
+   "url": "https://www.koreatimes.co.kr/world/20261116/thousands-of-flights-canceled-as-airlines-work-to-dig-out-from-nationwide-ground-stop?utm_source=rss",
+   "summary": "WASHINGTON — Airlines across the U.S. worked to recover from the longest nationwide ground stop in 25 years that canceled more than 2,500 flights Saturday, spread ripple effects ar…",
+   "category": "world",
+   "lang": "en",
+   "publishedAt": "2026-11-16T01:47:02.000Z",
+   "heat": 50,
+   "factors": {
+    "recency": 99,
+    "authority": 60,
+    "coverage": 0,
+    "signal": 0
+   },
+   "sources": [
+    {
+     "id": "koreatimes",
+     "name": "Korea Times",
+     "url": "https://www.koreatimes.co.kr/world/20261116/thousands-of-flights-canceled-as-airlines-work-to-dig-out-from-nationwide-ground-stop?utm_source=rss"
+    }
+   ],
+   "keywords": [
+    "thousands",
+    "flights",
+    "canceled",
+    "airlines",
+    "work",
+    "dig",
+    "out",
+    "from"
+   ]
+  },
+  {
+   "id": "t40",
+   "rank": 40,
+   "title": "Ukraine launches nearly 1,200 drones at Russia as US-led talks to consider wider European security",
+   "url": "https://www.koreatimes.co.kr/world/20261116/ukraine-launches-nearly-1200-drones-at-russia-as-us-led-talks-to-consider-wider-european-security?utm_source=rss",
+   "summary": "KYIV, Ukraine — Ukraine fired almost 1,200 drones at Russian targets overnight in one of its biggest aerial attacks since Moscow’s full-scale invasion nearly five years ago. Meanwh…",
+   "category": "world",
+   "lang": "en",
+   "publishedAt": "2026-11-16T01:47:02.000Z",
+   "heat": 50,
+   "factors": {
+    "recency": 99,
+    "authority": 60,
+    "coverage": 0,
+    "signal": 0
+   },
+   "sources": [
+    {
+     "id": "koreatimes",
+     "name": "Korea Times",
+     "url": "https://www.koreatimes.co.kr/world/20261116/ukraine-launches-nearly-1200-drones-at-russia-as-us-led-talks-to-consider-wider-european-security?utm_source=rss"
+    }
+   ],
+   "keywords": [
+    "ukraine",
+    "launches",
+    "nearly",
+    "200",
+    "drones",
+    "russia",
+    "us-led",
+    "talks"
+   ]
+  },
+  {
+   "id": "t41",
+   "rank": 41,
+   "title": "IGN 专访 Take-Two CEO：对《GTA 6》的预期、《GTA OL》的规划、展望未来 10 年",
+   "url": "https://www.ign.com.cn/borderlands-4/64010/ign-zhuan-fang-take-two-ceodui-gta-6-de-yu-qi-gta-ol-de-gui-hua-zhan-wang-wei-lai-10-nian",
+   "summary": "“我很期待游戏发售的那一刻。” 在距离《GTA 6》发售仅剩 10 天之际，Take-Two 首席执行官 Strauss Zelnick 告诉我目前他感到“很乐观” —— 这或许有点过于谦虚的嫌疑了。在最近的 2027 财年 Q2 财报会议上，Take-Two 透露《GTA 6》的预购量“远超”公司预期。这家 Rockstar 母公司还补充说：“我们相信，数…",
+   "category": "game",
+   "lang": "zh",
+   "publishedAt": "2026-11-15T23:00:57.000Z",
+   "heat": 50,
+   "factors": {
+    "recency": 83,
+    "authority": 75,
+    "coverage": 0,
+    "signal": 8
+   },
+   "sources": [
+    {
+     "id": "ign-cn",
+     "name": "IGN 中国",
+     "url": "https://www.ign.com.cn/borderlands-4/64010/ign-zhuan-fang-take-two-ceodui-gta-6-de-yu-qi-gta-ol-de-gui-hua-zhan-wang-wei-lai-10-nian"
+    }
+   ],
+   "keywords": [
+    "ign",
+    "take-two",
+    "ceo",
+    "gta",
+    "专访",
+    "的预",
+    "预期",
+    "的规"
+   ]
+  },
+  {
+   "id": "t42",
+   "rank": 42,
+   "title": "Elon Musk, Uber co-founder join calls to reinstate Jensen Huang as Nvidia chief",
+   "url": "https://www.france24.com/en/technology/20261115-elon-musk-uber-co-founder-jensen-huang-nvidia-reinstate",
+   "summary": "Elon Musk and an Uber co-founder were among more than 158,000 signatories by Sunday demanding Jensen Huang’s reinstatement as Nvidia chief pending an independent investigation. Hua…",
+   "category": "world",
+   "lang": "en",
+   "publishedAt": "2026-11-15T23:31:15.000Z",
+   "heat": 49,
+   "factors": {
+    "recency": 80,
+    "authority": 85,
+    "coverage": 0,
+    "signal": 0
+   },
+   "sources": [
+    {
+     "id": "france24",
+     "name": "France 24",
+     "url": "https://www.france24.com/en/technology/20261115-elon-musk-uber-co-founder-jensen-huang-nvidia-reinstate"
+    }
+   ],
+   "keywords": [
+    "elon",
+    "musk",
+    "uber",
+    "co-founder",
+    "join",
+    "calls",
+    "reinstate",
+    "jensen"
+   ]
+  },
+  {
+   "id": "t43",
+   "rank": 43,
+   "title": "伊朗：两艘油轮在霍尔木兹海峡触雷引发剧烈爆炸",
+   "url": "https://www.chinanews.com.cn/gj/2026/11-16/10732537.shtml",
+   "summary": "中新网11月16日电 据土耳其阿纳多卢通讯社报道，当地时间15日，伊朗伊斯兰革命卫队宣布，两艘在霍尔木兹海峡南部海域沿未经伊朗授权航线行驶的油轮触雷，引发剧烈爆炸。",
+   "category": "world",
+   "lang": "zh",
+   "publishedAt": "2026-11-15T23:20:21.000Z",
+   "heat": 49,
+   "factors": {
+    "recency": 79,
+    "authority": 75,
+    "coverage": 0,
+    "signal": 10
+   },
+   "sources": [
+    {
+     "id": "chinanews-world",
+     "name": "中新网·国际",
+     "url": "https://www.chinanews.com.cn/gj/2026/11-16/10732537.shtml"
+    }
+   ],
+   "keywords": [
+    "伊朗",
+    "两艘",
+    "艘油",
+    "油轮",
+    "轮在",
+    "在霍",
+    "霍尔",
+    "尔木"
+   ]
+  },
+  {
+   "id": "t44",
+   "rank": 44,
+   "title": "美国“火神”火箭未能将亚马逊卫星送入预定轨道",
+   "url": "https://www.chinanews.com.cn/gj/2026/11-16/10732548.shtml",
+   "summary": "中新网11月16日电 据哥伦比亚广播公司(CBS)报道，当地时间15日，美国联合发射联盟公司的“火神”运载火箭执行亚马逊低地轨道卫星发射任务，但升空约10分钟后出现异常，未能将搭载的40颗宽带通信卫星送入预定轨道。",
+   "category": "world",
+   "lang": "zh",
+   "publishedAt": "2026-11-15T22:20:40.000Z",
+   "heat": 48,
+   "factors": {
+    "recency": 72,
+    "authority": 75,
+    "coverage": 0,
+    "signal": 18
+   },
+   "sources": [
+    {
+     "id": "chinanews-world",
+     "name": "中新网·国际",
+     "url": "https://www.chinanews.com.cn/gj/2026/11-16/10732548.shtml"
+    }
+   ],
+   "keywords": [
+    "美国",
+    "火神",
+    "火箭",
+    "箭未",
+    "未能",
+    "能将",
+    "将亚",
+    "亚马"
+   ]
+  },
+  {
+   "id": "t45",
+   "rank": 45,
+   "title": "Miguel Angel Felix Gallardo, architect of Mexico’s drug trade, dies aged 80",
+   "url": "https://www.france24.com/en/americas/20261115-miguel-angel-felix-gallardo-mexican-drug-lord-dies",
+   "summary": "Miguel Angel Felix Gallardo, a founder of Mexico’s Guadalajara cartel known as the “boss of bosses”, died in hospital on Sunday aged 80 after suffering multiple organ failure, Jali…",
+   "category": "world",
+   "lang": "en",
+   "publishedAt": "2026-11-15T22:48:31.000Z",
+   "heat": 47,
+   "factors": {
+    "recency": 75,
+    "authority": 85,
+    "coverage": 0,
+    "signal": 0
+   },
+   "sources": [
+    {
+     "id": "france24",
+     "name": "France 24",
+     "url": "https://www.france24.com/en/americas/20261115-miguel-angel-felix-gallardo-mexican-drug-lord-dies"
+    }
+   ],
+   "keywords": [
+    "miguel",
+    "angel",
+    "felix",
+    "gallardo",
+    "architect",
+    "mexico",
+    "drug",
+    "trade"
+   ]
+  },
+  {
+   "id": "t46",
+   "rank": 46,
+   "title": "伊朗称一艘油轮在霍尔木兹海峡以东触雷起火",
+   "url": "https://www.chinanews.com.cn/gj/2026/11-16/10732532.shtml",
+   "summary": "当地时间15日晚，伊朗军队海军表示，稍早前，一艘油轮在霍尔木兹海峡以东触雷，随后起火。该油轮当时正航行于霍尔木兹海峡以东的一处限制区域内，且其导航系统处于关闭状态。(总台记者 李健南)",
+   "category": "world",
+   "lang": "zh",
+   "publishedAt": "2026-11-15T22:20:44.000Z",
+   "heat": 46,
+   "factors": {
+    "recency": 72,
+    "authority": 75,
+    "coverage": 0,
+    "signal": 10
+   },
+   "sources": [
+    {
+     "id": "chinanews-world",
+     "name": "中新网·国际",
+     "url": "https://www.chinanews.com.cn/gj/2026/11-16/10732532.shtml"
+    }
+   ],
+   "keywords": [
+    "伊朗",
+    "朗称",
+    "称一",
+    "一艘",
+    "艘油",
+    "油轮",
+    "轮在",
+    "在霍"
+   ]
+  },
+  {
+   "id": "t47",
+   "rank": 47,
+   "title": "Kroupi on target as France beat Turkey to reach Nations League quarters",
+   "url": "https://www.france24.com/en/sport/20261115-kroupi-on-target-as-france-beat-turkey-to-reach-nations-league-quarters",
+   "summary": "Eli Junior Kroupi scored his maiden goal for France as Les Bleus beat Turkey 2-1 in Bordeaux on Sunday to top their group with 13 points and qualify for the quarter-finals of the N…",
+   "category": "world",
+   "lang": "en",
+   "publishedAt": "2026-11-15T22:13:26.000Z",
+   "heat": 46,
+   "factors": {
+    "recency": 71,
+    "authority": 85,
+    "coverage": 0,
+    "signal": 0
+   },
+   "sources": [
+    {
+     "id": "france24",
+     "name": "France 24",
+     "url": "https://www.france24.com/en/sport/20261115-kroupi-on-target-as-france-beat-turkey-to-reach-nations-league-quarters"
+    }
+   ],
+   "keywords": [
+    "kroupi",
+    "target",
+    "france",
+    "beat",
+    "turkey",
+    "reach",
+    "nations",
+    "league"
+   ]
+  },
+  {
+   "id": "t48",
+   "rank": 48,
+   "title": "Nearly 2,200 migrants reach Spain's Canary Islands in two days",
+   "url": "https://www.france24.com/en/europe/20261115-nearly-2200-migrants-reach-spain-canary-islands-in-two-days",
+   "summary": "Nearly 2,200 migrants have reached the Canary Islands over the past two days, Spain’s coastguard said Sunday, continuing a recent surge of arrivals from West African countries to t…",
+   "category": "world",
+   "lang": "en",
+   "publishedAt": "2026-11-15T21:06:01.000Z",
+   "heat": 43,
+   "factors": {
+    "recency": 64,
+    "authority": 85,
+    "coverage": 0,
+    "signal": 0
+   },
+   "sources": [
+    {
+     "id": "france24",
+     "name": "France 24",
+     "url": "https://www.france24.com/en/europe/20261115-nearly-2200-migrants-reach-spain-canary-islands-in-two-days"
+    }
+   ],
+   "keywords": [
+    "nearly",
+    "200",
+    "migrants",
+    "reach",
+    "spain's",
+    "canary",
+    "islands",
+    "two"
+   ]
+  },
+  {
+   "id": "t49",
+   "rank": 49,
+   "title": "Netcode Warriors adds PS5 version, launches in 2027",
+   "url": "https://www.gematsu.com/2026/11/netcode-warriors-adds-ps5-version-launches-in-2027",
+   "summary": "Anime-inspired arena fighting game Netcode Warriors will launch for PlayStation 5 and PC via Steam …",
+   "category": "game",
+   "lang": "en",
+   "publishedAt": "2026-11-15T22:00:36.000Z",
+   "heat": 42,
+   "factors": {
+    "recency": 77,
+    "authority": 60,
+    "coverage": 0,
+    "signal": 0
+   },
+   "sources": [
+    {
+     "id": "gematsu",
+     "name": "Gematsu",
+     "url": "https://www.gematsu.com/2026/11/netcode-warriors-adds-ps5-version-launches-in-2027"
+    }
+   ],
+   "keywords": [
+    "netcode",
+    "warriors",
+    "adds",
+    "ps5",
+    "version",
+    "launches",
+    "2027"
+   ]
+  },
+  {
+   "id": "t50",
+   "rank": 50,
    "title": "听完这期，搞清楚游戏里的所有反派！解析《影之刃零》里的局",
    "url": "https://www.gcores.com/radios/222021",
    "summary": "本期时间轴制作：天行 庞镇的乱，是谁布下的局？ 侠客的刃，又该向何处去？ 如果你觉得《影之刃零》里的故事不够吸引你，那不如来试试这期节目。",
    "category": "game",
    "lang": "zh",
    "publishedAt": "2026-11-15T15:00:00.000Z",
-   "heat": 48,
+   "heat": 42,
    "factors": {
-    "recency": 67,
+    "recency": 49,
     "authority": 80,
     "coverage": 0,
     "signal": 22
@@ -175,17 +1748,184 @@
    ]
   },
   {
-   "id": "t5",
-   "rank": 5,
+   "id": "t51",
+   "rank": 51,
+   "title": "Mega Man: Dual Override Boss Design Contest winner Cleanser Man revealed",
+   "url": "https://www.gematsu.com/2026/11/mega-man-dual-override-boss-design-contest-winner-cleanser-man-revealed",
+   "summary": "Capcom has revealed Mega Man: Dual Override Boss Design Contest winner Cleanser Man, who will …",
+   "category": "game",
+   "lang": "en",
+   "publishedAt": "2026-11-15T21:30:39.000Z",
+   "heat": 41,
+   "factors": {
+    "recency": 75,
+    "authority": 60,
+    "coverage": 0,
+    "signal": 0
+   },
+   "sources": [
+    {
+     "id": "gematsu",
+     "name": "Gematsu",
+     "url": "https://www.gematsu.com/2026/11/mega-man-dual-override-boss-design-contest-winner-cleanser-man-revealed"
+    }
+   ],
+   "keywords": [
+    "mega",
+    "man",
+    "dual",
+    "override",
+    "boss",
+    "design",
+    "contest",
+    "winner"
+   ]
+  },
+  {
+   "id": "t52",
+   "rank": 52,
+   "title": "Yemen's Houthis advance on Aden as government forces retreat to defend their capital",
+   "url": "https://www.france24.com/en/middle-east/20261115-yemen-houthis-advance-to-within-60-kilometres-of-aden-military-sources-say",
+   "summary": "Houthi forces in Yemen have advanced to within 60 kilometres of Aden, the seat of the country's internationally recognised government, military and government sources said Sunday.…",
+   "category": "world",
+   "lang": "en",
+   "publishedAt": "2026-11-15T19:28:54.000Z",
+   "heat": 41,
+   "factors": {
+    "recency": 56,
+    "authority": 85,
+    "coverage": 0,
+    "signal": 0
+   },
+   "sources": [
+    {
+     "id": "france24",
+     "name": "France 24",
+     "url": "https://www.france24.com/en/middle-east/20261115-yemen-houthis-advance-to-within-60-kilometres-of-aden-military-sources-say"
+    }
+   ],
+   "keywords": [
+    "yemen's",
+    "houthis",
+    "advance",
+    "aden",
+    "government",
+    "forces",
+    "retreat",
+    "defend"
+   ]
+  },
+  {
+   "id": "t53",
+   "rank": 53,
+   "title": "Rivals of Aether II adds Burnette on December 1",
+   "url": "https://www.gematsu.com/2026/11/rivals-of-aether-ii-adds-burnette-on-december-1",
+   "summary": "Platform fighting game Rivals of Aether II will add Burnette, “The Scorched Shield,” as its …",
+   "category": "game",
+   "lang": "en",
+   "publishedAt": "2026-11-15T21:00:31.000Z",
+   "heat": 40,
+   "factors": {
+    "recency": 72,
+    "authority": 60,
+    "coverage": 0,
+    "signal": 0
+   },
+   "sources": [
+    {
+     "id": "gematsu",
+     "name": "Gematsu",
+     "url": "https://www.gematsu.com/2026/11/rivals-of-aether-ii-adds-burnette-on-december-1"
+    }
+   ],
+   "keywords": [
+    "rivals",
+    "aether",
+    "adds",
+    "burnette",
+    "december"
+   ]
+  },
+  {
+   "id": "t54",
+   "rank": 54,
+   "title": "Pragues's fight for public TV - Why Renowned Presenter Will Leave Czech TV Over Reforms",
+   "url": "https://www.france24.com/en/tv-shows/spotlight/20261115-pragues-s-fight-for-public-tv-why-renowned-presenter-will-leave-czech-tv-over-reforms",
+   "summary": "Daniel Stach, one of the Czech Republic’s best-known television presenters, tells Gavin Lee on France 24 why he is prepared to walk away from his career rather than work under chan…",
+   "category": "world",
+   "lang": "en",
+   "publishedAt": "2026-11-15T19:13:35.000Z",
+   "heat": 40,
+   "factors": {
+    "recency": 54,
+    "authority": 85,
+    "coverage": 0,
+    "signal": 0
+   },
+   "sources": [
+    {
+     "id": "france24",
+     "name": "France 24",
+     "url": "https://www.france24.com/en/tv-shows/spotlight/20261115-pragues-s-fight-for-public-tv-why-renowned-presenter-will-leave-czech-tv-over-reforms"
+    }
+   ],
+   "keywords": [
+    "pragues's",
+    "fight",
+    "for",
+    "public",
+    "why",
+    "renowned",
+    "presenter",
+    "will"
+   ]
+  },
+  {
+   "id": "t55",
+   "rank": 55,
+   "title": "BLG一穿四夺冠：从说晚安，到说早安",
+   "url": "https://www.gcores.com/articles/222388",
+   "summary": "作者：柏亚舟 “这一瞬间，他们拥有了全世界。” 今晨结束的英雄联盟 S16 全球总决赛冠亚军之战，LPL（英雄联盟中国大陆赛区）战队 BLG（Bilibili Gaming）最终 3‑1 战胜韩国 LCK 赛区的 Gen.G，捧起冠军奖杯。这是 BLG 队史上第一座 S 赛奖杯，也是 LPL 暌违五年的 S 赛冠军；而这支队伍一穿四 LCK 的夺冠之路，注定…",
+   "category": "game",
+   "lang": "zh",
+   "publishedAt": "2026-11-15T16:13:40.000Z",
+   "heat": 40,
+   "factors": {
+    "recency": 53,
+    "authority": 80,
+    "coverage": 0,
+    "signal": 10
+   },
+   "sources": [
+    {
+     "id": "gcores",
+     "name": "机核 GCORES",
+     "url": "https://www.gcores.com/articles/222388"
+    }
+   ],
+   "keywords": [
+    "blg",
+    "一穿",
+    "穿四",
+    "四夺",
+    "夺冠",
+    "从说",
+    "说晚",
+    "晚安"
+   ]
+  },
+  {
+   "id": "t56",
+   "rank": 56,
    "title": "《异于天堂》「第二部 吴市篇」剧情预告",
    "url": "https://www.ign.com.cn/stranger-than-heaven/64040/yi-yu-tian-tang-di-er-bu-wu-shi-pian-ju-qing-yu-gao",
-   "summary": "广岛吴市因造船业而繁荣 「吴市篇」讲述大东和岩木源造结拜后，为了在组织飞黄腾达而深入黑道世界的故事。广岛吴市因造船业而繁荣。那里有个令人闻风丧胆的黑道，人称「岩木的赤鬼」。他和霸主岩木源造结拜，为了组织再狠的事都干得出来……这就是大东在吴市的真实写照。他一心想立功，在组织里闯出一片天。他会成为被欲望蒙蔽的恶鬼？还是……《异于天堂（STRANGER THAN…",
+   "summary": "广岛吴市因造船业而繁荣 在[IGN中国]搜索 《异于天堂》最终前瞻 IGN《异于天堂》最终前瞻：终于打动了我 《异于天堂》可选降低战斗难度的「作弊」选项",
    "category": "game",
    "lang": "zh",
    "publishedAt": "2026-11-15T15:40:56.000Z",
-   "heat": 47,
+   "heat": 40,
    "factors": {
-    "recency": 70,
+    "recency": 51,
     "authority": 75,
     "coverage": 0,
     "signal": 18
@@ -209,1506 +1949,17 @@
    ]
   },
   {
-   "id": "t6",
-   "rank": 6,
-   "title": "Estonia to close Russian border crossings after 'sabotage' attempt at drone factory",
-   "url": "https://www.france24.com/en/europe/20261115-estonia-to-close-russian-border-crossings-after-sabotage-attempt-at-drone-factory",
-   "summary": "Estonia will close all its border crossing points with Russia from December 1, its ​foreign minister ‌said on Sunday, following a suspected ⁠sabotage attack on an Estonian defence…",
-   "category": "world",
-   "lang": "en",
-   "publishedAt": "2026-11-15T17:05:14.000Z",
-   "heat": 46,
-   "factors": {
-    "recency": 70,
-    "authority": 85,
-    "coverage": 0,
-    "signal": 0
-   },
-   "sources": [
-    {
-     "id": "france24",
-     "name": "France 24",
-     "url": "https://www.france24.com/en/europe/20261115-estonia-to-close-russian-border-crossings-after-sabotage-attempt-at-drone-factory"
-    }
-   ],
-   "keywords": [
-    "estonia",
-    "close",
-    "russian",
-    "border",
-    "crossings",
-    "after",
-    "sabotage'",
-    "attempt"
-   ]
-  },
-  {
-   "id": "t7",
-   "rank": 7,
-   "title": "How did over 2,000 migrants reach the Canaries in just 48 hours?",
-   "url": "https://www.france24.com/en/how-did-over-2-000-migrants-reach-the-canaries-in-just-48-hours",
-   "summary": "Spain says nearly 2,200 migrants have arrived by boat to the Canary Islands this weekend. The strip of the Atlantic Ocean between West Africa and the Canary Islands is one of the w…",
-   "category": "world",
-   "lang": "en",
-   "publishedAt": "2026-11-15T16:58:40.000Z",
-   "heat": 46,
-   "factors": {
-    "recency": 69,
-    "authority": 85,
-    "coverage": 0,
-    "signal": 4
-   },
-   "sources": [
-    {
-     "id": "france24",
-     "name": "France 24",
-     "url": "https://www.france24.com/en/how-did-over-2-000-migrants-reach-the-canaries-in-just-48-hours"
-    }
-   ],
-   "keywords": [
-    "how",
-    "did",
-    "over",
-    "000",
-    "migrants",
-    "reach",
-    "the",
-    "canaries"
-   ]
-  },
-  {
-   "id": "t8",
-   "rank": 8,
-   "title": "广州官宣“入秋” 今年夏季长达235天",
-   "url": "https://www.chinanews.com.cn/sh/2026/11-15/10732508.shtml",
-   "summary": "中新网广州11月15日电 (记者 王坚)广州市气象局15日晚宣布，基于前期气象资料判定，确定今年广州进入气候学上的秋季的时间是11月9日。",
-   "category": "china",
-   "lang": "zh",
-   "publishedAt": "2026-11-15T13:06:39.000Z",
-   "heat": 46,
-   "factors": {
-    "recency": 41,
-    "authority": 80,
-    "coverage": 0,
-    "signal": 56
-   },
-   "sources": [
-    {
-     "id": "chinanews",
-     "name": "中国新闻网",
-     "url": "https://www.chinanews.com.cn/sh/2026/11-15/10732508.shtml"
-    }
-   ],
-   "keywords": [
-    "235",
-    "广州",
-    "州官",
-    "官宣",
-    "入秋",
-    "今年",
-    "年夏",
-    "夏季"
-   ]
-  },
-  {
-   "id": "t9",
-   "rank": 9,
-   "title": "Israel kills senior member of Hamas's military wing in Gaza strike",
-   "url": "https://www.france24.com/en/middle-east/20261115-israel-kills-senior-member-of-hamas-s-military-wing-in-gaza-strike",
-   "summary": "The Israeli military said on Sunday its forces had killed a senior member of Hamas's military wing in Gaza. The militant group confirmed the death of Samir Abu Younis, the commande…",
-   "category": "world",
-   "lang": "en",
-   "publishedAt": "2026-11-15T16:41:48.000Z",
-   "heat": 45,
-   "factors": {
-    "recency": 67,
-    "authority": 85,
-    "coverage": 0,
-    "signal": 0
-   },
-   "sources": [
-    {
-     "id": "france24",
-     "name": "France 24",
-     "url": "https://www.france24.com/en/middle-east/20261115-israel-kills-senior-member-of-hamas-s-military-wing-in-gaza-strike"
-    }
-   ],
-   "keywords": [
-    "israel",
-    "kills",
-    "senior",
-    "member",
-    "hamas's",
-    "military",
-    "wing",
-    "gaza"
-   ]
-  },
-  {
-   "id": "t10",
-   "rank": 10,
-   "title": "法国周末示威活动中超过400人被拘捕",
-   "url": "https://www.chinanews.com.cn/gj/2026/11-16/10732530.shtml",
-   "summary": "当地时间11月15日，法国内政部和巴黎检察院公布的最新数据显示，在14日举行的全国性示威活动中，共有404人被警方拘捕，其中在巴黎被拘捕的人员为134人。",
-   "category": "china",
-   "lang": "zh",
-   "publishedAt": "2026-11-15T16:06:52.000Z",
-   "heat": 45,
-   "factors": {
-    "recency": 57,
-    "authority": 80,
-    "coverage": 0,
-    "signal": 22
-   },
-   "sources": [
-    {
-     "id": "chinanews",
-     "name": "中国新闻网",
-     "url": "https://www.chinanews.com.cn/gj/2026/11-16/10732530.shtml"
-    }
-   ],
-   "keywords": [
-    "400",
-    "法国",
-    "国周",
-    "周末",
-    "末示",
-    "示威",
-    "威活",
-    "活动"
-   ]
-  },
-  {
-   "id": "t11",
-   "rank": 11,
-   "title": "微星推出 PRO CORELIQUID R13 360 液冷，399 / 419 元",
-   "url": "https://www.ithome.com/1/027/460.htm",
-   "summary": "IT之家 11 月 15 日消息，微星 (MSI) 近期推出了处理器 AIO 液冷散热器 PRO CORELIQUID R13 360。这一型号兼容英特尔 FCLGA 1851 / 1700、AMD Socket AM5 / AM4 处理器，享受 3 年质保。 PRO CORELIQUID R13 360 基于预期寿命 50000hr 的微星定制 M6 水泵…",
-   "category": "tech",
-   "lang": "zh",
-   "publishedAt": "2026-11-15T15:56:43.000Z",
-   "heat": 45,
-   "factors": {
-    "recency": 68,
-    "authority": 75,
-    "coverage": 0,
-    "signal": 12
-   },
-   "sources": [
-    {
-     "id": "ithome",
-     "name": "IT之家",
-     "url": "https://www.ithome.com/1/027/460.htm"
-    }
-   ],
-   "keywords": [
-    "pro",
-    "coreliquid",
-    "r13",
-    "360",
-    "399",
-    "419",
-    "微星",
-    "星推"
-   ]
-  },
-  {
-   "id": "t12",
-   "rank": 12,
-   "title": "《GTA 6》通关时长爆料：主线约 50 小时，白金全成就预计 200 小时",
-   "url": "https://www.ithome.com/1/027/459.htm",
-   "summary": "IT之家 11 月 15 日消息，《GTA 6》定于 2026 年 11 月 19 日正式发售，不少玩家已经开始关注游戏的奖杯和成就系统：想要拿到白金奖杯或完成全部成就，究竟需要投入多少时间？ 从目前披露的信息来看，《GTA 6》的主线剧情相当漫长，而想要完成全部成就，所需时间可能更加惊人。 要想准确预测《GTA 6》的通关时间并不容易，因为不同玩家的游戏水…",
-   "category": "tech",
-   "lang": "zh",
-   "publishedAt": "2026-11-15T15:06:17.000Z",
-   "heat": 45,
-   "factors": {
-    "recency": 64,
-    "authority": 75,
-    "coverage": 0,
-    "signal": 20
-   },
-   "sources": [
-    {
-     "id": "ithome",
-     "name": "IT之家",
-     "url": "https://www.ithome.com/1/027/459.htm"
-    }
-   ],
-   "keywords": [
-    "gta",
-    "200",
-    "通关",
-    "关时",
-    "时长",
-    "长爆",
-    "爆料",
-    "主线"
-   ]
-  },
-  {
-   "id": "t13",
-   "rank": 13,
-   "title": "（深圳APEC）APEC经济体相关侨批原件首次联合展出 见证亚太民间往来",
-   "url": "https://www.chinanews.com.cn/hr/2026/11-15/10732514.shtml",
-   "summary": "中新社深圳11月15日电 (记者 蔡敏婕)记者15日走进2026年亚太经合组织(APEC)领导人会议周新闻中心文化交流区，看到泛黄的信笺在展柜中静静陈列——这是APEC成员经济体相关侨批原件首次联合展出。",
-   "category": "china",
-   "lang": "zh",
-   "publishedAt": "2026-11-15T14:39:02.000Z",
-   "heat": 45,
-   "factors": {
-    "recency": 49,
-    "authority": 80,
-    "coverage": 0,
-    "signal": 36
-   },
-   "sources": [
-    {
-     "id": "chinanews",
-     "name": "中国新闻网",
-     "url": "https://www.chinanews.com.cn/hr/2026/11-15/10732514.shtml"
-    }
-   ],
-   "keywords": [
-    "apec",
-    "深圳",
-    "经济",
-    "济体",
-    "体相",
-    "相关",
-    "关侨",
-    "侨批"
-   ]
-  },
-  {
-   "id": "t14",
-   "rank": 14,
-   "title": "聚焦APEC丨2000余位政商界领袖将参加APEC工商领导人峰会",
-   "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732511.shtml",
-   "summary": "新华社深圳11月15日电(记者潘洁、王丰)在15日举行的2026年APEC工商界活动专题新闻发布会上，中国贸促会副会长李庆霜介绍，2000余位政商界领袖将齐聚深圳前海，参加2026年APEC工商领导人峰会，共谋区域合作大计，共绘亚太发展蓝图。",
-   "category": "china",
-   "lang": "zh",
-   "publishedAt": "2026-11-15T13:33:45.000Z",
-   "heat": 45,
-   "factors": {
-    "recency": 43,
-    "authority": 80,
-    "coverage": 0,
-    "signal": 48
-   },
-   "sources": [
-    {
-     "id": "chinanews",
-     "name": "中国新闻网",
-     "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732511.shtml"
-    }
-   ],
-   "keywords": [
-    "apec",
-    "2000",
-    "聚焦",
-    "余位",
-    "位政",
-    "政商",
-    "商界",
-    "界领"
-   ]
-  },
-  {
-   "id": "t15",
-   "rank": 15,
-   "title": "第20届法语国家组织峰会在柬埔寨举办",
-   "url": "https://www.chinanews.com.cn/gj/2026/11-15/10732469.shtml",
-   "summary": "中新社金边11月15日电(张安琪 张堰林 杨强)第20届法语国家组织峰会当地时间15日在柬埔寨首都金边开幕。峰会以“重新投资和平，促进共同繁荣与可持续稳定”为主题，数十位各国领导人及国际组织负责人出席。",
-   "category": "world",
-   "lang": "zh",
-   "publishedAt": "2026-11-15T12:36:42.000Z",
-   "heat": 45,
-   "factors": {
-    "recency": 47,
-    "authority": 75,
-    "coverage": 0,
-    "signal": 48
-   },
-   "sources": [
-    {
-     "id": "chinanews-world",
-     "name": "中新网·国际",
-     "url": "https://www.chinanews.com.cn/gj/2026/11-15/10732469.shtml"
-    }
-   ],
-   "keywords": [
-    "届法",
-    "法语",
-    "语国",
-    "国家",
-    "家组",
-    "组织",
-    "织峰",
-    "峰会"
-   ]
-  },
-  {
-   "id": "t16",
-   "rank": 16,
-   "title": "李强抵马尼拉出席中国－东盟领导人会议",
-   "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732498.shtml",
-   "summary": "中新社马尼拉11月15日电 应东盟轮值主席国菲律宾总统马科斯邀请，中国国务院总理李强乘包机于11月15日晚抵达马尼拉尼诺伊·阿基诺国际机场，将出席中国－东盟领导人会议。",
-   "category": "china",
-   "lang": "zh",
-   "publishedAt": "2026-11-15T12:25:07.000Z",
-   "heat": 45,
-   "factors": {
-    "recency": 38,
-    "authority": 80,
-    "coverage": 57,
-    "signal": 10
-   },
-   "sources": [
-    {
-     "id": "chinanews",
-     "name": "中国新闻网",
-     "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732498.shtml"
-    },
-    {
-     "id": "jiemian",
-     "name": "界面新闻",
-     "url": "https://www.jiemian.com/article/15334393.html"
-    }
-   ],
-   "keywords": [
-    "李强",
-    "强抵",
-    "抵马",
-    "马尼",
-    "尼拉",
-    "拉出",
-    "出席",
-    "席中"
-   ]
-  },
-  {
-   "id": "t17",
-   "rank": 17,
-   "title": "SpaceX 星舰首次实现“筷子夹飞船”，但完全重复使用仍面临多重挑战",
-   "url": "https://www.ithome.com/1/027/434.htm",
-   "summary": "IT之家 11 月 15 日消息，据 Space.com 报道，SpaceX 的星舰（Starship）今日创造了历史，但要让这款巨型火箭真正实现全面、常态化运营，还有不少难关需要攻克。 当地时间 11 月 13 日（周五），星舰进行了第 15 次试飞，目标是完成一项前所未有的壮举：让火箭的两个组成部分 —— 超重型助推器（Super Heavy）和星舰飞船…",
-   "category": "tech",
-   "lang": "zh",
-   "publishedAt": "2026-11-15T11:36:58.000Z",
-   "heat": 45,
-   "factors": {
-    "recency": 49,
-    "authority": 75,
-    "coverage": 0,
-    "signal": 44
-   },
-   "sources": [
-    {
-     "id": "ithome",
-     "name": "IT之家",
-     "url": "https://www.ithome.com/1/027/434.htm"
-    }
-   ],
-   "keywords": [
-    "spacex",
-    "星舰",
-    "舰首",
-    "首次",
-    "次实",
-    "实现",
-    "筷子",
-    "子夹"
-   ]
-  },
-  {
-   "id": "t18",
-   "rank": 18,
-   "title": "开源盘古模型openPangu-2.1-Pro正式上线华为云",
-   "url": "https://www.jiemian.com/article/15334494.html",
-   "summary": "据华为云消息，11月15日，华为云MaaS模型即服务平台正式上线开源盘古模型openPangu-2.1-Pro。该模型围绕Agent开发、AI编码和推理优化三大方向进行能力升级，在深度研究、鸿蒙系统操控、鸿蒙APP开发、昇腾算子生成及推理链路优化等场景实现增强。",
-   "category": "china",
-   "lang": "zh",
-   "publishedAt": "2026-11-15T14:15:41.000Z",
-   "heat": 44,
-   "factors": {
-    "recency": 47,
-    "authority": 70,
-    "coverage": 0,
-    "signal": 48
-   },
-   "sources": [
-    {
-     "id": "jiemian",
-     "name": "界面新闻",
-     "url": "https://www.jiemian.com/article/15334494.html"
-    }
-   ],
-   "keywords": [
-    "openpangu-2.1-pro",
-    "开源",
-    "源盘",
-    "盘古",
-    "古模",
-    "模型",
-    "正式",
-    "式上"
-   ]
-  },
-  {
-   "id": "t19",
-   "rank": 19,
-   "title": "开源盘古模型 openPangu-2.1-Pro 上线华为云，围绕 Agent 开发、AI 编码、推理优化方向能力升级",
-   "url": "https://www.ithome.com/1/027/450.htm",
-   "summary": "IT之家 11 月 15 日消息，华为云今日宣布，华为云 MaaS 模型即服务平台正式上线开源盘古模型 openPangu-2.1-Pro。 该模型围绕 Agent 开发、AI 编码和推理优化三大方向进行能力升级，在深度研究、鸿蒙系统操控、鸿蒙 App 开发、昇腾算子生成及推理链路优化等场景实现增强。 在 Agent 能力方面，openPangu-2.1-P…",
-   "category": "tech",
-   "lang": "zh",
-   "publishedAt": "2026-11-15T13:16:54.000Z",
-   "heat": 44,
-   "factors": {
-    "recency": 55,
-    "authority": 75,
-    "coverage": 0,
-    "signal": 26
-   },
-   "sources": [
-    {
-     "id": "ithome",
-     "name": "IT之家",
-     "url": "https://www.ithome.com/1/027/450.htm"
-    }
-   ],
-   "keywords": [
-    "openpangu-2.1-pro",
-    "agent",
-    "开源",
-    "源盘",
-    "盘古",
-    "古模",
-    "模型",
-    "上线"
-   ]
-  },
-  {
-   "id": "t20",
-   "rank": 20,
-   "title": "零刻 ME Pro 358H 四盘位 NAS 开售，32GB + 1TB 起价 11499 元",
-   "url": "https://www.ithome.com/1/027/461.htm",
-   "summary": "IT之家 11 月 16 日消息，零刻 (Beelink) 现已启动 ME Pro 358H 四盘位 NAS 的销售。其基于英特尔酷睿 Ultra X7 处理器 358H，包含 32GB LPDDR5X-9600 内存、1TB PCIe Gen4 TLC M.2 SSD。 ME Pro 358H 四盘位分为日常款和联名款：前者含 Windows 11 操作系…",
-   "category": "tech",
-   "lang": "zh",
-   "publishedAt": "2026-11-15T16:14:44.000Z",
-   "heat": 43,
-   "factors": {
-    "recency": 69,
-    "authority": 75,
-    "coverage": 0,
-    "signal": 0
-   },
-   "sources": [
-    {
-     "id": "ithome",
-     "name": "IT之家",
-     "url": "https://www.ithome.com/1/027/461.htm"
-    }
-   ],
-   "keywords": [
-    "pro",
-    "358h",
-    "nas",
-    "32gb",
-    "1tb",
-    "11499",
-    "零刻",
-    "四盘"
-   ]
-  },
-  {
-   "id": "t21",
-   "rank": 21,
-   "title": "重返“冰丝带”，北京冬奥会冠军高亭宇速滑世界杯夺金",
-   "url": "https://www.chinanews.com.cn/ty/2026/11-15/10732528.shtml",
-   "summary": "新华社北京11月15日电(记者李春宇、王镜宇)15日，2026-2027赛季速度滑冰世界杯北京站结束最后一日争夺。北京冬奥会冠军高亭宇在主场国家速滑馆“冰丝带”夺得男子500米第二次比赛冠军。",
-   "category": "china",
-   "lang": "zh",
-   "publishedAt": "2026-11-15T15:53:55.000Z",
-   "heat": 43,
-   "factors": {
-    "recency": 56,
-    "authority": 80,
-    "coverage": 0,
-    "signal": 18
-   },
-   "sources": [
-    {
-     "id": "chinanews",
-     "name": "中国新闻网",
-     "url": "https://www.chinanews.com.cn/ty/2026/11-15/10732528.shtml"
-    }
-   ],
-   "keywords": [
-    "重返",
-    "冰丝",
-    "丝带",
-    "北京",
-    "京冬",
-    "冬奥",
-    "奥会",
-    "会冠"
-   ]
-  },
-  {
-   "id": "t22",
-   "rank": 22,
-   "title": "Jensen Huang: The French Connection",
-   "url": "https://www.france24.com/en/tv-shows/spotlight/20261115-jensen-huang-the-french-connection",
-   "summary": "President Trump is heading to Asia in a few days time, and will meet President Putin and President Xi. There's likely to be one fewer tech giants at the table, Jensen Huang, newly…",
-   "category": "world",
-   "lang": "en",
-   "publishedAt": "2026-11-15T15:03:56.000Z",
-   "heat": 43,
-   "factors": {
-    "recency": 58,
-    "authority": 85,
-    "coverage": 0,
-    "signal": 10
-   },
-   "sources": [
-    {
-     "id": "france24",
-     "name": "France 24",
-     "url": "https://www.france24.com/en/tv-shows/spotlight/20261115-jensen-huang-the-french-connection"
-    }
-   ],
-   "keywords": [
-    "jensen",
-    "huang",
-    "the",
-    "french",
-    "connection"
-   ]
-  },
-  {
-   "id": "t23",
-   "rank": 23,
-   "title": "上汽大通 27 款大拿 V1L 上市：标配宁德时代电池，11.68 万起",
-   "url": "https://www.ithome.com/1/027/449.htm",
-   "summary": "IT之家 11 月 15 日消息，11 月 13 日，上汽大通 27 款大拿 V1L 正式上市，售价 11.68 万元起，官方称全系标配宁德时代天行商用电池。 IT之家从官方公布信息获悉，27 款大拿 V1L 共带来 7 项升级，官方将其概括为“加配不加价”。车身采用方圆之融的前脸设计，本次为焕新前脸。该车定位纯电动轻客，面向国内城配物流与营运客运市场。 在…",
-   "category": "tech",
-   "lang": "zh",
-   "publishedAt": "2026-11-15T13:13:43.000Z",
-   "heat": 43,
-   "factors": {
-    "recency": 55,
-    "authority": 75,
-    "coverage": 0,
-    "signal": 22
-   },
-   "sources": [
-    {
-     "id": "ithome",
-     "name": "IT之家",
-     "url": "https://www.ithome.com/1/027/449.htm"
-    }
-   ],
-   "keywords": [
-    "v1l",
-    "11.68",
-    "上汽",
-    "汽大",
-    "大通",
-    "款大",
-    "大拿",
-    "上市"
-   ]
-  },
-  {
-   "id": "t24",
-   "rank": 24,
-   "title": "美国突发飞机相撞事故",
-   "url": "https://www.chinanews.com.cn/gj/2026/11-15/10732416.shtml",
-   "summary": "中新网11月15日电 综合美媒报道，14日晚间，一架货运飞机与一架喷气式客运飞机在迈阿密国际机场相撞。",
-   "category": "world",
-   "lang": "zh",
-   "publishedAt": "2026-11-15T09:56:25.000Z",
-   "heat": 43,
-   "factors": {
-    "recency": 37,
-    "authority": 75,
-    "coverage": 0,
-    "signal": 52
-   },
-   "sources": [
-    {
-     "id": "chinanews-world",
-     "name": "中新网·国际",
-     "url": "https://www.chinanews.com.cn/gj/2026/11-15/10732416.shtml"
-    }
-   ],
-   "keywords": [
-    "美国",
-    "国突",
-    "突发",
-    "发飞",
-    "飞机",
-    "机相",
-    "相撞",
-    "撞事"
-   ]
-  },
-  {
-   "id": "t25",
-   "rank": 25,
-   "title": "当地极端最低温可达 -48℃，中国最北蔚来换电站在黑龙江黑河上线运营",
-   "url": "https://www.ithome.com/1/027/396.htm",
-   "summary": "IT之家 11 月 15 日消息，蔚来宣布，11 月 15 日，中国最北蔚来换电站 —— 黑河自贸区蔚来换电站正式上线运营。 黑河是中国最北的地级市，当地冬季漫长，全年结冰期约 200 天，极端最低温可达-48℃。 官方表示，常见充电设备低温易造成设备结霜结冰、电池活性衰减、充电效率大幅下滑。蔚来换电站站体采用保温围护结构，形成独立恒温仓；站内电池仓搭载 7…",
-   "category": "tech",
-   "lang": "zh",
-   "publishedAt": "2026-11-15T08:30:34.000Z",
-   "heat": 43,
-   "factors": {
-    "recency": 39,
-    "authority": 75,
-    "coverage": 0,
-    "signal": 48
-   },
-   "sources": [
-    {
-     "id": "ithome",
-     "name": "IT之家",
-     "url": "https://www.ithome.com/1/027/396.htm"
-    }
-   ],
-   "keywords": [
-    "当地",
-    "地极",
-    "极端",
-    "端最",
-    "最低",
-    "低温",
-    "温可",
-    "可达"
-   ]
-  },
-  {
-   "id": "t26",
-   "rank": 26,
-   "title": "乒乓球前国手方博夺得复出后首冠",
-   "url": "https://www.chinanews.com.cn/ty/2026/11-15/10732529.shtml",
-   "summary": "新华社北京11月15日电 世界乒乓球职业大联盟(WTT)常规挑战赛伊斯坦布尔站15日结束。代表哈萨克斯坦队参赛的老将方博在男单决赛中以4:1击败韩国选手姜东秀，收获复出后的首个冠军。",
-   "category": "china",
-   "lang": "zh",
-   "publishedAt": "2026-11-15T15:55:31.000Z",
-   "heat": 42,
-   "factors": {
-    "recency": 56,
-    "authority": 80,
-    "coverage": 0,
-    "signal": 10
-   },
-   "sources": [
-    {
-     "id": "chinanews",
-     "name": "中国新闻网",
-     "url": "https://www.chinanews.com.cn/ty/2026/11-15/10732529.shtml"
-    }
-   ],
-   "keywords": [
-    "乒乓",
-    "乓球",
-    "球前",
-    "前国",
-    "国手",
-    "手方",
-    "方博",
-    "博夺"
-   ]
-  },
-  {
-   "id": "t27",
-   "rank": 27,
-   "title": "'Record number of women elected' to US Congress & governorships across country in midterm elections",
-   "url": "https://www.france24.com/en/tv-shows/spotlight/20261115-record-number-of-women-elected-to-us-congress-governorships-across-country-in-midterm-elections",
-   "summary": "Following the 2026 US midterm elections, Gavin Lee is pleased to welcome Politico Senior National Politics Reporter Lauren Fedor. She discusses the growing number of Democratic wom…",
-   "category": "world",
-   "lang": "en",
-   "publishedAt": "2026-11-15T15:40:36.000Z",
-   "heat": 42,
-   "factors": {
-    "recency": 61,
-    "authority": 85,
-    "coverage": 0,
-    "signal": 0
-   },
-   "sources": [
-    {
-     "id": "france24",
-     "name": "France 24",
-     "url": "https://www.france24.com/en/tv-shows/spotlight/20261115-record-number-of-women-elected-to-us-congress-governorships-across-country-in-midterm-elections"
-    }
-   ],
-   "keywords": [
-    "record",
-    "number",
-    "women",
-    "elected'",
-    "congress",
-    "governorships",
-    "across",
-    "country"
-   ]
-  },
-  {
-   "id": "t28",
-   "rank": 28,
-   "title": "Iran claims drone attack on US military base in Bahrain",
-   "url": "https://www.france24.com/en/iran-claims-drone-attack-on-us-military-base-in-bahrain",
-   "summary": "Bahrain issued two alerts of potential threats on Sunday, its first such warnings since September as blasts rocked the capital, Manama. It comes after Iran targeted an airbase in t…",
-   "category": "world",
-   "lang": "en",
-   "publishedAt": "2026-11-15T15:29:22.000Z",
-   "heat": 42,
-   "factors": {
-    "recency": 60,
-    "authority": 85,
-    "coverage": 0,
-    "signal": 0
-   },
-   "sources": [
-    {
-     "id": "france24",
-     "name": "France 24",
-     "url": "https://www.france24.com/en/iran-claims-drone-attack-on-us-military-base-in-bahrain"
-    }
-   ],
-   "keywords": [
-    "iran",
-    "claims",
-    "drone",
-    "attack",
-    "military",
-    "base",
-    "bahrain"
-   ]
-  },
-  {
-   "id": "t29",
-   "rank": 29,
-   "title": "Canaries urge government action after 2,200 migrants reach the islands in 48h",
-   "url": "https://www.france24.com/en/video/20261115-canaries-urge-government-action-after-2-200-migrants-reach-the-islands-in-48h-1",
-   "summary": "Spain says nearly 2,200 migrants have arrived by boat to the Canary Islands this weekend. The Spanish islands are one of the main entry points into Europe for migrants from Africa.…",
-   "category": "world",
-   "lang": "en",
-   "publishedAt": "2026-11-15T15:24:58.000Z",
-   "heat": 42,
-   "factors": {
-    "recency": 60,
-    "authority": 85,
-    "coverage": 0,
-    "signal": 0
-   },
-   "sources": [
-    {
-     "id": "france24",
-     "name": "France 24",
-     "url": "https://www.france24.com/en/video/20261115-canaries-urge-government-action-after-2-200-migrants-reach-the-islands-in-48h-1"
-    }
-   ],
-   "keywords": [
-    "canaries",
-    "urge",
-    "government",
-    "action",
-    "after",
-    "200",
-    "migrants",
-    "reach"
-   ]
-  },
-  {
-   "id": "t30",
-   "rank": 30,
-   "title": "韦布望远镜发现迄今最古老类星体双星，现有黑洞成长理论难以解释",
-   "url": "https://www.ithome.com/1/027/457.htm",
-   "summary": "IT之家 11 月 15 日消息，利用詹姆斯 · 韦布空间望远镜（JWST），天文学家发现了迄今观测到的最古老的一对由超大质量黑洞驱动的类星体。不过，这项发现也带来了一个难题：按照现有理论，它们本不应该如此早就存在。 这对紧密相邻的类星体借助双子座北望远镜（Gemini North）得到确认，编号为 J1602+4228AB，昵称为 Nāpōwawāʻena…",
-   "category": "tech",
-   "lang": "zh",
-   "publishedAt": "2026-11-15T14:37:13.000Z",
-   "heat": 42,
-   "factors": {
-    "recency": 61,
-    "authority": 75,
-    "coverage": 0,
-    "signal": 10
-   },
-   "sources": [
-    {
-     "id": "ithome",
-     "name": "IT之家",
-     "url": "https://www.ithome.com/1/027/457.htm"
-    }
-   ],
-   "keywords": [
-    "韦布",
-    "布望",
-    "望远",
-    "远镜",
-    "镜发",
-    "发现",
-    "现迄",
-    "迄今"
-   ]
-  },
-  {
-   "id": "t31",
-   "rank": 31,
-   "title": "TCL 华星展示蓝色磷光敏化荧光 OLED 成果，覆盖三大产品形态",
-   "url": "https://www.ithome.com/1/027/456.htm",
-   "summary": "IT之家 11 月 15 日消息，磷光发光拥有显著高于荧光发光的内量子效率，可改进 OLED 显示的能量利用效率，进而降低功耗、提升峰值亮度。 ▲ 10.95\" 平板电脑屏幕OLED 此前已在红光和绿光器件上实现了磷光发光。然而由于光能量等因素的差异，蓝光的磷光化一直是一大难题，相关技术的商业化直到近两年才有较为显著的进展。 ▲ 6.36\" 智能手机屏幕而在…",
-   "category": "tech",
-   "lang": "zh",
-   "publishedAt": "2026-11-15T14:16:51.000Z",
-   "heat": 42,
-   "factors": {
-    "recency": 60,
-    "authority": 75,
-    "coverage": 0,
-    "signal": 10
-   },
-   "sources": [
-    {
-     "id": "ithome",
-     "name": "IT之家",
-     "url": "https://www.ithome.com/1/027/456.htm"
-    }
-   ],
-   "keywords": [
-    "tcl",
-    "oled",
-    "华星",
-    "星展",
-    "展示",
-    "示蓝",
-    "蓝色",
-    "色磷"
-   ]
-  },
-  {
-   "id": "t32",
-   "rank": 32,
-   "title": "鸿蒙智行尚界 Z7T 星野套装实车图曝光，新增行李架、跨界套件、黑色尾翼等",
-   "url": "https://www.ithome.com/1/027/454.htm",
-   "summary": "IT之家 11 月 15 日消息，汽车博主 @未来的学习笔记 昨日分享了鸿蒙智行尚界 Z7T 星野套装实车图。 尚界 Z7T 星野套装最明显的变化属车尾部分。从画面可以看到，该版本车型新增了银色行李架、银色后视镜外壳、全车跨界套件以及黑色尾翼。 参考IT之家此前报道，尚界 Z7T 是一款猎装车型，于今年 4 月上市，售价 22.98 万元起。尚界 Z7 全系…",
-   "category": "tech",
-   "lang": "zh",
-   "publishedAt": "2026-11-15T13:53:46.000Z",
-   "heat": 42,
-   "factors": {
-    "recency": 58,
-    "authority": 75,
-    "coverage": 0,
-    "signal": 12
-   },
-   "sources": [
-    {
-     "id": "ithome",
-     "name": "IT之家",
-     "url": "https://www.ithome.com/1/027/454.htm"
-    }
-   ],
-   "keywords": [
-    "z7t",
-    "鸿蒙",
-    "蒙智",
-    "智行",
-    "行尚",
-    "尚界",
-    "星野",
-    "野套"
-   ]
-  },
-  {
-   "id": "t33",
-   "rank": 33,
-   "title": "魅族 MIFI N1 随身 Wi-Fi 上架官网，79 元",
-   "url": "https://www.ithome.com/1/027/447.htm",
-   "summary": "IT之家 11 月 15 日消息，魅族官网上架了一款魅族 MIFI N1 随身 Wi-Fi，标价 79 元，显示为“即将发售”。 据介绍，这款随身 Wi-Fi 搭载移芯 EC800LE，集成基带、射频、电源管理，支持智能切网；尺寸为 96.6×58×14.8mm，重约 102g；支持 Wi-Fi 6 协议，下行峰值 150Mbps；电池容量 3000mAh…",
-   "category": "tech",
-   "lang": "zh",
-   "publishedAt": "2026-11-15T12:52:35.000Z",
-   "heat": 42,
-   "factors": {
-    "recency": 54,
-    "authority": 75,
-    "coverage": 0,
-    "signal": 22
-   },
-   "sources": [
-    {
-     "id": "ithome",
-     "name": "IT之家",
-     "url": "https://www.ithome.com/1/027/447.htm"
-    }
-   ],
-   "keywords": [
-    "mifi",
-    "wi-fi",
-    "魅族",
-    "随身",
-    "上架",
-    "架官",
-    "官网"
-   ]
-  },
-  {
-   "id": "t34",
-   "rank": 34,
-   "title": "达摩鲨 28g 指握鼠标 AIR28 国行预售，到手价 499 元",
-   "url": "https://www.ithome.com/1/027/444.htm",
-   "summary": "IT之家 11 月 15 日消息，Darmoshark（达摩鲨）现已启动 AIR28 鼠标的国行预售。这一型号采用非对称的指握模具，提供小指支撑，质量仅有 28g，可选星曜黑 / 冰瓷白 / 雾松绿 3 种配色，到手价为 499 元。 AIR28 三维 73.9 × 59.6 × 27.06 (mm)，搭载 Nordic nRF54L15 主控、原相 PAW…",
-   "category": "tech",
-   "lang": "zh",
-   "publishedAt": "2026-11-15T12:50:43.000Z",
-   "heat": 42,
-   "factors": {
-    "recency": 54,
-    "authority": 75,
-    "coverage": 0,
-    "signal": 22
-   },
-   "sources": [
-    {
-     "id": "ithome",
-     "name": "IT之家",
-     "url": "https://www.ithome.com/1/027/444.htm"
-    }
-   ],
-   "keywords": [
-    "28g",
-    "air28",
-    "499",
-    "达摩",
-    "摩鲨",
-    "指握",
-    "握鼠",
-    "鼠标"
-   ]
-  },
-  {
-   "id": "t35",
-   "rank": 35,
-   "title": "外媒试玩《GTA 6》：主角感情需要经营，抢劫也要讲策略",
-   "url": "https://www.ithome.com/1/027/429.htm",
-   "summary": "IT之家 11 月 15 日消息，英国《卫报》今日发文，独家揭秘了《GTA 6》的幕后故事，以下是文章主要内容： 对于很多人来说，得知《侠盗猎车手》（Grand Theft Auto，简称 GTA）系列这款极具美国风格的犯罪游戏，实际上主要是在苏格兰制作的，仍然是一件令人意外的事。过去 20 年里，这个系列一直是全球最受欢迎、也最具争议的电子游戏之一。 但如…",
-   "category": "tech",
-   "lang": "zh",
-   "publishedAt": "2026-11-15T10:53:17.000Z",
-   "heat": 42,
-   "factors": {
-    "recency": 47,
-    "authority": 75,
-    "coverage": 0,
-    "signal": 30
-   },
-   "sources": [
-    {
-     "id": "ithome",
-     "name": "IT之家",
-     "url": "https://www.ithome.com/1/027/429.htm"
-    }
-   ],
-   "keywords": [
-    "gta",
-    "外媒",
-    "媒试",
-    "试玩",
-    "主角",
-    "角感",
-    "感情",
-    "情需"
-   ]
-  },
-  {
-   "id": "t36",
-   "rank": 36,
-   "title": "第49届东盟峰会在菲律宾马尼拉开幕",
-   "url": "https://www.chinanews.com.cn/gj/2026/11-15/10732417.shtml",
-   "summary": "中新社马尼拉11月15日电(记者 周璟)第49届东盟峰会15日在菲律宾首都马尼拉开幕。东盟各国领导人将围绕能源安全、粮食安全及经济合作等议题深入交流，探讨加强区域协作、应对共同挑战的举措。",
-   "category": "world",
-   "lang": "zh",
-   "publishedAt": "2026-11-15T10:12:38.000Z",
-   "heat": 42,
-   "factors": {
-    "recency": 38,
-    "authority": 75,
-    "coverage": 0,
-    "signal": 48
-   },
-   "sources": [
-    {
-     "id": "chinanews-world",
-     "name": "中新网·国际",
-     "url": "https://www.chinanews.com.cn/gj/2026/11-15/10732417.shtml"
-    }
-   ],
-   "keywords": [
-    "届东",
-    "东盟",
-    "盟峰",
-    "峰会",
-    "会在",
-    "在菲",
-    "菲律",
-    "律宾"
-   ]
-  },
-  {
-   "id": "t37",
-   "rank": 37,
-   "title": "海外华媒走读安徽：“新”、“古”、“变”",
-   "url": "https://www.chinanews.com.cn/hr/2026/11-15/10732518.shtml",
-   "summary": "中新社合肥11月15日电 (记者 储玮玮)从量子实验室到千年古塘，从老矿山到新街区……20家海外华文媒体代表近日走进安徽合肥、铜陵、淮南三市，一路读“新”、读“古”、读“变”。",
-   "category": "china",
-   "lang": "zh",
-   "publishedAt": "2026-11-15T14:46:19.000Z",
-   "heat": 41,
-   "factors": {
-    "recency": 49,
-    "authority": 80,
-    "coverage": 0,
-    "signal": 18
-   },
-   "sources": [
-    {
-     "id": "chinanews",
-     "name": "中国新闻网",
-     "url": "https://www.chinanews.com.cn/hr/2026/11-15/10732518.shtml"
-    }
-   ],
-   "keywords": [
-    "海外",
-    "外华",
-    "华媒",
-    "媒走",
-    "走读",
-    "读安",
-    "安徽"
-   ]
-  },
-  {
-   "id": "t38",
-   "rank": 38,
-   "title": "中国平台企业“出招”优化新就业群体劳动权益保障",
-   "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732517.shtml",
-   "summary": "中新社北京11月15日电 (记者 刘亮)随着中国平台经济发展壮大，外卖骑手、网约车司机等新就业形态劳动者涌现，其权益保障问题日益受关注。从健康守护到社会保障，从规则透明到人文关怀，中国平台企业多向发力，持续优化新就业群体劳动权益保障。",
-   "category": "china",
-   "lang": "zh",
-   "publishedAt": "2026-11-15T14:46:03.000Z",
-   "heat": 41,
-   "factors": {
-    "recency": 49,
-    "authority": 80,
-    "coverage": 0,
-    "signal": 18
-   },
-   "sources": [
-    {
-     "id": "chinanews",
-     "name": "中国新闻网",
-     "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732517.shtml"
-    }
-   ],
-   "keywords": [
-    "中国",
-    "国平",
-    "平台",
-    "台企",
-    "企业",
-    "出招",
-    "优化",
-    "化新"
-   ]
-  },
-  {
-   "id": "t39",
-   "rank": 39,
-   "title": "（深圳APEC）APEC盛会核心场馆“静待花开” 会场外围成打卡热点",
-   "url": "https://www.chinanews.com.cn/sh/2026/11-15/10732515.shtml",
-   "summary": "中新社深圳11月15日电 题：APEC盛会核心场馆“静待花开” 会场外围成打卡热点",
-   "category": "china",
-   "lang": "zh",
-   "publishedAt": "2026-11-15T14:44:43.000Z",
-   "heat": 41,
-   "factors": {
-    "recency": 49,
-    "authority": 80,
-    "coverage": 0,
-    "signal": 18
-   },
-   "sources": [
-    {
-     "id": "chinanews",
-     "name": "中国新闻网",
-     "url": "https://www.chinanews.com.cn/sh/2026/11-15/10732515.shtml"
-    }
-   ],
-   "keywords": [
-    "apec",
-    "深圳",
-    "盛会",
-    "会核",
-    "核心",
-    "心场",
-    "场馆",
-    "静待"
-   ]
-  },
-  {
-   "id": "t40",
-   "rank": 40,
-   "title": "Santa school in full swing in London ahead of Christmas celebrations",
-   "url": "https://www.france24.com/en/santa-school-in-full-swing-in-london-ahead-of-christmas-celebrations",
-   "summary": "It may still be November but it's beginning to look a lot like Christmas in South London, as many Santa impersonators are heading to school for their festive training. The school…",
-   "category": "world",
-   "lang": "en",
-   "publishedAt": "2026-11-15T14:35:33.000Z",
-   "heat": 41,
-   "factors": {
-    "recency": 56,
-    "authority": 85,
-    "coverage": 0,
-    "signal": 0
-   },
-   "sources": [
-    {
-     "id": "france24",
-     "name": "France 24",
-     "url": "https://www.france24.com/en/santa-school-in-full-swing-in-london-ahead-of-christmas-celebrations"
-    }
-   ],
-   "keywords": [
-    "santa",
-    "school",
-    "full",
-    "swing",
-    "london",
-    "ahead",
-    "christmas",
-    "celebrations"
-   ]
-  },
-  {
-   "id": "t41",
-   "rank": 41,
-   "title": "France's presidential race heats up",
-   "url": "https://www.france24.com/en/tv-shows/a-week-in-france/20261115-france-s-presidential-race-heats-up",
-   "summary": "In approximately six months' time, French voters will head to the polls for the first round of the presidential election. Due to term limits, current president Emmanuel Macron is b…",
-   "category": "world",
-   "lang": "en",
-   "publishedAt": "2026-11-15T13:49:25.000Z",
-   "heat": 41,
-   "factors": {
-    "recency": 52,
-    "authority": 85,
-    "coverage": 0,
-    "signal": 10
-   },
-   "sources": [
-    {
-     "id": "france24",
-     "name": "France 24",
-     "url": "https://www.france24.com/en/tv-shows/a-week-in-france/20261115-france-s-presidential-race-heats-up"
-    }
-   ],
-   "keywords": [
-    "france's",
-    "presidential",
-    "race",
-    "heats"
-   ]
-  },
-  {
-   "id": "t42",
-   "rank": 42,
-   "title": "韩国税务师考试头名 AI 作弊曝光后，政府全面调查今年国家资格考试",
-   "url": "https://www.ithome.com/1/027/453.htm",
-   "summary": "IT之家 11 月 15 日消息，据韩联社今日报道，由于税务师考试第一名考生存在利用人工智能进行作弊的行为被曝光，韩国政府决定对今年所有国家资格考试进行全面调查，以打击此类作弊行为。 报道称，劳动部和相关机构决定对在第 63 届税务师考试中发现有 AI 作弊行为的第一名考生 A 进行取消考试成绩的处理，并限制其五年内不得参加该考试，以尽快落实后续措施。 政府…",
-   "category": "tech",
-   "lang": "zh",
-   "publishedAt": "2026-11-15T13:42:51.000Z",
-   "heat": 41,
-   "factors": {
-    "recency": 57,
-    "authority": 75,
-    "coverage": 0,
-    "signal": 10
-   },
-   "sources": [
-    {
-     "id": "ithome",
-     "name": "IT之家",
-     "url": "https://www.ithome.com/1/027/453.htm"
-    }
-   ],
-   "keywords": [
-    "韩国",
-    "国税",
-    "税务",
-    "务师",
-    "师考",
-    "考试",
-    "试头",
-    "头名"
-   ]
-  },
-  {
-   "id": "t43",
-   "rank": 43,
-   "title": "逾60家中外企业“维港对话” 共议国际航运发展",
-   "url": "https://www.chinanews.com.cn/dwq/2026/11-15/10732500.shtml",
-   "summary": "中新网香港11月15日电 “香港海运周2026”15日揭幕。作为“香港海运周”十周年系列活动之一，由香港航商总会创立的国际交流平台“维港对话”当天在香港举行。活动汇聚来自逾60家中外航运及经贸企业的代表，围绕航运政策、香港国际航运中心定位、贸易变局及全球能源转型等议题进行交流。",
-   "category": "china",
-   "lang": "zh",
-   "publishedAt": "2026-11-15T13:07:57.000Z",
-   "heat": 41,
-   "factors": {
-    "recency": 41,
-    "authority": 80,
-    "coverage": 0,
-    "signal": 30
-   },
-   "sources": [
-    {
-     "id": "chinanews",
-     "name": "中国新闻网",
-     "url": "https://www.chinanews.com.cn/dwq/2026/11-15/10732500.shtml"
-    }
-   ],
-   "keywords": [
-    "家中",
-    "中外",
-    "外企",
-    "企业",
-    "维港",
-    "港对",
-    "对话",
-    "共议"
-   ]
-  },
-  {
-   "id": "t44",
-   "rank": 44,
-   "title": "中外400余名“铁人”齐聚重庆武隆 在喀斯特雄奇山水间展开角逐",
-   "url": "https://www.chinanews.com.cn/ty/2026/11-15/10732507.shtml",
-   "summary": "中新网重庆11月15日电(记者 肖江川)15日，2026重庆武隆芙蓉湖铁人三项公开赛在重庆市武隆区鸣枪开赛。来自国内外的400余名选手齐聚芙蓉湖国家湿地公园，在喀斯特雄奇山水间展开速度与耐力的较量。",
-   "category": "china",
-   "lang": "zh",
-   "publishedAt": "2026-11-15T13:06:43.000Z",
-   "heat": 41,
-   "factors": {
-    "recency": 41,
-    "authority": 80,
-    "coverage": 0,
-    "signal": 30
-   },
-   "sources": [
-    {
-     "id": "chinanews",
-     "name": "中国新闻网",
-     "url": "https://www.chinanews.com.cn/ty/2026/11-15/10732507.shtml"
-    }
-   ],
-   "keywords": [
-    "400",
-    "中外",
-    "余名",
-    "铁人",
-    "齐聚",
-    "聚重",
-    "重庆",
-    "庆武"
-   ]
-  },
-  {
-   "id": "t45",
-   "rank": 45,
-   "title": "疑似英伟达 GeForce RTX 4090 Ti 显卡“非 FE 版”工程样品现身网络",
-   "url": "https://www.ithome.com/1/027/441.htm",
-   "summary": "IT之家 11 月 15 日消息，用户 @哟哟涛来喽 在闲鱼平台分享了一款 NVIDIA 工程样品的多张图片。 这一显卡在 GPU-Z 中被识别为 GeForce RTX 4090 Ti，CUDA 数量（18176 核心）、显存规格（384bit 24GB 24Gbps）均符合爆料。 ▲ 图源：哟哟涛来喽 ▲ 图源：哟哟涛来喽IT之家注意到，该工程样品的 P…",
-   "category": "tech",
-   "lang": "zh",
-   "publishedAt": "2026-11-15T12:32:03.000Z",
-   "heat": 41,
-   "factors": {
-    "recency": 52,
-    "authority": 75,
-    "coverage": 0,
-    "signal": 20
-   },
-   "sources": [
-    {
-     "id": "ithome",
-     "name": "IT之家",
-     "url": "https://www.ithome.com/1/027/441.htm"
-    }
-   ],
-   "keywords": [
-    "geforce",
-    "rtx",
-    "4090",
-    "疑似",
-    "似英",
-    "英伟",
-    "伟达",
-    "显卡"
-   ]
-  },
-  {
-   "id": "t46",
-   "rank": 46,
-   "title": "测控数据链系统助力中国10吨级电动商用飞机首次有人驾驶智能飞行",
-   "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732442.shtml",
-   "summary": "中新网北京11月15日电 (记者 孙自法)记者11月15日从中国电科获悉，在中国自主研制10吨级电动商用飞机CE#8209;25A 于11月14日完成的首次有人驾驶智能飞行中，中国电科网络通信研究院研制的测控数据链系统提供了可靠保障，实现CE#8209;25A飞行全程通信链路运行稳定、图像传输清晰，为后续常态化飞行开展奠定了坚实基础。",
-   "category": "china",
-   "lang": "zh",
-   "publishedAt": "2026-11-15T11:18:06.000Z",
-   "heat": 41,
-   "factors": {
-    "recency": 34,
-    "authority": 75,
-    "coverage": 0,
-    "signal": 48
-   },
-   "sources": [
-    {
-     "id": "chinanews-china",
-     "name": "中新网·国内",
-     "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732442.shtml"
-    }
-   ],
-   "keywords": [
-    "测控",
-    "控数",
-    "数据",
-    "据链",
-    "链系",
-    "系统",
-    "统助",
-    "助力"
-   ]
-  },
-  {
-   "id": "t47",
-   "rank": 47,
-   "title": "直播海报：2026年亚太经合组织工商咨询理事会（ABAC）第四次会议新闻发布会",
-   "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732371.shtml",
-   "summary": "",
-   "category": "china",
-   "lang": "zh",
-   "publishedAt": "2026-11-15T08:10:11.000Z",
-   "heat": 41,
-   "factors": {
-    "recency": 25,
-    "authority": 75,
-    "coverage": 0,
-    "signal": 64
-   },
-   "sources": [
-    {
-     "id": "chinanews-china",
-     "name": "中新网·国内",
-     "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732371.shtml"
-    }
-   ],
-   "keywords": [
-    "2026",
-    "abac",
-    "直播",
-    "播海",
-    "海报",
-    "年亚",
-    "亚太",
-    "太经"
-   ]
-  },
-  {
-   "id": "t48",
-   "rank": 48,
-   "title": "Trump, Xi and Putin eye historic China summit: Why a new Yalta is being discussed",
-   "url": "https://indianexpress.com/article/world/donald-trump-xi-jinping-vladimir-putin-trilateral-meeting-apec-summit-shenzhen-nuclear-ukraine-yalta-10964405/",
-   "summary": "",
-   "category": "world",
-   "lang": "en",
-   "publishedAt": "2026-11-15T16:45:59.000Z",
-   "heat": 40,
-   "factors": {
-    "recency": 68,
-    "authority": 65,
-    "coverage": 0,
-    "signal": 0
-   },
-   "sources": [
-    {
-     "id": "indianexpress",
-     "name": "Indian Express",
-     "url": "https://indianexpress.com/article/world/donald-trump-xi-jinping-vladimir-putin-trilateral-meeting-apec-summit-shenzhen-nuclear-ukraine-yalta-10964405/"
-    }
-   ],
-   "keywords": [
-    "trump",
-    "and",
-    "putin",
-    "eye",
-    "historic",
-    "china",
-    "summit",
-    "why"
-   ]
-  },
-  {
-   "id": "t49",
-   "rank": 49,
-   "title": "Dragon Ball FighterZ balance update announced",
-   "url": "https://www.gematsu.com/2026/11/dragon-ball-fighterz-balance-update-announced",
-   "summary": "Publisher Bandai Namco and developer Arc System Works will release a new balance update for …",
-   "category": "game",
-   "lang": "en",
-   "publishedAt": "2026-11-15T15:15:02.000Z",
-   "heat": 39,
-   "factors": {
-    "recency": 68,
-    "authority": 60,
-    "coverage": 0,
-    "signal": 0
-   },
-   "sources": [
-    {
-     "id": "gematsu",
-     "name": "Gematsu",
-     "url": "https://www.gematsu.com/2026/11/dragon-ball-fighterz-balance-update-announced"
-    }
-   ],
-   "keywords": [
-    "dragon",
-    "ball",
-    "fighterz",
-    "balance",
-    "update",
-    "announced"
-   ]
-  },
-  {
-   "id": "t50",
-   "rank": 50,
+   "id": "t57",
+   "rank": 57,
    "title": "BLG斩获《英雄联盟》S16全球总决赛冠军",
    "url": "https://www.gcores.com/articles/222372",
    "summary": "哔哩哔哩电竞 BLG 于今日在纽约布鲁克林巴克莱中心以3比1击败韩国 LCK 赛区的 Gen.G， 首次夺得《英雄联盟》全球总决赛冠军。同时，FMVP 给到了 Knight 选手。 在此前的半决赛中，BLG 以3:1击败卫冕冠军T1，这也是 T1 首次在全球总决赛五局三胜淘汰赛中输给 LPL 队伍，T1 连续三年夺冠的纪录随之终结。加上决赛，BLG 在本届赛…",
    "category": "game",
    "lang": "zh",
    "publishedAt": "2026-11-15T00:02:03.000Z",
-   "heat": 36,
+   "heat": 33,
    "factors": {
-    "recency": 27,
+    "recency": 21,
     "authority": 80,
     "coverage": 0,
     "signal": 30
@@ -1732,17 +1983,49 @@
    ]
   },
   {
-   "id": "t51",
-   "rank": 51,
+   "id": "t58",
+   "rank": 58,
+   "title": "Dragon Ball FighterZ balance update announced",
+   "url": "https://www.gematsu.com/2026/11/dragon-ball-fighterz-balance-update-announced",
+   "summary": "Publisher Bandai Namco and developer Arc System Works will release a new balance update for …",
+   "category": "game",
+   "lang": "en",
+   "publishedAt": "2026-11-15T15:15:02.000Z",
+   "heat": 32,
+   "factors": {
+    "recency": 50,
+    "authority": 60,
+    "coverage": 0,
+    "signal": 0
+   },
+   "sources": [
+    {
+     "id": "gematsu",
+     "name": "Gematsu",
+     "url": "https://www.gematsu.com/2026/11/dragon-ball-fighterz-balance-update-announced"
+    }
+   ],
+   "keywords": [
+    "dragon",
+    "ball",
+    "fighterz",
+    "balance",
+    "update",
+    "announced"
+   ]
+  },
+  {
+   "id": "t59",
+   "rank": 59,
    "title": "原作者执导，原版演员回归！游戏版《东北往事》登陆主机平台",
    "url": "https://www.gcores.com/articles/222316",
    "summary": "由 NiuGamer 发行、二狗科技开发的真人互动影视作品《东北往事》（DONGDA Gangster）现已正式登陆 Xbox 与 PlayStation 5 平台，Nintendo Switch 版将于11月26日正式发售。游戏将玩家带回上世纪80、90年代暗流汹涌的中国东北街头，在这个新旧秩序交替的时代，你将扮演主角赵红兵，在兄弟义气、地盘争夺与红颜羁绊…",
    "category": "game",
    "lang": "zh",
    "publishedAt": "2026-11-15T02:00:00.000Z",
-   "heat": 35,
+   "heat": 32,
    "factors": {
-    "recency": 30,
+    "recency": 23,
     "authority": 80,
     "coverage": 0,
     "signal": 22
@@ -1766,17 +2049,17 @@
    ]
   },
   {
-   "id": "t52",
-   "rank": 52,
+   "id": "t60",
+   "rank": 60,
    "title": "IGN《女王魔域》简评：想试试另一种口味的《上古卷轴》吗？",
    "url": "https://www.ign.com.cn/queens-domain/63987/ignnu-wang-mo-yu-jian-ping-xiang-shi-shi-ling-yi-chong-kou-wei-de-shang-gu-juan-zhou-ma",
-   "summary": "像素风格、硬核复古的第一人称角色扮演游戏",
+   "summary": "像素风格、硬核复古的第一人称角色扮演游戏 我对以前那种 32 位时代的多边形复古画风毫无抵抗力，比如《缄默祸运》、《信号》、《乌鸦之国》以及《战锤 40K：爆矢枪 2》等都是我近年很喜欢的游戏。最近最让我上头的作品是《女王魔域》，它是一款奇幻 RPG，感觉有点像《上古卷轴》系列但是做成了 PS1 风格。 事实上，它很明显受到了 FromSoftware 在《…",
    "category": "game",
    "lang": "zh",
    "publishedAt": "2026-11-14T23:00:52.000Z",
-   "heat": 32,
+   "heat": 30,
    "factors": {
-    "recency": 26,
+    "recency": 20,
     "authority": 75,
     "coverage": 0,
     "signal": 22
@@ -1798,391 +2081,120 @@
     "试试",
     "试另"
    ]
-  },
-  {
-   "id": "t53",
-   "rank": 53,
-   "title": "《英雄联盟：曙光》正式宣布",
-   "url": "https://www.gcores.com/articles/222374",
-   "summary": "在2026英雄联盟全球总决赛期间，游戏研发团队正式揭晓了《英雄联盟：曙光》。这是一项涵盖游戏多个层面、上线以来最大规模的全面更新，预计将于2027年正式上线。 <内嵌内容，请前往机核查看> 据悉，《英雄联盟：曙光》 将带来包括全面现代化升级的游戏客户端、焕然一新的召唤师峡谷地图与视觉表现、持续进化的游戏玩法，以及让玩家以全新方式体验自己喜爱的英雄等一系列精彩…",
-   "category": "game",
-   "lang": "zh",
-   "publishedAt": "2026-11-14T22:14:40.000Z",
-   "heat": 32,
-   "factors": {
-    "recency": 25,
-    "authority": 80,
-    "coverage": 0,
-    "signal": 18
-   },
-   "sources": [
-    {
-     "id": "gcores",
-     "name": "机核 GCORES",
-     "url": "https://www.gcores.com/articles/222374"
-    }
-   ],
-   "keywords": [
-    "英雄",
-    "雄联",
-    "联盟",
-    "曙光",
-    "正式",
-    "式宣",
-    "宣布"
-   ]
-  },
-  {
-   "id": "t54",
-   "rank": 54,
-   "title": "GTA 6 Is Like The Olympics – “A Rare Cultural Moment” With Massive Ripple Effects",
-   "url": "https://www.gamespot.com/articles/gta-6-is-like-the-olympics-a-rare-cultural-moment-with-massive-ripple-effects/",
-   "summary": "After years of development, multiple delays, and what can only be assumed to be one of the biggest production budgets ever, Rockstar's Grand Theft Auto 6 launches on November 19. T…",
-   "category": "game",
-   "lang": "en",
-   "publishedAt": "2026-11-15T03:00:00.000Z",
-   "heat": 31,
-   "factors": {
-    "recency": 32,
-    "authority": 75,
-    "coverage": 0,
-    "signal": 8
-   },
-   "sources": [
-    {
-     "id": "gamespot",
-     "name": "GameSpot",
-     "url": "https://www.gamespot.com/articles/gta-6-is-like-the-olympics-a-rare-cultural-moment-with-massive-ripple-effects/"
-    }
-   ],
-   "keywords": [
-    "gta",
-    "like",
-    "the",
-    "olympics",
-    "rare",
-    "cultural",
-    "moment",
-    "with"
-   ]
-  },
-  {
-   "id": "t55",
-   "rank": 55,
-   "title": "等了13年，《GTA6》还能再次成为传奇吗？【视频播客音频版】",
-   "url": "https://www.gcores.com/radios/222354",
-   "summary": "欢迎回到“核电波”！今天我们回顾一下GTA系列的过去，再聊聊对于《GTA6》的期待。本期为机核视频播客节目音频版，若大家想看我们在录节目的时候究竟是什么样的状态,可以关注我们的B站账号【核电波】 本期主播：Nadya / 西蒙 / Ryoma",
-   "category": "game",
-   "lang": "zh",
-   "publishedAt": "2026-11-14T05:36:47.000Z",
-   "heat": 31,
-   "factors": {
-    "recency": 12,
-    "authority": 80,
-    "coverage": 0,
-    "signal": 34
-   },
-   "sources": [
-    {
-     "id": "gcores",
-     "name": "机核 GCORES",
-     "url": "https://www.gcores.com/radios/222354"
-    }
-   ],
-   "keywords": [
-    "gta6",
-    "等了",
-    "还能",
-    "能再",
-    "再次",
-    "次成",
-    "成为",
-    "为传"
-   ]
-  },
-  {
-   "id": "t56",
-   "rank": 56,
-   "title": "规则是流动的，核周报 11.14",
-   "url": "https://www.gcores.com/radios/222022",
-   "summary": "本期时间轴制作：老斧子 本期要闻：《GTA6》开发正式完成，Take-Two 财报确认预购「远超预期」，索尼、微软双双官宣《GTA6》 是各自商店史上预购最高的游戏，全主机平台目标 30FPS，无性能模式；MW4 登顶Steam全球周榜，《影之刃零》国区三连庄、好评率升至 91%；Switch 23.5.0 固件推送；《塞尔达传说：时光之笛》重制版销量突破5…",
-   "category": "game",
-   "lang": "zh",
-   "publishedAt": "2026-11-14T15:00:00.000Z",
-   "heat": 30,
-   "factors": {
-    "recency": 17,
-    "authority": 80,
-    "coverage": 0,
-    "signal": 22
-   },
-   "sources": [
-    {
-     "id": "gcores",
-     "name": "机核 GCORES",
-     "url": "https://www.gcores.com/radios/222022"
-    }
-   ],
-   "keywords": [
-    "11.14",
-    "规则",
-    "则是",
-    "是流",
-    "流动",
-    "动的",
-    "核周",
-    "周报"
-   ]
-  },
-  {
-   "id": "t57",
-   "rank": 57,
-   "title": "GTA6 终极前瞻：史上最大改动到来 | 走神大师233",
-   "url": "https://www.gcores.com/radios/222377",
-   "summary": "GTA6 终极前瞻：史上最大改动到来 | 走神大师233 参与人员：EK、Lost OP&ED：Flower In A Hurricane 再见，旧时代。 11 月 19 日，GTA6 即将到来。正如此前所承诺的，我们搜罗了全网资料，观看了各种演示、采访以及盘点，将 GTA6 的冰山一角里里外外挖了个遍。 本期节目将带大家一起了解 GTA6 目前所公布的所有…",
-   "category": "game",
-   "lang": "zh",
-   "publishedAt": "2026-11-14T09:30:00.000Z",
-   "heat": 29,
-   "factors": {
-    "recency": 13,
-    "authority": 80,
-    "coverage": 0,
-    "signal": 22
-   },
-   "sources": [
-    {
-     "id": "gcores",
-     "name": "机核 GCORES",
-     "url": "https://www.gcores.com/radios/222377"
-    }
-   ],
-   "keywords": [
-    "gta6",
-    "233",
-    "终极",
-    "极前",
-    "前瞻",
-    "史上",
-    "上最",
-    "最大"
-   ]
-  },
-  {
-   "id": "t58",
-   "rank": 58,
-   "title": "拳头游戏公布《英雄联盟》赛事未来展望",
-   "url": "https://www.gcores.com/articles/222361",
-   "summary": "在2026全球总决赛期间的英雄联盟前瞻发布会上，拳头游戏首次分享了英雄联盟赛事未来发展的最新计划，包括国际赛事规划的更新、全新的赛事举办城市，以及将为2027赛季拉开序幕的特别版全球先锋赛。 从季中冠军赛首次落地西班牙，到全球总决赛横跨日本和韩国两地举办，拳头游戏始终在探索更多可能，把最高水平的英雄联盟竞技盛宴带给世界各地的粉丝。2027年，拳头游戏还将更进…",
-   "category": "game",
-   "lang": "zh",
-   "publishedAt": "2026-11-14T09:23:19.000Z",
-   "heat": 28,
-   "factors": {
-    "recency": 13,
-    "authority": 80,
-    "coverage": 0,
-    "signal": 18
-   },
-   "sources": [
-    {
-     "id": "gcores",
-     "name": "机核 GCORES",
-     "url": "https://www.gcores.com/articles/222361"
-    }
-   ],
-   "keywords": [
-    "拳头",
-    "头游",
-    "游戏",
-    "戏公",
-    "公布",
-    "英雄",
-    "雄联",
-    "联盟"
-   ]
-  },
-  {
-   "id": "t59",
-   "rank": 59,
-   "title": "《影之刃》组织说江湖得有规矩？我呸！",
-   "url": "https://www.gcores.com/radios/222350",
-   "summary": "主播：恶霸波、金花、蛋挞、野人 筹备许久的《影之刃》～ 虽迟必到，一期讲不完～ 评论点赞转发订阅就是对超游的最大支持！",
-   "category": "game",
-   "lang": "zh",
-   "publishedAt": "2026-11-14T04:30:00.000Z",
-   "heat": 28,
-   "factors": {
-    "recency": 11,
-    "authority": 80,
-    "coverage": 0,
-    "signal": 22
-   },
-   "sources": [
-    {
-     "id": "gcores",
-     "name": "机核 GCORES",
-     "url": "https://www.gcores.com/radios/222350"
-    }
-   ],
-   "keywords": [
-    "影之",
-    "之刃",
-    "组织",
-    "织说",
-    "说江",
-    "江湖",
-    "湖得",
-    "得有"
-   ]
-  },
-  {
-   "id": "t60",
-   "rank": 60,
-   "title": "“Physical” GTA 6 Copies Might Be Vulnerable To A Very Stupid But Serious Trick",
-   "url": "https://www.gamespot.com/articles/physical-gta-6-copies-might-be-vulnerable-to-a-very-stupid-but-serious-trick/",
-   "summary": "Grand Theft Auto 6 ditched traditional discs for its \"physical\" launch, with Rockstar's game being sold as a digital code-in-box at retailers beginning this week. However, it appea…",
-   "category": "game",
-   "lang": "en",
-   "publishedAt": "2026-11-13T21:03:51.000Z",
-   "heat": 23,
-   "factors": {
-    "recency": 9,
-    "authority": 75,
-    "coverage": 0,
-    "signal": 8
-   },
-   "sources": [
-    {
-     "id": "gamespot",
-     "name": "GameSpot",
-     "url": "https://www.gamespot.com/articles/physical-gta-6-copies-might-be-vulnerable-to-a-very-stupid-but-serious-trick/"
-    }
-   ],
-   "keywords": [
-    "physical",
-    "gta",
-    "copies",
-    "might",
-    "vulnerable",
-    "very",
-    "stupid",
-    "but"
-   ]
   }
  ],
  "flashes": [
   {
-   "id": "t1",
-   "title": "Yemen's Houthis advance on Aden as government forces retreat to defend their capital",
-   "url": "https://www.france24.com/en/middle-east/20261115-yemen-houthis-advance-to-within-60-kilometres-of-aden-military-sources-say",
+   "id": "t38",
+   "title": "Jensen Huang discusses comeback as Nvidia CEO with allies, FT reports",
+   "url": "https://www.koreatimes.co.kr/world/20261116/jensen-huang-discusses-comeback-as-nvidia-ceo-with-allies-ft-reports?utm_source=rss",
    "category": "world",
-   "source": "France 24",
-   "publishedAt": "2026-11-15T19:28:54.000Z"
+   "source": "Korea Times",
+   "publishedAt": "2026-11-16T01:47:02.000Z"
   },
   {
-   "id": "t2",
-   "title": "Pragues's fight for public TV - Why Renowned Presenter Will Leave Czech TV Over Reforms",
-   "url": "https://www.france24.com/en/tv-shows/spotlight/20261115-pragues-s-fight-for-public-tv-why-renowned-presenter-will-leave-czech-tv-over-reforms",
+   "id": "t39",
+   "title": "Thousands of flights canceled as airlines work to dig out from nationwide ground stop",
+   "url": "https://www.koreatimes.co.kr/world/20261116/thousands-of-flights-canceled-as-airlines-work-to-dig-out-from-nationwide-ground-stop?utm_source=rss",
    "category": "world",
-   "source": "France 24",
-   "publishedAt": "2026-11-15T19:13:35.000Z"
+   "source": "Korea Times",
+   "publishedAt": "2026-11-16T01:47:02.000Z"
   },
   {
-   "id": "t6",
-   "title": "Estonia to close Russian border crossings after 'sabotage' attempt at drone factory",
-   "url": "https://www.france24.com/en/europe/20261115-estonia-to-close-russian-border-crossings-after-sabotage-attempt-at-drone-factory",
+   "id": "t40",
+   "title": "Ukraine launches nearly 1,200 drones at Russia as US-led talks to consider wider European security",
+   "url": "https://www.koreatimes.co.kr/world/20261116/ukraine-launches-nearly-1200-drones-at-russia-as-us-led-talks-to-consider-wider-european-security?utm_source=rss",
    "category": "world",
-   "source": "France 24",
-   "publishedAt": "2026-11-15T17:05:14.000Z"
+   "source": "Korea Times",
+   "publishedAt": "2026-11-16T01:47:02.000Z"
   },
   {
-   "id": "t7",
-   "title": "How did over 2,000 migrants reach the Canaries in just 48 hours?",
-   "url": "https://www.france24.com/en/how-did-over-2-000-migrants-reach-the-canaries-in-just-48-hours",
-   "category": "world",
-   "source": "France 24",
-   "publishedAt": "2026-11-15T16:58:40.000Z"
+   "id": "t17",
+   "title": "创业板指跌逾2%，全市场下跌个股超5000只",
+   "url": "https://www.jiemian.com/article/15335138.html",
+   "category": "china",
+   "source": "界面新闻",
+   "publishedAt": "2026-11-16T01:36:46.000Z"
   },
   {
-   "id": "t20",
-   "title": "零刻 ME Pro 358H 四盘位 NAS 开售，32GB + 1TB 起价 11499 元",
-   "url": "https://www.ithome.com/1/027/461.htm",
-   "category": "tech",
-   "source": "IT之家",
-   "publishedAt": "2026-11-15T16:14:44.000Z"
-  },
-  {
-   "id": "t3",
-   "title": "BLG一穿四夺冠：从说晚安，到说早安",
-   "url": "https://www.gcores.com/articles/222388",
-   "category": "game",
-   "source": "机核 GCORES",
-   "publishedAt": "2026-11-15T16:13:40.000Z"
-  },
-  {
-   "id": "t10",
-   "title": "法国周末示威活动中超过400人被拘捕",
-   "url": "https://www.chinanews.com.cn/gj/2026/11-16/10732530.shtml",
+   "id": "t8",
+   "title": "“绑沙袋跑步瘦得更快”，是真的吗？医生提醒",
+   "url": "https://www.chinanews.com.cn/life/2026/11-16/10732593.shtml",
    "category": "china",
    "source": "中国新闻网",
-   "publishedAt": "2026-11-15T16:06:52.000Z"
+   "publishedAt": "2026-11-16T01:35:45.000Z"
   },
   {
-   "id": "t11",
-   "title": "微星推出 PRO CORELIQUID R13 360 液冷，399 / 419 元",
-   "url": "https://www.ithome.com/1/027/460.htm",
-   "category": "tech",
-   "source": "IT之家",
-   "publishedAt": "2026-11-15T15:56:43.000Z"
+   "id": "t25",
+   "title": "江苏如东：洋口港LNG接收站吹响冬供号角",
+   "url": "https://www.chinanews.com.cn/tp/2026/11-16/10732589.shtml",
+   "category": "china",
+   "source": "中国新闻网",
+   "publishedAt": "2026-11-16T01:35:37.000Z"
+  },
+  {
+   "id": "t9",
+   "title": "11月16日人民币对美元中间价报6.7141 上调11个基点",
+   "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732583.shtml",
+   "category": "china",
+   "source": "中国新闻网",
+   "publishedAt": "2026-11-16T01:35:05.000Z"
   },
   {
    "id": "t26",
-   "title": "乒乓球前国手方博夺得复出后首冠",
-   "url": "https://www.chinanews.com.cn/ty/2026/11-15/10732529.shtml",
-   "category": "china",
-   "source": "中国新闻网",
-   "publishedAt": "2026-11-15T15:55:31.000Z"
-  },
-  {
-   "id": "t21",
-   "title": "重返“冰丝带”，北京冬奥会冠军高亭宇速滑世界杯夺金",
-   "url": "https://www.chinanews.com.cn/ty/2026/11-15/10732528.shtml",
-   "category": "china",
-   "source": "中国新闻网",
-   "publishedAt": "2026-11-15T15:53:55.000Z"
-  },
-  {
-   "id": "t5",
-   "title": "《异于天堂》「第二部 吴市篇」剧情预告",
-   "url": "https://www.ign.com.cn/stranger-than-heaven/64040/yi-yu-tian-tang-di-er-bu-wu-shi-pian-ju-qing-yu-gao",
-   "category": "game",
-   "source": "IGN 中国",
-   "publishedAt": "2026-11-15T15:40:56.000Z"
-  },
-  {
-   "id": "t49",
-   "title": "Dragon Ball FighterZ balance update announced",
-   "url": "https://www.gematsu.com/2026/11/dragon-ball-fighterz-balance-update-announced",
-   "category": "game",
-   "source": "Gematsu",
-   "publishedAt": "2026-11-15T15:15:02.000Z"
-  },
-  {
-   "id": "t12",
-   "title": "《GTA 6》通关时长爆料：主线约 50 小时，白金全成就预计 200 小时",
-   "url": "https://www.ithome.com/1/027/459.htm",
+   "title": "花2000万冠名湘超却沦为“最大冤种”，湘窖要补的不只是传播课",
+   "url": "https://www.tmtpost.com/8206060.html",
    "category": "tech",
-   "source": "IT之家",
-   "publishedAt": "2026-11-15T15:06:17.000Z"
+   "source": "钛媒体",
+   "publishedAt": "2026-11-16T01:35:00.000Z"
   },
   {
-   "id": "t4",
-   "title": "听完这期，搞清楚游戏里的所有反派！解析《影之刃零》里的局",
-   "url": "https://www.gcores.com/radios/222021",
+   "id": "t14",
+   "title": "全面重制：《超级肉肉男孩Again+》正式公布",
+   "url": "https://www.gcores.com/articles/222387",
    "category": "game",
    "source": "机核 GCORES",
-   "publishedAt": "2026-11-15T15:00:00.000Z"
+   "publishedAt": "2026-11-16T01:25:00.000Z"
+  },
+  {
+   "id": "t10",
+   "title": "詹姆斯·古恩驳斥Skydance干预《超人2：明日之子》的传闻",
+   "url": "https://www.ign.com.cn/man-of-tomorrow/64041/zhan-mu-si-gu-en-bo-chi-skydancegan-yu-chao-ren-2ming-ri-zhi-zi-de-chuan-wen",
+   "category": "game",
+   "source": "IGN 中国",
+   "publishedAt": "2026-11-16T01:19:47.000Z"
+  },
+  {
+   "id": "t15",
+   "title": "《闪客快打》创作者打造：《灾异档案》正式公布",
+   "url": "https://www.gcores.com/articles/222386",
+   "category": "game",
+   "source": "机核 GCORES",
+   "publishedAt": "2026-11-16T01:15:00.000Z"
+  },
+  {
+   "id": "t31",
+   "title": "消息称某厂明年的阔直板手机已开屏，预计为小米旗下",
+   "url": "https://www.ithome.com/1/027/495.htm",
+   "category": "tech",
+   "source": "IT之家",
+   "publishedAt": "2026-11-16T01:08:46.000Z"
+  },
+  {
+   "id": "t20",
+   "title": "《毁灭战士：黑暗时代|启示录》“屠戮模式”今日实装",
+   "url": "https://www.gcores.com/articles/222385",
+   "category": "game",
+   "source": "机核 GCORES",
+   "publishedAt": "2026-11-16T01:05:00.000Z"
+  },
+  {
+   "id": "t3",
+   "title": "华为 Mate X8 及全场景新品发布会定档 11 月 24 日，大折叠旗舰全方位焕新",
+   "url": "https://www.ithome.com/1/027/493.htm",
+   "category": "tech",
+   "source": "IT之家",
+   "publishedAt": "2026-11-16T01:03:53.000Z"
   }
  ],
  "sourceStatus": [
@@ -2193,7 +2205,7 @@
    "lang": "zh",
    "ok": true,
    "count": 30,
-   "ms": 446,
+   "ms": 1052,
    "error": null
   },
   {
@@ -2203,7 +2215,7 @@
    "lang": "zh",
    "ok": true,
    "count": 30,
-   "ms": 306,
+   "ms": 1022,
    "error": null
   },
   {
@@ -2213,7 +2225,7 @@
    "lang": "zh",
    "ok": true,
    "count": 30,
-   "ms": 1264,
+   "ms": 1728,
    "error": null
   },
   {
@@ -2223,7 +2235,7 @@
    "lang": "zh",
    "ok": true,
    "count": 30,
-   "ms": 307,
+   "ms": 1018,
    "error": null
   },
   {
@@ -2233,7 +2245,7 @@
    "lang": "en",
    "ok": true,
    "count": 24,
-   "ms": 325,
+   "ms": 959,
    "error": null
   },
   {
@@ -2241,20 +2253,20 @@
    "name": "Indian Express",
    "category": "world",
    "lang": "en",
-   "ok": true,
-   "count": 17,
-   "ms": 43,
-   "error": null
+   "ok": false,
+   "count": 0,
+   "ms": 691,
+   "error": "HTTP 403"
   },
   {
    "id": "koreatimes",
    "name": "Korea Times",
    "category": "world",
    "lang": "en",
-   "ok": false,
-   "count": 0,
-   "ms": 875,
-   "error": "窗口期内无内容"
+   "ok": true,
+   "count": 3,
+   "ms": 913,
+   "error": null
   },
   {
    "id": "ithome",
@@ -2263,7 +2275,7 @@
    "lang": "zh",
    "ok": true,
    "count": 60,
-   "ms": 1048,
+   "ms": 405,
    "error": null
   },
   {
@@ -2272,8 +2284,8 @@
    "category": "tech",
    "lang": "zh",
    "ok": true,
-   "count": 2,
-   "ms": 1279,
+   "count": 3,
+   "ms": 1250,
    "error": null
   },
   {
@@ -2282,8 +2294,8 @@
    "category": "tech",
    "lang": "zh",
    "ok": true,
-   "count": 1,
-   "ms": 1806,
+   "count": 2,
+   "ms": 1776,
    "error": null
   },
   {
@@ -2292,8 +2304,8 @@
    "category": "tech",
    "lang": "zh",
    "ok": true,
-   "count": 17,
-   "ms": 3185,
+   "count": 16,
+   "ms": 1912,
    "error": null
   },
   {
@@ -2302,8 +2314,8 @@
    "category": "tech",
    "lang": "en",
    "ok": true,
-   "count": 8,
-   "ms": 15,
+   "count": 5,
+   "ms": 140,
    "error": null
   },
   {
@@ -2312,8 +2324,8 @@
    "category": "game",
    "lang": "zh",
    "ok": true,
-   "count": 10,
-   "ms": 1287,
+   "count": 13,
+   "ms": 1253,
    "error": null
   },
   {
@@ -2322,8 +2334,8 @@
    "category": "game",
    "lang": "zh",
    "ok": true,
-   "count": 2,
-   "ms": 247,
+   "count": 4,
+   "ms": 1043,
    "error": null
   },
   {
@@ -2332,8 +2344,8 @@
    "category": "game",
    "lang": "en",
    "ok": true,
-   "count": 3,
-   "ms": 50,
+   "count": 1,
+   "ms": 197,
    "error": null
   },
   {
@@ -2342,8 +2354,8 @@
    "category": "game",
    "lang": "en",
    "ok": true,
-   "count": 3,
-   "ms": 124,
+   "count": 6,
+   "ms": 303,
    "error": null
   }
  ]
