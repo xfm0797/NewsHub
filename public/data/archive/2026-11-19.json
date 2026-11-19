@@ -1,0 +1,1374 @@
+{
+ "date": "2026-11-19",
+ "generatedAt": "2026-11-19T00:15:13+00:00",
+ "stats": {
+  "total": 60,
+  "sources": 16,
+  "sourcesOk": 16,
+  "categories": {
+   "china": 15,
+   "world": 15,
+   "tech": 15,
+   "game": 15
+  },
+  "windowHours": 48
+ },
+ "topics": [
+  {
+   "id": "t1",
+   "rank": 1,
+   "title": "马斯克、奥尔特曼、纳德拉等人出席 DealBook 峰会，回应热点问题",
+   "url": "https://www.ithome.com/1/029/143.htm",
+   "summary": "IT之家 11 月 19 日消息，当地时间 11 月 18 日，2026 年度 DealBook 峰会在美国纽约举行。《纽约时报》财经专栏作家、DealBook 创始人安德鲁・罗斯・索尔金主持了此次活动。 OpenAI CEO 萨姆・奥尔特曼、总裁格雷格・布罗克曼、SpaceX CEO 埃隆・马斯克、微软 CEO 萨提亚・纳德拉等科技行业人士出席，围绕 AI…",
+   "category": "tech",
+   "lang": "zh",
+   "publishedAt": "2026-11-18T23:39:54.000Z",
+   "heat": 66,
+   "factors": {
+    "recency": 95,
+    "authority": 75,
+    "coverage": 0,
+    "signal": 62
+   },
+   "sources": [
+    {
+     "id": "ithome",
+     "name": "IT之家",
+     "url": "https://www.ithome.com/1/029/143.htm"
+    }
+   ],
+   "keywords": [
+    "dealbook",
+    "马斯",
+    "斯克",
+    "奥尔",
+    "尔特",
+    "特曼",
+    "纳德",
+    "德拉"
+   ]
+  },
+  {
+   "id": "t2",
+   "rank": 2,
+   "title": "界面早报 | 2026年APEC工商领导人峰会发布深圳倡议；商务部：中韩自贸协定第二阶段谈判实质性完成",
+   "url": "https://www.jiemian.com/article/15348315.html",
+   "summary": "天普股份：股票将于今日开市起复牌；新易盛：目前不存在需求预期下修或砍单情形，1.6T光模块已进入大规模放量阶段；中际旭创：董事长提议回购20亿元至40亿元公司股份。",
+   "category": "china",
+   "lang": "zh",
+   "publishedAt": "2026-11-18T23:14:07.000Z",
+   "heat": 66,
+   "factors": {
+    "recency": 89,
+    "authority": 70,
+    "coverage": 0,
+    "signal": 78
+   },
+   "sources": [
+    {
+     "id": "jiemian",
+     "name": "界面新闻",
+     "url": "https://www.jiemian.com/article/15348315.html"
+    }
+   ],
+   "keywords": [
+    "2026",
+    "apec",
+    "界面",
+    "面早",
+    "早报",
+    "工商",
+    "商领",
+    "领导"
+   ]
+  },
+  {
+   "id": "t3",
+   "rank": 3,
+   "title": "我国成功发射实践二十四号卫星",
+   "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734441.shtml",
+   "summary": "北京时间2026年11月19日6时51分，我国在太原卫星发射中心使用长征二号丁运载火箭，成功将实践二十四号卫星发射升空，卫星顺利进入预定轨道，发射任务取得圆满成功。",
+   "category": "china",
+   "lang": "zh",
+   "publishedAt": "2026-11-18T23:11:51.000Z",
+   "heat": 63,
+   "factors": {
+    "recency": 88,
+    "authority": 80,
+    "coverage": 57,
+    "signal": 10
+   },
+   "sources": [
+    {
+     "id": "chinanews",
+     "name": "中国新闻网",
+     "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734441.shtml"
+    },
+    {
+     "id": "jiemian",
+     "name": "界面新闻",
+     "url": "https://www.jiemian.com/article/15348516.html"
+    }
+   ],
+   "keywords": [
+    "我国",
+    "国成",
+    "成功",
+    "功发",
+    "发射",
+    "射实",
+    "实践",
+    "践二"
+   ]
+  },
+  {
+   "id": "t4",
+   "rank": 4,
+   "title": "R星游戏《GTA6》正式发售",
+   "url": "https://www.jiemian.com/article/15348540.html",
+   "summary": "北京时间11月19日凌晨，《侠盗猎车手》系列游戏开发商Rockstar Games年度新作《侠盗猎车手6》（GTA6）正式发售，首发登陆PlayStation 5和Xbox Series X|S平台，PC版本暂未推出。",
+   "category": "china",
+   "lang": "zh",
+   "publishedAt": "2026-11-18T23:30:28.000Z",
+   "heat": 62,
+   "factors": {
+    "recency": 92,
+    "authority": 70,
+    "coverage": 0,
+    "signal": 56
+   },
+   "sources": [
+    {
+     "id": "jiemian",
+     "name": "界面新闻",
+     "url": "https://www.jiemian.com/article/15348540.html"
+    }
+   ],
+   "keywords": [
+    "gta6",
+    "星游",
+    "游戏",
+    "正式",
+    "式发",
+    "发售"
+   ]
+  },
+  {
+   "id": "t5",
+   "rank": 5,
+   "title": "“咨询量增长100%”！外籍客商扎堆打卡→",
+   "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734451.shtml",
+   "summary": "2026年APEC会议周进行之际，深圳南油服装批发市场迎来境外客商的“时尚采购”热。来自APEC经济体的买手与游客趁会议周窗口集中入场，南油正成为外国客商眼中“空箱来、满箱走”的深圳新体验。",
+   "category": "china",
+   "lang": "zh",
+   "publishedAt": "2026-11-18T23:41:57.000Z",
+   "heat": 61,
+   "factors": {
+    "recency": 94,
+    "authority": 80,
+    "coverage": 0,
+    "signal": 34
+   },
+   "sources": [
+    {
+     "id": "chinanews",
+     "name": "中国新闻网",
+     "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734451.shtml"
+    }
+   ],
+   "keywords": [
+    "100",
+    "咨询",
+    "询量",
+    "量增",
+    "增长",
+    "外籍",
+    "籍客",
+    "客商"
+   ]
+  },
+  {
+   "id": "t6",
+   "rank": 6,
+   "title": "地平线发布 LoFT 原生视频几何基础模型，多项指标达到 SoTA",
+   "url": "https://www.ithome.com/1/029/140.htm",
+   "summary": "IT之家 11 月 19 日消息，11 月 18 日，地平线机器人实验室发布原生视频几何基础模型 LoFT（Looped Foundation Transformer for Video Geometry）。据介绍，该模型能够从 RGB 视频中联合预测相机位姿、内参及逐帧深度，恢复场景三维结构，为机器人空间感知、环境理解与具身学习提供几何基础。 官方称，Lo…",
+   "category": "tech",
+   "lang": "zh",
+   "publishedAt": "2026-11-18T23:30:03.000Z",
+   "heat": 60,
+   "factors": {
+    "recency": 94,
+    "authority": 75,
+    "coverage": 0,
+    "signal": 36
+   },
+   "sources": [
+    {
+     "id": "ithome",
+     "name": "IT之家",
+     "url": "https://www.ithome.com/1/029/140.htm"
+    }
+   ],
+   "keywords": [
+    "loft",
+    "sota",
+    "地平",
+    "平线",
+    "线发",
+    "发布",
+    "原生",
+    "生视"
+   ]
+  },
+  {
+   "id": "t7",
+   "rank": 7,
+   "title": "沙特主导的联军称摧毁胡塞武装60个军事目标",
+   "url": "https://www.chinanews.com.cn/gj/2026/11-19/10734452.shtml",
+   "summary": "中新网11月19日电 综合外媒报道，当地时间18日，沙特阿拉伯主导的多国联军发言人马利基表示，对也门胡塞武装实施了专项军事行动，摧毁了该组织位于也门萨那、荷台达、阿姆兰和萨达省的60个军事目标。",
+   "category": "china",
+   "lang": "zh",
+   "publishedAt": "2026-11-18T23:43:53.000Z",
+   "heat": 58,
+   "factors": {
+    "recency": 94,
+    "authority": 80,
+    "coverage": 0,
+    "signal": 22
+   },
+   "sources": [
+    {
+     "id": "chinanews",
+     "name": "中国新闻网",
+     "url": "https://www.chinanews.com.cn/gj/2026/11-19/10734452.shtml"
+    }
+   ],
+   "keywords": [
+    "沙特",
+    "特主",
+    "主导",
+    "导的",
+    "的联",
+    "联军",
+    "军称",
+    "称摧"
+   ]
+  },
+  {
+   "id": "t8",
+   "rank": 8,
+   "title": "IT早报 1119：智界获车辆独立生产资质；董明珠回应格力利润下降仍不用铝代铜；苹果 iPhoneDuo 铰链风波升级；华为 HarmonyOS 7 设备占比突破 82%...",
+   "url": "https://www.ithome.com/1/029/142.htm",
+   "summary": "“IT早报”时间，大家好，现在是 2026 年 11 月 19 日星期四，今天的重要科技资讯有： 1. “纯血鸿蒙智行”再进化！智界获道路机动车辆独立生产资质 据蓝鲸汽车报道，奇瑞集团获同意增加成员企业安徽智界新能源汽车有限公司，注册地址为安徽省芜湖市经济技术开发区龙山街道华山路与千岛湖路交叉口芜湖经济技术开发区管理委员会 15 楼 1507 室。这意味着智…",
+   "category": "tech",
+   "lang": "zh",
+   "publishedAt": "2026-11-18T23:37:46.000Z",
+   "heat": 58,
+   "factors": {
+    "recency": 95,
+    "authority": 75,
+    "coverage": 0,
+    "signal": 26
+   },
+   "sources": [
+    {
+     "id": "ithome",
+     "name": "IT之家",
+     "url": "https://www.ithome.com/1/029/142.htm"
+    }
+   ],
+   "keywords": [
+    "1119",
+    "iphoneduo",
+    "harmonyos",
+    "早报",
+    "智界",
+    "界获",
+    "获车",
+    "车辆"
+   ]
+  },
+  {
+   "id": "t9",
+   "rank": 9,
+   "title": "AMD 发布 26.11.2 肾上腺素驱动：新增 ROCm 10.2 支持，适配《影之刃零》游戏",
+   "url": "https://www.ithome.com/1/029/131.htm",
+   "summary": "IT之家 11 月 19 日消息，AMD 发布 Software: Adrenalin Edition 26.11.2 版显卡驱动，重点提升稳定性与可靠性，新增 ROCm 10.2 支持，并适配近期多款游戏。 新游戏支持与性能优化 新增 ROCm 10.2 支持。 新增适配《红色沙漠：增强版 - 未知征途》 DLC 游戏。 新增适配《影之刃零》游戏。 整体提…",
+   "category": "tech",
+   "lang": "zh",
+   "publishedAt": "2026-11-18T22:42:57.000Z",
+   "heat": 58,
+   "factors": {
+    "recency": 89,
+    "authority": 75,
+    "coverage": 0,
+    "signal": 34
+   },
+   "sources": [
+    {
+     "id": "ithome",
+     "name": "IT之家",
+     "url": "https://www.ithome.com/1/029/131.htm"
+    }
+   ],
+   "keywords": [
+    "amd",
+    "26.11.2",
+    "rocm",
+    "10.2",
+    "发布",
+    "肾上",
+    "上腺",
+    "腺素"
+   ]
+  },
+  {
+   "id": "t10",
+   "rank": 10,
+   "title": "首次运投成功！国产“空中重卡”来了",
+   "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734435.shtml",
+   "summary": "近日，7吨级大型运投无人机长鹰-8，圆满完成首次运输投送试验，正式具备智能精准投送能力。",
+   "category": "china",
+   "lang": "zh",
+   "publishedAt": "2026-11-18T22:05:09.000Z",
+   "heat": 58,
+   "factors": {
+    "recency": 78,
+    "authority": 80,
+    "coverage": 0,
+    "signal": 48
+   },
+   "sources": [
+    {
+     "id": "chinanews",
+     "name": "中国新闻网",
+     "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734435.shtml"
+    }
+   ],
+   "keywords": [
+    "首次",
+    "次运",
+    "运投",
+    "投成",
+    "成功",
+    "国产",
+    "空中",
+    "中重"
+   ]
+  },
+  {
+   "id": "t11",
+   "rank": 11,
+   "title": "和铂医药：LET003用于治疗超重或肥胖症的IND申请获国家药监局受理",
+   "url": "https://www.jiemian.com/article/15348636.html",
+   "summary": "11月19日，和铂医药宣布中国国家药品监督管理局（NMPA）已受理其LET003的新药临床试验（IND）申请，用于治疗超重或肥胖症。LET003是和铂医药首款利用Hu-mAtrIx™ AI平台开发的新一代靶向ACVR2A/2B单克隆抗体。",
+   "category": "china",
+   "lang": "zh",
+   "publishedAt": "2026-11-19T00:10:05.000Z",
+   "heat": 57,
+   "factors": {
+    "recency": 99,
+    "authority": 70,
+    "coverage": 0,
+    "signal": 22
+   },
+   "sources": [
+    {
+     "id": "jiemian",
+     "name": "界面新闻",
+     "url": "https://www.jiemian.com/article/15348636.html"
+    }
+   ],
+   "keywords": [
+    "let003",
+    "ind",
+    "和铂",
+    "铂医",
+    "医药",
+    "用于",
+    "于治",
+    "治疗"
+   ]
+  },
+  {
+   "id": "t12",
+   "rank": 12,
+   "title": "词元作为数字商品进入大众消费 专家建议：统一计量口径守护AI消费权益",
+   "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734457.shtml",
+   "summary": "今年“双十一”，Token首次以独立品类摆上电商货架，“囤Token”成为热词。",
+   "category": "china",
+   "lang": "zh",
+   "publishedAt": "2026-11-19T00:05:42.000Z",
+   "heat": 57,
+   "factors": {
+    "recency": 98,
+    "authority": 80,
+    "coverage": 0,
+    "signal": 10
+   },
+   "sources": [
+    {
+     "id": "chinanews",
+     "name": "中国新闻网",
+     "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734457.shtml"
+    }
+   ],
+   "keywords": [
+    "词元",
+    "元作",
+    "作为",
+    "为数",
+    "数字",
+    "字商",
+    "商品",
+    "品进"
+   ]
+  },
+  {
+   "id": "t13",
+   "rank": 13,
+   "title": "民宿烤全羊被指分量不足 四川平武市场监管部门立案调查",
+   "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734454.shtml",
+   "summary": "中新网11月19日电 据“平武发布”微信公众号消息，四川省绵阳市平武县市场监督管理局18日发布情况通报，2026年11月17日，有网友反映平武县某民宿提供的烤全羊分量不足，引发网民关注。对此，平武县市场监督管理局高度重视，成立工作组第一时间开展核查处置。现将有关情况通报如下。",
+   "category": "china",
+   "lang": "zh",
+   "publishedAt": "2026-11-19T00:02:24.000Z",
+   "heat": 57,
+   "factors": {
+    "recency": 98,
+    "authority": 80,
+    "coverage": 0,
+    "signal": 10
+   },
+   "sources": [
+    {
+     "id": "chinanews",
+     "name": "中国新闻网",
+     "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734454.shtml"
+    }
+   ],
+   "keywords": [
+    "民宿",
+    "宿烤",
+    "烤全",
+    "全羊",
+    "羊被",
+    "被指",
+    "指分",
+    "分量"
+   ]
+  },
+  {
+   "id": "t14",
+   "rank": 14,
+   "title": "日经225指数开盘涨0.05%",
+   "url": "https://www.jiemian.com/article/15348619.html",
+   "summary": "",
+   "category": "china",
+   "lang": "zh",
+   "publishedAt": "2026-11-19T00:01:57.000Z",
+   "heat": 57,
+   "factors": {
+    "recency": 97,
+    "authority": 70,
+    "coverage": 0,
+    "signal": 22
+   },
+   "sources": [
+    {
+     "id": "jiemian",
+     "name": "界面新闻",
+     "url": "https://www.jiemian.com/article/15348619.html"
+    }
+   ],
+   "keywords": [
+    "225",
+    "0.05",
+    "日经",
+    "指数",
+    "数开",
+    "开盘",
+    "盘涨"
+   ]
+  },
+  {
+   "id": "t15",
+   "rank": 15,
+   "title": "IPO雷达｜胜华波募资额涨 188%背后，研发与治理多重隐忧待解",
+   "url": "https://www.jiemian.com/article/15348143.html",
+   "summary": "公司关联交易金额连续三年上升。",
+   "category": "china",
+   "lang": "zh",
+   "publishedAt": "2026-11-19T00:00:00.000Z",
+   "heat": 57,
+   "factors": {
+    "recency": 97,
+    "authority": 70,
+    "coverage": 0,
+    "signal": 22
+   },
+   "sources": [
+    {
+     "id": "jiemian",
+     "name": "界面新闻",
+     "url": "https://www.jiemian.com/article/15348143.html"
+    }
+   ],
+   "keywords": [
+    "ipo",
+    "188",
+    "雷达",
+    "胜华",
+    "华波",
+    "波募",
+    "募资",
+    "资额"
+   ]
+  },
+  {
+   "id": "t16",
+   "rank": 16,
+   "title": "雪假来了：特色假期如何“放”到心坎里",
+   "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734450.shtml",
+   "summary": "秋假还没结束，雪假也来了。11月18日，河北省张家口市中小学迎来了首个雪假，不同学段错峰放假。此外，吉林省、内蒙古呼伦贝尔、新疆阿勒泰也陆续公布2026年雪假安排。",
+   "category": "china",
+   "lang": "zh",
+   "publishedAt": "2026-11-18T23:41:13.000Z",
+   "heat": 57,
+   "factors": {
+    "recency": 94,
+    "authority": 80,
+    "coverage": 0,
+    "signal": 18
+   },
+   "sources": [
+    {
+     "id": "chinanews",
+     "name": "中国新闻网",
+     "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734450.shtml"
+    }
+   ],
+   "keywords": [
+    "雪假",
+    "假来",
+    "来了",
+    "特色",
+    "色假",
+    "假期",
+    "期如",
+    "如何"
+   ]
+  },
+  {
+   "id": "t17",
+   "rank": 17,
+   "title": "APEC新机遇，年轻人如何“接接接”？",
+   "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734448.shtml",
+   "summary": "APEC新机遇，年轻人如何“接接接”？(财米油盐)",
+   "category": "china",
+   "lang": "zh",
+   "publishedAt": "2026-11-18T23:35:18.000Z",
+   "heat": 57,
+   "factors": {
+    "recency": 92,
+    "authority": 80,
+    "coverage": 0,
+    "signal": 22
+   },
+   "sources": [
+    {
+     "id": "chinanews",
+     "name": "中国新闻网",
+     "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734448.shtml"
+    }
+   ],
+   "keywords": [
+    "apec",
+    "新机",
+    "机遇",
+    "年轻",
+    "轻人",
+    "人如",
+    "如何",
+    "接接"
+   ]
+  },
+  {
+   "id": "t18",
+   "rank": 18,
+   "title": "南非10月通胀率升至5.2% 创近两年半新高",
+   "url": "https://www.chinanews.com.cn/gj/2026/11-19/10734444.shtml",
+   "summary": "中新社约翰内斯堡11月18日电 (记者 孙翔)南非统计局18日公布的数据显示，南非10月消费者价格指数(CPI)同比上涨5.2%，高于9月的4.5%，创2024年5月以来最高水平，符合市场预期。",
+   "category": "china",
+   "lang": "zh",
+   "publishedAt": "2026-11-18T23:27:54.000Z",
+   "heat": 57,
+   "factors": {
+    "recency": 91,
+    "authority": 80,
+    "coverage": 0,
+    "signal": 22
+   },
+   "sources": [
+    {
+     "id": "chinanews",
+     "name": "中国新闻网",
+     "url": "https://www.chinanews.com.cn/gj/2026/11-19/10734444.shtml"
+    }
+   ],
+   "keywords": [
+    "5.2",
+    "南非",
+    "月通",
+    "通胀",
+    "胀率",
+    "率升",
+    "升至",
+    "创近"
+   ]
+  },
+  {
+   "id": "t19",
+   "rank": 19,
+   "title": "OpenAI 发布芯片设计最新成果：AMD 旗舰 GPU PPA 最高提升 14%，自研芯片 Jalapeño 面积最高减少 13%",
+   "url": "https://www.ithome.com/1/029/135.htm",
+   "summary": "IT之家 11 月 19 日消息，OpenAI 于当地时间 11 月 18 日发布最新技术报告《Advancing chip design with OpenAI models》，披露了利用 AI 模型辅助芯片设计的最新进展。 据介绍，OpenAI 已将相关技术应用于自研推理芯片 Jalapeño，以及 AMD 下一代 GPU 和 CPU 的设计优化，并通过…",
+   "category": "tech",
+   "lang": "zh",
+   "publishedAt": "2026-11-18T23:07:38.000Z",
+   "heat": 57,
+   "factors": {
+    "recency": 92,
+    "authority": 75,
+    "coverage": 0,
+    "signal": 26
+   },
+   "sources": [
+    {
+     "id": "ithome",
+     "name": "IT之家",
+     "url": "https://www.ithome.com/1/029/135.htm"
+    }
+   ],
+   "keywords": [
+    "openai",
+    "amd",
+    "gpu",
+    "ppa",
+    "jalape",
+    "发布",
+    "布芯",
+    "芯片"
+   ]
+  },
+  {
+   "id": "t20",
+   "rank": 20,
+   "title": "月内652家私募机构调研A股公司，五大行业热度较高",
+   "url": "https://www.jiemian.com/article/15348595.html",
+   "summary": "",
+   "category": "china",
+   "lang": "zh",
+   "publishedAt": "2026-11-18T23:49:33.000Z",
+   "heat": 56,
+   "factors": {
+    "recency": 95,
+    "authority": 70,
+    "coverage": 0,
+    "signal": 22
+   },
+   "sources": [
+    {
+     "id": "jiemian",
+     "name": "界面新闻",
+     "url": "https://www.jiemian.com/article/15348595.html"
+    }
+   ],
+   "keywords": [
+    "652",
+    "月内",
+    "家私",
+    "私募",
+    "募机",
+    "机构",
+    "构调",
+    "调研"
+   ]
+  },
+  {
+   "id": "t21",
+   "rank": 21,
+   "title": "我国成功发射实践二十四号卫星，长征系列运载火箭第 678 次飞行",
+   "url": "https://www.ithome.com/1/029/138.htm",
+   "summary": "IT之家 11 月 19 日消息，据央视新闻报道，北京时间 2026 年 11 月 19 日 6 时 51 分，我国在太原卫星发射中心使用长征二号丁运载火箭，成功将实践二十四号卫星发射升空，卫星顺利进入预定轨道，发射任务取得圆满成功。 此次任务是长征系列运载火箭的第 678 次飞行。 延伸阅读 实践二十四号卫星属于我国的实践系列卫星。该系列卫星主要用于科学探…",
+   "category": "tech",
+   "lang": "zh",
+   "publishedAt": "2026-11-18T23:15:54.000Z",
+   "heat": 56,
+   "factors": {
+    "recency": 93,
+    "authority": 75,
+    "coverage": 0,
+    "signal": 22
+   },
+   "sources": [
+    {
+     "id": "ithome",
+     "name": "IT之家",
+     "url": "https://www.ithome.com/1/029/138.htm"
+    }
+   ],
+   "keywords": [
+    "678",
+    "我国",
+    "国成",
+    "成功",
+    "功发",
+    "发射",
+    "射实",
+    "实践"
+   ]
+  },
+  {
+   "id": "t22",
+   "rank": 22,
+   "title": "2GB 内存的手机也能流畅用 AI，谷歌降低安卓 Gemini App 使用门槛",
+   "url": "https://www.ithome.com/1/029/141.htm",
+   "summary": "IT之家 11 月 19 日消息，谷歌昨日（11 月 18 日）发布博文，宣布面向 Android Go 设备开放 Gemini 应用，让内存较小的安卓手机（英文原文中并未提及具体内存容量）也能使用其个人 AI 助手。 谷歌表示通过重新设计应用架构，可以在内存较小的手机上流畅运行 Gemini 的核心体验，从而扩大其个人 AI 助手的用户群体，潜在覆盖人群达…",
+   "category": "tech",
+   "lang": "zh",
+   "publishedAt": "2026-11-18T23:32:27.000Z",
+   "heat": 55,
+   "factors": {
+    "recency": 95,
+    "authority": 75,
+    "coverage": 0,
+    "signal": 12
+   },
+   "sources": [
+    {
+     "id": "ithome",
+     "name": "IT之家",
+     "url": "https://www.ithome.com/1/029/141.htm"
+    }
+   ],
+   "keywords": [
+    "2gb",
+    "gemini",
+    "app",
+    "内存",
+    "存的",
+    "的手",
+    "手机",
+    "机也"
+   ]
+  },
+  {
+   "id": "t23",
+   "rank": 23,
+   "title": "英伟达员工大会宣布告别“黄仁勋时代”：12 月员工加薪，启动新 CEO 遴选",
+   "url": "https://www.ithome.com/1/029/134.htm",
+   "summary": "IT之家 11 月 19 日消息，CNBC 最新报道称美国当地时间 11 月 18 日星期三，英伟达召开了创始人黄仁勋辞职后的首次全体员工大会。临时首席执行官科莱特 · 克雷斯向员工表示“[告别黄仁勋时代]，让我们继续前进”，并提及加薪。 IT之家附上相关截图如下： 这场会议持续约一小时，采取现场会议与线上直播相结合的方式，多名核心高管出席。克雷斯还回顾了公…",
+   "category": "tech",
+   "lang": "zh",
+   "publishedAt": "2026-11-18T23:01:26.000Z",
+   "heat": 55,
+   "factors": {
+    "recency": 91,
+    "authority": 75,
+    "coverage": 0,
+    "signal": 20
+   },
+   "sources": [
+    {
+     "id": "ithome",
+     "name": "IT之家",
+     "url": "https://www.ithome.com/1/029/134.htm"
+    }
+   ],
+   "keywords": [
+    "ceo",
+    "英伟",
+    "伟达",
+    "达员",
+    "员工",
+    "工大",
+    "大会",
+    "会宣"
+   ]
+  },
+  {
+   "id": "t24",
+   "rank": 24,
+   "title": "谷歌推出 Gemini 4 Neon 模型，AA 编程 AI 智能体指数超 Claude Opus 5.5 排第一",
+   "url": "https://www.ithome.com/1/029/144.htm",
+   "summary": "IT之家 11 月 19 日消息，谷歌今天（11 月 18 日）宣布推出 AI 模型 Gemini 4 Neon，主攻复杂编程、科学研究和企业工作流程，更好平衡推理能力、任务处理速度与成本，目前已开始向开发者、企业及部分付费订阅用户开放。 费用方面，Gemini 4 Neon 在 API 调用方面，每 100 万词元输入费用为 3 美元（IT之家注：现汇率约…",
+   "category": "tech",
+   "lang": "zh",
+   "publishedAt": "2026-11-18T23:53:51.000Z",
+   "heat": 53,
+   "factors": {
+    "recency": 97,
+    "authority": 75,
+    "coverage": 0,
+    "signal": 0
+   },
+   "sources": [
+    {
+     "id": "ithome",
+     "name": "IT之家",
+     "url": "https://www.ithome.com/1/029/144.htm"
+    }
+   ],
+   "keywords": [
+    "gemini",
+    "neon",
+    "claude",
+    "opus",
+    "5.5",
+    "谷歌",
+    "歌推",
+    "推出"
+   ]
+  },
+  {
+   "id": "t25",
+   "rank": 25,
+   "title": "谷歌推出 Stitch Loop：定位永远不下班的“产品进化器”，替你盯着产品改 Bug",
+   "url": "https://www.ithome.com/1/029/137.htm",
+   "summary": "IT之家 11 月 19 日消息，谷歌旗下 Google Labs 昨日（11 月 18 日）推出实验性产品智能体 Stitch Loop，可连接代码库与线上实时数据，在软件发布后持续发现问题、提出改进方案并编写代码。 与完成单次任务便结束的工具不同，该智能体围绕团队设定的目标全天候运行，目标达成后仍会监测，防止相关指标再次下滑。IT之家附上相关演示视频如下…",
+   "category": "tech",
+   "lang": "zh",
+   "publishedAt": "2026-11-18T23:15:18.000Z",
+   "heat": 53,
+   "factors": {
+    "recency": 92,
+    "authority": 75,
+    "coverage": 0,
+    "signal": 8
+   },
+   "sources": [
+    {
+     "id": "ithome",
+     "name": "IT之家",
+     "url": "https://www.ithome.com/1/029/137.htm"
+    }
+   ],
+   "keywords": [
+    "stitch",
+    "loop",
+    "bug",
+    "谷歌",
+    "歌推",
+    "推出",
+    "定位",
+    "位永"
+   ]
+  },
+  {
+   "id": "t26",
+   "rank": 26,
+   "title": "字节跳动被曝与微软洽谈 5 亿美元 Azure 合同，惹 OpenAI 强烈不满",
+   "url": "https://www.ithome.com/1/029/133.htm",
+   "summary": "IT之家 11 月 19 日消息，据《The Information》今日报道，字节跳动正与微软进行深入谈判，计划额外采购约 5 亿美元（IT之家注：现汇率约合 33.4 亿元人民币）的 Azure 云服务，其中大部分支出将用于调用 OpenAI 的 AI 模型。知情人士称，这笔潜在交易引发了 OpenAI 对微软的不满。 此次谈判将进一步扩大字节跳动与微软…",
+   "category": "tech",
+   "lang": "zh",
+   "publishedAt": "2026-11-18T22:47:05.000Z",
+   "heat": 53,
+   "factors": {
+    "recency": 89,
+    "authority": 75,
+    "coverage": 0,
+    "signal": 12
+   },
+   "sources": [
+    {
+     "id": "ithome",
+     "name": "IT之家",
+     "url": "https://www.ithome.com/1/029/133.htm"
+    }
+   ],
+   "keywords": [
+    "azure",
+    "openai",
+    "字节",
+    "节跳",
+    "跳动",
+    "动被",
+    "被曝",
+    "曝与"
+   ]
+  },
+  {
+   "id": "t27",
+   "rank": 27,
+   "title": "史诗级进化！谷歌 Genie 4 世界模型开放体验：支持边玩边改天气、召唤角色，所见皆可互动",
+   "url": "https://www.ithome.com/1/029/129.htm",
+   "summary": "IT之家 11 月 19 日消息，今年早些时候，谷歌推出了实验性研究原型 Project Genie，可让用户生成并探索交互式虚拟世界。早期测试用户反馈，希望能对世界内发生的内容有更强控制力，同时拥有更便捷的建造、分享方式。 如今，谷歌面向符合资格的 Google AI Ultra 订阅用户推出全新 Project Genie 体验，让这些虚拟世界的响应速度…",
+   "category": "tech",
+   "lang": "zh",
+   "publishedAt": "2026-11-18T22:39:07.000Z",
+   "heat": 53,
+   "factors": {
+    "recency": 88,
+    "authority": 75,
+    "coverage": 0,
+    "signal": 16
+   },
+   "sources": [
+    {
+     "id": "ithome",
+     "name": "IT之家",
+     "url": "https://www.ithome.com/1/029/129.htm"
+    }
+   ],
+   "keywords": [
+    "genie",
+    "史诗",
+    "诗级",
+    "级进",
+    "进化",
+    "谷歌",
+    "世界",
+    "界模"
+   ]
+  },
+  {
+   "id": "t28",
+   "rank": 28,
+   "title": "Ted Cruz-led committee approves Trump FCC nominee 15-0 as Democrats boycott vote",
+   "url": "https://arstechnica.com/tech-policy/2026/11/ted-cruz-led-committee-approves-trump-fcc-nominee-15-0-as-democrats-boycott-vote/",
+   "summary": "Democrats try to prevent quorum, say Thumann lied about not working on media issues.",
+   "category": "tech",
+   "lang": "en",
+   "publishedAt": "2026-11-18T23:25:04.000Z",
+   "heat": 52,
+   "factors": {
+    "recency": 94,
+    "authority": 75,
+    "coverage": 0,
+    "signal": 0
+   },
+   "sources": [
+    {
+     "id": "arstechnica",
+     "name": "Ars Technica",
+     "url": "https://arstechnica.com/tech-policy/2026/11/ted-cruz-led-committee-approves-trump-fcc-nominee-15-0-as-democrats-boycott-vote/"
+    }
+   ],
+   "keywords": [
+    "ted",
+    "cruz-led",
+    "committee",
+    "approves",
+    "trump",
+    "fcc",
+    "nominee",
+    "15-0"
+   ]
+  },
+  {
+   "id": "t29",
+   "rank": 29,
+   "title": "AMD 发布 26.17 Linux 版 Radeon 软件升级：新增支持高带宽 HDMI 等",
+   "url": "https://www.ithome.com/1/029/130.htm",
+   "summary": "IT之家 11 月 19 日消息，AMD 发布了 Radeon Software for Linux 26.17 显卡驱动，这是 AMD 面向 Linux 平台的统一显卡驱动软件包，支持多款 Radeon 系列产品。 IT之家附官方公告链接（https://www.amd.com/en/resources/support-articles/release-n…",
+   "category": "tech",
+   "lang": "zh",
+   "publishedAt": "2026-11-18T21:00:30.000Z",
+   "heat": 52,
+   "factors": {
+    "recency": 78,
+    "authority": 75,
+    "coverage": 0,
+    "signal": 26
+   },
+   "sources": [
+    {
+     "id": "ithome",
+     "name": "IT之家",
+     "url": "https://www.ithome.com/1/029/130.htm"
+    }
+   ],
+   "keywords": [
+    "amd",
+    "26.17",
+    "linux",
+    "radeon",
+    "hdmi",
+    "发布",
+    "软件",
+    "件升"
+   ]
+  },
+  {
+   "id": "t30",
+   "rank": 30,
+   "title": "PSN Went Down Sorta On GTA 6 Eve",
+   "url": "https://www.gamespot.com/articles/psn-went-down-sorta-on-gta-6-eve/",
+   "summary": "On the eve of GTA 6's official launch on November 19, Sony's PlayStation Network appears to be facing some issues, at least for some people, at some point, today. Reports have emer…",
+   "category": "game",
+   "lang": "en",
+   "publishedAt": "2026-11-18T20:55:37.000Z",
+   "heat": 52,
+   "factors": {
+    "recency": 80,
+    "authority": 75,
+    "coverage": 0,
+    "signal": 22
+   },
+   "sources": [
+    {
+     "id": "gamespot",
+     "name": "GameSpot",
+     "url": "https://www.gamespot.com/articles/psn-went-down-sorta-on-gta-6-eve/"
+    }
+   ],
+   "keywords": [
+    "psn",
+    "went",
+    "down",
+    "sorta",
+    "gta",
+    "eve"
+   ]
+  },
+  {
+   "id": "t31",
+   "rank": 31,
+   "title": "Nginx 曝出 NGINX2Root 漏洞链：攻击者无需认证即可远程执行命令，结合 Linux 内核漏洞可获取宿主机 root 权限",
+   "url": "https://www.ithome.com/1/029/139.htm",
+   "summary": "IT之家 11 月 19 日消息，安全研究团队 Xint Security Research 于当地时间 11 月 18 日公开披露了一串名为 NGINX2Root 的漏洞攻击链，涉及 5 个 Nginx 远程代码执行（RCE）漏洞，以及 1 个 Linux 内核 SCTP 子系统权限提升漏洞。 攻击者无需身份认证，即可利用特定配置下的 Nginx 漏洞执行…",
+   "category": "tech",
+   "lang": "zh",
+   "publishedAt": "2026-11-18T23:20:56.000Z",
+   "heat": 51,
+   "factors": {
+    "recency": 93,
+    "authority": 75,
+    "coverage": 0,
+    "signal": 0
+   },
+   "sources": [
+    {
+     "id": "ithome",
+     "name": "IT之家",
+     "url": "https://www.ithome.com/1/029/139.htm"
+    }
+   ],
+   "keywords": [
+    "nginx",
+    "nginx2root",
+    "linux",
+    "root",
+    "曝出",
+    "漏洞",
+    "洞链",
+    "攻击"
+   ]
+  },
+  {
+   "id": "t32",
+   "rank": 32,
+   "title": "24-month matured Comté crowned world’s best cheese",
+   "url": "https://www.france24.com/en/video/20261118-24-month-matured-comt%C3%A9-crowned-world-s-best-cheese",
+   "summary": "With its nutty flavour and smooth, supple texture, it was aged for two years in a former military fortress in eastern France. Comté, an unpasteurised cow’s milk cheese from the Jur…",
+   "category": "world",
+   "lang": "en",
+   "publishedAt": "2026-11-18T22:32:24.000Z",
+   "heat": 51,
+   "factors": {
+    "recency": 85,
+    "authority": 85,
+    "coverage": 0,
+    "signal": 0
+   },
+   "sources": [
+    {
+     "id": "france24",
+     "name": "France 24",
+     "url": "https://www.france24.com/en/video/20261118-24-month-matured-comt%C3%A9-crowned-world-s-best-cheese"
+    }
+   ],
+   "keywords": [
+    "24-month",
+    "matured",
+    "comt",
+    "crowned",
+    "world",
+    "best",
+    "cheese"
+   ]
+  },
+  {
+   "id": "t33",
+   "rank": 33,
+   "title": "Inside Limoges City Hall devastated by arson attack",
+   "url": "https://www.france24.com/en/tv-shows/business/20261118-inside-limoges-city-hall-devastated-by-arson-attack",
+   "summary": "Work is underway to restore the city hall of Limoges, in central France, which was devastated by an arson attack during riots on October 17. More than €1.7 million has been raised…",
+   "category": "world",
+   "lang": "en",
+   "publishedAt": "2026-11-18T22:23:48.000Z",
+   "heat": 51,
+   "factors": {
+    "recency": 84,
+    "authority": 85,
+    "coverage": 0,
+    "signal": 0
+   },
+   "sources": [
+    {
+     "id": "france24",
+     "name": "France 24",
+     "url": "https://www.france24.com/en/tv-shows/business/20261118-inside-limoges-city-hall-devastated-by-arson-attack"
+    }
+   ],
+   "keywords": [
+    "inside",
+    "limoges",
+    "city",
+    "hall",
+    "devastated",
+    "arson",
+    "attack"
+   ]
+  },
+  {
+   "id": "t34",
+   "rank": 34,
+   "title": "Anthropic prices blockbuster IPO at $83 a share, source says",
+   "url": "https://www.koreatimes.co.kr/world/20261119/anthropic-prices-blockbuster-ipo-at-83-a-share-source-says?utm_source=rss",
+   "summary": "Anthropic priced its initial public offering at $83 a share, above its targeted range of $70 to $78 per share on Wednesday, in one of the largest stock-market IPOs on record and th…",
+   "category": "world",
+   "lang": "en",
+   "publishedAt": "2026-11-19T00:12:03.000Z",
+   "heat": 50,
+   "factors": {
+    "recency": 100,
+    "authority": 60,
+    "coverage": 0,
+    "signal": 0
+   },
+   "sources": [
+    {
+     "id": "koreatimes",
+     "name": "Korea Times",
+     "url": "https://www.koreatimes.co.kr/world/20261119/anthropic-prices-blockbuster-ipo-at-83-a-share-source-says?utm_source=rss"
+    }
+   ],
+   "keywords": [
+    "anthropic",
+    "prices",
+    "blockbuster",
+    "ipo",
+    "share",
+    "source",
+    "says"
+   ]
+  },
+  {
+   "id": "t35",
+   "rank": 35,
+   "title": "Hegseth announces new US-Venezuela military partnership agreement",
+   "url": "https://www.koreatimes.co.kr/world/20261119/hegseth-announces-new-us-venezuela-military-partnership-agreement?utm_source=rss",
+   "summary": "CARACAS — U.S. Defense Secretary Pete Hegseth announced a new agreement on military cooperation with Venezuela on Wednesday as he made his first visit to the country since the U.S.…",
+   "category": "world",
+   "lang": "en",
+   "publishedAt": "2026-11-19T00:12:03.000Z",
+   "heat": 50,
+   "factors": {
+    "recency": 100,
+    "authority": 60,
+    "coverage": 0,
+    "signal": 0
+   },
+   "sources": [
+    {
+     "id": "koreatimes",
+     "name": "Korea Times",
+     "url": "https://www.koreatimes.co.kr/world/20261119/hegseth-announces-new-us-venezuela-military-partnership-agreement?utm_source=rss"
+    }
+   ],
+   "keywords": [
+    "hegseth",
+    "announces",
+    "new",
+    "us-venezuela",
+    "military",
+    "partnership",
+    "agreement"
+   ]
+  },
+  {
+   "id": "t36",
+   "rank": 36,
+   "title": "Iran widens Gulf attacks by targeting a US air base in Kuwait and sites in Bahrain",
+   "url": "https://www.koreatimes.co.kr/world/20261119/iran-widens-gulf-attacks-by-targeting-a-us-air-base-in-kuwait-and-sites-in-bahrain?utm_source=rss",
+   "summary": "CAIRO — Iran widened its attacks on its Gulf neighbors on Wednesday, targeting a U.S. air base in Kuwait and launching several attacks on Bahrain in what appeared to be retaliation…",
+   "category": "world",
+   "lang": "en",
+   "publishedAt": "2026-11-19T00:12:03.000Z",
+   "heat": 50,
+   "factors": {
+    "recency": 100,
+    "authority": 60,
+    "coverage": 0,
+    "signal": 0
+   },
+   "sources": [
+    {
+     "id": "koreatimes",
+     "name": "Korea Times",
+     "url": "https://www.koreatimes.co.kr/world/20261119/iran-widens-gulf-attacks-by-targeting-a-us-air-base-in-kuwait-and-sites-in-bahrain?utm_source=rss"
+    }
+   ],
+   "keywords": [
+    "iran",
+    "widens",
+    "gulf",
+    "attacks",
+    "targeting",
+    "air",
+    "base",
+    "kuwait"
+   ]
+  },
+  {
+   "id": "t37",
+   "rank": 37,
+   "title": "'Almost all' Fed policymakers saw further interest rate hikes as likely",
+   "url": "https://www.koreatimes.co.kr/world/20261119/almost-all-fed-policymakers-saw-further-interest-rate-hikes-as-likely?utm_source=rss",
+   "summary": "WASHINGTON — \"Almost all\" participants of the U.S. Federal Reserve's interest rate-setting meeting in October thought that further rate hikes would be necessary to fight stubbornly…",
+   "category": "world",
+   "lang": "en",
+   "publishedAt": "2026-11-19T00:12:03.000Z",
+   "heat": 50,
+   "factors": {
+    "recency": 100,
+    "authority": 60,
+    "coverage": 0,
+    "signal": 0
+   },
+   "sources": [
+    {
+     "id": "koreatimes",
+     "name": "Korea Times",
+     "url": "https://www.koreatimes.co.kr/world/20261119/almost-all-fed-policymakers-saw-further-interest-rate-hikes-as-likely?utm_source=rss"
+    }
+   ],
+   "keywords": [
+    "almost",
+    "all'",
+    "fed",
+    "policymakers",
+    "saw",
+    "further",
+    "interest",
+    "rate"
+   ]
+  },
+  {
+   "id": "t38",
+   "rank": 38,
+   "title": "Democrats probe whether Lutnick helped Cantor Fitzgerald avoid Nvidia-linked losses",
+   "url": "https://www.koreatimes.co.kr/world/20261119/democrats-probe-whether-lutnick-helped-cantor-fitzgerald-avoid-nvidia-linked-losses?utm_source=rss",
+   "summary": "WASHINGTON — Democratic lawmakers have opened a probe into whether U.S. Commerce Secretary Howard Lutnick used his office to help investment firm Cantor Fitzgerald, which is contro…",
+   "category": "world",
+   "lang": "en",
+   "publishedAt": "2026-11-19T00:12:03.000Z",
+   "heat": 50,
+   "factors": {
+    "recency": 100,
+    "authority": 60,
+    "coverage": 0,
+    "signal": 0
+   },
+   "sources": [
+    {
+     "id": "koreatimes",
+     "name": "Korea Times",
+     "url": "https://www.koreatimes.co.kr/world/20261119/democrats-probe-whether-lutnick-helped-cantor-fitzgerald-avoid-nvidia-linked-losses?utm_source=rss"
+    }
+   ],
+   "keywords": [
+    "democrats",
+    "probe",
+    "whether",
+    "lutnick",
+    "helped",
+    "cantor",
+    "fitzgerald",
+    "avoid"
+   ]
+  },
+  {
+   "id": "t39",
+   "rank": 39,
+   "title": "Korea's college entrance exam captures global interest again, this time over AI cheating crackdown",
+   "url": "https://www.koreatimes.co.kr/world/20261119/koreas-college-entrance-exam-captures-global-interest-again-this-time-over-ai-cheating-crackdown?utm_source=rss",
+   "summary": "SEATTLE — South Korea's notoriously competitive college entrance exam has long fascinated international audiences for its grueling questions and the extraordinary measures the coun…",
+   "category": "world",
+   "lang": "en",
+   "publishedAt": "2026-11-19T00:12:03.000Z",
+   "heat": 50,
+   "factors": {
+    "recency": 100,
+    "authority": 60,
+    "coverage": 0,
+    "signal": 0
+   },
+   "sources": [
+    {
+     "id": "koreatimes",
+     "name": "Korea Times",
+     "url": "https://www.koreatimes.co.kr/world/20261119/koreas-college-entrance-exam-captures-global-interest-again-this-time-over-ai-cheating-crackdown?utm_source=rss"
+    }
+   ],
+   "keywords": [
+    "korea's",
+    "college",
+    "entrance",
+    "exam",
+    "captures",
+    "global",
+    "interest",
+    "again"
+   ]
+  },
+  {
+   "id": "t40",
+   "rank": 40,
+   "title": "Americans will pay more for Thanksgiving dinners this year, Farm Bureau says",
+   "url": "https://www.koreatimes.co.kr/world/20261119/americans-will-pay-more-for-thanksgiving-dinners-this-year-farm-bureau-says?utm_source=rss",
+   "summary": "Record turkey prices and higher fuel costs could make Thanksgiving dinner more expensive this year, according to a survey released Wednesday. The American Farm Bureau Federation sa…",
+   "category": "world",
+   "lang": "en",
+   "publishedAt": "2026-11-19T00:12:03.000Z",
+   "heat": 50,
+   "factors": {
+    "recency": 100,
+    "authority": 60,
+    "coverage": 0,
+    "signal": 0
+   },
+   "sources": [
+    {
+     "id": "koreatimes",
+     "name": "Korea Times",
+     "url": "https://www.koreatimes.co.kr/world/20261119/americans-will-pay-more-for-thanksgiving-dinners-this-year-farm-bureau-says?utm_source=rss"
+    }
+   ],
+   "keywords": [
+    "americans",
+    "will",
+    "pay",
+    "more",
+    "for",
+    "thanksgiving",
+    "dinners",
+    "this"
+   ]
+  }
+ ]
+}
