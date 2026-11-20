@@ -1,10 +1,10 @@
 {
  "date": "2026-11-20",
- "generatedAt": "2026-11-20T03:00:03+00:00",
+ "generatedAt": "2026-11-20T12:44:16+00:00",
  "stats": {
   "total": 60,
   "sources": 16,
-  "sourcesOk": 13,
+  "sourcesOk": 14,
   "categories": {
    "china": 15,
    "world": 15,
@@ -17,659 +17,156 @@
   {
    "id": "t1",
    "rank": 1,
-   "title": "蔚来萤火虫「片刻流金」特别版发售：首次推出天幕拉花，13.58 万元起限量 333 台",
-   "url": "https://www.ithome.com/1/029/804.htm",
-   "summary": "IT之家 11 月 20 日消息，蔚来旗下萤火虫车型今日推出「片刻流金」特别版，限量 333 台，售价 13.58 万元起。选择 BaaS 电池租用服务，售价 9.58 万元，月租 399 元起。 专属配置： 「片刻流金」专属外观 「片刻流金」特别版专属拉花 「秋光叶影」天幕 光轨多辐合金轮圈 「流金时刻」主题内饰 「暖秋杏语」内饰双绣 「自然肌理」头枕压印…",
-   "category": "tech",
+   "title": "全国科技名词委发布科技名词近6万条 “时空智能学”“稳态医学”亮相",
+   "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735487.shtml",
+   "summary": "中新网北京11月20日电 (记者 孙自法)全国科学技术名词审定委员会(全国科技名词委)2026年度工作会议暨学术年会11月20日至21日在北京举行。会上集中发布28部学科名词审定公布成果，累计收录规范科技名词近6万条。",
+   "category": "china",
    "lang": "zh",
-   "publishedAt": "2026-11-20T02:24:59.000Z",
-   "heat": 68,
+   "publishedAt": "2026-11-20T12:20:00.000Z",
+   "heat": 66,
    "factors": {
-    "recency": 96,
-    "authority": 75,
+    "recency": 95,
+    "authority": 80,
     "coverage": 0,
-    "signal": 72
+    "signal": 56
    },
    "sources": [
     {
-     "id": "ithome",
-     "name": "IT之家",
-     "url": "https://www.ithome.com/1/029/804.htm"
+     "id": "chinanews",
+     "name": "中国新闻网",
+     "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735487.shtml"
     }
    ],
    "keywords": [
-    "13.58",
-    "333",
-    "蔚来",
-    "来萤",
-    "萤火",
-    "火虫",
-    "片刻",
-    "刻流"
+    "全国",
+    "国科",
+    "科技",
+    "技名",
+    "名词",
+    "词委",
+    "委发",
+    "发布"
    ]
   },
   {
    "id": "t2",
    "rank": 2,
-   "title": "《铁匠大师》1.0正式版发售宣传视频",
-   "url": "https://www.ign.com.cn/blacksmith-master/64174/tie-jiang-da-shi-10zheng-shi-ban-fa-shou-xuan-chuan-shi-pin",
-   "summary": "所有环节都由你一手包办 在《铁匠大师（Blacksmith Master）》中，你可以经营专属于你的中世纪铁匠铺，从开采矿石和宝石，到设计和贩卖成品，所有环节都由你一手包办。锻造武器、盔甲、工具和厨具等各种物品，赚取资金，精进手艺，成为真正的铁匠大师！《铁匠大师》1.0正式版现已登陆PC平台。",
-   "category": "game",
+   "title": "长三角上市企业ESG披露报告发布 首考合规率达100%",
+   "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735505.shtml",
+   "summary": "中新网杭州11月20日电(曹丹)11月20日，新质时代ESG实践与传播高峰对话在浙江杭州举行。其间，《长三角上市企业ESG信息披露研究报告》(以下简称《报告》)正式发布。",
+   "category": "china",
    "lang": "zh",
-   "publishedAt": "2026-11-20T02:42:04.000Z",
-   "heat": 66,
+   "publishedAt": "2026-11-20T12:22:18.000Z",
+   "heat": 64,
    "factors": {
-    "recency": 98,
-    "authority": 75,
+    "recency": 96,
+    "authority": 80,
     "coverage": 0,
-    "signal": 56
+    "signal": 48
    },
    "sources": [
     {
-     "id": "ign-cn",
-     "name": "IGN 中国",
-     "url": "https://www.ign.com.cn/blacksmith-master/64174/tie-jiang-da-shi-10zheng-shi-ban-fa-shou-xuan-chuan-shi-pin"
+     "id": "chinanews",
+     "name": "中国新闻网",
+     "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735505.shtml"
     }
    ],
    "keywords": [
-    "1.0",
-    "铁匠",
-    "匠大",
-    "大师",
-    "正式",
-    "式版",
-    "版发",
-    "发售"
+    "esg",
+    "100",
+    "长三",
+    "三角",
+    "角上",
+    "上市",
+    "市企",
+    "企业"
    ]
   },
   {
    "id": "t3",
    "rank": 3,
-   "title": "《山羊模拟器3》「眩晕世界门票」DLC发售宣传视频",
-   "url": "https://www.ign.com.cn/goat-simulator-3/64167/shan-yang-mo-ni-qi-3-xuan-yun-shi-jie-men-piao-dlcfa-shou-xuan-chuan-shi-pin",
-   "summary": "是时候好好犒劳自己了 欢迎来到眩晕世界，一座沉浸式山羊主题「咩咩」乐园。这里的惊险起伏，比你的情绪波动还要夸张！你是不是刚拯救完多元宇宙，又挺过了世界末日？是时候好好犒劳自己了！在游乐设施上感受山（羊）之力，把游客变成气球，使用眩晕代币换取奖励。这才叫度假嘛。现在抢票，尽情晕眩！眩晕世界，魔法偶尔在此降临。《山羊模拟器3》「眩晕世界门票」DLC现已发售。",
-   "category": "game",
+   "title": "广西柳州一饭店88元红烧“小鸡”竟是候鸟，官方通报：相关涉案人员、餐饮店被查处",
+   "url": "https://www.jiemian.com/article/15356929.html",
+   "summary": "11月20日，柳州市林业和园林局发布情况通报：2026年10月，接到关于我市融水、三江两县出现涉非法猎捕贩卖野生鸟类的举报线索后，柳州市林业和园林局会同公安机关，对涉事区域实行全域拉网清查，对相关违法犯罪行为实施严厉打击。截至目前，共立案33起，抓捕涉案人员35人，查获捕鸟网705张、诱鸟器等作案工具80件。相关媒体曝光的涉案人员、餐饮店均已被查处。",
+   "category": "china",
    "lang": "zh",
-   "publishedAt": "2026-11-20T02:41:41.000Z",
-   "heat": 66,
+   "publishedAt": "2026-11-20T12:38:00.000Z",
+   "heat": 63,
    "factors": {
-    "recency": 98,
-    "authority": 75,
+    "recency": 99,
+    "authority": 70,
     "coverage": 0,
-    "signal": 56
+    "signal": 46
    },
    "sources": [
     {
-     "id": "ign-cn",
-     "name": "IGN 中国",
-     "url": "https://www.ign.com.cn/goat-simulator-3/64167/shan-yang-mo-ni-qi-3-xuan-yun-shi-jie-men-piao-dlcfa-shou-xuan-chuan-shi-pin"
+     "id": "jiemian",
+     "name": "界面新闻",
+     "url": "https://www.jiemian.com/article/15356929.html"
     }
    ],
    "keywords": [
-    "dlc",
-    "山羊",
-    "羊模",
-    "模拟",
-    "拟器",
-    "眩晕",
-    "晕世",
-    "世界"
+    "广西",
+    "西柳",
+    "柳州",
+    "州一",
+    "一饭",
+    "饭店",
+    "元红",
+    "红烧"
    ]
   },
   {
    "id": "t4",
    "rank": 4,
-   "title": "英伟达回应数据泄露疑云：正调查第三方事件，未发现自身系统受影响",
-   "url": "https://www.ithome.com/1/029/801.htm",
-   "summary": "IT之家 11 月 20 日消息，科技媒体 BleepingComputer 昨日（11 月 19 日）发布博文，报道称英伟达回应勒索组织 Gentlemen 泄露威胁，表示正调查第三方事件，未发现自身系统受影响。 勒索软件组织 Gentlemen 在暗网挂出泄露威胁，声称已窃取了英伟达公司的相关数据，并设置了截至 11 月 28 日的倒计时。IT之家援引博…",
-   "category": "tech",
+   "title": "中华人民共和国和澳大利亚联邦关于气候变化与清洁能源转型的联合声明",
+   "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735482.shtml",
+   "summary": "新华社北京11月20日电",
+   "category": "china",
    "lang": "zh",
-   "publishedAt": "2026-11-20T02:18:57.000Z",
-   "heat": 66,
+   "publishedAt": "2026-11-20T11:47:12.000Z",
+   "heat": 63,
    "factors": {
-    "recency": 95,
+    "recency": 89,
     "authority": 75,
-    "coverage": 0,
-    "signal": 62
+    "coverage": 57,
+    "signal": 10
    },
    "sources": [
     {
-     "id": "ithome",
-     "name": "IT之家",
-     "url": "https://www.ithome.com/1/029/801.htm"
+     "id": "chinanews-china",
+     "name": "中新网·国内",
+     "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735482.shtml"
+    },
+    {
+     "id": "jiemian",
+     "name": "界面新闻",
+     "url": "https://www.jiemian.com/article/15356792.html"
     }
    ],
    "keywords": [
-    "英伟",
-    "伟达",
-    "达回",
-    "回应",
-    "应数",
-    "数据",
-    "据泄",
-    "泄露"
+    "中华",
+    "华人",
+    "人民",
+    "民共",
+    "共和",
+    "和国",
+    "国和",
+    "和澳"
    ]
   },
   {
    "id": "t5",
    "rank": 5,
-   "title": "行业首次：小鹏 2026 科技日将首发「图灵 AI 共驾」，把智能辅助驾驶能力赋能人驾",
-   "url": "https://www.ithome.com/1/029/785.htm",
-   "summary": "IT之家 11 月 20 日消息，小鹏汽车 2026 年小鹏科技日（AI DAY）已经官宣定档 11 月 25 日在广州举行，主题为“原点”（Origin）。 据小鹏介绍，本届科技日的核心发布之一，是“图灵 AI 共驾”的首次亮相。小鹏表示，这是行业首次将智能辅助驾驶能力延伸至人工驾驶场景。 其首个落地功能为“VLA 自适应减速”，该功能在驾驶员松开加速踏板…",
+   "title": "近 400 马力的纯电小钢炮：大众发布 ID. Polo GTI Clubsport 概念车",
+   "url": "https://www.ithome.com/1/030/235.htm",
+   "summary": "IT之家 11 月 20 日消息，2026 年是大众 GTI 诞生 50 周年。为了庆祝这一里程碑，大众不仅推出了 ID. Polo GTI 和 ID.3 Neo GTI 两款新车，还打破了本田思域 Type R 保持的纽博格林赛道前驱车圈速纪录，进一步证明 GTI 的性能实力。周年庆祝活动还没结束，大众又带来了首款纯电 GTI Clubsport。 新车名…",
    "category": "tech",
    "lang": "zh",
-   "publishedAt": "2026-11-20T01:20:34.000Z",
-   "heat": 66,
+   "publishedAt": "2026-11-20T12:36:00.000Z",
+   "heat": 62,
    "factors": {
-    "recency": 88,
-    "authority": 75,
-    "coverage": 0,
-    "signal": 72
-   },
-   "sources": [
-    {
-     "id": "ithome",
-     "name": "IT之家",
-     "url": "https://www.ithome.com/1/029/785.htm"
-    }
-   ],
-   "keywords": [
-    "2026",
-    "行业",
-    "业首",
-    "首次",
-    "小鹏",
-    "科技",
-    "技日",
-    "日将"
-   ]
-  },
-  {
-   "id": "t6",
-   "rank": 6,
-   "title": "“印章怎么盖在马赛克上？”厉娜晒流水遭质疑，银行客服回应、律师解读",
-   "url": "https://www.chinanews.com.cn/cul/2026/11-20/10735095.shtml",
-   "summary": "中新网北京11月20日电(记者 刘越)“你的银行流水印章怎么盖在马赛克上，厉娜？”",
-   "category": "china",
-   "lang": "zh",
-   "publishedAt": "2026-11-20T02:43:19.000Z",
-   "heat": 65,
-   "factors": {
-    "recency": 97,
-    "authority": 80,
-    "coverage": 0,
-    "signal": 48
-   },
-   "sources": [
-    {
-     "id": "chinanews",
-     "name": "中国新闻网",
-     "url": "https://www.chinanews.com.cn/cul/2026/11-20/10735095.shtml"
-    }
-   ],
-   "keywords": [
-    "印章",
-    "章怎",
-    "怎么",
-    "么盖",
-    "盖在",
-    "在马",
-    "马赛",
-    "赛克"
-   ]
-  },
-  {
-   "id": "t7",
-   "rank": 7,
-   "title": "《GTA6》的杰森与露西娅扮演者首次同框合影曝光",
-   "url": "https://www.ign.com.cn/grand-theft-auto-6/64173/gta6-de-jie-sen-yu-lu-xi-ya-ban-yan-zhe-shou-ci-tong-kuang-he-ying-pu-guang",
-   "summary": "出名了！",
-   "category": "game",
-   "lang": "zh",
-   "publishedAt": "2026-11-20T02:31:27.000Z",
-   "heat": 65,
-   "factors": {
-    "recency": 97,
-    "authority": 75,
-    "coverage": 0,
-    "signal": 56
-   },
-   "sources": [
-    {
-     "id": "ign-cn",
-     "name": "IGN 中国",
-     "url": "https://www.ign.com.cn/grand-theft-auto-6/64173/gta6-de-jie-sen-yu-lu-xi-ya-ban-yan-zhe-shou-ci-tong-kuang-he-ying-pu-guang"
-    }
-   ],
-   "keywords": [
-    "gta6",
-    "的杰",
-    "杰森",
-    "森与",
-    "与露",
-    "露西",
-    "西娅",
-    "娅扮"
-   ]
-  },
-  {
-   "id": "t8",
-   "rank": 8,
-   "title": "动画电影《冰川时代 6：火山大冒险》发布正式预告，2027 年全球献映",
-   "url": "https://www.ithome.com/1/029/803.htm",
-   "summary": "IT之家 11 月 20 日消息，“冰川时代”系列回归之作《冰川时代 6》今日发布正式预告。这次冰川动物们探索神秘的“失落世界”，遇上火山喷发。迪士尼电影官方表示，2027 年即将全球献映。 该片名为《冰川时代 6：火山大冒险》（暂译），将于 2027 年 2 月 5 日在北美上映，也是《冰川时代》系列在 2019 年迪士尼 / 福斯交易后首部院线长片、蓝天…",
-   "category": "tech",
-   "lang": "zh",
-   "publishedAt": "2026-11-20T02:21:19.000Z",
-   "heat": 65,
-   "factors": {
-    "recency": 95,
-    "authority": 75,
-    "coverage": 0,
-    "signal": 56
-   },
-   "sources": [
-    {
-     "id": "ithome",
-     "name": "IT之家",
-     "url": "https://www.ithome.com/1/029/803.htm"
-    }
-   ],
-   "keywords": [
-    "2027",
-    "动画",
-    "画电",
-    "电影",
-    "冰川",
-    "川时",
-    "时代",
-    "火山"
-   ]
-  },
-  {
-   "id": "t9",
-   "rank": 9,
-   "title": "育碧宣布新一轮裁员，将再裁撤166个职位",
-   "url": "https://www.ign.com.cn/ybentertainment/64178/yu-bi-xuan-bu-xin-yi-lun-cai-yuan-jiang-zai-cai-che-166ge-zhi-wei",
-   "summary": "影响了蒙特利尔和魁北克工作室",
-   "category": "game",
-   "lang": "zh",
-   "publishedAt": "2026-11-20T02:46:02.000Z",
-   "heat": 64,
-   "factors": {
-    "recency": 98,
-    "authority": 75,
-    "coverage": 0,
-    "signal": 48
-   },
-   "sources": [
-    {
-     "id": "ign-cn",
-     "name": "IGN 中国",
-     "url": "https://www.ign.com.cn/ybentertainment/64178/yu-bi-xuan-bu-xin-yi-lun-cai-yuan-jiang-zai-cai-che-166ge-zhi-wei"
-    }
-   ],
-   "keywords": [
-    "166",
-    "育碧",
-    "碧宣",
-    "宣布",
-    "布新",
-    "新一",
-    "一轮",
-    "轮裁"
-   ]
-  },
-  {
-   "id": "t10",
-   "rank": 10,
-   "title": "系列首次：《使命召唤：现代战争4》未进入美国年度销售榜前十",
-   "url": "https://www.gcores.com/articles/222570",
-   "summary": "根据市场研究机构 Circana 的最新数据，《使命召唤：现代战争4》拿下了10月美国游戏销量冠军，但却未能进入年度游戏销售榜前十。据悉，这是《使命召唤》系列首次在其发售月后未能进入年度最畅销游戏榜单。 分析师 Mat Piscatella 指出，《使命召唤：现代战争4》首发表现强劲且口碑整体正面，单人战役部分尤其受到认可。尽管如此，游戏却依然没能挤进年度总…",
-   "category": "game",
-   "lang": "zh",
-   "publishedAt": "2026-11-20T01:25:00.000Z",
-   "heat": 64,
-   "factors": {
-    "recency": 90,
-    "authority": 80,
-    "coverage": 0,
-    "signal": 56
-   },
-   "sources": [
-    {
-     "id": "gcores",
-     "name": "机核 GCORES",
-     "url": "https://www.gcores.com/articles/222570"
-    }
-   ],
-   "keywords": [
-    "系列",
-    "列首",
-    "首次",
-    "使命",
-    "命召",
-    "召唤",
-    "现代",
-    "代战"
-   ]
-  },
-  {
-   "id": "t11",
-   "rank": 11,
-   "title": "《Aeterna Lucis》发售日预告",
-   "url": "https://www.ign.com.cn/aeterna-lucis/64176/aeterna-lucis-fa-shou-ri-yu-gao",
-   "summary": "阻止至高神混沌 悬浮于云端的黄金之城、在夜晚苏醒的丛林、被遗忘的神殿、砂石交错的洞窟，以及沐浴在光芒中的深渊。一张巨大的互联地图，遍布秘密、替代路线和支线任务，邀你尽情迷失，再带着更强的力量归来。化身光之女王，探索手绘的广袤互联世界，唤醒全新力量，迎战史诗级Boss，阻止至高神混沌。《Aeterna Lucis》为《Aeterna Noctis》的续作，将于…",
-   "category": "game",
-   "lang": "zh",
-   "publishedAt": "2026-11-20T02:42:12.000Z",
-   "heat": 63,
-   "factors": {
-    "recency": 98,
-    "authority": 75,
-    "coverage": 0,
-    "signal": 44
-   },
-   "sources": [
-    {
-     "id": "ign-cn",
-     "name": "IGN 中国",
-     "url": "https://www.ign.com.cn/aeterna-lucis/64176/aeterna-lucis-fa-shou-ri-yu-gao"
-    }
-   ],
-   "keywords": [
-    "aeterna",
-    "lucis",
-    "发售",
-    "售日",
-    "日预",
-    "预告"
-   ]
-  },
-  {
-   "id": "t12",
-   "rank": 12,
-   "title": "《卧龙2：凤火连天》「诸葛亮」角色预告",
-   "url": "https://www.ign.com.cn/wo-long-2-wings-of-ember/64177/wo-long-2feng-huo-lian-tian-zhu-ge-liang-jiao-se-yu-gao",
-   "summary": "无止境的混沌之下 一位侠士横空出世 战火蔽日，凤舞长空。时值东汉末年，天下三分，英雄逐鹿。 兵连祸结，诸般信念激荡交锋；沙场喋血，异形妖魔横行肆虐——无止境的混沌之下，一位侠士横空出世。《卧龙2：凤火连天（Wo Long 2: Wings of Ember）》将于2027年3月4日登陆PS5、XBOX Series、Switch 2及PC平台，同步加入Gam…",
-   "category": "game",
-   "lang": "zh",
-   "publishedAt": "2026-11-20T02:42:17.000Z",
-   "heat": 60,
-   "factors": {
-    "recency": 98,
-    "authority": 75,
-    "coverage": 0,
-    "signal": 30
-   },
-   "sources": [
-    {
-     "id": "ign-cn",
-     "name": "IGN 中国",
-     "url": "https://www.ign.com.cn/wo-long-2-wings-of-ember/64177/wo-long-2feng-huo-lian-tian-zhu-ge-liang-jiao-se-yu-gao"
-    }
-   ],
-   "keywords": [
-    "卧龙",
-    "凤火",
-    "火连",
-    "连天",
-    "诸葛",
-    "葛亮",
-    "角色",
-    "色预"
-   ]
-  },
-  {
-   "id": "t13",
-   "rank": 13,
-   "title": "电影《冰川时代6：火山大冒险》全新预告",
-   "url": "https://www.ign.com.cn/ice-age-boiling-point/64175/dian-ying-bing-chuan-shi-dai-6huo-shan-da-mou-xian-quan-xin-yu-gao",
-   "summary": "那只为橡果疯狂的松鼠 这次又搞出了什么大事？ 那只为橡果疯狂的松鼠，这次又搞出了什么大事？电影《冰川时代6：火山大冒险（Ice Age: Boiling Point）》讲述曼尼、希德、迪亚哥、艾莉、巴克和松鼠斯克莱特重返充满恐龙与熔岩的「失落世界」，执行一项拯救恐龙物种的护蛋任务。影片将于2027年2月5日登陆北美院线。",
-   "category": "game",
-   "lang": "zh",
-   "publishedAt": "2026-11-20T02:42:08.000Z",
-   "heat": 60,
-   "factors": {
-    "recency": 98,
-    "authority": 75,
-    "coverage": 0,
-    "signal": 30
-   },
-   "sources": [
-    {
-     "id": "ign-cn",
-     "name": "IGN 中国",
-     "url": "https://www.ign.com.cn/ice-age-boiling-point/64175/dian-ying-bing-chuan-shi-dai-6huo-shan-da-mou-xian-quan-xin-yu-gao"
-    }
-   ],
-   "keywords": [
-    "电影",
-    "冰川",
-    "川时",
-    "时代",
-    "火山",
-    "山大",
-    "大冒",
-    "冒险"
-   ]
-  },
-  {
-   "id": "t14",
-   "rank": 14,
-   "title": "《神力科莎：拉力》0.7版本更新宣传视频",
-   "url": "https://www.ign.com.cn/assetto-corsa-rally/64172/shen-li-ke-sha-la-li-07ban-ben-geng-xin-xuan-chuan-shi-pin",
-   "summary": "新增瑞典拉力赛 《神力科莎：拉力》0.7版本新增瑞典拉力赛：包含2条独具特色的特殊赛段、14种赛段布局，以及超过30公里经过高精度激光扫描测绘的雪地赛道。此外还有1986款B组蓝旗亚Delta S4、由Italtecnica打造的2021款蓝旗亚Delta S4 Evo2，以及4个全新赛事分组，共计48场《神力科莎：拉力》全新赛事。",
-   "category": "game",
-   "lang": "zh",
-   "publishedAt": "2026-11-20T02:42:00.000Z",
-   "heat": 60,
-   "factors": {
-    "recency": 98,
-    "authority": 75,
-    "coverage": 0,
-    "signal": 30
-   },
-   "sources": [
-    {
-     "id": "ign-cn",
-     "name": "IGN 中国",
-     "url": "https://www.ign.com.cn/assetto-corsa-rally/64172/shen-li-ke-sha-la-li-07ban-ben-geng-xin-xuan-chuan-shi-pin"
-    }
-   ],
-   "keywords": [
-    "0.7",
-    "神力",
-    "力科",
-    "科莎",
-    "拉力",
-    "版本",
-    "本更",
-    "更新"
-   ]
-  },
-  {
-   "id": "t15",
-   "rank": 15,
-   "title": "重庆大渡口：“十五五”工业总产值力争突破1000亿元",
-   "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735062.shtml",
-   "summary": "中新网重庆11月20日电 (杨梦逸)“我们的目标是，‘十五五’时期，GDP年均增长5.5%以上、总量突破700亿元，人均GDP达到14万元以上，力争工业总产值突破1000亿元，服务业增加值突破400亿元。”",
-   "category": "china",
-   "lang": "zh",
-   "publishedAt": "2026-11-20T02:40:35.000Z",
-   "heat": 60,
-   "factors": {
-    "recency": 96,
-    "authority": 80,
-    "coverage": 0,
-    "signal": 30
-   },
-   "sources": [
-    {
-     "id": "chinanews",
-     "name": "中国新闻网",
-     "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735062.shtml"
-    }
-   ],
-   "keywords": [
-    "1000",
-    "重庆",
-    "庆大",
-    "大渡",
-    "渡口",
-    "十五",
-    "五五",
-    "工业"
-   ]
-  },
-  {
-   "id": "t16",
-   "rank": 16,
-   "title": "迎接《雾影猎人》S2 赛季「旧日之火」，咪咕游戏限时免费五天",
-   "url": "https://www.gcores.com/articles/222560",
-   "summary": "《雾影猎人》S2赛季「旧日之火」激战正酣，咪咕游戏于2026年11月20日10:00至11月25日10:00推出为期五天的限时免费。活动期间，玩家通过咪咕游戏各端进入游戏，无需购买、无需激活，即可畅玩完整版本内容，体验PVEVP玩法的核心乐趣。 五天免费，完整版全部开放 本次限免共120小时，并非试玩，神木林、布兰德要塞等全部场景与核心玩法同步开放。玩家可在…",
-   "category": "game",
-   "lang": "zh",
-   "publishedAt": "2026-11-20T02:00:00.000Z",
-   "heat": 60,
-   "factors": {
-    "recency": 94,
-    "authority": 80,
-    "coverage": 0,
-    "signal": 30
-   },
-   "sources": [
-    {
-     "id": "gcores",
-     "name": "机核 GCORES",
-     "url": "https://www.gcores.com/articles/222560"
-    }
-   ],
-   "keywords": [
-    "迎接",
-    "雾影",
-    "影猎",
-    "猎人",
-    "赛季",
-    "旧日",
-    "日之",
-    "之火"
-   ]
-  },
-  {
-   "id": "t17",
-   "rank": 17,
-   "title": "11月20日央行开展3795亿元隔夜逆回购操作",
-   "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735064.shtml",
-   "summary": "中新网11月20日电 据中国人民银行网站消息，2026年11月20日中国人民银行以固定利率、数量招标方式开展了3795亿元隔夜逆回购操作，全额满足了一级交易商需求。具体情况如下：",
-   "category": "china",
-   "lang": "zh",
-   "publishedAt": "2026-11-20T02:51:39.000Z",
-   "heat": 59,
-   "factors": {
-    "recency": 98,
-    "authority": 80,
-    "coverage": 0,
-    "signal": 22
-   },
-   "sources": [
-    {
-     "id": "chinanews",
-     "name": "中国新闻网",
-     "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735064.shtml"
-    }
-   ],
-   "keywords": [
-    "3795",
-    "日央",
-    "央行",
-    "行开",
-    "开展",
-    "亿元",
-    "元隔",
-    "隔夜"
-   ]
-  },
-  {
-   "id": "t18",
-   "rank": 18,
-   "title": "11月20日人民币对美元中间价报6.7131 下调3个基点",
-   "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735059.shtml",
-   "summary": "中新网11月20日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年11月20日银行间外汇市场人民币汇率中间价为：1美元对人民币6.7131元，下调3个基点。",
-   "category": "china",
-   "lang": "zh",
-   "publishedAt": "2026-11-20T02:51:29.000Z",
-   "heat": 59,
-   "factors": {
-    "recency": 98,
-    "authority": 80,
-    "coverage": 0,
-    "signal": 22
-   },
-   "sources": [
-    {
-     "id": "chinanews",
-     "name": "中国新闻网",
-     "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735059.shtml"
-    }
-   ],
-   "keywords": [
-    "6.7131",
-    "日人",
-    "人民",
-    "民币",
-    "币对",
-    "对美",
-    "美元",
-    "元中"
-   ]
-  },
-  {
-   "id": "t19",
-   "rank": 19,
-   "title": "同心四海 侨语济南——2026海外华文媒体山东行济南段活动举办",
-   "url": "https://www.chinanews.com.cn/txy/2026/11-20/10735073.shtml",
-   "summary": "11月12日至14日，由加拿大、埃及、美国等17个国家和地区的20余家海外华文媒体代表组成的采访团走进济南，近距离感受泉城千年文脉，实地探访济南高质量发展实践，把泉水文化的灵动与“强省会”的机遇生动地传递到海外。",
-   "category": "china",
-   "lang": "zh",
-   "publishedAt": "2026-11-20T02:36:55.000Z",
-   "heat": 59,
-   "factors": {
-    "recency": 96,
-    "authority": 80,
-    "coverage": 0,
-    "signal": 22
-   },
-   "sources": [
-    {
-     "id": "chinanews",
-     "name": "中国新闻网",
-     "url": "https://www.chinanews.com.cn/txy/2026/11-20/10735073.shtml"
-    }
-   ],
-   "keywords": [
-    "2026",
-    "同心",
-    "心四",
-    "四海",
-    "侨语",
-    "语济",
-    "济南",
-    "海外"
-   ]
-  },
-  {
-   "id": "t20",
-   "rank": 20,
-   "title": "大众海外发布电动露营车 ID. Buzz Beach，配备 2m × 1.2m 折叠床垫",
-   "url": "https://www.ithome.com/1/029/790.htm",
-   "summary": "IT之家 11 月 20 日消息，Volkswagen（大众）商用车部门当地时间 19 日发布电动露营车 ID. Buzz Beach。这一车型配备可拆卸床架和展开后 2×1.2 (m) 的定制折叠床垫，可供两人舒适睡眠。 ID. Buzz Beach 还提供了隐藏式折叠桌椅、遮光窗帘、前窗通风格栅。其新增“过夜”模式，可提供最长 48hr 的内部温度控制…",
-   "category": "tech",
-   "lang": "zh",
-   "publishedAt": "2026-11-20T01:44:32.000Z",
-   "heat": 59,
-   "factors": {
-    "recency": 91,
+    "recency": 99,
     "authority": 75,
     "coverage": 0,
     "signal": 38
@@ -678,168 +175,134 @@
     {
      "id": "ithome",
      "name": "IT之家",
-     "url": "https://www.ithome.com/1/029/790.htm"
+     "url": "https://www.ithome.com/1/030/235.htm"
     }
    ],
    "keywords": [
+    "400",
     "id.",
-    "buzz",
-    "beach",
-    "1.2m",
-    "大众",
-    "众海",
-    "海外",
-    "外发"
+    "polo",
+    "gti",
+    "clubsport",
+    "马力",
+    "力的",
+    "的纯"
    ]
   },
   {
-   "id": "t21",
-   "rank": 21,
-   "title": "郑州大学第一附属医院原党委书记王成增被“双开”",
-   "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735072.shtml",
-   "summary": "中新网11月20日电 据河南省纪委监委消息：经中共河南省委批准，河南省纪委监委对郑州大学第一附属医院原党委书记王成增严重违纪违法问题进行了立案审查调查。",
+   "id": "t6",
+   "rank": 6,
+   "title": "中国首次量子磁测电缆巡检实战作业完成",
+   "url": "https://www.chinanews.com.cn/sh/2026/11-20/10735513.shtml",
+   "summary": "中新社浙江台州11月20日电 (王逸飞 徐梓沐)中国国家电网浙江省电力有限公司(下称国网浙江电力)11月20日在浙江台州大陈岛海域完成中国首次量子磁测电缆巡检实战作业。",
    "category": "china",
    "lang": "zh",
-   "publishedAt": "2026-11-20T02:51:59.000Z",
-   "heat": 58,
+   "publishedAt": "2026-11-20T12:34:57.000Z",
+   "heat": 62,
    "factors": {
     "recency": 98,
     "authority": 80,
     "coverage": 0,
-    "signal": 18
+    "signal": 36
    },
    "sources": [
     {
      "id": "chinanews",
      "name": "中国新闻网",
-     "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735072.shtml"
+     "url": "https://www.chinanews.com.cn/sh/2026/11-20/10735513.shtml"
     }
    ],
    "keywords": [
-    "郑州",
-    "州大",
-    "大学",
-    "学第",
-    "第一",
-    "一附",
-    "附属",
-    "属医"
+    "中国",
+    "国首",
+    "首次",
+    "次量",
+    "量子",
+    "子磁",
+    "磁测",
+    "测电"
    ]
   },
   {
-   "id": "t22",
-   "rank": 22,
-   "title": "居民误信“宽带免费提速” 家中网线沦为电诈“中转站”",
-   "url": "https://www.chinanews.com.cn/fz/2026/11-20/10735112.shtml",
-   "summary": "一部设备盗接到正规线路上，竟能让“境外电话”化身“本地电话”？",
+   "id": "t7",
+   "rank": 7,
+   "title": "2026地球“体检”报告发布 郭华东院士解读十大亮点成果",
+   "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735440.shtml",
+   "summary": "中新网北京11月20日电 (记者 孙自法)被形象称为地球年度“体检”报告的《地球大数据支撑可持续发展目标报告(2026)——全球发展倡议五周年特别报告》11月20日在北京发布，当天同步在联合国官网发布，并面向联合国会员国发放，备受关注。",
    "category": "china",
    "lang": "zh",
-   "publishedAt": "2026-11-20T02:50:45.000Z",
-   "heat": 58,
+   "publishedAt": "2026-11-20T11:39:48.000Z",
+   "heat": 62,
+   "factors": {
+    "recency": 88,
+    "authority": 75,
+    "coverage": 0,
+    "signal": 56
+   },
+   "sources": [
+    {
+     "id": "chinanews-china",
+     "name": "中新网·国内",
+     "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735440.shtml"
+    }
+   ],
+   "keywords": [
+    "2026",
+    "地球",
+    "体检",
+    "报告",
+    "告发",
+    "发布",
+    "郭华",
+    "华东"
+   ]
+  },
+  {
+   "id": "t8",
+   "rank": 8,
+   "title": "“社保断缴三个月账户清零”不实（2026·11·20）",
+   "url": "https://www.chinanews.com.cn/sh/2026/11-20/10735519.shtml",
+   "summary": "辟 谣 “社保断缴三个月账户清零”不实",
+   "category": "china",
+   "lang": "zh",
+   "publishedAt": "2026-11-20T12:31:39.000Z",
+   "heat": 61,
    "factors": {
     "recency": 98,
     "authority": 80,
     "coverage": 0,
-    "signal": 18
+    "signal": 30
    },
    "sources": [
     {
      "id": "chinanews",
      "name": "中国新闻网",
-     "url": "https://www.chinanews.com.cn/fz/2026/11-20/10735112.shtml"
+     "url": "https://www.chinanews.com.cn/sh/2026/11-20/10735519.shtml"
     }
    ],
    "keywords": [
-    "居民",
-    "民误",
-    "误信",
-    "宽带",
-    "带免",
-    "免费",
-    "费提",
-    "提速"
+    "2026",
+    "社保",
+    "保断",
+    "断缴",
+    "缴三",
+    "三个",
+    "个月",
+    "月账"
    ]
   },
   {
-   "id": "t23",
-   "rank": 23,
-   "title": "微短剧《子如青山》在渝开机 致敬新时代渝商精神",
-   "url": "https://www.chinanews.com.cn/cul/2026/11-20/10735089.shtml",
-   "summary": "中新网重庆11月20日电(陈媛)11月19日，重庆真实历史人物题材精品微短剧《子如青山》开机仪式在重庆万盛举行。该剧讲述“渝商典范”刘子如白手起家、兴办慈善、投身抗日救亡运动的故事，致敬“爱国、创新、坚韧、诚信、奉献”的新时代渝商精神。",
-   "category": "china",
-   "lang": "zh",
-   "publishedAt": "2026-11-20T02:41:53.000Z",
-   "heat": 58,
-   "factors": {
-    "recency": 97,
-    "authority": 80,
-    "coverage": 0,
-    "signal": 18
-   },
-   "sources": [
-    {
-     "id": "chinanews",
-     "name": "中国新闻网",
-     "url": "https://www.chinanews.com.cn/cul/2026/11-20/10735089.shtml"
-    }
-   ],
-   "keywords": [
-    "微短",
-    "短剧",
-    "子如",
-    "如青",
-    "青山",
-    "在渝",
-    "渝开",
-    "开机"
-   ]
-  },
-  {
-   "id": "t24",
-   "rank": 24,
-   "title": "高安市举办第五期“同心·学习大讲坛”",
-   "url": "https://www.chinanews.com.cn/txy/2026/11-20/10735074.shtml",
-   "summary": "11月18日，高安市举办第五期“同心·学习大讲坛”，市委统战部分管日常工作的副部长朱学锋主持会议，各民主党派、知联会、新联会、欧美同学会及非公经济人士代表50余人参加。",
-   "category": "china",
-   "lang": "zh",
-   "publishedAt": "2026-11-20T02:38:55.000Z",
-   "heat": 58,
-   "factors": {
-    "recency": 96,
-    "authority": 80,
-    "coverage": 0,
-    "signal": 18
-   },
-   "sources": [
-    {
-     "id": "chinanews",
-     "name": "中国新闻网",
-     "url": "https://www.chinanews.com.cn/txy/2026/11-20/10735074.shtml"
-    }
-   ],
-   "keywords": [
-    "高安",
-    "安市",
-    "市举",
-    "举办",
-    "办第",
-    "第五",
-    "五期",
-    "同心"
-   ]
-  },
-  {
-   "id": "t25",
-   "rank": 25,
-   "title": "小米智能门锁 5 人脸版发布：升级 3D 人脸 + 掌静脉 + 视频通话，国补价 1799 元",
-   "url": "https://www.ithome.com/1/029/807.htm",
-   "summary": "IT之家 11 月 20 日消息，小米今日新推出了一款小米智能门锁 5 人脸版，鹿客代工，型号 XMZNMST15LK，预售价 2116 元，叠加国补后 1798.6 元起，晒单可享 10 元红包。 京东小米智能门锁 5 人脸版 电子锁 多种开锁方式 3D 人脸识别可视猫眼大屏 1799 元直达链接这款智能门锁搭载 AI 3D 人脸识别技术，通过模拟人眼视差…",
+   "id": "t9",
+   "rank": 9,
+   "title": "39.5 亿年！河北发现亚洲已知最古老岩石",
+   "url": "https://www.ithome.com/1/030/236.htm",
+   "summary": "IT之家 11 月 20 日消息，自然资源部中国地质调查局今日宣布，近日，中国地质科学院地质研究所万渝生研究员团队在《自然》期刊发表研究成果。该团队在河北冀东地区发现距今 39.5 亿年的古老岩石，这是目前我国乃至亚洲已知最古老的岩石，也是全球第二古老的岩石。 研究表明，地球在 39.5 亿年前可能已出现某种形式的俯冲构造活动，为冥古宙时期地幔已经发生亏损提…",
    "category": "tech",
    "lang": "zh",
-   "publishedAt": "2026-11-20T02:32:27.000Z",
-   "heat": 58,
+   "publishedAt": "2026-11-20T12:40:39.000Z",
+   "heat": 60,
    "factors": {
-    "recency": 96,
+    "recency": 100,
     "authority": 75,
     "coverage": 0,
     "signal": 26
@@ -848,66 +311,66 @@
     {
      "id": "ithome",
      "name": "IT之家",
-     "url": "https://www.ithome.com/1/029/807.htm"
+     "url": "https://www.ithome.com/1/030/236.htm"
     }
    ],
    "keywords": [
-    "1799",
-    "小米",
-    "米智",
-    "智能",
-    "能门",
-    "门锁",
-    "人脸",
-    "脸版"
+    "39.5",
+    "亿年",
+    "河北",
+    "北发",
+    "发现",
+    "现亚",
+    "亚洲",
+    "洲已"
    ]
   },
   {
-   "id": "t26",
-   "rank": 26,
-   "title": "兰博基尼敞篷超跑 Temerario Spyder 登场：首次搭载可伸缩硬顶，零百加速 2.7 秒",
-   "url": "https://www.ithome.com/1/029/806.htm",
-   "summary": "IT之家 11 月 20 日消息，@兰博基尼汽车中国 昨日（11 月 19 日）发布微博，宣布其全新敞篷超跑 Temerario Spyder 耀目登场，首次在 Spyder 车型上搭载可伸缩硬顶，可在 17 秒内折叠收起。 外观延续兰博基尼标志性的楔形车身、六边形灯光元素和大尺寸进气口，折叠后的车顶收纳于座舱与发动机舱之间。座舱配备 12.3 英寸数字仪表…",
-   "category": "tech",
+   "id": "t10",
+   "rank": 10,
+   "title": "文远知行Robotaxi单季收入首次突破1亿元",
+   "url": "https://www.jiemian.com/article/15356808.html",
+   "summary": "11月20日晚，文远知行在港交所公告，2026年第三季度，公司总收入为人民币3.215亿元，同比增长88.0%，环比增长38.8%；毛利率达到43.0%，同比提升10.1个百分点；期内亏损为人民币3.100亿元，2025年同期为人民币3.073亿元。Robotaxi业务方面，第三季度收入首次突破人民币1亿元，同比增长204.0%，其中来自海外业务的收入占比超…",
+   "category": "china",
    "lang": "zh",
-   "publishedAt": "2026-11-20T02:31:26.000Z",
-   "heat": 58,
+   "publishedAt": "2026-11-20T11:59:02.000Z",
+   "heat": 60,
    "factors": {
-    "recency": 96,
-    "authority": 75,
+    "recency": 92,
+    "authority": 70,
     "coverage": 0,
-    "signal": 26
+    "signal": 48
    },
    "sources": [
     {
-     "id": "ithome",
-     "name": "IT之家",
-     "url": "https://www.ithome.com/1/029/806.htm"
+     "id": "jiemian",
+     "name": "界面新闻",
+     "url": "https://www.jiemian.com/article/15356808.html"
     }
    ],
    "keywords": [
-    "temerario",
-    "spyder",
-    "2.7",
-    "兰博",
-    "博基",
-    "基尼",
-    "尼敞",
-    "敞篷"
+    "robotaxi",
+    "文远",
+    "远知",
+    "知行",
+    "单季",
+    "季收",
+    "收入",
+    "入首"
    ]
   },
   {
-   "id": "t27",
-   "rank": 27,
-   "title": "巴西2026年农牧业总产值预计达1.46万亿雷亚尔",
-   "url": "https://www.chinanews.com.cn/gj/2026/11-20/10735012.shtml",
-   "summary": "中新社圣保罗11月19日电 巴西农业部19日发布数据显示，2026年巴西农牧业总产值预计达1.46万亿雷亚尔，较上年创下的历史纪录下降2.6%。尽管受不利气候条件影响，农牧业产值有所回落，但巴西农产品出口继续保持增长势头。",
+   "id": "t11",
+   "rank": 11,
+   "title": "今年1-10月中国财政收入同比增长4.9%",
+   "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735509.shtml",
+   "summary": "中新社北京11月20日电 (记者 赵建华)中国财政部20日公布，今年1-10月，全国一般公共预算收入19.57万亿元(人民币，下同)，同比增长4.9%。其中，全国税收收入16.26万亿元，增长6%。",
    "category": "china",
    "lang": "zh",
-   "publishedAt": "2026-11-20T02:30:52.000Z",
-   "heat": 58,
+   "publishedAt": "2026-11-20T12:34:31.000Z",
+   "heat": 59,
    "factors": {
-    "recency": 94,
+    "recency": 98,
     "authority": 80,
     "coverage": 0,
     "signal": 22
@@ -916,437 +379,437 @@
     {
      "id": "chinanews",
      "name": "中国新闻网",
-     "url": "https://www.chinanews.com.cn/gj/2026/11-20/10735012.shtml"
+     "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735509.shtml"
     }
    ],
    "keywords": [
-    "2026",
-    "1.46",
-    "巴西",
-    "年农",
-    "农牧",
-    "牧业",
-    "业总",
-    "总产"
+    "1-10",
+    "4.9",
+    "今年",
+    "月中",
+    "中国",
+    "国财",
+    "财政",
+    "政收"
    ]
   },
   {
-   "id": "t28",
-   "rank": 28,
-   "title": "上汽荣威官宣家越 07 纯电版 11 月 27 日上市，全系标配 800V 碳化硅平台 + 651km 续航",
-   "url": "https://www.ithome.com/1/029/800.htm",
-   "summary": "IT之家 11 月 20 日消息，上汽荣威今日官宣家越 07 纯电版将于 11 月 27 日上市，999 元下订即享 2000 元购车尾款抵扣。 据官方介绍，该车全系标配 800V 碳化硅平台 + 651km 超长纯电续航 + 80.6kWh 大电池，电机峰值功率达 245kW，峰值扭矩达 430N·m ，实现 5.9 秒零百加速。 IT之家注意到，荣威家越…",
+   "id": "t12",
+   "rank": 12,
+   "title": "一把锁撬动128国市场 沈阳跨境电商助企出海跑出加速度",
+   "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735507.shtml",
+   "summary": "中新网沈阳11月20日电 (记者 赵桂华)一把智能锁，能走多远？在沈阳市浑南区，答案是128个国家。11月20日，当地一家主营智能无源锁控系统的科技型中小企业总监赵子乔在接受采访时说：“公司通过国际站、独立站等多种渠道开展跨境电商业务，产品已销往128个国家。我们还积极拓展其他行业，培育了多家外贸企业，形成涉足制药设备、钢结构、拖挂车等多领域的跨境电商品牌矩…",
+   "category": "china",
+   "lang": "zh",
+   "publishedAt": "2026-11-20T12:22:14.000Z",
+   "heat": 59,
+   "factors": {
+    "recency": 96,
+    "authority": 80,
+    "coverage": 0,
+    "signal": 22
+   },
+   "sources": [
+    {
+     "id": "chinanews",
+     "name": "中国新闻网",
+     "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735507.shtml"
+    }
+   ],
+   "keywords": [
+    "128",
+    "一把",
+    "把锁",
+    "锁撬",
+    "撬动",
+    "国市",
+    "市场",
+    "沈阳"
+   ]
+  },
+  {
+   "id": "t13",
+   "rank": 13,
+   "title": "中国高层次国际化人才培养创新实践项目惠及62.3万余名师生",
+   "url": "https://www.chinanews.com.cn/edu/2026/11-20/10735503.shtml",
+   "summary": "中新网哈尔滨11月20日电 (史轶夫 邵明琛)11月19日至20日，“2026高层次国际化人才培养创新实践项目年度推进会”在黑龙江大学举办。“高层次国际化人才培养创新实践项目”实施以来，截至目前，项目已惠及400余所学校的62.3万余名师生。",
+   "category": "china",
+   "lang": "zh",
+   "publishedAt": "2026-11-20T12:21:16.000Z",
+   "heat": 59,
+   "factors": {
+    "recency": 96,
+    "authority": 80,
+    "coverage": 0,
+    "signal": 22
+   },
+   "sources": [
+    {
+     "id": "chinanews",
+     "name": "中国新闻网",
+     "url": "https://www.chinanews.com.cn/edu/2026/11-20/10735503.shtml"
+    }
+   ],
+   "keywords": [
+    "62.3",
+    "中国",
+    "国高",
+    "高层",
+    "层次",
+    "次国",
+    "国际",
+    "际化"
+   ]
+  },
+  {
+   "id": "t14",
+   "rank": 14,
+   "title": "马来西亚10月出口同比激增61.1%",
+   "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-20/10735500.shtml",
+   "summary": "中新社吉隆坡11月20日电 (记者 刘育英)马来西亚统计局20日发布的数据显示，2026年10月，马来西亚外贸延续强劲增长势头，出口同比大幅增长61.1%，超出市场预期，也高于9月54.5%的增幅，主要得益于电子电气及矿业产品出口增长。",
+   "category": "china",
+   "lang": "zh",
+   "publishedAt": "2026-11-20T12:21:14.000Z",
+   "heat": 59,
+   "factors": {
+    "recency": 96,
+    "authority": 80,
+    "coverage": 0,
+    "signal": 22
+   },
+   "sources": [
+    {
+     "id": "chinanews",
+     "name": "中国新闻网",
+     "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-20/10735500.shtml"
+    }
+   ],
+   "keywords": [
+    "61.1",
+    "马来",
+    "来西",
+    "西亚",
+    "月出",
+    "出口",
+    "口同",
+    "同比"
+   ]
+  },
+  {
+   "id": "t15",
+   "rank": 15,
+   "title": "美国亚特兰大警方发文，呼吁玩家勿将《GTA6》游戏犯罪内容搬到现实",
+   "url": "https://www.ithome.com/1/030/230.htm",
+   "summary": "IT之家 11 月 20 日消息，随着 Rockstar Games 的《GTA6》正式发售，美国佐治亚州亚特兰大警察局（Atlanta Police Department）在 X 平台发布贴文，提醒玩家可以畅玩《GTA6》，但不要把自己当成游戏主角肆意犯罪。 亚特兰大警方表示，《GTA》系列以枪战、驾驶等玩法为基础，提供了高度自由的犯罪体验。但相应故事发生…",
    "category": "tech",
    "lang": "zh",
-   "publishedAt": "2026-11-20T02:12:59.000Z",
+   "publishedAt": "2026-11-20T12:04:32.000Z",
+   "heat": 59,
+   "factors": {
+    "recency": 95,
+    "authority": 75,
+    "coverage": 0,
+    "signal": 30
+   },
+   "sources": [
+    {
+     "id": "ithome",
+     "name": "IT之家",
+     "url": "https://www.ithome.com/1/030/230.htm"
+    }
+   ],
+   "keywords": [
+    "gta6",
+    "美国",
+    "国亚",
+    "亚特",
+    "特兰",
+    "兰大",
+    "大警",
+    "警方"
+   ]
+  },
+  {
+   "id": "t16",
+   "rank": 16,
+   "title": "（乡村行·看振兴）“薯”写丰收路 浙江文成山货变身富民“金疙瘩”",
+   "url": "https://www.chinanews.com.cn/sh/2026/11-20/10735514.shtml",
+   "summary": "中新网温州11月20日电(黄彦君 周思思 夏晓强)眼下正值番薯采收季，在浙江文成西坑畲族镇塘垟村的番薯基地里，农户们正抢抓晴好天气采收番薯。",
+   "category": "china",
+   "lang": "zh",
+   "publishedAt": "2026-11-20T12:35:19.000Z",
    "heat": 58,
    "factors": {
-    "recency": 94,
+    "recency": 98,
+    "authority": 80,
+    "coverage": 0,
+    "signal": 18
+   },
+   "sources": [
+    {
+     "id": "chinanews",
+     "name": "中国新闻网",
+     "url": "https://www.chinanews.com.cn/sh/2026/11-20/10735514.shtml"
+    }
+   ],
+   "keywords": [
+    "乡村",
+    "村行",
+    "看振",
+    "振兴",
+    "写丰",
+    "丰收",
+    "收路",
+    "浙江"
+   ]
+  },
+  {
+   "id": "t17",
+   "rank": 17,
+   "title": "专家解读：如何成长为A级纳税人？",
+   "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735512.shtml",
+   "summary": "中新网北京11月20日电 (记者 赵建华)A级纳税人是纳税缴费信用的最高级别，获评A级不仅可享受税务部门发票额度、办税绿色通道等多项守信激励，还能在市场竞争、融资授信、项目招投标等领域获得优势。围绕A级纳税人评定的常见认知误区以及日常经营的合规要点，记者采访了山西省社会科学院转型发展研究所所长孙秀玲。",
+   "category": "china",
+   "lang": "zh",
+   "publishedAt": "2026-11-20T12:34:39.000Z",
+   "heat": 58,
+   "factors": {
+    "recency": 98,
+    "authority": 80,
+    "coverage": 0,
+    "signal": 14
+   },
+   "sources": [
+    {
+     "id": "chinanews",
+     "name": "中国新闻网",
+     "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735512.shtml"
+    }
+   ],
+   "keywords": [
+    "专家",
+    "家解",
+    "解读",
+    "如何",
+    "何成",
+    "成长",
+    "长为",
+    "级纳"
+   ]
+  },
+  {
+   "id": "t18",
+   "rank": 18,
+   "title": "浙江自然博物院“冰与蓝——极地生命探秘”特展开幕",
+   "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735504.shtml",
+   "summary": "中新网杭州11月20日电(林波)11月20日，“冰与蓝——极地生命探秘”特展正式在浙江自然博物院杭州馆开幕。该展览将遥远的冰雪秘境浓缩于展厅之中，带领观众解锁极地生命密码，感受极地生态的壮美与脆弱。",
+   "category": "china",
+   "lang": "zh",
+   "publishedAt": "2026-11-20T12:22:20.000Z",
+   "heat": 58,
+   "factors": {
+    "recency": 96,
+    "authority": 80,
+    "coverage": 0,
+    "signal": 18
+   },
+   "sources": [
+    {
+     "id": "chinanews",
+     "name": "中国新闻网",
+     "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735504.shtml"
+    }
+   ],
+   "keywords": [
+    "浙江",
+    "江自",
+    "自然",
+    "然博",
+    "博物",
+    "物院",
+    "冰与",
+    "与蓝"
+   ]
+  },
+  {
+   "id": "t19",
+   "rank": 19,
+   "title": "长城汽车旗下坦克品牌第 100 万台量产车下线",
+   "url": "https://www.ithome.com/1/030/232.htm",
+   "summary": "IT之家 11 月 20 日消息，坦克品牌今日宣布，第 1,000,000 台量产车下线。 据IT之家此前报道，11 月 1 日，坦克品牌全球销量 100 万辆。 公开信息显示，2020 年 7 月，长城汽车在成都车展上正式发布了“坦克 · WEY”平台，并亮相了该平台首款车型 ——WEY 坦克 300。 2020 年 12 月，坦克 300 作为长城汽车旗…",
+   "category": "tech",
+   "lang": "zh",
+   "publishedAt": "2026-11-20T12:17:05.000Z",
+   "heat": 58,
+   "factors": {
+    "recency": 97,
     "authority": 75,
     "coverage": 0,
-    "signal": 26
+    "signal": 22
    },
    "sources": [
     {
      "id": "ithome",
      "name": "IT之家",
-     "url": "https://www.ithome.com/1/029/800.htm"
+     "url": "https://www.ithome.com/1/030/232.htm"
     }
    ],
    "keywords": [
-    "800v",
-    "651km",
-    "上汽",
-    "汽荣",
-    "荣威",
-    "威官",
-    "官宣",
-    "宣家"
+    "100",
+    "长城",
+    "城汽",
+    "汽车",
+    "车旗",
+    "旗下",
+    "下坦",
+    "坦克"
    ]
   },
   {
-   "id": "t29",
-   "rank": 29,
-   "title": "（投资中国）DHL高管：对中国市场长期增长前景保持信心",
-   "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735111.shtml",
-   "summary": "中新社上海11月20日电 (高志苗)总部位于德国的国际物流企业DHL全球货运(DGF)大中华区总部办公室近日在上海启用。DHL全球货运大中华区首席执行官艾若馨(Aditi Rasquinha)接受中新社采访时表示，新办公室的启用是DGF在中国发展的重要里程碑，体现了DHL对中国市场的长期承诺和持续投资中国市场的决心。",
-   "category": "china",
-   "lang": "zh",
-   "publishedAt": "2026-11-20T02:51:39.000Z",
-   "heat": 57,
-   "factors": {
-    "recency": 98,
-    "authority": 80,
-    "coverage": 0,
-    "signal": 10
-   },
-   "sources": [
-    {
-     "id": "chinanews",
-     "name": "中国新闻网",
-     "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735111.shtml"
-    }
-   ],
-   "keywords": [
-    "dhl",
-    "投资",
-    "资中",
-    "中国",
-    "高管",
-    "对中",
-    "国市",
-    "市场"
-   ]
-  },
-  {
-   "id": "t30",
-   "rank": 30,
-   "title": "靖安县委统战部牵头开展产教融合调研推动校企合作签约",
-   "url": "https://www.chinanews.com.cn/txy/2026/11-20/10735107.shtml",
-   "summary": "为持续深化产教融合，推动校企协同育人，充分发挥统一战线凝心聚力、牵线搭桥作用，11月13日，靖安县委统战部组织靖安县中华职业教育社、南昌交通学院智能制造学院、南昌交通学院继续教育学院、靖安县教体局、靖安县人社局、靖安县工信科技商务局、靖安县职业中学等单位相关负责同志赴江西利星能储能科技有限公司开展产教融合调研。",
-   "category": "china",
-   "lang": "zh",
-   "publishedAt": "2026-11-20T02:51:21.000Z",
-   "heat": 57,
-   "factors": {
-    "recency": 98,
-    "authority": 80,
-    "coverage": 0,
-    "signal": 10
-   },
-   "sources": [
-    {
-     "id": "chinanews",
-     "name": "中国新闻网",
-     "url": "https://www.chinanews.com.cn/txy/2026/11-20/10735107.shtml"
-    }
-   ],
-   "keywords": [
-    "靖安",
-    "安县",
-    "县委",
-    "委统",
-    "统战",
-    "战部",
-    "部牵",
-    "牵头"
-   ]
-  },
-  {
-   "id": "t31",
-   "rank": 31,
-   "title": "国家税务总局内蒙古自治区税务局原一级巡视员李其斗被查",
-   "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735038.shtml",
-   "summary": "中新网11月20日电 据中央纪委国家监委驻国家税务总局纪检监察组、内蒙古自治区纪委监委消息：国家税务总局内蒙古自治区税务局原一级巡视员李其斗涉嫌严重违纪违法，目前正接受中央纪委国家监委驻国家税务总局纪检监察组纪律审查和内蒙古自治区通辽市监察委员会监察调查。",
-   "category": "china",
-   "lang": "zh",
-   "publishedAt": "2026-11-20T02:51:17.000Z",
-   "heat": 57,
-   "factors": {
-    "recency": 98,
-    "authority": 80,
-    "coverage": 0,
-    "signal": 10
-   },
-   "sources": [
-    {
-     "id": "chinanews",
-     "name": "中国新闻网",
-     "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735038.shtml"
-    }
-   ],
-   "keywords": [
-    "国家",
-    "家税",
-    "税务",
-    "务总",
-    "总局",
-    "局内",
-    "内蒙",
-    "蒙古"
-   ]
-  },
-  {
-   "id": "t32",
-   "rank": 32,
-   "title": "《窝窝大冒险：重制版》实机预告",
-   "url": "https://www.ign.com.cn/volvys-adventure-reslimed/64171/wo-wo-da-mou-xian-zhong-zhi-ban-shi-ji-yu-gao",
-   "summary": "暴揍各种小坏坏和大头头 在四个全新重制的世界里堂堂冒险，暴揍各种小坏坏和大头头，同时努力收集美味洋葱，确保窝窝持续飒破天际。一切艰难险阻，只需祭出大膀子便可逢凶化吉——甩起膀子当螺旋桨飞过深沟，巨手开道酷炫滑行窜过天际，甚至还能天降神掌钻入地底！当你终于遇上劲敌，只需掏出一把洋葱塞进嘴里，瞬间变身麒麟巨臂「史窝龙」，霸气「掀」出重围！《窝窝大冒险：重制版（V…",
-   "category": "game",
-   "lang": "zh",
-   "publishedAt": "2026-11-20T02:41:57.000Z",
-   "heat": 57,
-   "factors": {
-    "recency": 98,
-    "authority": 75,
-    "coverage": 0,
-    "signal": 18
-   },
-   "sources": [
-    {
-     "id": "ign-cn",
-     "name": "IGN 中国",
-     "url": "https://www.ign.com.cn/volvys-adventure-reslimed/64171/wo-wo-da-mou-xian-zhong-zhi-ban-shi-ji-yu-gao"
-    }
-   ],
-   "keywords": [
-    "窝窝",
-    "窝大",
-    "大冒",
-    "冒险",
-    "重制",
-    "制版",
-    "实机",
-    "机预"
-   ]
-  },
-  {
-   "id": "t33",
-   "rank": 33,
-   "title": "动画剧集《无敌少侠》第五季先导预告",
-   "url": "https://www.ign.com.cn/invincible-1/64170/dong-hua-ju-ji-wu-di-shao-xia-di-wu-ji-xian-dao-yu-gao",
-   "summary": "将于2027年2月17日上线亚马逊Prime Video 马克·格雷森在第四季撼动地球的事件后，试图让世界变得更好，同时他也陷入了道德困境：为拯救数百万人，是否可以不择手段？动画剧集《神奇少侠》第五季将于2027年2月17日在流媒体平台亚马逊Prime Video播出。",
-   "category": "game",
-   "lang": "zh",
-   "publishedAt": "2026-11-20T02:41:53.000Z",
-   "heat": 57,
-   "factors": {
-    "recency": 98,
-    "authority": 75,
-    "coverage": 0,
-    "signal": 18
-   },
-   "sources": [
-    {
-     "id": "ign-cn",
-     "name": "IGN 中国",
-     "url": "https://www.ign.com.cn/invincible-1/64170/dong-hua-ju-ji-wu-di-shao-xia-di-wu-ji-xian-dao-yu-gao"
-    }
-   ],
-   "keywords": [
-    "动画",
-    "画剧",
-    "剧集",
-    "无敌",
-    "敌少",
-    "少侠",
-    "第五",
-    "五季"
-   ]
-  },
-  {
-   "id": "t34",
-   "rank": 34,
-   "title": "《饿狼传说：群狼之城》「拉奥」动画预告",
-   "url": "https://www.ign.com.cn/fatal-fury-city-of-the-wolves/64169/e-lang-chuan-shuo-qun-lang-zhi-cheng-la-ao-dong-hua-yu-gao",
-   "summary": "阻挡在特瑞等人面前的强敌之一 「拉奥」登场于1994年上映的剧场版动画《饿狼传说 -THE MOTION PICTURE-》，是阻挡在特瑞等人面前的强敌之一。他是高迪亚姆斯一族的后裔，也是「苏莉亚·高迪亚姆斯」的双胞胎哥哥，率领忠诚的黑暗三结众，一直在收集据说寄宿着斗神之力的「玛尔斯斗衣」。他的目的只有一个：超越人类的领域，成为「神」。这一次，得知最后一件斗…",
-   "category": "game",
-   "lang": "zh",
-   "publishedAt": "2026-11-20T02:41:50.000Z",
-   "heat": 57,
-   "factors": {
-    "recency": 98,
-    "authority": 75,
-    "coverage": 0,
-    "signal": 18
-   },
-   "sources": [
-    {
-     "id": "ign-cn",
-     "name": "IGN 中国",
-     "url": "https://www.ign.com.cn/fatal-fury-city-of-the-wolves/64169/e-lang-chuan-shuo-qun-lang-zhi-cheng-la-ao-dong-hua-yu-gao"
-    }
-   ],
-   "keywords": [
-    "饿狼",
-    "狼传",
-    "传说",
-    "群狼",
-    "狼之",
-    "之城",
-    "拉奥",
-    "动画"
-   ]
-  },
-  {
-   "id": "t35",
-   "rank": 35,
-   "title": "《黎明杀机》「GODMODE美妆收藏」宣传视频",
-   "url": "https://www.ign.com.cn/lmsjgame/64168/li-ming-sha-ji-godmodemei-zhuang-shou-cang-xuan-chuan-shi-pin",
-   "summary": "为迷雾世界增添色彩与个性表达 美妆降临迷雾。《黎明杀机》携手GODMODE，首次推出史无前例的联名收藏，为迷雾世界增添色彩与个性表达。在稀有级套装中，李允珍变装焕彩使命Bow，伊洛迪·拉科托演绎星云探索。",
-   "category": "game",
-   "lang": "zh",
-   "publishedAt": "2026-11-20T02:41:45.000Z",
-   "heat": 57,
-   "factors": {
-    "recency": 98,
-    "authority": 75,
-    "coverage": 0,
-    "signal": 18
-   },
-   "sources": [
-    {
-     "id": "ign-cn",
-     "name": "IGN 中国",
-     "url": "https://www.ign.com.cn/lmsjgame/64168/li-ming-sha-ji-godmodemei-zhuang-shou-cang-xuan-chuan-shi-pin"
-    }
-   ],
-   "keywords": [
-    "godmode",
-    "黎明",
-    "明杀",
-    "杀机",
-    "美妆",
-    "妆收",
-    "收藏",
-    "宣传"
-   ]
-  },
-  {
-   "id": "t36",
-   "rank": 36,
-   "title": "剧集《豺狼的日子》第二季先导预告",
-   "url": "https://www.ign.com.cn/the-day-of-the-jackal-direct-to-video/64166/ju-ji-chai-lang-de-ri-zi-di-er-ji-xian-dao-yu-gao",
-   "summary": "将于2027年3月播出 剧集《豺狼的日子（Day of the Jackal）》第二季将围绕「豺狼」在失去家庭与旧敌之后，如何处理未了恩怨、寻找妻子，并面对新的追猎者展开。剧集由埃迪·雷德梅恩、拉什纳·林奇、马特·波莫等人出演，将于2027年3月播出。",
-   "category": "game",
-   "lang": "zh",
-   "publishedAt": "2026-11-20T02:41:37.000Z",
-   "heat": 57,
-   "factors": {
-    "recency": 98,
-    "authority": 75,
-    "coverage": 0,
-    "signal": 18
-   },
-   "sources": [
-    {
-     "id": "ign-cn",
-     "name": "IGN 中国",
-     "url": "https://www.ign.com.cn/the-day-of-the-jackal-direct-to-video/64166/ju-ji-chai-lang-de-ri-zi-di-er-ji-xian-dao-yu-gao"
-    }
-   ],
-   "keywords": [
-    "剧集",
-    "豺狼",
-    "狼的",
-    "的日",
-    "日子",
-    "第二",
-    "二季",
-    "季先"
-   ]
-  },
-  {
-   "id": "t37",
-   "rank": 37,
-   "title": "Visa、万事达卡接连通报网络攻击事件：部分用户数据泄露，支付网络未受影响",
-   "url": "https://www.ithome.com/1/029/758.htm",
-   "summary": "IT之家 11 月 20 日消息，继 Visa 之后，美国最大银行摩根大通与万事达卡于当地时间 11 月 19 日先后披露旗下第三方服务商遭遇网络攻击，部分客户信息可能因此泄露。 此前，Visa 也已确认其一家第三方服务商发生安全事件。三家金融机构均表示，自身核心业务系统或支付网络未受到影响。 摩根大通周四发布公告称，为该公司提供服务的第三方服务商遭到网络攻…",
+   "id": "t20",
+   "rank": 20,
+   "title": "《GTA 6》作弊码公布：通关游戏主线后才能用，包含无限弹药、载具召唤等",
+   "url": "https://www.ithome.com/1/030/226.htm",
+   "summary": "IT之家 11 月 20 日消息，R 星现已陆续公布《GTA6》作弊码，玩家可以通过作弊码启用无限弹药、提高通缉等级、免疫坠落伤害等特殊功能，但必须先完整通关主线剧情，才能解锁作弊码系统。此外，部分作弊码还要求玩家完成指定挑战后才能使用。 需要注意的是，启用《GTA 6》的任何作弊功能后，本次游戏期间所有奖杯和成就都将被禁用，同时游戏也无法保存进度。因此建议…",
    "category": "tech",
    "lang": "zh",
-   "publishedAt": "2026-11-19T23:37:46.000Z",
-   "heat": 57,
+   "publishedAt": "2026-11-20T11:45:46.000Z",
+   "heat": 58,
    "factors": {
-    "recency": 77,
+    "recency": 93,
     "authority": 75,
     "coverage": 0,
-    "signal": 52
+    "signal": 30
    },
    "sources": [
     {
      "id": "ithome",
      "name": "IT之家",
-     "url": "https://www.ithome.com/1/029/758.htm"
+     "url": "https://www.ithome.com/1/030/226.htm"
     }
    ],
    "keywords": [
-    "visa",
-    "万事",
-    "事达",
-    "达卡",
-    "卡接",
-    "接连",
-    "连通",
-    "通报"
+    "gta",
+    "作弊",
+    "弊码",
+    "码公",
+    "公布",
+    "通关",
+    "关游",
+    "游戏"
    ]
   },
   {
-   "id": "t38",
-   "rank": 38,
-   "title": "侨联四海·贸通全球——袁州区组织海外江西侨团代表来袁考察交流",
-   "url": "https://www.chinanews.com.cn/txy/2026/11-20/10735108.shtml",
-   "summary": "为进一步搭建袁州与海外江西侨团常态化联络对接平台，充分发挥海外侨团资源纽带作用，推介我区跨境电商、数字经济产业优势和优质营商环境，畅通“宜品出海”通道，促进海内外供需对接、资源互通与项目合作，助力本土企业开拓国际市场，吸引侨商回乡投资兴业，11月13日下午，袁州区组织海外江西侨团代表来袁考察交流，区委副书记、区长彭宇波，区委常委、统战部部长刘莉等出席相关活动…",
-   "category": "china",
+   "id": "t21",
+   "rank": 21,
+   "title": "S16 决赛游记：我在纽约度过了和《英雄联盟》的一周",
+   "url": "https://www.gcores.com/articles/222593",
+   "summary": "「11月14日 · 决赛日」—— 曼哈顿大桥·纽约 中午 11 点半左右，纽约出了太阳，气温也开始变得舒适轻快。 我们在官方的指引下乘坐大巴，穿过曼哈顿大桥，前往布鲁克林的巴克莱中心。 等车的时候，我见到了几位退役的英雄联盟职业选手。时隔多年，我们的身份都早已不同，但最终还是因为《英雄联盟》一起来到了纽约。我和伞皇、Smeb 打了招呼，他们也礼貌地对我微笑…",
+   "category": "game",
    "lang": "zh",
-   "publishedAt": "2026-11-20T02:46:49.000Z",
-   "heat": 56,
+   "publishedAt": "2026-11-20T11:00:00.000Z",
+   "heat": 58,
    "factors": {
-    "recency": 97,
+    "recency": 89,
     "authority": 80,
     "coverage": 0,
-    "signal": 10
+    "signal": 30
    },
    "sources": [
     {
-     "id": "chinanews",
-     "name": "中国新闻网",
-     "url": "https://www.chinanews.com.cn/txy/2026/11-20/10735108.shtml"
+     "id": "gcores",
+     "name": "机核 GCORES",
+     "url": "https://www.gcores.com/articles/222593"
     }
    ],
    "keywords": [
-    "侨联",
-    "联四",
-    "四海",
-    "贸通",
-    "通全",
-    "全球",
-    "袁州",
-    "州区"
+    "s16",
+    "决赛",
+    "赛游",
+    "游记",
+    "我在",
+    "在纽",
+    "纽约",
+    "约度"
    ]
   },
   {
-   "id": "t39",
-   "rank": 39,
-   "title": "高安市召开统战系统学习党的二十届五中全会精神宣讲会",
-   "url": "https://www.chinanews.com.cn/txy/2026/11-20/10735105.shtml",
-   "summary": "11月18日，高安市召开统战系统学习贯彻党的二十届五中全会精神宣讲会，市委常委、统战部部长晏瑜作专题宣讲，各民主党派、知联会、新联会、欧美同学会及非公经济人士代表50余人参加。",
-   "category": "china",
-   "lang": "zh",
-   "publishedAt": "2026-11-20T02:46:15.000Z",
-   "heat": 56,
-   "factors": {
-    "recency": 97,
-    "authority": 80,
-    "coverage": 0,
-    "signal": 10
-   },
-   "sources": [
-    {
-     "id": "chinanews",
-     "name": "中国新闻网",
-     "url": "https://www.chinanews.com.cn/txy/2026/11-20/10735105.shtml"
-    }
-   ],
-   "keywords": [
-    "高安",
-    "安市",
-    "市召",
-    "召开",
-    "开统",
-    "统战",
-    "战系",
-    "系统"
-   ]
-  },
-  {
-   "id": "t40",
-   "rank": 40,
-   "title": "五菱缤果 Pro 新增宁德时代电芯版，将于 11 月 24 日正式上市",
-   "url": "https://www.ithome.com/1/029/797.htm",
-   "summary": "IT之家 11 月 20 日消息，五菱汽车今日宣布为缤果 Pro 增推新的宁德时代电芯版，将于 11 月 24 日正式上市。 新车在外观、尺寸与动力上均与现款保持一致，核心变化在于电芯供应商的扩展。这也是五菱旗下 A0 级纯电代步车首次引入宁德时代电芯。 缤果 Pro 目前在售车型共 4 款配置，指导价区间为 5.68 万至 7.08 万元。车身长宽高为 4…",
+   "id": "t22",
+   "rank": 22,
+   "title": "华为余承东：享界 V8 上市 2 小时，大定突破 2216 台",
+   "url": "https://www.ithome.com/1/030/229.htm",
+   "summary": "IT之家 11 月 20 日消息，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东发文表示，享界 V8 上市 2 小时，大定突破 2216 台。 享界 V8 今天正式上市！上市 2 小时，大定突破 2216 台！感谢大家的支持。 这台 MPV 很多设计巧思，都来自家庭用户真实的用车需求。674L 超大后备箱带下沉空间，婴儿车不用折叠就能直接放下…",
    "category": "tech",
    "lang": "zh",
-   "publishedAt": "2026-11-20T02:07:01.000Z",
+   "publishedAt": "2026-11-20T12:03:32.000Z",
+   "heat": 57,
+   "factors": {
+    "recency": 95,
+    "authority": 75,
+    "coverage": 0,
+    "signal": 22
+   },
+   "sources": [
+    {
+     "id": "ithome",
+     "name": "IT之家",
+     "url": "https://www.ithome.com/1/030/229.htm"
+    }
+   ],
+   "keywords": [
+    "2216",
+    "华为",
+    "为余",
+    "余承",
+    "承东",
+    "享界",
+    "上市",
+    "小时"
+   ]
+  },
+  {
+   "id": "t23",
+   "rank": 23,
+   "title": "零跑与欧宝正式签署合作协议：共同开发全新 C 级 SUV 车型，预计 2028 年开售",
+   "url": "https://www.ithome.com/1/030/234.htm",
+   "summary": "IT之家 11 月 20 日消息，零跑科技创始人、董事长兼 CEO 朱江明与欧宝 CEO Florian Huettl 正式签署合作协议，双方将共同开发一款全新的 C 级 SUV 车型。 目前，双方项目团队已分别在中国杭州和德国吕塞尔斯海姆的联合项目中心开展相关工作，本次签约将进一步推动该项目的开发进程。 官方表示，全新欧宝 C 级 SUV 车型的开发是零跑…",
+   "category": "tech",
+   "lang": "zh",
+   "publishedAt": "2026-11-20T12:23:14.000Z",
+   "heat": 56,
+   "factors": {
+    "recency": 97,
+    "authority": 75,
+    "coverage": 0,
+    "signal": 12
+   },
+   "sources": [
+    {
+     "id": "ithome",
+     "name": "IT之家",
+     "url": "https://www.ithome.com/1/030/234.htm"
+    }
+   ],
+   "keywords": [
+    "suv",
+    "2028",
+    "零跑",
+    "跑与",
+    "与欧",
+    "欧宝",
+    "宝正",
+    "正式"
+   ]
+  },
+  {
+   "id": "t24",
+   "rank": 24,
+   "title": "三年销售目标 700 亿，京东与华为 OSTA 星芒达成战略合作",
+   "url": "https://www.ithome.com/1/030/227.htm",
+   "summary": "IT之家 11 月 20 日消息，华为全新子品牌“OSTA 星芒”今日正式亮相，“首款为 AI 而生的鸿蒙手机”OSTA O1 Pro 同步发布，首发价 5499 元起。 IT之家获悉，近日，京东与华为 OSTA 星芒签署战略合作协议，明确未来三年华为 OSTA 星芒在京东实现全品类销售额 700 亿的目标。 根据协议，双方将围绕产品服务、用户运营、AI 生…",
+   "category": "tech",
+   "lang": "zh",
+   "publishedAt": "2026-11-20T11:51:33.000Z",
    "heat": 56,
    "factors": {
     "recency": 93,
@@ -1358,18 +821,557 @@
     {
      "id": "ithome",
      "name": "IT之家",
-     "url": "https://www.ithome.com/1/029/797.htm"
+     "url": "https://www.ithome.com/1/030/227.htm"
     }
    ],
    "keywords": [
-    "pro",
-    "五菱",
-    "菱缤",
-    "缤果",
-    "新增",
-    "增宁",
-    "宁德",
-    "德时"
+    "700",
+    "osta",
+    "三年",
+    "年销",
+    "销售",
+    "售目",
+    "目标",
+    "京东"
+   ]
+  },
+  {
+   "id": "t25",
+   "rank": 25,
+   "title": "WeGame版《怪物猎人：旅人》先导预告",
+   "url": "https://www.ign.com.cn/monsterhunteroutlanders/64188/wegameban-guai-wu-xi-ren-lu-ren-xian-dao-yu-gao",
+   "summary": "更多进展将陆续公布 WeGame 2026 发布会上，WeGame版《怪物猎人：旅人》首次亮相！此外主角冒险家狩猎融光种火龙的实机片段与村庄场景一并呈现。目前WeGame版正在紧锣密鼓开发中，更多进展将陆续公布。",
+   "category": "game",
+   "lang": "zh",
+   "publishedAt": "2026-11-20T11:51:25.000Z",
+   "heat": 56,
+   "factors": {
+    "recency": 94,
+    "authority": 75,
+    "coverage": 0,
+    "signal": 18
+   },
+   "sources": [
+    {
+     "id": "ign-cn",
+     "name": "IGN 中国",
+     "url": "https://www.ign.com.cn/monsterhunteroutlanders/64188/wegameban-guai-wu-xi-ren-lu-ren-xian-dao-yu-gao"
+    }
+   ],
+   "keywords": [
+    "wegame",
+    "怪物",
+    "物猎",
+    "猎人",
+    "旅人",
+    "先导",
+    "导预",
+    "预告"
+   ]
+  },
+  {
+   "id": "t26",
+   "rank": 26,
+   "title": "文远知行 2026 财年前三季度归母亏损 11 亿元",
+   "url": "https://www.ithome.com/1/030/224.htm",
+   "summary": "IT之家 11 月 20 日消息，文远知行今日发布 2026 财年（2026 年 1 月～2026 年 12 月）前三季度（2026 年 1 月～2026 年 9 月）及第三财季（2026 年 7 月～2026 年 9 月）报告： 2026 财年前三季度 营业总收入：6.67 亿元 毛利润：2.65 亿元 毛利率：39.6% 归母净利润：-11 亿元 基本每…",
+   "category": "tech",
+   "lang": "zh",
+   "publishedAt": "2026-11-20T11:41:22.000Z",
+   "heat": 56,
+   "factors": {
+    "recency": 92,
+    "authority": 75,
+    "coverage": 0,
+    "signal": 22
+   },
+   "sources": [
+    {
+     "id": "ithome",
+     "name": "IT之家",
+     "url": "https://www.ithome.com/1/030/224.htm"
+    }
+   ],
+   "keywords": [
+    "2026",
+    "文远",
+    "远知",
+    "知行",
+    "财年",
+    "年前",
+    "前三",
+    "三季"
+   ]
+  },
+  {
+   "id": "t27",
+   "rank": 27,
+   "title": "腾讯 WorkBuddy 上线电脑操控能力：能识别当前页面，进行点击、输入、滚动等操作",
+   "url": "https://www.ithome.com/1/030/222.htm",
+   "summary": "IT之家 11 月 20 日消息，腾讯 WorkBuddy 今日宣布，WorkBuddy 上线电脑操控（Computer Use）能力。能识别当前页面，看懂客户端界面，进行点击、输入、滚动等操作，不需要目标软件开放接口，就能在后台操作。 IT之家获悉，电脑操控目前处于公测体验阶段，支持 macOS 和 Windows，需更新客户端至 5.11.0 及以上版本…",
+   "category": "tech",
+   "lang": "zh",
+   "publishedAt": "2026-11-20T11:25:49.000Z",
+   "heat": 56,
+   "factors": {
+    "recency": 90,
+    "authority": 75,
+    "coverage": 0,
+    "signal": 26
+   },
+   "sources": [
+    {
+     "id": "ithome",
+     "name": "IT之家",
+     "url": "https://www.ithome.com/1/030/222.htm"
+    }
+   ],
+   "keywords": [
+    "workbuddy",
+    "腾讯",
+    "上线",
+    "线电",
+    "电脑",
+    "脑操",
+    "操控",
+    "控能"
+   ]
+  },
+  {
+   "id": "t28",
+   "rank": 28,
+   "title": "《足球经理27》实体版今日发售",
+   "url": "https://www.gcores.com/articles/222582",
+   "summary": "­­世嘉宣布，Sports Interactive工作室打造的经典足球俱乐部模拟经营游戏系列“足球经理（Football Manager）”全新作《足球经理27主机版》（Football Manager 27 Console）后文简称《FM27主机版》）PlayStation5实体版今日（11月20日）已正式发售。 《足球经理》是由世嘉与英国游戏工作室Spo…",
+   "category": "game",
+   "lang": "zh",
+   "publishedAt": "2026-11-20T07:13:03.000Z",
+   "heat": 56,
+   "factors": {
+    "recency": 69,
+    "authority": 80,
+    "coverage": 0,
+    "signal": 56
+   },
+   "sources": [
+    {
+     "id": "gcores",
+     "name": "机核 GCORES",
+     "url": "https://www.gcores.com/articles/222582"
+    }
+   ],
+   "keywords": [
+    "足球",
+    "球经",
+    "经理",
+    "实体",
+    "体版",
+    "版今",
+    "今日",
+    "日发"
+   ]
+  },
+  {
+   "id": "t29",
+   "rank": 29,
+   "title": "滑雪逃离北极熊追杀：极地末日生存游戏《POLYARIS》宣布明年 1 月 20 日登陆 Steam",
+   "url": "https://www.ithome.com/1/030/233.htm",
+   "summary": "IT之家 11 月 20 日消息，独立开发团队 Magic Pie 宣布旗下开放世界生存游戏《POLYARIS》将于 2027 年 1 月 20 日登陆 Steam 平台，IT之家附游戏商品页（https://store.steampowered.com/app/2979810/POLYARIS/?snr=1_5_1100__1100&utm_source=…",
+   "category": "tech",
+   "lang": "zh",
+   "publishedAt": "2026-11-20T12:21:00.000Z",
+   "heat": 55,
+   "factors": {
+    "recency": 97,
+    "authority": 75,
+    "coverage": 0,
+    "signal": 8
+   },
+   "sources": [
+    {
+     "id": "ithome",
+     "name": "IT之家",
+     "url": "https://www.ithome.com/1/030/233.htm"
+    }
+   ],
+   "keywords": [
+    "polyaris",
+    "steam",
+    "滑雪",
+    "雪逃",
+    "逃离",
+    "离北",
+    "北极",
+    "极熊"
+   ]
+  },
+  {
+   "id": "t30",
+   "rank": 30,
+   "title": "2027 款凯翼昆仑官图车型公布，将于 12 月 8 日正式上市",
+   "url": "https://www.ithome.com/1/030/207.htm",
+   "summary": "IT之家 11 月 20 日消息，凯翼汽车现已发布 2027 款昆仑官图，新车定位“智能宽适大七座 SUV”，将于 12 月 8 日正式上市。 该车尺寸为 4749×1968×1708mm，轴距为 2820mm。整体延续“昆驭美学”设计语言，车头搭配星芒贯穿灯组，车身采用传统造型门把手，车尾采用星斗折线尾灯。车辆首次引入琥珀棕高级定制化内饰，二三排座椅放倒后…",
+   "category": "tech",
+   "lang": "zh",
+   "publishedAt": "2026-11-20T11:15:40.000Z",
+   "heat": 55,
+   "factors": {
+    "recency": 89,
+    "authority": 75,
+    "coverage": 0,
+    "signal": 22
+   },
+   "sources": [
+    {
+     "id": "ithome",
+     "name": "IT之家",
+     "url": "https://www.ithome.com/1/030/207.htm"
+    }
+   ],
+   "keywords": [
+    "2027",
+    "款凯",
+    "凯翼",
+    "翼昆",
+    "昆仑",
+    "仑官",
+    "官图",
+    "图车"
+   ]
+  },
+  {
+   "id": "t31",
+   "rank": 31,
+   "title": "阿里发布2027年Q2财报：阿里云AI收入增长53%，即时零售减亏",
+   "url": "https://www.tmtpost.com/8212798.html",
+   "summary": "AI相关产品收入已经连续第十三个季度保持三位数同比增长，互联网、汽车、具身智能、金融、生物科技等行业客户持续扩容算力采购需求。",
+   "category": "tech",
+   "lang": "zh",
+   "publishedAt": "2026-11-20T10:31:54.000Z",
+   "heat": 55,
+   "factors": {
+    "recency": 84,
+    "authority": 60,
+    "coverage": 0,
+    "signal": 48
+   },
+   "sources": [
+    {
+     "id": "tmtpost",
+     "name": "钛媒体",
+     "url": "https://www.tmtpost.com/8212798.html"
+    }
+   ],
+   "keywords": [
+    "2027",
+    "阿里",
+    "里发",
+    "发布",
+    "财报",
+    "里云",
+    "收入",
+    "入增"
+   ]
+  },
+  {
+   "id": "t32",
+   "rank": 32,
+   "title": "玩家在《极限竞速：地平线 6》中偶遇已故好友 Drivatar AI 车手，得以再次“并肩驾车”重温昨日时光",
+   "url": "https://www.ithome.com/1/030/231.htm",
+   "summary": "IT之家 11 月 20 日消息，《极限竞速：地平线 6（Forza Horizon 6）》玩家 Samohteht 近日分享了一段令人动容的游戏经历。他在游戏中意外遇见了 4 个月前离世的好友留在游戏里的 Drivatar AI 车手，两人得以再次并肩驾车巡航，这段视频在社交平台引发广泛关注，也让不少玩家想起了自己曾通过游戏与故人重逢的经历。 参考 Sam…",
+   "category": "tech",
+   "lang": "zh",
+   "publishedAt": "2026-11-20T12:14:02.000Z",
+   "heat": 54,
+   "factors": {
+    "recency": 96,
+    "authority": 75,
+    "coverage": 0,
+    "signal": 8
+   },
+   "sources": [
+    {
+     "id": "ithome",
+     "name": "IT之家",
+     "url": "https://www.ithome.com/1/030/231.htm"
+    }
+   ],
+   "keywords": [
+    "drivatar",
+    "玩家",
+    "家在",
+    "极限",
+    "限竞",
+    "竞速",
+    "地平",
+    "平线"
+   ]
+  },
+  {
+   "id": "t33",
+   "rank": 33,
+   "title": "El Salvador: Nayib Bukele, self-proclaimed “coolest dictator on earth”, is seeking a third term",
+   "url": "https://www.france24.com/en/el-salvador-nayib-bukele-self-proclaimed-coolest-dictator-on-earth-is-seeking-a-third-term",
+   "summary": "🇸🇻 El Salvador’s President Nayib Bukele, who calls himself the “coolest dictator on earth”, is seeking a third term after changing the Constitution to scrap presidential term lim…",
+   "category": "world",
+   "lang": "en",
+   "publishedAt": "2026-11-20T12:07:14.000Z",
+   "heat": 54,
+   "factors": {
+    "recency": 94,
+    "authority": 85,
+    "coverage": 0,
+    "signal": 0
+   },
+   "sources": [
+    {
+     "id": "france24",
+     "name": "France 24",
+     "url": "https://www.france24.com/en/el-salvador-nayib-bukele-self-proclaimed-coolest-dictator-on-earth-is-seeking-a-third-term"
+    }
+   ],
+   "keywords": [
+    "salvador",
+    "nayib",
+    "bukele",
+    "self-proclaimed",
+    "coolest",
+    "dictator",
+    "earth",
+    "seeking"
+   ]
+  },
+  {
+   "id": "t34",
+   "rank": 34,
+   "title": "🔴 France seeks UN Security Council meeting after Russian strikes hit European embassies in Kyiv",
+   "url": "https://www.france24.com/en/europe/20261120-live-deadly-russian-attacks-damage-two-bridges-in-kyiv-mayor-says",
+   "summary": "",
+   "category": "world",
+   "lang": "en",
+   "publishedAt": "2026-11-20T12:04:16.000Z",
+   "heat": 54,
+   "factors": {
+    "recency": 94,
+    "authority": 85,
+    "coverage": 0,
+    "signal": 0
+   },
+   "sources": [
+    {
+     "id": "france24",
+     "name": "France 24",
+     "url": "https://www.france24.com/en/europe/20261120-live-deadly-russian-attacks-damage-two-bridges-in-kyiv-mayor-says"
+    }
+   ],
+   "keywords": [
+    "france",
+    "seeks",
+    "security",
+    "council",
+    "meeting",
+    "after",
+    "russian",
+    "strikes"
+   ]
+  },
+  {
+   "id": "t35",
+   "rank": 35,
+   "title": "倒卖国产桌面操作系统激活权限非法获利 60 余万元，侵权人获缓刑并处罚金 66 万元",
+   "url": "https://www.ithome.com/1/030/223.htm",
+   "summary": "IT之家 11 月 20 日消息，最高人民检察院今日发布服务新质生产力发展典型案例。 天津某软件有限公司（以下简称某公司）系某款国产桌面操作系统的著作权人，该操作系统广泛应用于机关及企事业单位。该公司在销售上述桌面操作系统时，明确约定保留软件著作权，仅授予购买方非排他、不可转让的使用权许可，代理商及终端用户均无权私自转让、二次销售系统镜像文件及激活权限。 2…",
+   "category": "tech",
+   "lang": "zh",
+   "publishedAt": "2026-11-20T11:40:56.000Z",
+   "heat": 54,
+   "factors": {
+    "recency": 92,
+    "authority": 75,
+    "coverage": 0,
+    "signal": 12
+   },
+   "sources": [
+    {
+     "id": "ithome",
+     "name": "IT之家",
+     "url": "https://www.ithome.com/1/030/223.htm"
+    }
+   ],
+   "keywords": [
+    "倒卖",
+    "卖国",
+    "国产",
+    "产桌",
+    "桌面",
+    "面操",
+    "操作",
+    "作系"
+   ]
+  },
+  {
+   "id": "t36",
+   "rank": 36,
+   "title": "日本核心CPI连续62个月上涨",
+   "url": "https://www.chinanews.com.cn/gj/2026/11-20/10735435.shtml",
+   "summary": "中新社东京11月20日电(记者 朱晨曦)日本总务省20日公布的数据显示，10月日本去除生鲜食品后的核心消费价格指数(CPI)同比上升2.2%至102.9，连续62个月同比上涨。",
+   "category": "world",
+   "lang": "zh",
+   "publishedAt": "2026-11-20T11:17:53.000Z",
+   "heat": 54,
+   "factors": {
+    "recency": 87,
+    "authority": 75,
+    "coverage": 0,
+    "signal": 22
+   },
+   "sources": [
+    {
+     "id": "chinanews-world",
+     "name": "中新网·国际",
+     "url": "https://www.chinanews.com.cn/gj/2026/11-20/10735435.shtml"
+    }
+   ],
+   "keywords": [
+    "cpi",
+    "日本",
+    "本核",
+    "核心",
+    "连续",
+    "个月",
+    "月上",
+    "上涨"
+   ]
+  },
+  {
+   "id": "t37",
+   "rank": 37,
+   "title": "日本核心CPI连续62个月上涨 民调显示高市应对通胀措施遭质疑",
+   "url": "https://www.chinanews.com.cn/gj/2026/11-20/10735447.shtml",
+   "summary": "中新网11月20日电 日本总务省20日公布的数据显示，剔除生鲜食品后，日本10月核心消费价格指数(CPI)同比上涨2.2%，涨幅连续两个月超过日本央行设定的2%目标水平。日媒指出，截至10月，日本核心CPI已连续62个月同比上涨。",
+   "category": "world",
+   "lang": "zh",
+   "publishedAt": "2026-11-20T11:03:54.000Z",
+   "heat": 54,
+   "factors": {
+    "recency": 86,
+    "authority": 75,
+    "coverage": 0,
+    "signal": 22
+   },
+   "sources": [
+    {
+     "id": "chinanews-world",
+     "name": "中新网·国际",
+     "url": "https://www.chinanews.com.cn/gj/2026/11-20/10735447.shtml"
+    }
+   ],
+   "keywords": [
+    "cpi",
+    "日本",
+    "本核",
+    "核心",
+    "连续",
+    "个月",
+    "月上",
+    "上涨"
+   ]
+  },
+  {
+   "id": "t38",
+   "rank": 38,
+   "title": "美官员披露：美国已为伊朗战事花费超480亿美元",
+   "url": "https://www.chinanews.com.cn/gj/2026/11-20/10735436.shtml",
+   "summary": "中新网11月20日电 美国国防部官员19日表示，截至11月13日，美国对伊朗战事的花费估计已升至483亿美元。这一数字不包括中东地区美军基地遇袭的损失，目前，国会议员正敦促五角大楼公布相关数据。同日，美国总统特朗普在接受记者采访时说，他不会在新年到来前“仓促”决定对伊朗的下一步行动。",
+   "category": "world",
+   "lang": "zh",
+   "publishedAt": "2026-11-20T10:55:18.000Z",
+   "heat": 53,
+   "factors": {
+    "recency": 84,
+    "authority": 75,
+    "coverage": 0,
+    "signal": 22
+   },
+   "sources": [
+    {
+     "id": "chinanews-world",
+     "name": "中新网·国际",
+     "url": "https://www.chinanews.com.cn/gj/2026/11-20/10735436.shtml"
+    }
+   ],
+   "keywords": [
+    "480",
+    "美官",
+    "官员",
+    "员披",
+    "披露",
+    "美国",
+    "国已",
+    "已为"
+   ]
+  },
+  {
+   "id": "t39",
+   "rank": 39,
+   "title": "你什么皮肤？录音笔VOL.830",
+   "url": "https://www.gcores.com/radios/222584",
+   "summary": "【录音笔】是GPASS推出的一档会员专享节目，内容来自机核办公室日程生活和工作中的一些短小记录，每期时长十几分钟左右（大概吧）。内容也许是一些不成体统的碎碎念，也许是一些突然发疯的暴言，还有可能是哪个缺德的把办公室里真实的日常对话（dui ma）偷偷录了下来，总之就连我们自己现在也不知道每期会有哪些人参与，会录些什么。",
+   "category": "game",
+   "lang": "zh",
+   "publishedAt": "2026-11-20T09:00:00.000Z",
+   "heat": 53,
+   "factors": {
+    "recency": 78,
+    "authority": 80,
+    "coverage": 0,
+    "signal": 26
+   },
+   "sources": [
+    {
+     "id": "gcores",
+     "name": "机核 GCORES",
+     "url": "https://www.gcores.com/radios/222584"
+    }
+   ],
+   "keywords": [
+    "vol.830",
+    "你什",
+    "什么",
+    "么皮",
+    "皮肤",
+    "录音",
+    "音笔"
+   ]
+  },
+  {
+   "id": "t40",
+   "rank": 40,
+   "title": "《幻视任务》评测",
+   "url": "https://www.ign.com.cn/vision-quest/64187/huan-shi-ren-wu-ping-ce",
+   "summary": "漫威走心了 《幻视任务》让我们欣喜的看到，漫威不只再一味依赖宏大世界观或角色集结，而是重新找回对人物本身的关注。毕竟，真正能够撬动影迷热情的，始终还是高质量的故事与饱满的人物，这或许也是漫威在下一阶段布局的关键所在。",
+   "category": "game",
+   "lang": "zh",
+   "publishedAt": "2026-11-20T08:46:19.000Z",
+   "heat": 53,
+   "factors": {
+    "recency": 77,
+    "authority": 75,
+    "coverage": 0,
+    "signal": 34
+   },
+   "sources": [
+    {
+     "id": "ign-cn",
+     "name": "IGN 中国",
+     "url": "https://www.ign.com.cn/vision-quest/64187/huan-shi-ren-wu-ping-ce"
+    }
+   ],
+   "keywords": [
+    "幻视",
+    "视任",
+    "任务",
+    "评测"
    ]
   }
  ]
