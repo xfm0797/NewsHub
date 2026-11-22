@@ -1,0 +1,1376 @@
+{
+ "date": "2026-11-22",
+ "generatedAt": "2026-11-22T02:05:38+00:00",
+ "stats": {
+  "total": 60,
+  "sources": 16,
+  "sourcesOk": 15,
+  "categories": {
+   "china": 15,
+   "world": 15,
+   "tech": 15,
+   "game": 15
+  },
+  "windowHours": 48
+ },
+ "topics": [
+  {
+   "id": "t1",
+   "rank": 1,
+   "title": "腾讯《怪物猎人：旅人》PC 版本首次亮相，游戏移动端预计年内上线",
+   "url": "https://www.ithome.com/1/030/526.htm",
+   "summary": "IT之家 11 月 22 日消息，腾讯《怪物猎人：旅人》官方微博昨日发布视频，首次公开了本作的 PC 版本。 这支视频展示的是《怪物猎人：旅人》开发中画面，呈现了主角冒险家狩猎融光种火龙的实机片段与村庄场景。游戏官方表示，PC 版本正在紧锣密鼓开发中，更多进展将陆续公布。 IT之家注：《怪物猎人：旅人》是由卡普空正版授权、腾讯天美工作室群开发的《怪物猎人》系…",
+   "category": "tech",
+   "lang": "zh",
+   "publishedAt": "2026-11-22T00:23:27.000Z",
+   "heat": 65,
+   "factors": {
+    "recency": 88,
+    "authority": 75,
+    "coverage": 0,
+    "signal": 70
+   },
+   "sources": [
+    {
+     "id": "ithome",
+     "name": "IT之家",
+     "url": "https://www.ithome.com/1/030/526.htm"
+    }
+   ],
+   "keywords": [
+    "腾讯",
+    "怪物",
+    "物猎",
+    "猎人",
+    "旅人",
+    "版本",
+    "本首",
+    "首次"
+   ]
+  },
+  {
+   "id": "t2",
+   "rank": 2,
+   "title": "关于混元 4 模型、算力、刷榜与 RSI，姚顺雨回应一切",
+   "url": "http://www.geekpark.net/news/374301",
+   "summary": "头图来源：ChatGPT 生成 11 月 21 日凌晨，腾讯首席 AI 科学家、混元大模型负责人姚顺雨和混元团队的研究员现身 Reddit LocalLLaMA 社区，开启了混元团队史上第一场面向全球开发者的公开 AMA。 图片来源：x 两小时内，姚顺雨和混元团队解答了 300 余条开发者提问，从底层架构取舍到长期路线规划，从量化落地经验到开源生态适配，几乎…",
+   "category": "tech",
+   "lang": "zh",
+   "publishedAt": "2026-11-22T01:56:28.000Z",
+   "heat": 61,
+   "factors": {
+    "recency": 99,
+    "authority": 60,
+    "coverage": 0,
+    "signal": 48
+   },
+   "sources": [
+    {
+     "id": "geekpark",
+     "name": "极客公园",
+     "url": "http://www.geekpark.net/news/374301"
+    }
+   ],
+   "keywords": [
+    "rsi",
+    "关于",
+    "于混",
+    "混元",
+    "模型",
+    "算力",
+    "刷榜",
+    "榜与"
+   ]
+  },
+  {
+   "id": "t3",
+   "rank": 3,
+   "title": "搜狐张朝阳回应“被证监会出具警示函”：此张朝阳不是我",
+   "url": "https://www.ithome.com/1/030/533.htm",
+   "summary": "IT之家 11 月 22 日消息，11 月 20 日，北京证监局披露的一则对“张朝阳”出具警示函的信息在网络传播，部分舆论误将其与搜狐创始人、董事局主席兼首席执行官张朝阳关联。 IT之家注意到，张朝阳本人在搜狐视频关注流回应：“此张朝阳不是我”“首先我并没有收到警示函，其次我也没有从事证券咨询业啊”。同时，他还吐槽：“看来 AI 还是不行，区别不了同名同姓的…",
+   "category": "tech",
+   "lang": "zh",
+   "publishedAt": "2026-11-22T00:59:23.000Z",
+   "heat": 61,
+   "factors": {
+    "recency": 92,
+    "authority": 75,
+    "coverage": 0,
+    "signal": 44
+   },
+   "sources": [
+    {
+     "id": "ithome",
+     "name": "IT之家",
+     "url": "https://www.ithome.com/1/030/533.htm"
+    }
+   ],
+   "keywords": [
+    "搜狐",
+    "狐张",
+    "张朝",
+    "朝阳",
+    "阳回",
+    "回应",
+    "被证",
+    "证监"
+   ]
+  },
+  {
+   "id": "t4",
+   "rank": 4,
+   "title": "香港特区2026年选举委员会界别分组一般选举今日举行",
+   "url": "https://www.jiemian.com/article/15358545.html",
+   "summary": "",
+   "category": "china",
+   "lang": "zh",
+   "publishedAt": "2026-11-22T01:04:51.000Z",
+   "heat": 59,
+   "factors": {
+    "recency": 89,
+    "authority": 70,
+    "coverage": 0,
+    "signal": 48
+   },
+   "sources": [
+    {
+     "id": "jiemian",
+     "name": "界面新闻",
+     "url": "https://www.jiemian.com/article/15358545.html"
+    }
+   ],
+   "keywords": [
+    "2026",
+    "香港",
+    "港特",
+    "特区",
+    "年选",
+    "选举",
+    "举委",
+    "委员"
+   ]
+  },
+  {
+   "id": "t5",
+   "rank": 5,
+   "title": "特朗普：将寻求与伊朗达成一项“永久性”协议",
+   "url": "https://www.chinanews.com.cn/gj/2026/11-22/10735946.shtml",
+   "summary": "中新网11月22日电 综合美媒21日报道，美国总统特朗普在采访节目中表示，将寻求与伊朗达成一项“永久性”协议。",
+   "category": "china",
+   "lang": "zh",
+   "publishedAt": "2026-11-21T22:57:54.000Z",
+   "heat": 59,
+   "factors": {
+    "recency": 70,
+    "authority": 80,
+    "coverage": 57,
+    "signal": 18
+   },
+   "sources": [
+    {
+     "id": "chinanews",
+     "name": "中国新闻网",
+     "url": "https://www.chinanews.com.cn/gj/2026/11-22/10735946.shtml"
+    },
+    {
+     "id": "jiemian",
+     "name": "界面新闻",
+     "url": "https://www.jiemian.com/article/15358495.html"
+    }
+   ],
+   "keywords": [
+    "特朗",
+    "朗普",
+    "将寻",
+    "寻求",
+    "求与",
+    "与伊",
+    "伊朗",
+    "朗达"
+   ]
+  },
+  {
+   "id": "t6",
+   "rank": 6,
+   "title": "告别“全损音质”：微软 Win11 系统将改进蓝牙耳机开麦体验",
+   "url": "https://www.ithome.com/1/030/535.htm",
+   "summary": "IT之家 11 月 22 日消息，据科技媒体 Windows Latest 今天报道，Windows 用户多年来应该都有一个抱怨，就是使用蓝牙耳机开麦时，耳边的声音宛如“全损音质”一般。 例如，当你一边玩游戏或通过 Discord 开麦，然后使用蓝牙耳机听音乐时，耳机播放的声音就会突然变得沉闷、模糊。这个问题从 Windows 7 就开始有，只要麦克风处于工…",
+   "category": "tech",
+   "lang": "zh",
+   "publishedAt": "2026-11-22T01:14:10.000Z",
+   "heat": 58,
+   "factors": {
+    "recency": 94,
+    "authority": 75,
+    "coverage": 0,
+    "signal": 30
+   },
+   "sources": [
+    {
+     "id": "ithome",
+     "name": "IT之家",
+     "url": "https://www.ithome.com/1/030/535.htm"
+    }
+   ],
+   "keywords": [
+    "win11",
+    "告别",
+    "全损",
+    "损音",
+    "音质",
+    "微软",
+    "系统",
+    "统将"
+   ]
+  },
+  {
+   "id": "t7",
+   "rank": 7,
+   "title": "科伦系迎80后新帅，185亿“输液大王”扶子“上位”",
+   "url": "https://www.jiemian.com/article/15358374.html",
+   "summary": "执掌科伦三十载后，身家185亿元的“输液大王”刘革新正式交棒给儿子刘思川。",
+   "category": "china",
+   "lang": "zh",
+   "publishedAt": "2026-11-22T01:32:47.000Z",
+   "heat": 57,
+   "factors": {
+    "recency": 94,
+    "authority": 70,
+    "coverage": 0,
+    "signal": 30
+   },
+   "sources": [
+    {
+     "id": "jiemian",
+     "name": "界面新闻",
+     "url": "https://www.jiemian.com/article/15358374.html"
+    }
+   ],
+   "keywords": [
+    "185",
+    "科伦",
+    "伦系",
+    "系迎",
+    "后新",
+    "新帅",
+    "输液",
+    "液大"
+   ]
+  },
+  {
+   "id": "t8",
+   "rank": 8,
+   "title": "美方拟禁止中国电信运营商直接获取美国互联网电话号码资源，商务部回应",
+   "url": "https://www.jiemian.com/article/15358564.html",
+   "summary": "",
+   "category": "china",
+   "lang": "zh",
+   "publishedAt": "2026-11-22T01:19:33.000Z",
+   "heat": 57,
+   "factors": {
+    "recency": 91,
+    "authority": 70,
+    "coverage": 0,
+    "signal": 36
+   },
+   "sources": [
+    {
+     "id": "jiemian",
+     "name": "界面新闻",
+     "url": "https://www.jiemian.com/article/15358564.html"
+    }
+   ],
+   "keywords": [
+    "美方",
+    "方拟",
+    "拟禁",
+    "禁止",
+    "止中",
+    "中国",
+    "国电",
+    "电信"
+   ]
+  },
+  {
+   "id": "t9",
+   "rank": 9,
+   "title": "神舟二十四号展开全系统合练 备份应急体系如何护航发射？",
+   "url": "https://www.chinanews.com.cn/gn/2026/11-22/10735952.shtml",
+   "summary": "神舟二十四号载人飞行任务各系统昨天(21日)在酒泉卫星发射中心进行发射场区合练。此次合练覆盖火箭、飞船、发射场、测控通信等全要素，标志着任务各系统已完全具备发射条件，发射进入倒计时阶段。",
+   "category": "china",
+   "lang": "zh",
+   "publishedAt": "2026-11-22T01:37:48.000Z",
+   "heat": 56,
+   "factors": {
+    "recency": 95,
+    "authority": 80,
+    "coverage": 0,
+    "signal": 14
+   },
+   "sources": [
+    {
+     "id": "chinanews",
+     "name": "中国新闻网",
+     "url": "https://www.chinanews.com.cn/gn/2026/11-22/10735952.shtml"
+    }
+   ],
+   "keywords": [
+    "神舟",
+    "舟二",
+    "二十",
+    "十四",
+    "四号",
+    "号展",
+    "展开",
+    "开全"
+   ]
+  },
+  {
+   "id": "t10",
+   "rank": 10,
+   "title": "小鹏辟谣：警惕冒用小鹏汽车名义的“召回领赔偿”诈骗",
+   "url": "https://www.ithome.com/1/030/537.htm",
+   "summary": "IT之家 11 月 22 日消息，小鹏集团官方微博 @小鹏辟谣 昨日发文，提醒车主警惕冒用小鹏汽车名义的“召回领赔偿”诈骗。 近日，多家车企的车主收到不法分子冒用车企名义制作、传播的虚假召回通知，声称车主可领取赔偿，引导车主访问附带网站或扫描二维码，联系所谓“在线客服”登记个人及车辆信息。 为防患于未然，保护广大鹏友的合法权益，小鹏汽车在此郑重提示： 一、官…",
+   "category": "tech",
+   "lang": "zh",
+   "publishedAt": "2026-11-22T01:23:45.000Z",
+   "heat": 56,
+   "factors": {
+    "recency": 95,
+    "authority": 75,
+    "coverage": 0,
+    "signal": 18
+   },
+   "sources": [
+    {
+     "id": "ithome",
+     "name": "IT之家",
+     "url": "https://www.ithome.com/1/030/537.htm"
+    }
+   ],
+   "keywords": [
+    "小鹏",
+    "鹏辟",
+    "辟谣",
+    "警惕",
+    "惕冒",
+    "冒用",
+    "用小",
+    "鹏汽"
+   ]
+  },
+  {
+   "id": "t11",
+   "rank": 11,
+   "title": "青海德令哈5.6级地震 青藏铁路部分区间限速开行",
+   "url": "https://www.chinanews.com.cn/sh/2026/11-22/10735950.shtml",
+   "summary": "中新网西宁11月22日电(祁增蓓)记者21日从中国铁路青藏集团有限公司(以下简称“青藏集团公司”)获悉，当日18时45分，青海海西州德令哈市发生5.6级地震。地震波及青藏铁路西宁至格尔木段部分区段，截至目前，部分区间限速开行，部分列车或将晚点。",
+   "category": "china",
+   "lang": "zh",
+   "publishedAt": "2026-11-22T01:11:51.000Z",
+   "heat": 56,
+   "factors": {
+    "recency": 90,
+    "authority": 80,
+    "coverage": 0,
+    "signal": 22
+   },
+   "sources": [
+    {
+     "id": "chinanews",
+     "name": "中国新闻网",
+     "url": "https://www.chinanews.com.cn/sh/2026/11-22/10735950.shtml"
+    }
+   ],
+   "keywords": [
+    "5.6",
+    "青海",
+    "海德",
+    "德令",
+    "令哈",
+    "级地",
+    "地震",
+    "青藏"
+   ]
+  },
+  {
+   "id": "t12",
+   "rank": 12,
+   "title": "蔚来在欧洲推出 Haven 特别版萤火虫，预计 2027 年春季交付",
+   "url": "https://www.ithome.com/1/030/532.htm",
+   "summary": "IT之家 11 月 22 日消息，蔚来现已在挪威奥斯陆推出 Haven 特别版萤火虫车型。新车已开始预订，预计 2027 年春季交付。 IT之家了解到，这款车型主打自由理念，外观采用独家“宁静绿”金属车漆，可随光线变化展现微妙的色调变化，前后 Logo 灯与轮毂中心盖采用绿色配色，搭配全新设计的双色合金轮毂与黑色下车身，营造自信气场。 内饰方面，该车的方向盘…",
+   "category": "tech",
+   "lang": "zh",
+   "publishedAt": "2026-11-22T00:55:33.000Z",
+   "heat": 56,
+   "factors": {
+    "recency": 91,
+    "authority": 75,
+    "coverage": 0,
+    "signal": 22
+   },
+   "sources": [
+    {
+     "id": "ithome",
+     "name": "IT之家",
+     "url": "https://www.ithome.com/1/030/532.htm"
+    }
+   ],
+   "keywords": [
+    "haven",
+    "2027",
+    "蔚来",
+    "来在",
+    "在欧",
+    "欧洲",
+    "洲推",
+    "推出"
+   ]
+  },
+  {
+   "id": "t13",
+   "rank": 13,
+   "title": "华为 WATCH GT 6 发布 HarmonyOS 7.0.0.108 SP8 版本，表端支持微信来电接听和挂断",
+   "url": "https://www.ithome.com/1/030/527.htm",
+   "summary": "IT之家 11 月 22 日消息，华为官方宣布，HUAWEI WATCH GT 6 系列手表推出鸿蒙 HarmonyOS 7.0.0.108 SP8 版本升级，开始分批推送给 6.1.0.117 SP6 / 6.1.0.118 SP10 / 7.0.0.107 SP7 / 7.0.0.107 SP10 / 7.0.0.107 SP13 版本上的用户。 IT之…",
+   "category": "tech",
+   "lang": "zh",
+   "publishedAt": "2026-11-22T00:34:03.000Z",
+   "heat": 56,
+   "factors": {
+    "recency": 89,
+    "authority": 75,
+    "coverage": 0,
+    "signal": 26
+   },
+   "sources": [
+    {
+     "id": "ithome",
+     "name": "IT之家",
+     "url": "https://www.ithome.com/1/030/527.htm"
+    }
+   ],
+   "keywords": [
+    "watch",
+    "harmonyos",
+    "7.0.0.108",
+    "sp8",
+    "华为",
+    "发布",
+    "版本",
+    "表端"
+   ]
+  },
+  {
+   "id": "t14",
+   "rank": 14,
+   "title": "全国政协召开双周协商座谈会 围绕构建以先进制造业为骨干的现代化产业体系协商议政 王沪宁主持",
+   "url": "https://www.chinanews.com.cn/gn/2026/11-22/10735953.shtml",
+   "summary": "",
+   "category": "china",
+   "lang": "zh",
+   "publishedAt": "2026-11-22T01:58:08.000Z",
+   "heat": 55,
+   "factors": {
+    "recency": 99,
+    "authority": 80,
+    "coverage": 0,
+    "signal": 0
+   },
+   "sources": [
+    {
+     "id": "chinanews",
+     "name": "中国新闻网",
+     "url": "https://www.chinanews.com.cn/gn/2026/11-22/10735953.shtml"
+    }
+   ],
+   "keywords": [
+    "全国",
+    "国政",
+    "政协",
+    "协召",
+    "召开",
+    "开双",
+    "双周",
+    "周协"
+   ]
+  },
+  {
+   "id": "t15",
+   "rank": 15,
+   "title": "网易 UU 远程鸿蒙版 App（移动端）邀测开启，手机 / 平板原生适配",
+   "url": "https://www.ithome.com/1/030/541.htm",
+   "summary": "IT之家 11 月 22 日消息，据多位用户反馈，网易 UU 远程鸿蒙版 App 已开启邀请测试（手机 / 平板原生适配），获得资格的用户可在收到短信后点击对应链接跳转至华为应用市场 App Gallery 下载使用。 测试说明显示，本次测试为 UU 远程 HarmonyOS 版本的用户体验测试，面向 HarmonyOS 手机及平板用户，主要验证应用在真实设…",
+   "category": "tech",
+   "lang": "zh",
+   "publishedAt": "2026-11-22T01:47:42.000Z",
+   "heat": 55,
+   "factors": {
+    "recency": 98,
+    "authority": 75,
+    "coverage": 0,
+    "signal": 10
+   },
+   "sources": [
+    {
+     "id": "ithome",
+     "name": "IT之家",
+     "url": "https://www.ithome.com/1/030/541.htm"
+    }
+   ],
+   "keywords": [
+    "app",
+    "网易",
+    "远程",
+    "程鸿",
+    "鸿蒙",
+    "蒙版",
+    "移动",
+    "动端"
+   ]
+  },
+  {
+   "id": "t16",
+   "rank": 16,
+   "title": "2027 款岚图泰山旗舰纯电大六座 SUV 定档 11 月 27 日开启预售",
+   "url": "https://www.ithome.com/1/030/539.htm",
+   "summary": "IT之家 11 月 22 日消息，岚图汽车官方今日宣布，旗下“中式旗舰纯电大六座”SUV —— 2027 款岚图泰山将于 11 月 27 日正式开启预售。 目前，岚图汽车官方暂未公布 2027 款泰山更多配置信息，IT之家将持续关注，并在第一时间带来最新情报。作为参考，现款岚图泰山已于去年 11 月 18 日上市，共推出四个版本，售价 37.99 万-50.…",
+   "category": "tech",
+   "lang": "zh",
+   "publishedAt": "2026-11-22T01:37:52.000Z",
+   "heat": 55,
+   "factors": {
+    "recency": 96,
+    "authority": 75,
+    "coverage": 0,
+    "signal": 12
+   },
+   "sources": [
+    {
+     "id": "ithome",
+     "name": "IT之家",
+     "url": "https://www.ithome.com/1/030/539.htm"
+    }
+   ],
+   "keywords": [
+    "2027",
+    "suv",
+    "款岚",
+    "岚图",
+    "图泰",
+    "泰山",
+    "山旗",
+    "旗舰"
+   ]
+  },
+  {
+   "id": "t17",
+   "rank": 17,
+   "title": "25位华人，赶上Anthropic的财富盛宴",
+   "url": "https://www.jiemian.com/article/15358462.html",
+   "summary": "伴随这场史诗级IPO，一大批打工人迎来了财富跃迁。",
+   "category": "china",
+   "lang": "zh",
+   "publishedAt": "2026-11-22T01:31:46.000Z",
+   "heat": 55,
+   "factors": {
+    "recency": 94,
+    "authority": 70,
+    "coverage": 0,
+    "signal": 22
+   },
+   "sources": [
+    {
+     "id": "jiemian",
+     "name": "界面新闻",
+     "url": "https://www.jiemian.com/article/15358462.html"
+    }
+   ],
+   "keywords": [
+    "anthropic",
+    "位华",
+    "华人",
+    "赶上",
+    "的财",
+    "财富",
+    "富盛",
+    "盛宴"
+   ]
+  },
+  {
+   "id": "t18",
+   "rank": 18,
+   "title": "商务部回应 FCC 拟禁止中国电信运营商直接获取美国互联网电话号码资源：违反非歧视和公平竞争原则，坚决反对",
+   "url": "https://www.ithome.com/1/030/538.htm",
+   "summary": "IT之家 11 月 22 日消息，今日，商务部新闻发言人就美国联邦通信委员会拟禁止中国电信运营商直接获取美国互联网电话号码资源答记者问。 IT之家附主要内容如下： 问：美东时间 11 月 19 日，美国联邦通信委员会（FCC）投票通过有关规则，拟禁止中国电信、中国联通、中国移动等被列入“覆盖清单”的电信运营商直接获取美国互联网电话号码资源。请问商务部对此有何…",
+   "category": "tech",
+   "lang": "zh",
+   "publishedAt": "2026-11-22T01:28:10.000Z",
+   "heat": 55,
+   "factors": {
+    "recency": 95,
+    "authority": 75,
+    "coverage": 0,
+    "signal": 14
+   },
+   "sources": [
+    {
+     "id": "ithome",
+     "name": "IT之家",
+     "url": "https://www.ithome.com/1/030/538.htm"
+    }
+   ],
+   "keywords": [
+    "fcc",
+    "商务",
+    "务部",
+    "部回",
+    "回应",
+    "拟禁",
+    "禁止",
+    "止中"
+   ]
+  },
+  {
+   "id": "t19",
+   "rank": 19,
+   "title": "黄仁勋遭董事会罢免主要原因曝光；《GTA6》首发收入 37.9 亿美元，超《复联 4》总票房；马斯克收到上海工厂员工特制边角料手办",
+   "url": "http://www.geekpark.net/news/374300",
+   "summary": "《GTA6》首发收入达 37.9 亿美元，超越《复仇者联盟 4》总票房 Take-Two Interactive 表示，《侠盗猎车手 6》（GTA6）的预购加上首发当日销售额达到 37.9 亿美元，这不仅创下电子游戏史上最高首发收入纪录，也大概率是娱乐史上所有创意作品中规模最大的首发。这场现象级首发展现了游戏 IP 在商业、文化以及好莱坞层面的巨大价值。 G…",
+   "category": "tech",
+   "lang": "zh",
+   "publishedAt": "2026-11-22T01:05:22.000Z",
+   "heat": 55,
+   "factors": {
+    "recency": 92,
+    "authority": 60,
+    "coverage": 0,
+    "signal": 34
+   },
+   "sources": [
+    {
+     "id": "geekpark",
+     "name": "极客公园",
+     "url": "http://www.geekpark.net/news/374300"
+    }
+   ],
+   "keywords": [
+    "gta6",
+    "37.9",
+    "黄仁",
+    "仁勋",
+    "勋遭",
+    "遭董",
+    "董事",
+    "事会"
+   ]
+  },
+  {
+   "id": "t20",
+   "rank": 20,
+   "title": "中央气象台11月22日6时发布大风蓝色预警",
+   "url": "https://www.jiemian.com/article/15358524.html",
+   "summary": "",
+   "category": "china",
+   "lang": "zh",
+   "publishedAt": "2026-11-21T23:53:13.000Z",
+   "heat": 55,
+   "factors": {
+    "recency": 77,
+    "authority": 70,
+    "coverage": 0,
+    "signal": 48
+   },
+   "sources": [
+    {
+     "id": "jiemian",
+     "name": "界面新闻",
+     "url": "https://www.jiemian.com/article/15358524.html"
+    }
+   ],
+   "keywords": [
+    "中央",
+    "央气",
+    "气象",
+    "象台",
+    "时发",
+    "发布",
+    "布大",
+    "大风"
+   ]
+  },
+  {
+   "id": "t21",
+   "rank": 21,
+   "title": "OSTA 新特性放开：华为鸿蒙 HarmonyOS 7 系统更多机型小艺助理上线“小艺星芒”音色",
+   "url": "https://www.ithome.com/1/030/519.htm",
+   "summary": "IT之家 11 月 22 日消息，首款为 AI 而生的鸿蒙手机 —— 华为星芒 OSTA O1 Pro 已于 11 月 20 日下午正式发布，叠加国补后 4999 元起。华为星芒品牌总经理刘赫开通微博，透露最受欢迎的 16G 版本已经在全平台售罄。 ▲ IT之家开箱：华为全新子品牌星芒 OSTA O1 Pro 手机实拍据介绍，华为星芒 OSTA O1 Pro…",
+   "category": "tech",
+   "lang": "zh",
+   "publishedAt": "2026-11-21T23:35:28.000Z",
+   "heat": 55,
+   "factors": {
+    "recency": 82,
+    "authority": 75,
+    "coverage": 0,
+    "signal": 34
+   },
+   "sources": [
+    {
+     "id": "ithome",
+     "name": "IT之家",
+     "url": "https://www.ithome.com/1/030/519.htm"
+    }
+   ],
+   "keywords": [
+    "osta",
+    "harmonyos",
+    "新特",
+    "特性",
+    "性放",
+    "放开",
+    "华为",
+    "为鸿"
+   ]
+  },
+  {
+   "id": "t22",
+   "rank": 22,
+   "title": "消息称 OPPO Reno 17 系列新机销量超预期，开售后超同期安卓手机拿下单品第一",
+   "url": "https://www.ithome.com/1/030/513.htm",
+   "summary": "IT之家 11 月 22 日消息，博主 @数码闲聊站 昨晚发文分享第三方渠道消息，OPPO Reno 17 销量超预期，发布当日预订量达前代产品 2.7 倍，开售后销量超过同期所有安卓手机，拿下安卓单品第一。 博主还补充数据：Reno 系列全球激活量已超 1.4 亿台，长期稳居同档位销量前列。 据IT之家此前报道，OPPO Reno 17 系列手机已于 11…",
+   "category": "tech",
+   "lang": "zh",
+   "publishedAt": "2026-11-21T23:01:52.000Z",
+   "heat": 55,
+   "factors": {
+    "recency": 79,
+    "authority": 75,
+    "coverage": 0,
+    "signal": 38
+   },
+   "sources": [
+    {
+     "id": "ithome",
+     "name": "IT之家",
+     "url": "https://www.ithome.com/1/030/513.htm"
+    }
+   ],
+   "keywords": [
+    "oppo",
+    "reno",
+    "消息",
+    "息称",
+    "系列",
+    "列新",
+    "新机",
+    "机销"
+   ]
+  },
+  {
+   "id": "t23",
+   "rank": 23,
+   "title": "试题经过大模型测试？国家中医药管理局认证中心：未与任何大模型企业合作，亦未开展测评",
+   "url": "https://www.ithome.com/1/030/540.htm",
+   "summary": "IT之家 11 月 22 日消息，11 月 21 日晚，国家中医药管理局中医师资格认证中心通过官方公众号发布声明称，该中心从未公开历年真题，未与任何大模型企业合作，亦未开展测评。 声明称，中心从未以任何形式向社会公开、发布或出售中医类别医师资格考试历年试题（含真题、原题）、参考答案及相关考试资料，亦未授权任何单位或个人公开、发布、销售。市场上以“历年真题”“…",
+   "category": "tech",
+   "lang": "zh",
+   "publishedAt": "2026-11-22T01:42:10.000Z",
+   "heat": 54,
+   "factors": {
+    "recency": 97,
+    "authority": 75,
+    "coverage": 0,
+    "signal": 4
+   },
+   "sources": [
+    {
+     "id": "ithome",
+     "name": "IT之家",
+     "url": "https://www.ithome.com/1/030/540.htm"
+    }
+   ],
+   "keywords": [
+    "试题",
+    "题经",
+    "经过",
+    "过大",
+    "大模",
+    "模型",
+    "型测",
+    "测试"
+   ]
+  },
+  {
+   "id": "t24",
+   "rank": 24,
+   "title": "多家银行发债按下“暂停键”",
+   "url": "https://www.jiemian.com/article/15358583.html",
+   "summary": "",
+   "category": "china",
+   "lang": "zh",
+   "publishedAt": "2026-11-22T01:28:36.000Z",
+   "heat": 54,
+   "factors": {
+    "recency": 93,
+    "authority": 70,
+    "coverage": 0,
+    "signal": 18
+   },
+   "sources": [
+    {
+     "id": "jiemian",
+     "name": "界面新闻",
+     "url": "https://www.jiemian.com/article/15358583.html"
+    }
+   ],
+   "keywords": [
+    "多家",
+    "家银",
+    "银行",
+    "行发",
+    "发债",
+    "债按",
+    "按下",
+    "暂停"
+   ]
+  },
+  {
+   "id": "t25",
+   "rank": 25,
+   "title": "神舟二十四号展开全系统合练，神舟二十五号作为地面应急救援备份",
+   "url": "https://www.ithome.com/1/030/536.htm",
+   "summary": "IT之家 11 月 22 日消息，据中央广播电视总台中国之声报道，神舟二十四号载人飞行任务各系统昨天（21 日）在酒泉卫星发射中心进行发射场区合练。此次合练覆盖火箭、飞船、发射场、测控通信等全要素，标志着任务各系统已完全具备发射条件，发射进入倒计时阶段。 实际上，就在发射场内，不仅有神舟二十四号载人飞船、长征二号 F 遥二十四运载火箭在整个合练过程中表现出色…",
+   "category": "tech",
+   "lang": "zh",
+   "publishedAt": "2026-11-22T01:21:37.000Z",
+   "heat": 54,
+   "factors": {
+    "recency": 94,
+    "authority": 75,
+    "coverage": 0,
+    "signal": 10
+   },
+   "sources": [
+    {
+     "id": "ithome",
+     "name": "IT之家",
+     "url": "https://www.ithome.com/1/030/536.htm"
+    }
+   ],
+   "keywords": [
+    "神舟",
+    "舟二",
+    "二十",
+    "十四",
+    "四号",
+    "号展",
+    "展开",
+    "开全"
+   ]
+  },
+  {
+   "id": "t26",
+   "rank": 26,
+   "title": "净利滑坡、市值跳水，快手能靠“亲儿子”可灵逆袭么？",
+   "url": "https://www.jiemian.com/article/15358368.html",
+   "summary": "作为快手当下重点发展的方向之一，今年上半年，可灵AI实现超15亿元的营收，一举超越去年全年。不过，可灵AI目前的商业化成绩，距离覆盖快手的巨额投入还有相当距离。",
+   "category": "china",
+   "lang": "zh",
+   "publishedAt": "2026-11-22T01:18:53.000Z",
+   "heat": 54,
+   "factors": {
+    "recency": 91,
+    "authority": 70,
+    "coverage": 0,
+    "signal": 22
+   },
+   "sources": [
+    {
+     "id": "jiemian",
+     "name": "界面新闻",
+     "url": "https://www.jiemian.com/article/15358368.html"
+    }
+   ],
+   "keywords": [
+    "净利",
+    "利滑",
+    "滑坡",
+    "市值",
+    "值跳",
+    "跳水",
+    "快手",
+    "手能"
+   ]
+  },
+  {
+   "id": "t27",
+   "rank": 27,
+   "title": "APEC上的“具身时间”",
+   "url": "https://www.jiemian.com/article/15358402.html",
+   "summary": "机器人在不同场景下，到底有什么实际价值。",
+   "category": "china",
+   "lang": "zh",
+   "publishedAt": "2026-11-22T01:16:56.000Z",
+   "heat": 54,
+   "factors": {
+    "recency": 91,
+    "authority": 70,
+    "coverage": 0,
+    "signal": 18
+   },
+   "sources": [
+    {
+     "id": "jiemian",
+     "name": "界面新闻",
+     "url": "https://www.jiemian.com/article/15358402.html"
+    }
+   ],
+   "keywords": [
+    "apec",
+    "上的",
+    "具身",
+    "身时",
+    "时间"
+   ]
+  },
+  {
+   "id": "t28",
+   "rank": 28,
+   "title": "网络交友被骗压岁钱 警惕针对青少年的“小额多次式诈骗”",
+   "url": "https://www.chinanews.com.cn/sh/2026/11-22/10735944.shtml",
+   "summary": "警惕针对青少年的“小额多次式诈骗”",
+   "category": "china",
+   "lang": "zh",
+   "publishedAt": "2026-11-22T00:39:25.000Z",
+   "heat": 54,
+   "factors": {
+    "recency": 85,
+    "authority": 80,
+    "coverage": 0,
+    "signal": 18
+   },
+   "sources": [
+    {
+     "id": "chinanews",
+     "name": "中国新闻网",
+     "url": "https://www.chinanews.com.cn/sh/2026/11-22/10735944.shtml"
+    }
+   ],
+   "keywords": [
+    "网络",
+    "络交",
+    "交友",
+    "友被",
+    "被骗",
+    "骗压",
+    "压岁",
+    "岁钱"
+   ]
+  },
+  {
+   "id": "t29",
+   "rank": 29,
+   "title": "全球Meta一家独大，中国AI眼镜为何还在混战？",
+   "url": "https://www.jiemian.com/article/15358460.html",
+   "summary": "中国AI眼镜，胜负未分。",
+   "category": "china",
+   "lang": "zh",
+   "publishedAt": "2026-11-22T01:28:42.000Z",
+   "heat": 53,
+   "factors": {
+    "recency": 93,
+    "authority": 70,
+    "coverage": 0,
+    "signal": 14
+   },
+   "sources": [
+    {
+     "id": "jiemian",
+     "name": "界面新闻",
+     "url": "https://www.jiemian.com/article/15358460.html"
+    }
+   ],
+   "keywords": [
+    "meta",
+    "全球",
+    "一家",
+    "家独",
+    "独大",
+    "中国",
+    "眼镜",
+    "镜为"
+   ]
+  },
+  {
+   "id": "t30",
+   "rank": 30,
+   "title": "空铁博弈之下，小城机场的生存之路在何方？",
+   "url": "https://www.jiemian.com/article/15358457.html",
+   "summary": "空铁博弈之下，小城机场的生存之路在何方？",
+   "category": "china",
+   "lang": "zh",
+   "publishedAt": "2026-11-22T01:27:13.000Z",
+   "heat": 53,
+   "factors": {
+    "recency": 93,
+    "authority": 70,
+    "coverage": 0,
+    "signal": 14
+   },
+   "sources": [
+    {
+     "id": "jiemian",
+     "name": "界面新闻",
+     "url": "https://www.jiemian.com/article/15358457.html"
+    }
+   ],
+   "keywords": [
+    "空铁",
+    "铁博",
+    "博弈",
+    "弈之",
+    "之下",
+    "小城",
+    "城机",
+    "机场"
+   ]
+  },
+  {
+   "id": "t31",
+   "rank": 31,
+   "title": "Virginia reports young child is the state's first measles death in 2026",
+   "url": "https://www.koreatimes.co.kr/world/20261122/virginia-reports-young-child-is-the-states-first-measles-death-in-2026?utm_source=rss",
+   "summary": "A young child has died in Virginia after testing positive for measles, officials said, the first deadly case in the state this year. The Virginia Department of Health reported the…",
+   "category": "world",
+   "lang": "en",
+   "publishedAt": "2026-11-22T02:02:04.000Z",
+   "heat": 50,
+   "factors": {
+    "recency": 99,
+    "authority": 60,
+    "coverage": 0,
+    "signal": 0
+   },
+   "sources": [
+    {
+     "id": "koreatimes",
+     "name": "Korea Times",
+     "url": "https://www.koreatimes.co.kr/world/20261122/virginia-reports-young-child-is-the-states-first-measles-death-in-2026?utm_source=rss"
+    }
+   ],
+   "keywords": [
+    "virginia",
+    "reports",
+    "young",
+    "child",
+    "the",
+    "state's",
+    "first",
+    "measles"
+   ]
+  },
+  {
+   "id": "t32",
+   "rank": 32,
+   "title": "Mexico captures top drug lord 'El Chapo Isidro,' latest in string of arrests",
+   "url": "https://www.koreatimes.co.kr/world/20261122/mexico-captures-top-drug-lord-el-chapo-isidro-latest-in-string-of-arrests?utm_source=rss",
+   "summary": "MEXICO CITY — Mexican military forces captured Fausto Isidro Meza Flores, known as \"El Chapo Isidro,\" one of the FBI's 10 most wanted fugitives, and two other leaders of his drug-t…",
+   "category": "world",
+   "lang": "en",
+   "publishedAt": "2026-11-22T02:02:04.000Z",
+   "heat": 50,
+   "factors": {
+    "recency": 99,
+    "authority": 60,
+    "coverage": 0,
+    "signal": 0
+   },
+   "sources": [
+    {
+     "id": "koreatimes",
+     "name": "Korea Times",
+     "url": "https://www.koreatimes.co.kr/world/20261122/mexico-captures-top-drug-lord-el-chapo-isidro-latest-in-string-of-arrests?utm_source=rss"
+    }
+   ],
+   "keywords": [
+    "mexico",
+    "captures",
+    "top",
+    "drug",
+    "lord",
+    "chapo",
+    "isidro",
+    "latest"
+   ]
+  },
+  {
+   "id": "t33",
+   "rank": 33,
+   "title": "Climate talks in overtime as nations wrestle with response to worsening global warming",
+   "url": "https://www.koreatimes.co.kr/world/20261122/climate-talks-in-overtime-as-nations-wrestle-with-response-to-worsening-global-warming?utm_source=rss",
+   "summary": "ANTALYA, Turkey — Work crews boxed up the venue for this year’s United Nations climate talks in Turkey, as negotiators went into overtime on Saturday in an attempt to reach a final…",
+   "category": "world",
+   "lang": "en",
+   "publishedAt": "2026-11-22T02:02:04.000Z",
+   "heat": 50,
+   "factors": {
+    "recency": 99,
+    "authority": 60,
+    "coverage": 0,
+    "signal": 0
+   },
+   "sources": [
+    {
+     "id": "koreatimes",
+     "name": "Korea Times",
+     "url": "https://www.koreatimes.co.kr/world/20261122/climate-talks-in-overtime-as-nations-wrestle-with-response-to-worsening-global-warming?utm_source=rss"
+    }
+   ],
+   "keywords": [
+    "climate",
+    "talks",
+    "overtime",
+    "nations",
+    "wrestle",
+    "with",
+    "response",
+    "worsening"
+   ]
+  },
+  {
+   "id": "t34",
+   "rank": 34,
+   "title": "Trump downplays FBI data breach of NCIC, adds 'positive spin'",
+   "url": "https://www.koreatimes.co.kr/world/20261122/trump-downplays-fbi-data-breach-of-ncic-adds-positive-spin?utm_source=rss",
+   "summary": "An FBI database that police all over the country use was hacked in the second major security breach in two months, and President Donald Trump downplayed it Saturday. The FBI's Nati…",
+   "category": "world",
+   "lang": "en",
+   "publishedAt": "2026-11-22T02:02:04.000Z",
+   "heat": 50,
+   "factors": {
+    "recency": 99,
+    "authority": 60,
+    "coverage": 0,
+    "signal": 0
+   },
+   "sources": [
+    {
+     "id": "koreatimes",
+     "name": "Korea Times",
+     "url": "https://www.koreatimes.co.kr/world/20261122/trump-downplays-fbi-data-breach-of-ncic-adds-positive-spin?utm_source=rss"
+    }
+   ],
+   "keywords": [
+    "trump",
+    "downplays",
+    "fbi",
+    "data",
+    "breach",
+    "ncic",
+    "adds",
+    "positive"
+   ]
+  },
+  {
+   "id": "t35",
+   "rank": 35,
+   "title": "Russian cargo ship ablaze in Baltic Sea after drone strike, crew evacuates",
+   "url": "https://www.koreatimes.co.kr/world/20261122/russian-cargo-ship-ablaze-in-baltic-sea-after-drone-strike-crew-evacuates?utm_source=rss",
+   "summary": "HELSINKI — A Russian cargo ship with links to the military was hit by drones and caught fire in the Baltic Sea on Saturday in what Finland said was likely an attack by Ukraine, and…",
+   "category": "world",
+   "lang": "en",
+   "publishedAt": "2026-11-22T02:02:04.000Z",
+   "heat": 50,
+   "factors": {
+    "recency": 99,
+    "authority": 60,
+    "coverage": 0,
+    "signal": 0
+   },
+   "sources": [
+    {
+     "id": "koreatimes",
+     "name": "Korea Times",
+     "url": "https://www.koreatimes.co.kr/world/20261122/russian-cargo-ship-ablaze-in-baltic-sea-after-drone-strike-crew-evacuates?utm_source=rss"
+    }
+   ],
+   "keywords": [
+    "russian",
+    "cargo",
+    "ship",
+    "ablaze",
+    "baltic",
+    "sea",
+    "after",
+    "drone"
+   ]
+  },
+  {
+   "id": "t36",
+   "rank": 36,
+   "title": "BioWare 或已逝去，但其精神仍在这些游戏中长存",
+   "url": "https://www.ign.com.cn/baldurs-gate-iii-1/63955/bioware-huo-yi-shi-qu-dan-qi-jing-shen-reng-zai-zhe-xie-you-xi-zhong-chang-cun",
+   "summary": "《质量效应》已成绝响，但其余韵依旧回荡",
+   "category": "game",
+   "lang": "zh",
+   "publishedAt": "2026-11-21T23:01:03.000Z",
+   "heat": 49,
+   "factors": {
+    "recency": 81,
+    "authority": 75,
+    "coverage": 0,
+    "signal": 10
+   },
+   "sources": [
+    {
+     "id": "ign-cn",
+     "name": "IGN 中国",
+     "url": "https://www.ign.com.cn/baldurs-gate-iii-1/63955/bioware-huo-yi-shi-qu-dan-qi-jing-shen-reng-zai-zhe-xie-you-xi-zhong-chang-cun"
+    }
+   ],
+   "keywords": [
+    "bioware",
+    "或已",
+    "已逝",
+    "逝去",
+    "但其",
+    "其精",
+    "精神",
+    "神仍"
+   ]
+  },
+  {
+   "id": "t37",
+   "rank": 37,
+   "title": "EU-Indonesia agreement sees the light after ten years of negotiations",
+   "url": "https://www.france24.com/en/video/20261121-eu-indonesia-agreement-sees-the-light-after-ten-years-of-negotiations",
+   "summary": "The European Union and Indonesia have signed a major trade deal, ten years after talks began.The agreement removes almost all tariffs between the EU and Southeast Asia's biggest ec…",
+   "category": "world",
+   "lang": "en",
+   "publishedAt": "2026-11-21T22:23:03.000Z",
+   "heat": 46,
+   "factors": {
+    "recency": 71,
+    "authority": 85,
+    "coverage": 0,
+    "signal": 0
+   },
+   "sources": [
+    {
+     "id": "france24",
+     "name": "France 24",
+     "url": "https://www.france24.com/en/video/20261121-eu-indonesia-agreement-sees-the-light-after-ten-years-of-negotiations"
+    }
+   ],
+   "keywords": [
+    "eu-indonesia",
+    "agreement",
+    "sees",
+    "the",
+    "light",
+    "after",
+    "ten",
+    "years"
+   ]
+  },
+  {
+   "id": "t38",
+   "rank": 38,
+   "title": "'Worst Ever' COP Summit?",
+   "url": "https://www.france24.com/en/tv-shows/spotlight/20261121-worst-ever-cop-summit",
+   "summary": "Is this the worst COP summit on record? With limited political leadership, no official US delegation and mounting frustration over bureaucratic delays, questions are being raised a…",
+   "category": "world",
+   "lang": "en",
+   "publishedAt": "2026-11-21T20:08:48.000Z",
+   "heat": 44,
+   "factors": {
+    "recency": 58,
+    "authority": 85,
+    "coverage": 0,
+    "signal": 14
+   },
+   "sources": [
+    {
+     "id": "france24",
+     "name": "France 24",
+     "url": "https://www.france24.com/en/tv-shows/spotlight/20261121-worst-ever-cop-summit"
+    }
+   ],
+   "keywords": [
+    "worst",
+    "ever'",
+    "cop",
+    "summit"
+   ]
+  },
+  {
+   "id": "t39",
+   "rank": 39,
+   "title": "Eisenkot invites Netanyahu’s party for ‘marathon’ Israeli coalition talks",
+   "url": "https://www.france24.com/en/middle-east/20261121-eisenkot-invites-netanyahu-s-party-for-marathon-israeli-coalition-talks",
+   "summary": "Israeli opposition leader Gadi Eisenkot has invited caretaker prime minister Benjamin Netanyahu's right-wing Likud party for coalition talks, his centrist Yashar party said Saturda…",
+   "category": "world",
+   "lang": "en",
+   "publishedAt": "2026-11-21T20:49:04.000Z",
+   "heat": 42,
+   "factors": {
+    "recency": 61,
+    "authority": 85,
+    "coverage": 0,
+    "signal": 0
+   },
+   "sources": [
+    {
+     "id": "france24",
+     "name": "France 24",
+     "url": "https://www.france24.com/en/middle-east/20261121-eisenkot-invites-netanyahu-s-party-for-marathon-israeli-coalition-talks"
+    }
+   ],
+   "keywords": [
+    "eisenkot",
+    "invites",
+    "netanyahu",
+    "party",
+    "for",
+    "marathon",
+    "israeli",
+    "coalition"
+   ]
+  },
+  {
+   "id": "t40",
+   "rank": 40,
+   "title": "France’s sixth consecutive Saturday of protests draw lower turnout",
+   "url": "https://www.france24.com/en/france/20261121-france-s-sixth-consecutive-saturday-of-protests-draw-lower-turnout",
+   "summary": "Turnout ⁠was down ​at largely peaceful demonstrations across France on the sixth consecutive Saturday of protests ​over the cost of living, with the interior ministry putting the f…",
+   "category": "world",
+   "lang": "en",
+   "publishedAt": "2026-11-21T20:20:37.000Z",
+   "heat": 42,
+   "factors": {
+    "recency": 59,
+    "authority": 85,
+    "coverage": 0,
+    "signal": 0
+   },
+   "sources": [
+    {
+     "id": "france24",
+     "name": "France 24",
+     "url": "https://www.france24.com/en/france/20261121-france-s-sixth-consecutive-saturday-of-protests-draw-lower-turnout"
+    }
+   ],
+   "keywords": [
+    "france",
+    "sixth",
+    "consecutive",
+    "saturday",
+    "protests",
+    "draw",
+    "lower",
+    "turnout"
+   ]
+  }
+ ]
+}
