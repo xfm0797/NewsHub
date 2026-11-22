@@ -1,15 +1,15 @@
 {
  "date": "2026-11-22",
- "generatedAt": "2026-11-22T17:45:16+00:00",
+ "generatedAt": "2026-11-22T23:32:58+00:00",
  "stats": {
   "total": 60,
   "sources": 16,
-  "sourcesOk": 13,
+  "sourcesOk": 15,
   "categories": {
-   "china": 15,
+   "china": 21,
    "world": 15,
    "tech": 15,
-   "game": 15
+   "game": 9
   },
   "windowHours": 48
  },
@@ -17,79 +17,1072 @@
   {
    "id": "t1",
    "rank": 1,
-   "title": "Russian strike kills 2 in Kyiv",
-   "url": "https://www.france24.com/en/russian-strike-kills-2-in-kyiv",
-   "summary": "A Russian attack struck an apartment building in the village of Dymer, just north of Kyiv, on Sunday, killing at least two people and wounding four others. The morning strike destr…",
-   "category": "world",
-   "lang": "en",
-   "publishedAt": "2026-11-22T16:23:23.000Z",
-   "heat": 57,
-   "factors": {
-    "recency": 88,
-    "authority": 85,
-    "coverage": 0,
-    "signal": 22
-   },
-   "sources": [
-    {
-     "id": "france24",
-     "name": "France 24",
-     "url": "https://www.france24.com/en/russian-strike-kills-2-in-kyiv"
-    }
-   ],
-   "keywords": [
-    "russian",
-    "strike",
-    "kills",
-    "kyiv"
-   ]
-  },
-  {
-   "id": "t2",
-   "rank": 2,
-   "title": "香港特区选委会界别分组一般选举结果揭晓 全部选委顺利产生",
-   "url": "https://www.chinanews.com.cn/gn/2026/11-22/10736217.shtml",
-   "summary": "中新社香港11月22日电 (记者 刘玥晴)2026年香港特区选举委员会(简称“选委会”)界别分组一般选举结果22日晚揭晓。根据选举事务处公布的结果，856名候选人竞逐的31个界别分组中723席选委全部顺利产生。",
+   "title": "古特雷斯发表声明 对COP31未就政治决定达成一致表示失望",
+   "url": "https://www.chinanews.com.cn/gj/2026/11-23/10736224.shtml",
+   "summary": "中新网11月23日电 据联合国官网消息，当地时间22日，联合国秘书长古特雷斯发表声明，对《联合国气候变化框架公约》第三十一次缔约方大会(COP31)未能就政治决定达成一致表示失望。",
    "category": "china",
    "lang": "zh",
-   "publishedAt": "2026-11-22T15:57:11.000Z",
-   "heat": 56,
+   "publishedAt": "2026-11-22T23:06:23.000Z",
+   "heat": 68,
    "factors": {
-    "recency": 81,
+    "recency": 95,
     "authority": 80,
-    "coverage": 0,
-    "signal": 36
+    "coverage": 57,
+    "signal": 22
    },
    "sources": [
     {
      "id": "chinanews",
      "name": "中国新闻网",
-     "url": "https://www.chinanews.com.cn/gn/2026/11-22/10736217.shtml"
+     "url": "https://www.chinanews.com.cn/gj/2026/11-23/10736224.shtml"
+    },
+    {
+     "id": "jiemian",
+     "name": "界面新闻",
+     "url": "https://www.jiemian.com/article/15359531.html"
     }
    ],
    "keywords": [
-    "香港",
-    "港特",
-    "特区",
-    "区选",
-    "选委",
-    "委会",
-    "会界",
-    "界别"
+    "cop31",
+    "古特",
+    "特雷",
+    "雷斯",
+    "斯发",
+    "发表",
+    "表声",
+    "声明"
+   ]
+  },
+  {
+   "id": "t2",
+   "rank": 2,
+   "title": "IGN《怪物猎人：旅人》评测：7 分",
+   "url": "https://www.ign.com.cn/monster-hunter-outlanders/64160/ignguai-wu-xi-ren-lu-ren-ping-ce-7-fen",
+   "summary": "《怪猎》手游新作保留系列精髓，但抽卡游戏的桎梏依旧存在",
+   "category": "game",
+   "lang": "zh",
+   "publishedAt": "2026-11-22T23:00:34.000Z",
+   "heat": 65,
+   "factors": {
+    "recency": 96,
+    "authority": 75,
+    "coverage": 0,
+    "signal": 56
+   },
+   "sources": [
+    {
+     "id": "ign-cn",
+     "name": "IGN 中国",
+     "url": "https://www.ign.com.cn/monster-hunter-outlanders/64160/ignguai-wu-xi-ren-lu-ren-ping-ce-7-fen"
+    }
+   ],
+   "keywords": [
+    "ign",
+    "怪物",
+    "物猎",
+    "猎人",
+    "旅人",
+    "评测"
    ]
   },
   {
    "id": "t3",
    "rank": 3,
+   "title": "内塔尼亚胡被曝正考虑单独对伊朗动武",
+   "url": "https://www.chinanews.com.cn/gj/2026/11-23/10736221.shtml",
+   "summary": "当地时间22日，据以色列方面消息，以色列看守政府总理内塔尼亚胡正考虑在未经美国批准的情况下单独对伊朗发动袭击。以军军事情报局在近日一场闭门会议中警告，此举可能引发多条战线同时爆发冲突。",
+   "category": "china",
+   "lang": "zh",
+   "publishedAt": "2026-11-22T22:39:07.000Z",
+   "heat": 64,
+   "factors": {
+    "recency": 90,
+    "authority": 80,
+    "coverage": 57,
+    "signal": 10
+   },
+   "sources": [
+    {
+     "id": "chinanews",
+     "name": "中国新闻网",
+     "url": "https://www.chinanews.com.cn/gj/2026/11-23/10736221.shtml"
+    },
+    {
+     "id": "jiemian",
+     "name": "界面新闻",
+     "url": "https://www.jiemian.com/article/15359520.html"
+    }
+   ],
+   "keywords": [
+    "内塔",
+    "塔尼",
+    "尼亚",
+    "亚胡",
+    "胡被",
+    "被曝",
+    "曝正",
+    "正考"
+   ]
+  },
+  {
+   "id": "t4",
+   "rank": 4,
+   "title": "微亿智造：拟全球发售3727.58万股H股，发售价不超15.69港元",
+   "url": "https://www.jiemian.com/article/15359544.html",
+   "summary": "",
+   "category": "china",
+   "lang": "zh",
+   "publishedAt": "2026-11-22T23:10:16.000Z",
+   "heat": 62,
+   "factors": {
+    "recency": 96,
+    "authority": 70,
+    "coverage": 0,
+    "signal": 48
+   },
+   "sources": [
+    {
+     "id": "jiemian",
+     "name": "界面新闻",
+     "url": "https://www.jiemian.com/article/15359544.html"
+    }
+   ],
+   "keywords": [
+    "3727.58",
+    "15.69",
+    "微亿",
+    "亿智",
+    "智造",
+    "拟全",
+    "全球",
+    "球发"
+   ]
+  },
+  {
+   "id": "t5",
+   "rank": 5,
+   "title": "今起可打印准考证！2027国考考生注意了→",
+   "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736229.shtml",
+   "summary": "报考国考的考生注意了，今起可打印准考证，打印时间为11月23日0:00至11月29日15:00。开考在即，这份提醒赶紧“码住”。",
+   "category": "china",
+   "lang": "zh",
+   "publishedAt": "2026-11-22T23:27:50.000Z",
+   "heat": 61,
+   "factors": {
+    "recency": 99,
+    "authority": 80,
+    "coverage": 0,
+    "signal": 26
+   },
+   "sources": [
+    {
+     "id": "chinanews",
+     "name": "中国新闻网",
+     "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736229.shtml"
+    }
+   ],
+   "keywords": [
+    "2027",
+    "今起",
+    "起可",
+    "可打",
+    "打印",
+    "印准",
+    "准考",
+    "考证"
+   ]
+  },
+  {
+   "id": "t6",
+   "rank": 6,
+   "title": "是什么让多国紧急关停大批政企网络？国家安全部提示",
+   "url": "https://www.chinanews.com.cn/gn/2026/11-23/10736220.shtml",
+   "summary": "是什么，让多国紧急关停大批政企网络？",
+   "category": "china",
+   "lang": "zh",
+   "publishedAt": "2026-11-22T22:37:41.000Z",
+   "heat": 60,
+   "factors": {
+    "recency": 90,
+    "authority": 80,
+    "coverage": 0,
+    "signal": 40
+   },
+   "sources": [
+    {
+     "id": "chinanews",
+     "name": "中国新闻网",
+     "url": "https://www.chinanews.com.cn/gn/2026/11-23/10736220.shtml"
+    }
+   ],
+   "keywords": [
+    "是什",
+    "什么",
+    "么让",
+    "让多",
+    "多国",
+    "国紧",
+    "紧急",
+    "急关"
+   ]
+  },
+  {
+   "id": "t7",
+   "rank": 7,
+   "title": "日本熊本县发生4.1级地震 多地有震感",
+   "url": "https://www.chinanews.com.cn/gj/2026/11-23/10736227.shtml",
+   "summary": "中新网11月23日电 据日本广播协会(NHK)报道，当地时间23日2时46分左右，日本熊本县天草、芦北地区发生4.1级地震，震源深度10公里。",
+   "category": "china",
+   "lang": "zh",
+   "publishedAt": "2026-11-22T23:24:20.000Z",
+   "heat": 59,
+   "factors": {
+    "recency": 98,
+    "authority": 80,
+    "coverage": 0,
+    "signal": 22
+   },
+   "sources": [
+    {
+     "id": "chinanews",
+     "name": "中国新闻网",
+     "url": "https://www.chinanews.com.cn/gj/2026/11-23/10736227.shtml"
+    }
+   ],
+   "keywords": [
+    "4.1",
+    "日本",
+    "本熊",
+    "熊本",
+    "本县",
+    "县发",
+    "发生",
+    "级地"
+   ]
+  },
+  {
+   "id": "t8",
+   "rank": 8,
+   "title": "以色列正直党与利库德集团组阁谈判未达成共识",
+   "url": "https://www.jiemian.com/article/15359538.html",
+   "summary": "当地时间11月22日，埃森科特领导的正直党与以色列看守政府总理内塔尼亚胡领导的利库德集团发表简短的联合声明称，两党谈判团队当天举行超过4小时的组阁会谈，就一系列实质性议题阐述立场并进行深入讨论。声明表示，双方决定举行后续会谈，但未公布具体时间。据以色列方面消息，两党代表在当天的会谈中讨论了多个存在分歧的议题，但双方未达成任何共识。据悉，双方会谈未涉及总理轮流…",
+   "category": "china",
+   "lang": "zh",
+   "publishedAt": "2026-11-22T23:07:02.000Z",
+   "heat": 59,
+   "factors": {
+    "recency": 95,
+    "authority": 70,
+    "coverage": 0,
+    "signal": 36
+   },
+   "sources": [
+    {
+     "id": "jiemian",
+     "name": "界面新闻",
+     "url": "https://www.jiemian.com/article/15359538.html"
+    }
+   ],
+   "keywords": [
+    "以色",
+    "色列",
+    "列正",
+    "正直",
+    "直党",
+    "党与",
+    "与利",
+    "利库"
+   ]
+  },
+  {
+   "id": "t9",
+   "rank": 9,
+   "title": "中央气象台发布大风蓝色预警",
+   "url": "https://www.jiemian.com/article/15359502.html",
+   "summary": "中央气象台11月23日06时继续发布大风蓝色预警：预计，11月23日08时至24日08时，内蒙古中东部、甘肃西部、山西北部、河北西北部、北京西部山区、辽宁北部、吉林中西部、黑龙江南部、山东半岛、西藏中部、青海东北部等地部分地区有5～7级风，阵风8~9级，局地10级。渤海、渤海海峡、黄海大部海域、东海大部海域、台湾海峡、巴士海峡、南海东北部部分海域将有7级、阵…",
+   "category": "china",
+   "lang": "zh",
+   "publishedAt": "2026-11-22T23:04:01.000Z",
+   "heat": 59,
+   "factors": {
+    "recency": 94,
+    "authority": 70,
+    "coverage": 0,
+    "signal": 36
+   },
+   "sources": [
+    {
+     "id": "jiemian",
+     "name": "界面新闻",
+     "url": "https://www.jiemian.com/article/15359502.html"
+    }
+   ],
+   "keywords": [
+    "中央",
+    "央气",
+    "气象",
+    "象台",
+    "台发",
+    "发布",
+    "布大",
+    "大风"
+   ]
+  },
+  {
+   "id": "t10",
+   "rank": 10,
+   "title": "当年轻人说“边界感”，他们在守护什么",
+   "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736228.shtml",
+   "summary": "“边界感”已成为年轻人处理关系时最常用的词之一。拒绝父母过度介入、下班后不回工作消息、在亲密关系里保留“专属领域”、用“搭子”替代高维护成本的社交……这些都是年轻人划定“边界感”的具体实践。但同样需要追问：边界感是否正在变成“体面的冷漠”，成为回避情感付出的体面借口？通过圆桌对话，我们试图理解：年轻人口中的边界感到底意味着什么？它守护了什么，又可能挡住什么？",
+   "category": "china",
+   "lang": "zh",
+   "publishedAt": "2026-11-22T23:24:36.000Z",
+   "heat": 58,
+   "factors": {
+    "recency": 98,
+    "authority": 80,
+    "coverage": 0,
+    "signal": 18
+   },
+   "sources": [
+    {
+     "id": "chinanews",
+     "name": "中国新闻网",
+     "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736228.shtml"
+    }
+   ],
+   "keywords": [
+    "当年",
+    "年轻",
+    "轻人",
+    "人说",
+    "边界",
+    "界感",
+    "他们",
+    "们在"
+   ]
+  },
+  {
+   "id": "t11",
+   "rank": 11,
+   "title": "A股利好！交易所打出稳市“组合拳”，事关两融、降费、创业板；积存金价格跌至“7字头”，银行纷纷提示贵金属市场风险；量子计算机“高速内存”全球首次真机实现",
+   "url": "https://www.tmtpost.com/8214014.html",
+   "summary": "搜狐张朝阳辟谣“被出具警示函”；天孚通信拟在南昌投建新一代高速光器件研发和生产制造项目；多品牌宣布下调金饰克价；美方拟禁止中国电信运营商直接获取美国互联网电话号码资源，商务部回应；特斯拉在美推出FSDv 15；美国证券交易委员会据悉正对英伟达潜在会计问题展开调查。",
+   "category": "tech",
+   "lang": "zh",
+   "publishedAt": "2026-11-22T23:20:00.000Z",
+   "heat": 58,
+   "factors": {
+    "recency": 98,
+    "authority": 60,
+    "coverage": 0,
+    "signal": 38
+   },
+   "sources": [
+    {
+     "id": "tmtpost",
+     "name": "钛媒体",
+     "url": "https://www.tmtpost.com/8214014.html"
+    }
+   ],
+   "keywords": [
+    "股利",
+    "利好",
+    "交易",
+    "易所",
+    "所打",
+    "打出",
+    "出稳",
+    "稳市"
+   ]
+  },
+  {
+   "id": "t12",
+   "rank": 12,
+   "title": "胡塞武装：沙特主导的联军对也门发动81次袭击",
+   "url": "https://www.jiemian.com/article/15359524.html",
+   "summary": "",
+   "category": "china",
+   "lang": "zh",
+   "publishedAt": "2026-11-22T23:05:07.000Z",
+   "heat": 56,
+   "factors": {
+    "recency": 95,
+    "authority": 70,
+    "coverage": 0,
+    "signal": 22
+   },
+   "sources": [
+    {
+     "id": "jiemian",
+     "name": "界面新闻",
+     "url": "https://www.jiemian.com/article/15359524.html"
+    }
+   ],
+   "keywords": [
+    "胡塞",
+    "塞武",
+    "武装",
+    "沙特",
+    "特主",
+    "主导",
+    "导的",
+    "的联"
+   ]
+  },
+  {
+   "id": "t13",
+   "rank": 13,
+   "title": "现货黄金日内涨幅扩大至1%",
+   "url": "https://www.jiemian.com/article/15359517.html",
+   "summary": "",
+   "category": "china",
+   "lang": "zh",
+   "publishedAt": "2026-11-22T23:04:07.000Z",
+   "heat": 56,
+   "factors": {
+    "recency": 95,
+    "authority": 70,
+    "coverage": 0,
+    "signal": 22
+   },
+   "sources": [
+    {
+     "id": "jiemian",
+     "name": "界面新闻",
+     "url": "https://www.jiemian.com/article/15359517.html"
+    }
+   ],
+   "keywords": [
+    "现货",
+    "货黄",
+    "黄金",
+    "金日",
+    "日内",
+    "内涨",
+    "涨幅",
+    "幅扩"
+   ]
+  },
+  {
+   "id": "t14",
+   "rank": 14,
+   "title": "现货白银向上触及42美元/盎司",
+   "url": "https://www.jiemian.com/article/15359497.html",
+   "summary": "",
+   "category": "china",
+   "lang": "zh",
+   "publishedAt": "2026-11-22T23:03:35.000Z",
+   "heat": 55,
+   "factors": {
+    "recency": 94,
+    "authority": 70,
+    "coverage": 0,
+    "signal": 22
+   },
+   "sources": [
+    {
+     "id": "jiemian",
+     "name": "界面新闻",
+     "url": "https://www.jiemian.com/article/15359497.html"
+    }
+   ],
+   "keywords": [
+    "现货",
+    "货白",
+    "白银",
+    "银向",
+    "向上",
+    "上触",
+    "触及",
+    "美元"
+   ]
+  },
+  {
+   "id": "t15",
+   "rank": 15,
+   "title": "因达美航空系统故障，美国亚特兰大机场逾360架次航班延误",
+   "url": "https://www.jiemian.com/article/15359483.html",
+   "summary": "当地时间11月22日，据美国方面消息，因美国达美航空公司系统故障，亚特兰大哈茨菲尔德-杰克逊国际机场当天上午364架次航班出现延误。据悉，美国联邦航空管理局当天上午一度发布地面停飞令，随后调整为地面延误措施，预计于当地时间12时59分到期。此次故障涉及达美航空用于计算出发航班重量和平衡的自动化系统，航空公司工作人员正进行人工操作，以确保航班安全起飞。航班追踪…",
+   "category": "china",
+   "lang": "zh",
+   "publishedAt": "2026-11-22T23:02:42.000Z",
+   "heat": 55,
+   "factors": {
+    "recency": 94,
+    "authority": 70,
+    "coverage": 0,
+    "signal": 22
+   },
+   "sources": [
+    {
+     "id": "jiemian",
+     "name": "界面新闻",
+     "url": "https://www.jiemian.com/article/15359483.html"
+    }
+   ],
+   "keywords": [
+    "360",
+    "因达",
+    "达美",
+    "美航",
+    "航空",
+    "空系",
+    "系统",
+    "统故"
+   ]
+  },
+  {
+   "id": "t16",
+   "rank": 16,
+   "title": "伊拉克称安全部队打死一名“伊斯兰国”头目",
+   "url": "https://www.jiemian.com/article/15359476.html",
+   "summary": "当地时间11月22日，据伊拉克国家安全局声明，伊拉克安全部队根据情报追踪，在伊东部迪亚拉省对化名为“哈塔卜·贾齐拉”（Khattab Jazeera）的极端组织“伊斯兰国”成员实施行动。双方发生交火后，该人员被打死，数名随行人员受伤后逃离。声明称，被打死的成员曾担任该组织地区分队指挥官和军事负责人，涉嫌策划针对伊拉克安全部队、“人民动员组织”营地以及与安全机…",
+   "category": "china",
+   "lang": "zh",
+   "publishedAt": "2026-11-22T23:01:43.000Z",
+   "heat": 55,
+   "factors": {
+    "recency": 94,
+    "authority": 70,
+    "coverage": 0,
+    "signal": 18
+   },
+   "sources": [
+    {
+     "id": "jiemian",
+     "name": "界面新闻",
+     "url": "https://www.jiemian.com/article/15359476.html"
+    }
+   ],
+   "keywords": [
+    "伊拉",
+    "拉克",
+    "克称",
+    "称安",
+    "安全",
+    "全部",
+    "部队",
+    "队打"
+   ]
+  },
+  {
+   "id": "t17",
+   "rank": 17,
+   "title": "11月23日新闻夜读",
+   "url": "https://www.chinanews.com.cn/iframe/2026/11-23/10736223.shtml",
+   "summary": "",
+   "category": "china",
+   "lang": "zh",
+   "publishedAt": "2026-11-22T22:55:54.000Z",
+   "heat": 55,
+   "factors": {
+    "recency": 93,
+    "authority": 80,
+    "coverage": 0,
+    "signal": 12
+   },
+   "sources": [
+    {
+     "id": "chinanews",
+     "name": "中国新闻网",
+     "url": "https://www.chinanews.com.cn/iframe/2026/11-23/10736223.shtml"
+    }
+   ],
+   "keywords": [
+    "日新",
+    "新闻",
+    "闻夜",
+    "夜读"
+   ]
+  },
+  {
+   "id": "t18",
+   "rank": 18,
+   "title": "美国达美航空系统故障致大量航班延误 航空公司致歉",
+   "url": "https://www.chinanews.com.cn/gj/2026/11-23/10736222.shtml",
+   "summary": "中新网11月23日电 据美国有线电视新闻网(CNN)等美媒报道，美国达美航空公司技术系统出现故障，导致当地时间22日该公司的航班在全美出现大量延误。该公司当天下午表示，其技术系统问题已得到解决。",
+   "category": "china",
+   "lang": "zh",
+   "publishedAt": "2026-11-22T22:47:58.000Z",
+   "heat": 55,
+   "factors": {
+    "recency": 92,
+    "authority": 80,
+    "coverage": 0,
+    "signal": 10
+   },
+   "sources": [
+    {
+     "id": "chinanews",
+     "name": "中国新闻网",
+     "url": "https://www.chinanews.com.cn/gj/2026/11-23/10736222.shtml"
+    }
+   ],
+   "keywords": [
+    "美国",
+    "国达",
+    "达美",
+    "美航",
+    "航空",
+    "空系",
+    "系统",
+    "统故"
+   ]
+  },
+  {
+   "id": "t19",
+   "rank": 19,
+   "title": "“零碳暖流”、AI控温 核能供暖是一种什么样的体验",
+   "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736219.shtml",
+   "summary": "随着气温持续走低，您家里的暖气热起来了吗？作为我国南方首个核能供热示范工程所在地，浙江嘉兴海盐县本周正式开启供暖。而今年，当地“核能供暖版图”持续扩容，服务范围从居民小区、工业企业，进一步延伸至文旅酒店等，让“零碳暖流”覆盖更多场景。",
+   "category": "china",
+   "lang": "zh",
+   "publishedAt": "2026-11-22T22:25:51.000Z",
+   "heat": 55,
+   "factors": {
+    "recency": 88,
+    "authority": 80,
+    "coverage": 0,
+    "signal": 18
+   },
+   "sources": [
+    {
+     "id": "chinanews",
+     "name": "中国新闻网",
+     "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736219.shtml"
+    }
+   ],
+   "keywords": [
+    "零碳",
+    "碳暖",
+    "暖流",
+    "控温",
+    "核能",
+    "能供",
+    "供暖",
+    "暖是"
+   ]
+  },
+  {
+   "id": "t20",
+   "rank": 20,
+   "title": "锚定硬科技前沿，券商系股权基金密集落子",
+   "url": "https://www.jiemian.com/article/15359543.html",
+   "summary": "",
+   "category": "china",
+   "lang": "zh",
+   "publishedAt": "2026-11-22T23:10:35.000Z",
+   "heat": 54,
+   "factors": {
+    "recency": 96,
+    "authority": 70,
+    "coverage": 0,
+    "signal": 10
+   },
+   "sources": [
+    {
+     "id": "jiemian",
+     "name": "界面新闻",
+     "url": "https://www.jiemian.com/article/15359543.html"
+    }
+   ],
+   "keywords": [
+    "锚定",
+    "定硬",
+    "硬科",
+    "科技",
+    "技前",
+    "前沿",
+    "券商",
+    "商系"
+   ]
+  },
+  {
+   "id": "t21",
+   "rank": 21,
+   "title": "Russian ship attacked near Benghazi in suspected drone attack",
+   "url": "https://www.france24.com/en/video/20261122-russian-ship-attacked-near-benghazi-in-suspected-drone-attack-ukraine",
+   "summary": "Authorities in divided Libya's east said a Russian ship docked at the Benghazi port was hit on Sunday in a suspected drone attack, causing a blast but no casualties. There was no i…",
+   "category": "world",
+   "lang": "en",
+   "publishedAt": "2026-11-22T22:37:45.000Z",
+   "heat": 54,
+   "factors": {
+    "recency": 92,
+    "authority": 85,
+    "coverage": 0,
+    "signal": 0
+   },
+   "sources": [
+    {
+     "id": "france24",
+     "name": "France 24",
+     "url": "https://www.france24.com/en/video/20261122-russian-ship-attacked-near-benghazi-in-suspected-drone-attack-ukraine"
+    }
+   ],
+   "keywords": [
+    "russian",
+    "ship",
+    "attacked",
+    "near",
+    "benghazi",
+    "suspected",
+    "drone",
+    "attack"
+   ]
+  },
+  {
+   "id": "t22",
+   "rank": 22,
+   "title": "肯尼亚与刚果（金）同意全面恢复外交关系",
+   "url": "https://www.jiemian.com/article/15359526.html",
+   "summary": "肯尼亚总统鲁托与刚果（金）总统齐塞克迪11月22日在刚果（布）北部城市奥约举行的四方峰会上达成共识，两国同意通过恢复大使往来等措施推动全面恢复外交关系，加强经济合作，共同维护地区和平与稳定。据鲁托当天在社交媒体平台发布的峰会公报，两国领导人重申尊重国家主权、领土完整、不干涉内政、睦邻友好及和平解决争端等原则，承诺优先通过外交渠道及现有地区和非洲大陆相关机制解…",
+   "category": "china",
+   "lang": "zh",
+   "publishedAt": "2026-11-22T23:05:48.000Z",
+   "heat": 53,
+   "factors": {
+    "recency": 95,
+    "authority": 70,
+    "coverage": 0,
+    "signal": 10
+   },
+   "sources": [
+    {
+     "id": "jiemian",
+     "name": "界面新闻",
+     "url": "https://www.jiemian.com/article/15359526.html"
+    }
+   ],
+   "keywords": [
+    "肯尼",
+    "尼亚",
+    "亚与",
+    "与刚",
+    "刚果",
+    "同意",
+    "意全",
+    "全面"
+   ]
+  },
+  {
+   "id": "t23",
+   "rank": 23,
+   "title": "美国提醒在巴林公民提高警惕，称敌对行动可能升级",
+   "url": "https://www.jiemian.com/article/15359508.html",
+   "summary": "美国驻巴林大使馆11月22日发布安全提醒称，也门胡塞武装的袭击威胁加剧，同时“伊朗企图袭击该地区的美国政府官员和设施”，要求在巴林的美国公民提高警惕。安全提醒说，伊朗已对美国在科威特和巴林的设施发动袭击，胡塞武装则对沙特阿拉伯的民用机场及其他关键基础设施发动袭击，造成平民伤亡和严重交通中断。“敌对行动有可能迅速升级。”（央视新闻）",
+   "category": "china",
+   "lang": "zh",
+   "publishedAt": "2026-11-22T23:04:07.000Z",
+   "heat": 53,
+   "factors": {
+    "recency": 95,
+    "authority": 70,
+    "coverage": 0,
+    "signal": 10
+   },
+   "sources": [
+    {
+     "id": "jiemian",
+     "name": "界面新闻",
+     "url": "https://www.jiemian.com/article/15359508.html"
+    }
+   ],
+   "keywords": [
+    "美国",
+    "国提",
+    "提醒",
+    "醒在",
+    "在巴",
+    "巴林",
+    "林公",
+    "公民"
+   ]
+  },
+  {
+   "id": "t24",
+   "rank": 24,
+   "title": "土耳其外长：美伊冲突给多国造成的经济负担日益加重",
+   "url": "https://www.jiemian.com/article/15359500.html",
+   "summary": "土耳其外长费丹11月21日在接受采访时表示，美伊冲突持续，迟迟缺乏解决方案，给多国造成的经济负担日益加重，并可能产生极具破坏性的影响。美伊达成协议不仅对恢复霍尔木兹海峡的通航至关重要，而且对进一步缓解全球金融危机也具有重要意义。费丹说，目前围绕霍尔木兹海峡问题的谈判虽然一定程度上陷入僵局，但外交斡旋仍在继续，美伊双方仍在互相传递消息并提出各自诉求。土耳其正尽…",
+   "category": "china",
+   "lang": "zh",
+   "publishedAt": "2026-11-22T23:03:37.000Z",
+   "heat": 53,
+   "factors": {
+    "recency": 94,
+    "authority": 70,
+    "coverage": 0,
+    "signal": 10
+   },
+   "sources": [
+    {
+     "id": "jiemian",
+     "name": "界面新闻",
+     "url": "https://www.jiemian.com/article/15359500.html"
+    }
+   ],
+   "keywords": [
+    "土耳",
+    "耳其",
+    "其外",
+    "外长",
+    "美伊",
+    "伊冲",
+    "冲突",
+    "突给"
+   ]
+  },
+  {
+   "id": "t25",
+   "rank": 25,
+   "title": "OpenAI 首席科学家警告：AI 最早可能在 2027 年加速自身发展，奥尔特曼赞同为 AI 开发设限",
+   "url": "https://www.ithome.com/1/030/720.htm",
+   "summary": "IT之家 11 月 23 日消息，当地时间于 11 月 22 日，OpenAI 首席科学家雅库布 · 帕霍茨基（Jakub Pachocki）发文，提议 AI 企业应建立行业统一标准，对先进 AI 模型的开发设置共同限制，在研究人员具备更可靠的模型行为理解和监控能力之前，不应突破约定的发展门槛。 他认为，传统 AI 能力评测基准会随着技术进步迅速过时，而困惑…",
+   "category": "tech",
+   "lang": "zh",
+   "publishedAt": "2026-11-22T22:50:46.000Z",
+   "heat": 52,
+   "factors": {
+    "recency": 95,
+    "authority": 75,
+    "coverage": 0,
+    "signal": 0
+   },
+   "sources": [
+    {
+     "id": "ithome",
+     "name": "IT之家",
+     "url": "https://www.ithome.com/1/030/720.htm"
+    }
+   ],
+   "keywords": [
+    "openai",
+    "2027",
+    "首席",
+    "席科",
+    "科学",
+    "学家",
+    "家警",
+    "警告"
+   ]
+  },
+  {
+   "id": "t26",
+   "rank": 26,
+   "title": "古尔曼：苹果准备在明年 2 月至 3 月 iOS 27.4 周期中推出入门级 iPad、iPhone 18e 和全新 MacBook Neo",
+   "url": "https://www.ithome.com/1/030/719.htm",
+   "summary": "IT之家 11 月 23 日消息，彭博社记者马克 · 古尔曼昨晚发布了最新一期 Power On 新闻通讯，分析了苹果在 AI Agent 竞争中的处境，并披露了苹果 2027 年上半年的部分新品计划。 IT之家此前报道，苹果正在招聘负责 Agentic AI 项目的高级工程管理人员，招聘描述涉及跨应用操作、网页浏览、命令执行及代码编写和调试等能力。 古尔曼…",
+   "category": "tech",
+   "lang": "zh",
+   "publishedAt": "2026-11-22T22:42:26.000Z",
+   "heat": 52,
+   "factors": {
+    "recency": 94,
+    "authority": 75,
+    "coverage": 0,
+    "signal": 0
+   },
+   "sources": [
+    {
+     "id": "ithome",
+     "name": "IT之家",
+     "url": "https://www.ithome.com/1/030/719.htm"
+    }
+   ],
+   "keywords": [
+    "ios",
+    "27.4",
+    "ipad",
+    "iphone",
+    "18e",
+    "macbook",
+    "neo",
+    "古尔"
+   ]
+  },
+  {
+   "id": "t27",
+   "rank": 27,
+   "title": "Can climate diplomacy build on the collapse of COP31?",
+   "url": "https://www.koreatimes.co.kr/world/20261123/can-climate-diplomacy-build-on-the-collapse-of-cop31?utm_source=rss",
+   "summary": "ANTALYA, Turkey — The collapse of COP31 talks in Turkey on Sunday without a political agreement left exhausted negotiators questioning the future of a process that for three decade…",
+   "category": "world",
+   "lang": "en",
+   "publishedAt": "2026-11-22T23:32:03.000Z",
+   "heat": 51,
+   "factors": {
+    "recency": 100,
+    "authority": 60,
+    "coverage": 0,
+    "signal": 4
+   },
+   "sources": [
+    {
+     "id": "koreatimes",
+     "name": "Korea Times",
+     "url": "https://www.koreatimes.co.kr/world/20261123/can-climate-diplomacy-build-on-the-collapse-of-cop31?utm_source=rss"
+    }
+   ],
+   "keywords": [
+    "can",
+    "climate",
+    "diplomacy",
+    "build",
+    "the",
+    "collapse",
+    "cop31"
+   ]
+  },
+  {
+   "id": "t28",
+   "rank": 28,
+   "title": "US seeks answers on Nvidia's sale of chips to China, Bessent says",
+   "url": "https://www.koreatimes.co.kr/world/20261123/us-seeks-answers-on-nvidias-sale-of-chips-to-china-bessent-says?utm_source=rss",
+   "summary": "WASHINGTON — The US is seeking answers from Nvidia on its chip sales to China and will find out who was in charge of compliance at the company formerly led by Jensen Huang, who res…",
+   "category": "world",
+   "lang": "en",
+   "publishedAt": "2026-11-22T23:32:03.000Z",
+   "heat": 50,
+   "factors": {
+    "recency": 100,
+    "authority": 60,
+    "coverage": 0,
+    "signal": 0
+   },
+   "sources": [
+    {
+     "id": "koreatimes",
+     "name": "Korea Times",
+     "url": "https://www.koreatimes.co.kr/world/20261123/us-seeks-answers-on-nvidias-sale-of-chips-to-china-bessent-says?utm_source=rss"
+    }
+   ],
+   "keywords": [
+    "seeks",
+    "answers",
+    "nvidia's",
+    "sale",
+    "chips",
+    "china",
+    "bessent",
+    "says"
+   ]
+  },
+  {
+   "id": "t29",
+   "rank": 29,
+   "title": "Russia starts towing ship hit by drones in Baltic, Finland says",
+   "url": "https://www.koreatimes.co.kr/world/20261123/russia-starts-towing-ship-hit-by-drones-in-baltic-finland-says?utm_source=rss",
+   "summary": "HELSINKI — A Russian rescue vessel on Sunday began towing a Russian-owned cargo ship that was struck by drones in the Baltic Sea out of Finnish waters after two days of firefightin…",
+   "category": "world",
+   "lang": "en",
+   "publishedAt": "2026-11-22T23:32:03.000Z",
+   "heat": 50,
+   "factors": {
+    "recency": 100,
+    "authority": 60,
+    "coverage": 0,
+    "signal": 0
+   },
+   "sources": [
+    {
+     "id": "koreatimes",
+     "name": "Korea Times",
+     "url": "https://www.koreatimes.co.kr/world/20261123/russia-starts-towing-ship-hit-by-drones-in-baltic-finland-says?utm_source=rss"
+    }
+   ],
+   "keywords": [
+    "russia",
+    "starts",
+    "towing",
+    "ship",
+    "hit",
+    "drones",
+    "baltic",
+    "finland"
+   ]
+  },
+  {
+   "id": "t30",
+   "rank": 30,
+   "title": "Like SpaceX, Anthropic ran an unusual IPO process, chafing some bankers",
+   "url": "https://www.koreatimes.co.kr/world/20261123/like-spacex-anthropic-ran-an-unusual-ipo-process-chafing-some-bankers?utm_source=rss",
+   "summary": "NEW YORK — For the second time this year, Wall Street bankers and lawyers took home a massive paycheck from a record-setting initial public offering. And for the second time this y…",
+   "category": "world",
+   "lang": "en",
+   "publishedAt": "2026-11-22T23:32:03.000Z",
+   "heat": 50,
+   "factors": {
+    "recency": 100,
+    "authority": 60,
+    "coverage": 0,
+    "signal": 0
+   },
+   "sources": [
+    {
+     "id": "koreatimes",
+     "name": "Korea Times",
+     "url": "https://www.koreatimes.co.kr/world/20261123/like-spacex-anthropic-ran-an-unusual-ipo-process-chafing-some-bankers?utm_source=rss"
+    }
+   ],
+   "keywords": [
+    "like",
+    "spacex",
+    "anthropic",
+    "ran",
+    "unusual",
+    "ipo",
+    "process",
+    "chafing"
+   ]
+  },
+  {
+   "id": "t31",
+   "rank": 31,
+   "title": "Israel’s Eisenkot slams ‘Jewish terrorism’ after attacks by settlers in West Bank",
+   "url": "https://www.france24.com/en/middle-east/20261122-israel-s-eisenkot-slams-jewish-terrorism-after-attacks-by-settlers-in-west-bank",
+   "summary": "Israeli opposition leader Gadi Eisenkot on Sunday condemned arson attacks by settlers on Palestinian villages in the West Bank as “Jewish terrorism.” Israeli police said they opene…",
+   "category": "world",
+   "lang": "en",
+   "publishedAt": "2026-11-22T21:29:16.000Z",
+   "heat": 50,
+   "factors": {
+    "recency": 82,
+    "authority": 85,
+    "coverage": 0,
+    "signal": 0
+   },
+   "sources": [
+    {
+     "id": "france24",
+     "name": "France 24",
+     "url": "https://www.france24.com/en/middle-east/20261122-israel-s-eisenkot-slams-jewish-terrorism-after-attacks-by-settlers-in-west-bank"
+    }
+   ],
+   "keywords": [
+    "israel",
+    "eisenkot",
+    "slams",
+    "jewish",
+    "terrorism",
+    "after",
+    "attacks",
+    "settlers"
+   ]
+  },
+  {
+   "id": "t32",
+   "rank": 32,
    "title": "中世纪模拟经营游戏《铁匠大师》发售，Steam 国区首发 5 折 29.5 元",
    "url": "https://www.ithome.com/1/030/690.htm",
    "summary": "IT之家 11 月 22 日消息，开发商 Untitled Studio 宣布旗下模拟游戏《铁匠大师（Blacksmith Master）》正式发售，本作背景设置在中世纪，玩家可以在游戏中体验锻造武器、盔甲、工具和厨具等环节。 价格方面，以 Steam 国区为例，游戏原价 59 元，首发 5 折后低至 29.5 元，优惠将于 12 月 4 日结束，IT之家附…",
    "category": "tech",
    "lang": "zh",
    "publishedAt": "2026-11-22T10:50:36.000Z",
-   "heat": 55,
+   "heat": 48,
    "factors": {
-    "recency": 59,
+    "recency": 39,
     "authority": 75,
     "coverage": 0,
     "signal": 72
@@ -113,17 +1106,17 @@
    ]
   },
   {
-   "id": "t4",
-   "rank": 4,
-   "title": "Ligue 1: PSG extend winning run at Nice (3-2) but lose Désiré Doué to injury",
-   "url": "https://www.france24.com/en/tv-shows/sports/20261122-ligue-1-psg-extend-winning-run-at-nice-3-2-but-lose-d%C3%A9sir%C3%A9-dou%C3%A9-to-injury",
-   "summary": "A bittersweet victory for PSG at Nice on Saturday evening. The Parisians strengthened their grip on top spot in Ligue 1, but lost Désiré Doué for several months after the forward s…",
+   "id": "t33",
+   "rank": 33,
+   "title": "Democrat Hubbard wins North Carolina recount, clinching historic House majority",
+   "url": "https://www.france24.com/en/americas/20261122-democrat-hubbard-wins-north-carolina-recount-clinching-historic-house-majority",
+   "summary": "Democrat Chuck Hubbard was elected to the US House of Representatives from North Carolina on Sunday after defeating veteran Republican Virginia Foxx, who chairs the powerful House…",
    "category": "world",
    "lang": "en",
-   "publishedAt": "2026-11-22T16:55:55.000Z",
-   "heat": 54,
+   "publishedAt": "2026-11-22T20:16:42.000Z",
+   "heat": 47,
    "factors": {
-    "recency": 93,
+    "recency": 74,
     "authority": 85,
     "coverage": 0,
     "signal": 0
@@ -132,32 +1125,32 @@
     {
      "id": "france24",
      "name": "France 24",
-     "url": "https://www.france24.com/en/tv-shows/sports/20261122-ligue-1-psg-extend-winning-run-at-nice-3-2-but-lose-d%C3%A9sir%C3%A9-dou%C3%A9-to-injury"
+     "url": "https://www.france24.com/en/americas/20261122-democrat-hubbard-wins-north-carolina-recount-clinching-historic-house-majority"
     }
    ],
    "keywords": [
-    "ligue",
-    "psg",
-    "extend",
-    "winning",
-    "run",
-    "nice",
-    "3-2",
-    "but"
+    "democrat",
+    "hubbard",
+    "wins",
+    "north",
+    "carolina",
+    "recount",
+    "clinching",
+    "historic"
    ]
   },
   {
-   "id": "t5",
-   "rank": 5,
-   "title": "West Bank attacks: Opposition leader Eisenkot decries \"Jewish terrorism\"",
-   "url": "https://www.france24.com/en/west-bank-attacks-opposition-leader-eisenkot-decries-jewish-terrorism",
-   "summary": "Israeli authorities have opened an investigation after Palestinian vehicles and properties were set on fire in three villages in the occupied West Bank. Israeli soldiers were deplo…",
+   "id": "t34",
+   "rank": 34,
+   "title": "Russian warship hit by suspected Ukrainian drone at Benghazi naval base, Libyan officials say",
+   "url": "https://www.france24.com/en/africa/20261122-russian-warship-hit-by-suspected-ukrainian-drone-at-libya-s-benghazi-naval-base",
+   "summary": "A Russian navy corvette docked at the Benghazi naval base ​in eastern Libya was hit on Sunday by a suspected Ukrainian sea drone, according to local officials, in what appeared to…",
    "category": "world",
    "lang": "en",
-   "publishedAt": "2026-11-22T16:25:09.000Z",
-   "heat": 52,
+   "publishedAt": "2026-11-22T19:41:23.000Z",
+   "heat": 46,
    "factors": {
-    "recency": 88,
+    "recency": 70,
     "authority": 85,
     "coverage": 0,
     "signal": 0
@@ -166,168 +1159,93 @@
     {
      "id": "france24",
      "name": "France 24",
-     "url": "https://www.france24.com/en/west-bank-attacks-opposition-leader-eisenkot-decries-jewish-terrorism"
+     "url": "https://www.france24.com/en/africa/20261122-russian-warship-hit-by-suspected-ukrainian-drone-at-libya-s-benghazi-naval-base"
     }
    ],
    "keywords": [
-    "west",
-    "bank",
-    "attacks",
-    "opposition",
-    "leader",
-    "eisenkot",
-    "decries",
-    "jewish"
+    "russian",
+    "warship",
+    "hit",
+    "suspected",
+    "ukrainian",
+    "drone",
+    "benghazi",
+    "naval"
    ]
   },
   {
-   "id": "t6",
-   "rank": 6,
-   "title": "李家超致贺香港特区选委会当选委员 冀秉持“爱国者治港”原则履职尽责",
-   "url": "https://www.chinanews.com.cn/gn/2026/11-22/10736218.shtml",
-   "summary": "中新社香港11月22日电 香港特区行政长官李家超22日向2026年香港特区选举委员会(简称“选委会”)界别分组一般选举当选委员致贺。他期望所有选委会委员秉持“爱国者治港”原则履职尽责，为“一国两制”实践行稳致远贡献力量。",
-   "category": "china",
-   "lang": "zh",
-   "publishedAt": "2026-11-22T15:58:55.000Z",
-   "heat": 52,
+   "id": "t35",
+   "rank": 35,
+   "title": "Burnham, 'Brejoin' & the Ghosts of Brexit",
+   "url": "https://www.france24.com/en/tv-shows/spotlight/20261122-burnham-brejoin-the-ghosts-of-brexit",
+   "summary": "“The people of Britain have spoken, and the answer is: we are out.” The words of David Dimbleby at 4.40am on 24 June 2016, as the Brexit referendum result became clear. But nearly…",
+   "category": "world",
+   "lang": "en",
+   "publishedAt": "2026-11-22T19:37:13.000Z",
+   "heat": 45,
    "factors": {
-    "recency": 81,
-    "authority": 80,
+    "recency": 69,
+    "authority": 85,
     "coverage": 0,
-    "signal": 18
+    "signal": 0
    },
    "sources": [
     {
-     "id": "chinanews",
-     "name": "中国新闻网",
-     "url": "https://www.chinanews.com.cn/gn/2026/11-22/10736218.shtml"
+     "id": "france24",
+     "name": "France 24",
+     "url": "https://www.france24.com/en/tv-shows/spotlight/20261122-burnham-brejoin-the-ghosts-of-brexit"
     }
    ],
    "keywords": [
-    "李家",
-    "家超",
-    "超致",
-    "致贺",
-    "贺香",
-    "香港",
-    "港特",
-    "特区"
+    "burnham",
+    "brejoin'",
+    "the",
+    "ghosts",
+    "brexit"
    ]
   },
   {
-   "id": "t7",
-   "rank": 7,
-   "title": "2026中国壁球公开赛落幕 埃及和马来西亚选手分获男、女单打冠军",
-   "url": "https://www.chinanews.com.cn/ty/2026/11-22/10736216.shtml",
-   "summary": "中新社上海11月22日电 (记者 缪璐)2026中国壁球公开赛决赛22日晚在上海举行。埃及名将穆斯塔法·阿萨尔、马来西亚名将苏布拉马尼娅姆·西瓦桑加里分获男、女单打冠军。",
-   "category": "china",
-   "lang": "zh",
-   "publishedAt": "2026-11-22T15:34:38.000Z",
-   "heat": 52,
+   "id": "t36",
+   "rank": 36,
+   "title": "Russian strike kills 2 in Kyiv",
+   "url": "https://www.france24.com/en/russian-strike-kills-2-in-kyiv",
+   "summary": "A Russian attack struck an apartment building in the village of Dymer, just north of Kyiv, on Sunday, killing at least two people and wounding four others. The morning strike destr…",
+   "category": "world",
+   "lang": "en",
+   "publishedAt": "2026-11-22T16:23:23.000Z",
+   "heat": 44,
    "factors": {
-    "recency": 78,
-    "authority": 80,
+    "recency": 52,
+    "authority": 85,
     "coverage": 0,
     "signal": 22
    },
    "sources": [
     {
-     "id": "chinanews",
-     "name": "中国新闻网",
-     "url": "https://www.chinanews.com.cn/ty/2026/11-22/10736216.shtml"
+     "id": "france24",
+     "name": "France 24",
+     "url": "https://www.france24.com/en/russian-strike-kills-2-in-kyiv"
     }
    ],
    "keywords": [
-    "2026",
-    "中国",
-    "国壁",
-    "壁球",
-    "球公",
-    "公开",
-    "开赛",
-    "赛落"
+    "russian",
+    "strike",
+    "kills",
+    "kyiv"
    ]
   },
   {
-   "id": "t8",
-   "rank": 8,
-   "title": "创14个月新低 国际金价走势与地缘政治局势变化有何关联？",
-   "url": "https://www.chinanews.com.cn/cj/2026/11-22/10736215.shtml",
-   "summary": "本周，国际金价出现连续下跌。国际现货黄金单周跌幅达8.9%，每盎司3800美元、3700美元、3600美元关口接连失守，现货黄金最低触及每盎司3502美元，创14个月新低。",
-   "category": "china",
-   "lang": "zh",
-   "publishedAt": "2026-11-22T15:13:49.000Z",
-   "heat": 52,
-   "factors": {
-    "recency": 75,
-    "authority": 80,
-    "coverage": 0,
-    "signal": 26
-   },
-   "sources": [
-    {
-     "id": "chinanews",
-     "name": "中国新闻网",
-     "url": "https://www.chinanews.com.cn/cj/2026/11-22/10736215.shtml"
-    }
-   ],
-   "keywords": [
-    "个月",
-    "月新",
-    "新低",
-    "国际",
-    "际金",
-    "金价",
-    "价走",
-    "走势"
-   ]
-  },
-  {
-   "id": "t9",
-   "rank": 9,
-   "title": "R 星：《GTA 6》亲密戏份制作难度高，随主角关系动态变化",
-   "url": "https://www.ithome.com/1/030/714.htm",
-   "summary": "IT之家 11 月 22 日消息，据游戏开发商 Rockstar Games 介绍，为《侠盗猎车手 6》（GTA 6）设计真实可信的性爱与亲密互动场景，并不是一件容易的事。 作为一款《GTA》系列游戏，同时也是一部爱情故事，《GTA 6》中出现大量性爱和亲密互动场景并不令人意外。不过，如何恰当地把握这些内容的尺度，对开发团队而言是一项不小的挑战。 IT之家注…",
-   "category": "tech",
-   "lang": "zh",
-   "publishedAt": "2026-11-22T14:19:27.000Z",
-   "heat": 52,
-   "factors": {
-    "recency": 77,
-    "authority": 75,
-    "coverage": 0,
-    "signal": 30
-   },
-   "sources": [
-    {
-     "id": "ithome",
-     "name": "IT之家",
-     "url": "https://www.ithome.com/1/030/714.htm"
-    }
-   ],
-   "keywords": [
-    "gta",
-    "亲密",
-    "密戏",
-    "戏份",
-    "份制",
-    "制作",
-    "作难",
-    "难度"
-   ]
-  },
-  {
-   "id": "t10",
-   "rank": 10,
+   "id": "t37",
+   "rank": 37,
    "title": "韩国最大电力公司韩电再曝大规模数据泄露，152 万人信息外泄",
    "url": "https://www.ithome.com/1/030/706.htm",
    "summary": "IT之家 11 月 22 日消息，韩国最大电力公司韩国电力公社（IT之家注：KEPCO，简称“韩电”）今日表示，已确认发生另一起涉及约 152 万用户个人信息的数据泄露事件。 上个月，该公司披露了一起影响 35,528 名内部员工、退休人员及合作方员工的信息泄露事件。 据介绍，本次泄露的信息中大量包含了居民登录号码（韩国身份证号）、电话号码、地址、账号、卡号…",
    "category": "tech",
    "lang": "zh",
    "publishedAt": "2026-11-22T12:24:05.000Z",
-   "heat": 52,
+   "heat": 44,
    "factors": {
-    "recency": 66,
+    "recency": 43,
     "authority": 75,
     "coverage": 0,
     "signal": 48
@@ -351,17 +1269,17 @@
    ]
   },
   {
-   "id": "t11",
-   "rank": 11,
+   "id": "t38",
+   "rank": 38,
    "title": "日本零售业接连爆发数据泄露事件，塔唱片约 1020 万账户信息遭窃",
    "url": "https://www.ithome.com/1/030/704.htm",
    "summary": "IT之家 11 月 22 日消息，据彭博社报道，日本音乐零售商塔唱片（Tower Records Japan Inc.）表示，公司遭遇未经授权的访问，导致客户信息泄露。这使塔唱片成为近期披露数据泄露事件的又一家日本零售企业。 塔唱片在周日更新的一份声明中表示，此次事件导致约 1020 万个账户的登录信息泄露，包括电子邮件地址和用户 ID。公司称，已于周四发现…",
    "category": "tech",
    "lang": "zh",
    "publishedAt": "2026-11-22T12:10:44.000Z",
-   "heat": 52,
+   "heat": 44,
    "factors": {
-    "recency": 65,
+    "recency": 42,
     "authority": 75,
     "coverage": 0,
     "signal": 48
@@ -385,982 +1303,71 @@
    ]
   },
   {
-   "id": "t12",
-   "rank": 12,
-   "title": "研华 ASR-A505 单板计算机曝光，搭载英特尔 \"Nova Lake H\" 处理器",
-   "url": "https://www.ithome.com/1/030/716.htm",
-   "summary": "IT之家 11 月 22 日消息，根据研华 (Advantech) 泄露到网络上的一份演示文稿，该企业正在开发一款基于英特尔第 4 代酷睿 Ultra 处理器 \"Nova Lake H\" 的“四英寸级”单板计算机 (SBC) ASR-A505。 该 SBC 板载一颗 \"8P+4E+4LE\" 的 16 核心 16 线程 CPU，配备 18MB 的 LLC 缓存…",
+   "id": "t39",
+   "rank": 39,
+   "title": "R 星：《GTA 6》亲密戏份制作难度高，随主角关系动态变化",
+   "url": "https://www.ithome.com/1/030/714.htm",
+   "summary": "IT之家 11 月 22 日消息，据游戏开发商 Rockstar Games 介绍，为《侠盗猎车手 6》（GTA 6）设计真实可信的性爱与亲密互动场景，并不是一件容易的事。 作为一款《GTA》系列游戏，同时也是一部爱情故事，《GTA 6》中出现大量性爱和亲密互动场景并不令人意外。不过，如何恰当地把握这些内容的尺度，对开发团队而言是一项不小的挑战。 IT之家注…",
    "category": "tech",
    "lang": "zh",
-   "publishedAt": "2026-11-22T14:45:34.000Z",
-   "heat": 51,
-   "factors": {
-    "recency": 79,
-    "authority": 75,
-    "coverage": 0,
-    "signal": 20
-   },
-   "sources": [
-    {
-     "id": "ithome",
-     "name": "IT之家",
-     "url": "https://www.ithome.com/1/030/716.htm"
-    }
-   ],
-   "keywords": [
-    "asr-a505",
-    "nova",
-    "lake",
-    "研华",
-    "单板",
-    "板计",
-    "计算",
-    "算机"
-   ]
-  },
-  {
-   "id": "t13",
-   "rank": 13,
-   "title": "签约后也能涨价：消息称 AI 服务器厂商交付前提价，涨幅最高达 45%",
-   "url": "https://www.ithome.com/1/030/713.htm",
-   "summary": "IT之家 11 月 22 日消息，据金融时报报道，随着人工智能基础设施成本飙升并向下游客户传导，销售数据中心设备的科技公司正在与买家签署合同数月后，大幅上调搭载英伟达芯片的人工智能服务器价格。 包括戴尔、慧与科技（HPE）、联想和超微电脑（Supermicro）在内的供应商，向自建数据中心的客户销售服务器，其中包含 GPU、内存芯片和网络设备等组件。此类交易…",
-   "category": "tech",
-   "lang": "zh",
-   "publishedAt": "2026-11-22T14:00:48.000Z",
-   "heat": 50,
-   "factors": {
-    "recency": 75,
-    "authority": 75,
-    "coverage": 0,
-    "signal": 22
-   },
-   "sources": [
-    {
-     "id": "ithome",
-     "name": "IT之家",
-     "url": "https://www.ithome.com/1/030/713.htm"
-    }
-   ],
-   "keywords": [
-    "签约",
-    "约后",
-    "后也",
-    "也能",
-    "能涨",
-    "涨价",
-    "消息",
-    "息称"
-   ]
-  },
-  {
-   "id": "t14",
-   "rank": 14,
-   "title": "B站就“AI 大肥鱼”智能体账号泛滥发布调查问卷，征集治理意见",
-   "url": "https://www.ithome.com/1/030/702.htm",
-   "summary": "IT之家 11 月 22 日消息，近期B站出现大量爱好者设置的 AI 智能体账号，这些账号通常以“大肥鱼”“小飞鲸”等昵称，使用 DeepSeek 鲸鱼娘等形象作为头像，在评论区广泛活跃。 对此，B站官方账号“哔哩哔哩社区小管家”于 11 月 20 日发布《关于 AI“大肥鱼”你怎么看？》治理意见征询，面向用户征集对 AI 账号及相关行为的意见，并表示将根据…",
-   "category": "tech",
-   "lang": "zh",
-   "publishedAt": "2026-11-22T11:44:18.000Z",
-   "heat": 50,
-   "factors": {
-    "recency": 63,
-    "authority": 75,
-    "coverage": 0,
-    "signal": 44
-   },
-   "sources": [
-    {
-     "id": "ithome",
-     "name": "IT之家",
-     "url": "https://www.ithome.com/1/030/702.htm"
-    }
-   ],
-   "keywords": [
-    "站就",
-    "大肥",
-    "肥鱼",
-    "智能",
-    "能体",
-    "体账",
-    "账号",
-    "号泛"
-   ]
-  },
-  {
-   "id": "t15",
-   "rank": 15,
-   "title": "《ILL》宣传视频",
-   "url": "https://www.ign.com.cn/topic/64191/ill-xuan-chuan-shi-pin",
-   "summary": "将于2027年推出 《ILL》是一款逼真的第一人称动作恐怖游戏。你被困在一座阴森的要塞中，被某个神秘存在所囚禁。难以预知的怪物、真实的肢解系统以及逼真的物理效果，共同营造出无尽的恐怖氛围。游戏将于2027年登陆PS5、XBOX Series及PC平台。",
-   "category": "game",
-   "lang": "zh",
-   "publishedAt": "2026-11-22T14:46:39.000Z",
-   "heat": 49,
-   "factors": {
-    "recency": 82,
-    "authority": 75,
-    "coverage": 0,
-    "signal": 8
-   },
-   "sources": [
-    {
-     "id": "ign-cn",
-     "name": "IGN 中国",
-     "url": "https://www.ign.com.cn/topic/64191/ill-xuan-chuan-shi-pin"
-    }
-   ],
-   "keywords": [
-    "ill",
-    "宣传",
-    "传视",
-    "视频"
-   ]
-  },
-  {
-   "id": "t16",
-   "rank": 16,
-   "title": "青海德令哈5.6级地震经三轮排查无人员伤亡",
-   "url": "https://www.chinanews.com.cn/sh/2026/11-22/10736213.shtml",
-   "summary": "中新网西宁11月22日电 (记者 潘雨洁)22日晚间，记者从青海省地震局获悉，目前青海省海西州德令哈市已开展三轮拉网式滚动排查，经排查，全市无人员伤亡、无房屋倒塌、无重大财产损失及重大安全险情。",
-   "category": "china",
-   "lang": "zh",
-   "publishedAt": "2026-11-22T14:37:37.000Z",
-   "heat": 49,
-   "factors": {
-    "recency": 70,
-    "authority": 80,
-    "coverage": 0,
-    "signal": 22
-   },
-   "sources": [
-    {
-     "id": "chinanews",
-     "name": "中国新闻网",
-     "url": "https://www.chinanews.com.cn/sh/2026/11-22/10736213.shtml"
-    }
-   ],
-   "keywords": [
-    "5.6",
-    "青海",
-    "海德",
-    "德令",
-    "令哈",
-    "级地",
-    "地震",
-    "震经"
-   ]
-  },
-  {
-   "id": "t17",
-   "rank": 17,
-   "title": "MiniMax 利用最新内部模型破解多个密码学前沿方案，刷新国际挑战赛纪录",
-   "url": "https://www.ithome.com/1/030/711.htm",
-   "summary": "IT之家 11 月 22 日消息，MiniMax 今日宣布，近期，MiniMax 研究团队利用 MiniMax 最新内部模型对现代密码方案开展了系统性的自动化密码分析。 在测试中，模型发掘出了多处此前未知的算法构造缺陷，并将多项原本仅停留在论文理论层面的攻击，推进到了秒级至分钟级的可执行破解。 IT之家获悉，相关进展主要涵盖三个方面： 针对历届 NIST（美…",
-   "category": "tech",
-   "lang": "zh",
-   "publishedAt": "2026-11-22T13:23:38.000Z",
-   "heat": 49,
-   "factors": {
-    "recency": 71,
-    "authority": 75,
-    "coverage": 0,
-    "signal": 26
-   },
-   "sources": [
-    {
-     "id": "ithome",
-     "name": "IT之家",
-     "url": "https://www.ithome.com/1/030/711.htm"
-    }
-   ],
-   "keywords": [
-    "minimax",
-    "利用",
-    "用最",
-    "最新",
-    "新内",
-    "内部",
-    "部模",
-    "模型"
-   ]
-  },
-  {
-   "id": "t18",
-   "rank": 18,
-   "title": "飞利浦“27M1N5500Z4”27 英寸显示器发售：2K 240Hz，1199 元",
-   "url": "https://www.ithome.com/1/030/686.htm",
-   "summary": "IT之家 11 月 22 日消息，飞利浦现已在京东上架“27M1N5500Z4”27 英寸显示器，该机主打 2K 240Hz，定价为 1199 元。 京东飞利浦“27M1N5500Z4”显示器 1199 元直达链接 该机配备一块 2560x1440 分辨率 240Hz Fast IPS 面板，亮度 250 尼特，GtG 响应速度 1ms，显示器支持 10-B…",
-   "category": "tech",
-   "lang": "zh",
-   "publishedAt": "2026-11-22T10:27:32.000Z",
-   "heat": 49,
-   "factors": {
-    "recency": 57,
-    "authority": 75,
-    "coverage": 0,
-    "signal": 46
-   },
-   "sources": [
-    {
-     "id": "ithome",
-     "name": "IT之家",
-     "url": "https://www.ithome.com/1/030/686.htm"
-    }
-   ],
-   "keywords": [
-    "27m1n5500z4",
-    "240hz",
-    "1199",
-    "飞利",
-    "利浦",
-    "英寸",
-    "寸显",
-    "显示"
-   ]
-  },
-  {
-   "id": "t19",
-   "rank": 19,
-   "title": "美国初创企业公布 AI 自研 CPU 架构 Frostbite，能效是传统处理器的 4.59 倍",
-   "url": "https://www.ithome.com/1/030/717.htm",
-   "summary": "IT之家 11 月 22 日消息，美国加利福尼亚州帕洛阿尔托的初创公司 Architect Labs 在一篇研究博客中宣布，其人工智能系统已经自主发现、设计并验证了一款名为 Frostbite 的通用 CPU。这款处理器采用全新的指令集，从底层开始重新设计，试图摆脱传统 CPU 的部分架构限制。 在 25 项工作负载测试中，由 4 个计算单元组成的 Fros…",
-   "category": "tech",
-   "lang": "zh",
-   "publishedAt": "2026-11-22T15:15:55.000Z",
-   "heat": 48,
-   "factors": {
-    "recency": 82,
-    "authority": 75,
-    "coverage": 0,
-    "signal": 0
-   },
-   "sources": [
-    {
-     "id": "ithome",
-     "name": "IT之家",
-     "url": "https://www.ithome.com/1/030/717.htm"
-    }
-   ],
-   "keywords": [
-    "cpu",
-    "frostbite",
-    "4.59",
-    "美国",
-    "国初",
-    "初创",
-    "创企",
-    "企业"
-   ]
-  },
-  {
-   "id": "t20",
-   "rank": 20,
-   "title": "银行理财五星管理人评级报告 （2026年10月）",
-   "url": "https://www.tmtpost.com/8214167.html",
-   "summary": "现金管理类五星理财子为：渝农商理财有限责任公司。本文将详细介绍各类五星理财产品，包括现金管理、固定收益、权益及混合类，帮助您更好地选择适合的投资方案。",
-   "category": "tech",
-   "lang": "zh",
-   "publishedAt": "2026-11-22T14:47:16.000Z",
-   "heat": 48,
-   "factors": {
-    "recency": 79,
-    "authority": 60,
-    "coverage": 0,
-    "signal": 22
-   },
-   "sources": [
-    {
-     "id": "tmtpost",
-     "name": "钛媒体",
-     "url": "https://www.tmtpost.com/8214167.html"
-    }
-   ],
-   "keywords": [
-    "2026",
-    "银行",
-    "行理",
-    "理财",
-    "财五",
-    "五星",
-    "星管",
-    "管理"
-   ]
-  },
-  {
-   "id": "t21",
-   "rank": 21,
-   "title": "Oracle：已确保履行与 OpenAI 合同全部所需资金",
-   "url": "https://www.ithome.com/1/030/715.htm",
-   "summary": "IT之家 11 月 22 日消息，Oracle（甲骨文）当地时间本月 20 日表示，该企业已在本月初筹集到了履行与 OpenAI 交易的全部所需资金，与供应商进行的任何进一步私下讨论仅为补充选项。 ▲ AbileneOracle 称其与 OpenAI 在 AI 基础设施合作方面的进展迅速：位于美国得克萨斯州 Abilene 的园区已用于 GPT-6 Astr…",
-   "category": "tech",
-   "lang": "zh",
-   "publishedAt": "2026-11-22T14:24:17.000Z",
-   "heat": 48,
-   "factors": {
-    "recency": 77,
-    "authority": 75,
-    "coverage": 0,
-    "signal": 10
-   },
-   "sources": [
-    {
-     "id": "ithome",
-     "name": "IT之家",
-     "url": "https://www.ithome.com/1/030/715.htm"
-    }
-   ],
-   "keywords": [
-    "oracle",
-    "openai",
-    "已确",
-    "确保",
-    "保履",
-    "履行",
-    "行与",
-    "合同"
-   ]
-  },
-  {
-   "id": "t22",
-   "rank": 22,
-   "title": "毕马威发布能源转型新书 助企业明确自身角色",
-   "url": "https://www.chinanews.com.cn/cj/2026/11-22/10736198.shtml",
-   "summary": "中新网北京11月22日电 (记者 张素)近日发布的能源转型新书提出“定位—路径—资产重估—能力—底线”五层决策框架，旨在帮助企业明确自身在能源转型中的角色。",
-   "category": "china",
-   "lang": "zh",
-   "publishedAt": "2026-11-22T12:57:55.000Z",
-   "heat": 48,
-   "factors": {
-    "recency": 58,
-    "authority": 80,
-    "coverage": 0,
-    "signal": 36
-   },
-   "sources": [
-    {
-     "id": "chinanews",
-     "name": "中国新闻网",
-     "url": "https://www.chinanews.com.cn/cj/2026/11-22/10736198.shtml"
-    }
-   ],
-   "keywords": [
-    "毕马",
-    "马威",
-    "威发",
-    "发布",
-    "布能",
-    "能源",
-    "源转",
-    "转型"
-   ]
-  },
-  {
-   "id": "t23",
-   "rank": 23,
-   "title": "雷诺集团 CEO 福兰反思职业生涯最大失误：当年未能指出在华销量目标不切实际",
-   "url": "https://www.ithome.com/1/030/707.htm",
-   "summary": "IT之家 11 月 22 日消息，据欧洲汽车新闻报道，雷诺集团首席执行官福兰（Francois Provost）直言，当年未能向时任首席执行官卡洛斯 · 戈恩（Carlos Ghosn）指出其在华销量目标不切实际，是自己职业生涯中最大的失误。 福兰于 2025 年 7 月出任雷诺首席执行官，他曾在 2016 年和 2017 年负责该车企在华业务运营。戈恩则于…",
-   "category": "tech",
-   "lang": "zh",
-   "publishedAt": "2026-11-22T12:47:05.000Z",
-   "heat": 48,
-   "factors": {
-    "recency": 68,
-    "authority": 75,
-    "coverage": 0,
-    "signal": 26
-   },
-   "sources": [
-    {
-     "id": "ithome",
-     "name": "IT之家",
-     "url": "https://www.ithome.com/1/030/707.htm"
-    }
-   ],
-   "keywords": [
-    "ceo",
-    "雷诺",
-    "诺集",
-    "集团",
-    "福兰",
-    "兰反",
-    "反思",
-    "思职"
-   ]
-  },
-  {
-   "id": "t24",
-   "rank": 24,
-   "title": "《GTA 6》首发统治力惊人：美国超六成 PS5 玩家首日涌入游戏",
-   "url": "https://www.ithome.com/1/030/620.htm",
-   "summary": "IT之家 11 月 22 日消息，《GTA 6》已经成为迄今为止全球规模最大的游戏首发作品，以前所未有的声势席卷整个游戏行业，过去没有任何一款游戏的发售盛况能够与之相提并论。 《GTA 6》发售首日销量超过 3000 万份，在 PS5 和 Xbox Series S|X 两大主机平台上均表现强势。事实上，知名行业分析师公布的一组数据更为惊人：超过半数的 PS…",
-   "category": "tech",
-   "lang": "zh",
-   "publishedAt": "2026-11-22T08:35:50.000Z",
-   "heat": 48,
+   "publishedAt": "2026-11-22T14:19:27.000Z",
+   "heat": 43,
    "factors": {
     "recency": 50,
     "authority": 75,
     "coverage": 0,
-    "signal": 56
+    "signal": 30
    },
    "sources": [
     {
      "id": "ithome",
      "name": "IT之家",
-     "url": "https://www.ithome.com/1/030/620.htm"
+     "url": "https://www.ithome.com/1/030/714.htm"
     }
    ],
    "keywords": [
     "gta",
-    "ps5",
-    "首发",
-    "发统",
-    "统治",
-    "治力",
-    "力惊",
-    "惊人"
-   ]
-  },
-  {
-   "id": "t25",
-   "rank": 25,
-   "title": "联合国气候变化安塔利亚大会闭幕",
-   "url": "https://www.chinanews.com.cn/gj/2026/11-22/10736214.shtml",
-   "summary": "当地时间22日，《联合国气候变化框架公约》第三十一次缔约方大会(COP31)闭幕，未就政治决定达成一致。",
-   "category": "china",
-   "lang": "zh",
-   "publishedAt": "2026-11-22T14:55:52.000Z",
-   "heat": 47,
-   "factors": {
-    "recency": 72,
-    "authority": 80,
-    "coverage": 0,
-    "signal": 10
-   },
-   "sources": [
-    {
-     "id": "chinanews",
-     "name": "中国新闻网",
-     "url": "https://www.chinanews.com.cn/gj/2026/11-22/10736214.shtml"
-    }
-   ],
-   "keywords": [
-    "联合",
-    "合国",
-    "国气",
-    "气候",
-    "候变",
-    "变化",
-    "化安",
-    "安塔"
-   ]
-  },
-  {
-   "id": "t26",
-   "rank": 26,
-   "title": "The week in pictures: Xi hosts Trump and Putin, COP31 and new French protests",
-   "url": "https://www.france24.com/en/asia-pacific/20261122-the-week-in-pictures-xi-hosts-trump-and-putin-cop31-and-more-french-protests",
-   "summary": "From the unprecedented Shenzhen summit in China that saw President Xi Jinping host his US and Russian counterparts, Donald Trump and Vladimir Putin, to tough talks at COP31 in Anta…",
-   "category": "world",
-   "lang": "en",
-   "publishedAt": "2026-11-22T14:22:56.000Z",
-   "heat": 47,
-   "factors": {
-    "recency": 73,
-    "authority": 85,
-    "coverage": 0,
-    "signal": 0
-   },
-   "sources": [
-    {
-     "id": "france24",
-     "name": "France 24",
-     "url": "https://www.france24.com/en/asia-pacific/20261122-the-week-in-pictures-xi-hosts-trump-and-putin-cop31-and-more-french-protests"
-    }
-   ],
-   "keywords": [
-    "the",
-    "week",
-    "pictures",
-    "hosts",
-    "trump",
-    "and",
-    "putin",
-    "cop31"
-   ]
-  },
-  {
-   "id": "t27",
-   "rank": 27,
-   "title": "\"It can take years\": Why the AI Riemann proof is far from settled",
-   "url": "https://www.france24.com/en/tv-shows/tech-24/20261122-it-can-take-years-why-the-ai-riemann-proof-is-far-from-settled",
-   "summary": "AI claimed another major scalp in maths on Friday, as Anthropic mathematician Levent Alpöge published what he says is a proof of the Riemann hypothesis, a Millennium Prize Problem…",
-   "category": "world",
-   "lang": "en",
-   "publishedAt": "2026-11-22T14:18:55.000Z",
-   "heat": 47,
-   "factors": {
-    "recency": 73,
-    "authority": 85,
-    "coverage": 0,
-    "signal": 0
-   },
-   "sources": [
-    {
-     "id": "france24",
-     "name": "France 24",
-     "url": "https://www.france24.com/en/tv-shows/tech-24/20261122-it-can-take-years-why-the-ai-riemann-proof-is-far-from-settled"
-    }
-   ],
-   "keywords": [
-    "can",
-    "take",
-    "years",
-    "why",
-    "the",
-    "riemann",
-    "proof",
-    "far"
-   ]
-  },
-  {
-   "id": "t28",
-   "rank": 28,
-   "title": "价值判断：跌停板的投资机会和风险提示（11月20日）｜上市公司观察",
-   "url": "https://www.tmtpost.com/8214152.html",
-   "summary": "本期六只标的分为两端：三只首跌收盘分别相当于定价的四倍四、两倍半与一点九倍，溢价来自尚未兑现的题材预期；三只连跌收在定价的五成八至六成，折价开始显现。",
-   "category": "tech",
-   "lang": "zh",
-   "publishedAt": "2026-11-22T14:12:03.000Z",
-   "heat": 47,
-   "factors": {
-    "recency": 76,
-    "authority": 60,
-    "coverage": 0,
-    "signal": 22
-   },
-   "sources": [
-    {
-     "id": "tmtpost",
-     "name": "钛媒体",
-     "url": "https://www.tmtpost.com/8214152.html"
-    }
-   ],
-   "keywords": [
-    "价值",
-    "值判",
-    "判断",
-    "跌停",
-    "停板",
-    "板的",
-    "的投",
-    "投资"
-   ]
-  },
-  {
-   "id": "t29",
-   "rank": 29,
-   "title": "速度滑冰世界杯日本带广站：中国队2金3银2铜收官",
-   "url": "https://www.chinanews.com.cn/ty/2026/11-22/10736207.shtml",
-   "summary": "中新社东京11月22日电 国际滑联官网消息，2026-2027赛季速度滑冰世界杯日本带广站22日落幕，北京冬奥会冠军、中国名将高亭宇当日在男子500米第二次比赛中摘银。中国队共获2金3银2铜，位列奖牌榜第二，仅次于传统劲旅荷兰队。",
-   "category": "china",
-   "lang": "zh",
-   "publishedAt": "2026-11-22T14:05:29.000Z",
-   "heat": 47,
-   "factors": {
-    "recency": 65,
-    "authority": 80,
-    "coverage": 0,
-    "signal": 22
-   },
-   "sources": [
-    {
-     "id": "chinanews",
-     "name": "中国新闻网",
-     "url": "https://www.chinanews.com.cn/ty/2026/11-22/10736207.shtml"
-    }
-   ],
-   "keywords": [
-    "速度",
-    "度滑",
-    "滑冰",
-    "冰世",
-    "世界",
-    "界杯",
-    "杯日",
-    "日本"
-   ]
-  },
-  {
-   "id": "t30",
-   "rank": 30,
-   "title": "错峰秋假，让淡季旅游“热”起来",
-   "url": "https://www.chinanews.com.cn/cj/2026/11-22/10736205.shtml",
-   "summary": "主播说联播丨错峰秋假，让淡季旅游“热”起来",
-   "category": "china",
-   "lang": "zh",
-   "publishedAt": "2026-11-22T13:59:41.000Z",
-   "heat": 47,
-   "factors": {
-    "recency": 65,
-    "authority": 80,
-    "coverage": 0,
-    "signal": 18
-   },
-   "sources": [
-    {
-     "id": "chinanews",
-     "name": "中国新闻网",
-     "url": "https://www.chinanews.com.cn/cj/2026/11-22/10736205.shtml"
-    }
-   ],
-   "keywords": [
-    "错峰",
-    "峰秋",
-    "秋假",
-    "让淡",
-    "淡季",
-    "季旅",
-    "旅游",
-    "起来"
-   ]
-  },
-  {
-   "id": "t31",
-   "rank": 31,
-   "title": "Israel investigates West Bank fires",
-   "url": "https://www.france24.com/en/israel-investigates-west-bank-fires",
-   "summary": "Israeli authorities have opened an investigation after Palestinian vehicles and properties were vandalised and set on fire in four villages in the occupied West Bank, in attacks lo…",
-   "category": "world",
-   "lang": "en",
-   "publishedAt": "2026-11-22T13:47:04.000Z",
-   "heat": 47,
-   "factors": {
-    "recency": 69,
-    "authority": 85,
-    "coverage": 0,
-    "signal": 10
-   },
-   "sources": [
-    {
-     "id": "france24",
-     "name": "France 24",
-     "url": "https://www.france24.com/en/israel-investigates-west-bank-fires"
-    }
-   ],
-   "keywords": [
-    "israel",
-    "investigates",
-    "west",
-    "bank",
-    "fires"
-   ]
-  },
-  {
-   "id": "t32",
-   "rank": 32,
-   "title": "中国经济看“新”丨从“尝鲜”到“潮流”，智能穿戴打开消费新空间",
-   "url": "https://www.chinanews.com.cn/cj/2026/11-22/10736203.shtml",
-   "summary": "新华社北京11月22日电 题：从“尝鲜”到“潮流”，智能穿戴打开消费新空间",
-   "category": "china",
-   "lang": "zh",
-   "publishedAt": "2026-11-22T13:52:36.000Z",
-   "heat": 46,
-   "factors": {
-    "recency": 64,
-    "authority": 80,
-    "coverage": 0,
-    "signal": 18
-   },
-   "sources": [
-    {
-     "id": "chinanews",
-     "name": "中国新闻网",
-     "url": "https://www.chinanews.com.cn/cj/2026/11-22/10736203.shtml"
-    }
-   ],
-   "keywords": [
-    "中国",
-    "国经",
-    "经济",
-    "济看",
-    "丨从",
-    "尝鲜",
-    "潮流",
-    "智能"
-   ]
-  },
-  {
-   "id": "t33",
-   "rank": 33,
-   "title": "多方协同发力 保障冬季“菜篮子”量足价稳",
-   "url": "https://www.chinanews.com.cn/cj/2026/11-22/10736204.shtml",
-   "summary": "玉溪市通海县是云南省的露地蔬菜基地之一，也是我国“南菜北运”的重要枢纽。入冬后，这里的10万亩蔬菜陆续进入采收高峰，每天都发送供应到全国各地市场。",
-   "category": "china",
-   "lang": "zh",
-   "publishedAt": "2026-11-22T13:48:50.000Z",
-   "heat": 46,
-   "factors": {
-    "recency": 63,
-    "authority": 80,
-    "coverage": 0,
-    "signal": 18
-   },
-   "sources": [
-    {
-     "id": "chinanews",
-     "name": "中国新闻网",
-     "url": "https://www.chinanews.com.cn/cj/2026/11-22/10736204.shtml"
-    }
-   ],
-   "keywords": [
-    "多方",
-    "方协",
-    "协同",
-    "同发",
-    "发力",
-    "保障",
-    "障冬",
-    "冬季"
-   ]
-  },
-  {
-   "id": "t34",
-   "rank": 34,
-   "title": "日本文部科学大臣因政治筹款丑闻面临辞职压力",
-   "url": "https://www.chinanews.com.cn/gj/2026/11-22/10736208.shtml",
-   "summary": "中新社东京11月22日电 (记者 朱晨曦)据日本媒体22日报道，日本文部科学大臣关芳弘因邀请政府部门工作人员出席政治筹款活动等问题持续受到质疑，朝野人士要求其辞职。",
-   "category": "china",
-   "lang": "zh",
-   "publishedAt": "2026-11-22T14:05:25.000Z",
-   "heat": 45,
-   "factors": {
-    "recency": 65,
-    "authority": 80,
-    "coverage": 0,
-    "signal": 10
-   },
-   "sources": [
-    {
-     "id": "chinanews",
-     "name": "中国新闻网",
-     "url": "https://www.chinanews.com.cn/gj/2026/11-22/10736208.shtml"
-    }
-   ],
-   "keywords": [
-    "日本",
-    "本文",
-    "文部",
-    "部科",
-    "科学",
-    "学大",
-    "大臣",
-    "臣因"
-   ]
-  },
-  {
-   "id": "t35",
-   "rank": 35,
-   "title": "（文化新纪行）山东梁山打造分布式流动演出 水浒文脉蕴新活力",
-   "url": "https://www.chinanews.com.cn/cul/2026/11-22/10736206.shtml",
-   "summary": "中新社山东梁山11月22日电 题：山东梁山打造分布式流动演出 水浒文脉蕴新活力",
-   "category": "china",
-   "lang": "zh",
-   "publishedAt": "2026-11-22T14:04:31.000Z",
-   "heat": 45,
-   "factors": {
-    "recency": 65,
-    "authority": 80,
-    "coverage": 0,
-    "signal": 10
-   },
-   "sources": [
-    {
-     "id": "chinanews",
-     "name": "中国新闻网",
-     "url": "https://www.chinanews.com.cn/cul/2026/11-22/10736206.shtml"
-    }
-   ],
-   "keywords": [
-    "文化",
-    "化新",
-    "新纪",
-    "纪行",
-    "山东",
-    "东梁",
-    "梁山",
-    "山打"
-   ]
-  },
-  {
-   "id": "t36",
-   "rank": 36,
-   "title": "西藏扎囊拓宽农牧民淡季增收路 提供770个就业岗位",
-   "url": "https://www.chinanews.com.cn/sh/2026/11-22/10736197.shtml",
-   "summary": "中新网拉萨11月22日电 (记者 贡桑拉姆)近日，西藏山南市扎囊县联合湖南省第十一批援藏工作队株洲组，举办全县首届农牧民淡季区外就业援藏专场招聘会。活动吸引68家用人单位参会，提供就业岗位770个，20名农牧民与用工单位达成就业意向。",
-   "category": "china",
-   "lang": "zh",
-   "publishedAt": "2026-11-22T12:50:21.000Z",
-   "heat": 45,
-   "factors": {
-    "recency": 57,
-    "authority": 80,
-    "coverage": 0,
-    "signal": 22
-   },
-   "sources": [
-    {
-     "id": "chinanews",
-     "name": "中国新闻网",
-     "url": "https://www.chinanews.com.cn/sh/2026/11-22/10736197.shtml"
-    }
-   ],
-   "keywords": [
-    "770",
-    "西藏",
-    "藏扎",
-    "扎囊",
-    "囊拓",
-    "拓宽",
-    "宽农",
-    "农牧"
-   ]
-  },
-  {
-   "id": "t37",
-   "rank": 37,
-   "title": "2026中国大学生路跑联赛全国总决赛在成都举行 西南大学夺得团体冠军",
-   "url": "https://www.chinanews.com.cn/tp/2026/11-22/10736180.shtml",
-   "summary": "图为北京体育大学参赛选手在比赛现场交接绶带。中新社记者 张浪 摄 图为中国海洋大学参赛选手在比赛现场交接绶带。中新社记者 张浪 摄 图为西南大学参赛选手在比赛现场。中新社记者 张浪 摄 图为南开大学参赛选手在比赛现场交接绶带。中新社记者 张浪 摄 图为比赛现场。中新社记者 张浪 摄 图为西南大学参赛选手在比赛现场。中新社记者 张浪 摄 图为西南大学参赛选手冲…",
-   "category": "china",
-   "lang": "zh",
-   "publishedAt": "2026-11-22T12:48:33.000Z",
-   "heat": 45,
-   "factors": {
-    "recency": 57,
-    "authority": 80,
-    "coverage": 0,
-    "signal": 22
-   },
-   "sources": [
-    {
-     "id": "chinanews",
-     "name": "中国新闻网",
-     "url": "https://www.chinanews.com.cn/tp/2026/11-22/10736180.shtml"
-    }
-   ],
-   "keywords": [
-    "2026",
-    "中国",
-    "国大",
-    "大学",
-    "学生",
-    "生路",
-    "路跑",
-    "跑联"
-   ]
-  },
-  {
-   "id": "t38",
-   "rank": 38,
-   "title": "阿富汗警方称打死3名武装分子",
-   "url": "https://www.chinanews.com.cn/gj/2026/11-22/10736173.shtml",
-   "summary": "中新社北京11月22日电 喀布尔消息：当地时间11月22日，阿富汗内政部发布通报称，阿富汗警方特种部队21日在首都喀布尔第11区开展行动，其间与武装分子发生交火，打死3名武装分子。",
-   "category": "world",
-   "lang": "zh",
-   "publishedAt": "2026-11-22T12:22:35.000Z",
-   "heat": 45,
-   "factors": {
-    "recency": 61,
-    "authority": 75,
-    "coverage": 0,
-    "signal": 22
-   },
-   "sources": [
-    {
-     "id": "chinanews-world",
-     "name": "中新网·国际",
-     "url": "https://www.chinanews.com.cn/gj/2026/11-22/10736173.shtml"
-    }
-   ],
-   "keywords": [
-    "阿富",
-    "富汗",
-    "汗警",
-    "警方",
-    "方称",
-    "称打",
-    "打死",
-    "名武"
-   ]
-  },
-  {
-   "id": "t39",
-   "rank": 39,
-   "title": "🔴 COP31 ends without deal as EU rejects text for omitting mention of fossil fuels",
-   "url": "https://www.france24.com/en/environment/20261121-latest-cop31-deal-sidesteps-fossil-fuels-amid-growing-divisions",
-   "summary": "",
-   "category": "world",
-   "lang": "en",
-   "publishedAt": "2026-11-22T12:22:33.000Z",
-   "heat": 42,
-   "factors": {
-    "recency": 61,
-    "authority": 85,
-    "coverage": 0,
-    "signal": 0
-   },
-   "sources": [
-    {
-     "id": "france24",
-     "name": "France 24",
-     "url": "https://www.france24.com/en/environment/20261121-latest-cop31-deal-sidesteps-fossil-fuels-amid-growing-divisions"
-    }
-   ],
-   "keywords": [
-    "cop31",
-    "ends",
-    "without",
-    "deal",
-    "rejects",
-    "text",
-    "for",
-    "omitting"
+    "亲密",
+    "密戏",
+    "戏份",
+    "份制",
+    "制作",
+    "作难",
+    "难度"
    ]
   },
   {
    "id": "t40",
    "rank": 40,
-   "title": "韩国教育部长官因应对高考作弊引发混乱提出辞职",
-   "url": "https://www.chinanews.com.cn/gj/2026/11-22/10736139.shtml",
-   "summary": "中新网首尔11月22日电 据韩联社22日报道，因2027学年度大学修学能力考试(即韩国高考)应对作弊工作引发混乱，给考生及公众带来不便，韩国教育部长官崔教振当天表示，决定就此事承担责任并提出辞职。韩国总统李在明随后接受了他的辞呈。",
+   "title": "Le Pen denies receiving leaked information from French interior ministry official",
+   "url": "https://www.france24.com/en/france/20261122-le-pen-denies-receiving-leaked-information-from-french-interior-ministry-official",
+   "summary": "French far-right leader Marine Le Pen on Sunday said she did not receive, nor ask for, confidential information on an investigation into her party from a senior interior ministry o…",
    "category": "world",
-   "lang": "zh",
-   "publishedAt": "2026-11-22T12:15:01.000Z",
+   "lang": "en",
+   "publishedAt": "2026-11-22T17:47:34.000Z",
    "heat": 42,
    "factors": {
-    "recency": 60,
-    "authority": 75,
+    "recency": 59,
+    "authority": 85,
     "coverage": 0,
-    "signal": 10
+    "signal": 0
    },
    "sources": [
     {
-     "id": "chinanews-world",
-     "name": "中新网·国际",
-     "url": "https://www.chinanews.com.cn/gj/2026/11-22/10736139.shtml"
+     "id": "france24",
+     "name": "France 24",
+     "url": "https://www.france24.com/en/france/20261122-le-pen-denies-receiving-leaked-information-from-french-interior-ministry-official"
     }
    ],
    "keywords": [
-    "韩国",
-    "国教",
-    "教育",
-    "育部",
-    "部长",
-    "长官",
-    "官因",
-    "因应"
+    "pen",
+    "denies",
+    "receiving",
+    "leaked",
+    "information",
+    "from",
+    "french",
+    "interior"
    ]
   }
  ]
